@@ -1,0 +1,102 @@
+{
+  "citation_form": "a-wegan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-wæg",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wæh",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wǽgon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wegen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to lift up, take or carry away",
+      "latin": "levare, auferre",
+      "quotations": [
+        {
+          "old_english": "Hí á sibbe gelǽraþ, ða ǽr wonsǽlge awegen habbaþ",
+          "latin": null,
+          "english": "they shall ever advise peace, which the unblest have before taken away",
+          "citations": "Exon. 89 a ; Th. 334, 25; Gn. Ex. 21: Homl. Th. i. 308, 17"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-wæg",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wæh",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wǽgon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wegen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to weigh out, weigh to any one",
+      "latin": "appendere",
+      "quotations": [
+        {
+          "old_english": "Abraham ðá awæh feówer hund scillinga seolfres",
+          "latin": "Abraham appendit quadringentos siclos argenti",
+          "english": null,
+          "citations": "Gen. 23, 16"
+        },
+        {
+          "old_english": "Eálá gif míne synna and mín yrmþ wǽron awegene on ánre wǽgan",
+          "latin": "utinam appenderentur peccata mea et calamitas in statera",
+          "english": null,
+          "citations": "Job 6, 2 ; Thw. 167, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "a-wegan; p. -wæg, -wæh, pl. -wǽgon ; pp. -wegen ; v. trans. I. to lift up, take or carry away; levare, auferre :-- Hí á sibbe gelǽraþ, ða ǽr wonsǽlge awegen habbaþ they shall ever advise peace, which the unblest have before taken away, Exon. 89 a ; Th. 334, 25; Gn. Ex. 21: Homl. Th. i. 308, 17. II. to weigh out, weigh to any one; appendere :-- Abraham ðá awæh feówer hund scillinga seolfres Abraham appendit quadringentos siclos argenti, Gen. 23, 16. Eálá gif míne synna and mín yrmþ wǽron awegene on ánre wǽgan utinam appenderentur peccata mea et calamitas in statera, Job 6, 2 ; Thw. 167, 18."
+}

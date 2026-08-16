@@ -1,0 +1,36 @@
+{
+  "citation_form": "gærs-bed",
+  "variant_forms": [
+    "-bedd"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A grass-bed, grave",
+      "latin": "sub cæspite lectus, sepulcrum",
+      "quotations": [
+        {
+          "old_english": "Ðonne he gást ofgifeþ, syððan hine (?) gærsbedd sceal wunian",
+          "latin": null,
+          "english": "when he gives up his spirit, then must he inhabit a grave",
+          "citations": "Ps. Th. 102, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "gærs-bed, -bedd, es; n. A grass-bed, grave; sub cæsp&i-short;te lectus, sepulcrum :-- Ðonne he gást ofgifeþ, syððan hine (?) gærsbedd sceal wunian when he gives up his spirit, then must he inhabit a grave, Ps. Th. 102, 15."
+}

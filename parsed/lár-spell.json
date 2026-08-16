@@ -1,0 +1,46 @@
+{
+  "citation_form": "lár-spell",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Lárspell (as heading to a homily)",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 232, 11 : 242, 22: 250, 14: 266, 1"
+        },
+        {
+          "old_english": "Mid lárspelle bodian",
+          "latin": "predicare",
+          "english": null,
+          "citations": "Chrd. 50, 7"
+        },
+        {
+          "old_english": "Marcus, þe wæs mid Petre on láre, wrát þá óðre bóc (the second gospel) be Petres bodunge be þám þe hé geleornode on his lárspellum (the discourses in which he (Peter) instructed Mark)",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. T. Grn. 12, 35"
+        },
+        {
+          "old_english": "Se mæssepreóst sceal mannum mid rihte bodian þone sóðan geleáfan and him lárspel secgan",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. ii. 384, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "lár-spell. Add :-- Lárspell (as heading to a homily), Wlfst. 232, 11 : 242, 22: 250, 14: 266, 1. Mid lárspelle bodian predicare, Chrd. 50, 7. Marcus, þe wæs mid Petre on láre, wrát þá óðre bóc (the second gospel) be Petres bodunge be þám þe hé geleornode on his lárspellum (the discourses in which he (Peter) instructed Mark), Ælfc. T. Grn. 12, 35. Se mæssepreóst sceal mannum mid rihte bodian þone sóðan geleáfan and him lárspel secgan, Ll. Th. ii. 384, 25."
+}

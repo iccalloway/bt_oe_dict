@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-teolod",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Gained",
+      "latin": "lucrifactus",
+      "quotations": [
+        {
+          "old_english": "Ðonne sceal gehwá him æteówian hwæt he mid ðam punde geteolod hæfþ",
+          "latin": null,
+          "english": "then shall every one show to him what he has gained with the pound",
+          "citations": "Homl. Th. ii. 558, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-tilian"
+  ],
+  "source_text": "ge-teolod; part. Gained; lucr&i-short;factus :-- Ðonne sceal gehwá him æteówian hwæt he mid ðam punde geteolod hæfþ then shall every one show to him what he has gained with the pound, Homl. Th. ii. 558, 10. v. ge-tilian."
+}

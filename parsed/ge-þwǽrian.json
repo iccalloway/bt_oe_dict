@@ -1,0 +1,245 @@
+{
+  "citation_form": "ge-þwǽrian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geþwǽrie respiret (conspiret?)",
+          "latin": null,
+          "english": null,
+          "citations": "Germ. 398, 140"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "trans. To reconcile",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geþwǽre þé wið hine",
+          "latin": "reconcilia te ei",
+          "english": null,
+          "citations": "Ll. Th. ii. 194, 2"
+        },
+        {
+          "old_english": "Ǽr þám ðe hé hine sylfne geþwǽrige (reconciliaverit) wið his néhstan",
+          "latin": null,
+          "english": null,
+          "citations": "192, 30"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "intrans. To be in agreement",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geþwǽrie vel samod orþie conspiret, i. consentiet",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 134, 13"
+        },
+        {
+          "old_english": "Samod geþwǽrende concordantes",
+          "latin": null,
+          "english": null,
+          "citations": "24, 8"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "of persons",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "to agree together",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þá ne mihte hí betwyh him geþwǽrian and geweorþan",
+                  "latin": "cum invicem concordare non possent",
+                  "english": null,
+                  "citations": "Bd. 4, 4; Sch. 369, 5"
+                },
+                {
+                  "old_english": "Gegadan vel geþwǽriende complices, conspirantes",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Wrt. Voc. i. 50, 12"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "to agree with another in act or thought",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé bæd hié þ-bar; hí on ánnesse sibbe and in gehylde rihtra eástrena geþwǽrede (-þwǽredon, -hwǽredon, v. ll.) mid þá Crístes cyricean",
+                  "latin": "obsecrans eos unitatem pacis et catholicae obseruationis cum ea ecclesia Christi tenere",
+                  "english": null,
+                  "citations": "Bd. 2, 4; Sch. 128, 2"
+                },
+                {
+                  "old_english": "Geþwǽriende (-hwǽriende, 5376) assentatrix (lingua)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "An. Ox. 2, 461"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(c)",
+              "heading": "where a person agrees with, consents to, a thing",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gif þú geþance ná geþwǽrast",
+                  "latin": "si cogitationi non consenseris",
+                  "english": null,
+                  "citations": "Scint. 141, 12"
+                },
+                {
+                  "old_english": "Þám eáðmódum þe mid heora lífes ðeáwum Crístes bebodum geþwǽriað",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. i. 514, 6"
+                },
+                {
+                  "old_english": "Gif þú þártó geþwǽrudest",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ll. Lbmn. 414, 4"
+                },
+                {
+                  "old_english": "Þá men þe þás stale gefremoden and þe þǽrto geþwǽrdon",
+                  "latin": null,
+                  "english": null,
+                  "citations": "438, 9"
+                },
+                {
+                  "old_english": "Se byþ beswicen hwæt hé géþwǽrige gesewenlíce hé nát",
+                  "latin": "qui seducitur quid consentiat [e]uidenter ignorat",
+                  "english": null,
+                  "citations": "Scint. 229, 5"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": "of things",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "to agree together",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "On þǽre samodgeþwériendan gesihðe and onsægdnesse",
+                  "latin": "concordante simul visione et sacrificio",
+                  "english": null,
+                  "citations": "Gr. D. 346, 5"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "to agree with another",
+              "meaning": null,
+              "latin": null,
+              "quotations": [],
+              "sub_senses": [
+                {
+                  "label": "(α)",
+                  "heading": "with dat.",
+                  "meaning": null,
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Ióhannes stefn geþwǽreþ (-þweoraþ, v. l.) þám ylcan andgyte",
+                      "latin": "Iohannis vox in aestimatione ista concordat",
+                      "english": null,
+                      "citations": "Gr. D. 332, 21"
+                    },
+                    {
+                      "old_english": "Geþwǽraþ (-þwériaþ, v. l.) þǽre onwrigenesse and þǽre gesegene þæs bróðor ... þæt word Ecgbryhtes",
+                      "latin": "conuenit reuelationi et relationi fratris ... sermo Ecgbercti",
+                      "english": null,
+                      "citations": "Bd. 4, 3; Sch. 363, 6"
+                    }
+                  ],
+                  "sub_senses": []
+                },
+                {
+                  "label": "(β)",
+                  "heading": "with prep.",
+                  "meaning": null,
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "His lífes clǽnnys geþwǽrode (-ede, -hwǽþrede, v. ll.) mid þám bígenge his bodunge",
+                      "latin": "concordabat vitae munditia cum studio praedicationis",
+                      "english": null,
+                      "citations": "Gr. D. 33, 22"
+                    },
+                    {
+                      "old_english": "Þæt úre mód geþwǽrige mid þæs múðes clypunge",
+                      "latin": "ut mens nostra concordet voci nostre",
+                      "english": null,
+                      "citations": "R. Ben. 45, 11"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "un-geþwǽrian"
+  ],
+  "source_text": "ge-þwǽrian. Add :-- Geþwǽrie respiret (conspiret?), Germ. 398, 140. I. trans. To reconcile :-- Geþwǽre þé wið hine reconcilia te ei, Ll. Th. ii. 194, 2, Æ-acute;r þám ðe hé hine sylfne geþwǽrige (reconciliaverit) wið his néhstan, 192, 30. II. intrans. To be in agreement :-- Geþwǽrie vel samod orþie conspiret, i. consentiet, Wrt. Voc. ii. 134, 13. Samod geþwǽrende concordantes, 24, 8. (1) of persons, (a) to agree together :-- Þá ne mihte hí betwyh him geþwǽrian and geweorþan cum invicem concordare non possent, Bd. 4, 4; Sch. 369, 5. Gegadan vel geþwǽriende complices, conspirantes, Wrt. Voc. i. 50, 12. (b) to agree with another in act or thought :-- Hé bæd hié þ-bar; hí on ánnesse sibbe and in gehylde rihtra eástrena geþwǽrede (-þwǽredon, -hwǽredon, v. ll.) mid þá Crístes cyricean obsecrans eos unitatem pacis et catholicae obseruationis cum ea ecclesia Christi tenere, Bd. 2, 4; Sch. 128, 2. Geþwǽriende (-hwǽriende, 5376) assentatrix (lingua), An. Ox. 2, 461. (c) where a person agrees with, consents to, a thing :-- Gif þú geþance ná geþwǽrast si cogitationi non consenseris, Scint. 141, 12. Þám eáðmódum þe mid heora lífes ðeáwum Crístes bebodum geþwǽriað, Hml. Th. i. 514, 6. Gif þú þártó geþwǽrudest, Ll. Lbmn. 414, 4. Þá men þe þás stale gefremoden and þe þǽrto geþwǽrdon, 438, 9. Se byþ beswicen hwæt hé géþwǽrige gesewenlíce hé nát qui seducitur quid consentiat [e]uidenter ignorat, Scint. 229, 5. (2) of things, (a) to agree together :-- On þǽre samodgeþwériendan gesihðe and onsægdnesse concordante simul visione et sacrificio, Gr. D. 346, 5. (b) to agree with another, (α) with dat. :-- Ióhannes stefn geþwǽreþ (-þweoraþ, v. l.) þám ylcan andgyte Iohannis vox in aestimatione ista concordat, Gr. D. 332, 21. Geþwǽraþ (-þwériaþ, v. l.) þǽre onwrigenesse and þǽre gesegene þæs bróðor ... þæt word Ecgbryhtes conuenit reuelationi et relationi fratris ... sermo Ecgbercti, Bd. 4, 3; Sch. 363, 6. (β) with prep. :-- His lífes clǽnnys geþwǽrode (-ede, -hwǽþrede, v. ll.) mid þám bígenge his bodunge concordabat vitae munditia cum studio praedicationis, Gr. D. 33, 22. Þæt úre mód geþwǽrige mid þæs múðes clypunge ut mens nostra concordet voci nostre, R. Ben. 45, 11. v. un-geþwǽrian."
+}

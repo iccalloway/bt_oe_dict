@@ -1,0 +1,36 @@
+{
+  "citation_form": "be-hídan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-hídde",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To hide",
+      "latin": "abscondere",
+      "quotations": [
+        {
+          "old_english": "Forðamðe ic eom nacod, ic behídde me",
+          "latin": "quod nudus essem, abscondi me",
+          "english": null,
+          "citations": "Gen. 3, 10, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-hýdan"
+  ],
+  "source_text": "be-hídan; p. -hídde To hide; abscondere :-- Forðamðe ic eom nacod, ic behídde me quod nudus essem, abscondi me, Gen. 3, 10, 8. v. be-hýdan."
+}

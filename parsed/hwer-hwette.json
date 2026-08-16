@@ -1,0 +1,40 @@
+{
+  "citation_form": "hwer-hwette",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A cucumber",
+      "latin": "cucumer",
+      "quotations": [
+        {
+          "old_english": "Hwerhwette cucumer",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 40; Som. 63, 99; Wrt. Voc. 30, 47"
+        },
+        {
+          "old_english": "Hwerwette",
+          "latin": null,
+          "english": null,
+          "citations": "L. M. 1, 23; Lchdm. ii. 66, 9"
+        },
+        {
+          "old_english": "Hwerhwettan gesihþ on swefnum untrumnysse getácnaþ",
+          "latin": null,
+          "english": "if a man sees in dreams a cucumber it betokens illness",
+          "citations": "Lchdm. iii. 200, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hwer-hwette, an; f. A cucumber :-- Hwerhwette cucumer, Ælfc. Gl. 40; Som. 63, 99; Wrt. Voc. 30, 47. Hwerwette, L. M. 1, 23; Lchdm. ii. 66, 9. Hwerhwettan gesihþ on swefnum untrumnysse getácnaþ if a man sees in dreams a cucumber it betokens illness, Lchdm. iii. 200, 16."
+}

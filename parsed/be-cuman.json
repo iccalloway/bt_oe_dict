@@ -1,0 +1,385 @@
+{
+  "citation_form": "be-cuman",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to come, get",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "local, of completed movement (arrival, traverse)",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ecbyrht becuman wolde on Germaniam . . . ac hé ne mihte; ac Wihtbyrht ðyder becom . . . and eft wæs hám hweorfende on Scotland, þanon hé ǽr becom",
+              "latin": null,
+              "english": null,
+              "citations": "Bd. 5, 9; Sch. 589, 5-12"
+            },
+            {
+              "old_english": "Hé lange wunode wræclástum. . . . Syððan forð becom",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1065; P. 194, 10"
+            },
+            {
+              "old_english": "Ðæt word becom tó Neróne",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 173, 35"
+            },
+            {
+              "old_english": "Siþþan eástan hider Engle and Seaxe up becóman",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 937; P. 110, 4"
+            },
+            {
+              "old_english": "Hí ofer sǽ becómon",
+              "latin": null,
+              "english": null,
+              "citations": "1052; P. 182, 7"
+            },
+            {
+              "old_english": "Hí becóman on án",
+              "latin": "convenerunt in unum",
+              "english": null,
+              "citations": "Ps. Spl. 2, 3"
+            },
+            {
+              "old_english": "Farað gesunde and gesǽlige becumað",
+              "latin": null,
+              "english": "have a good journey and a happy return",
+              "citations": "Hml. S. 6, 89"
+            },
+            {
+              "old_english": "Gif þú wǽre wegférende and þú þonne becóme on þeófsceole",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 14, 3; F. 46, 26"
+            },
+            {
+              "old_english": "Tógædere becuman",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 23 b, 643"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(1 a)",
+              "heading": "of attack",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hié on Ahténe ungearwe becóman and hié gefliémdon",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ors. 3, 1; S. 98, 15"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(1 b)",
+              "heading": "of coming into the world, birth",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þá þú ǽrest tó monnum becóme",
+                  "latin": "cum te matris ex utero natura produxit",
+                  "english": null,
+                  "citations": "Bt. 7, 3; F. 20, 10"
+                },
+                {
+                  "old_english": "Hé hider becom of his Fæder ríce",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bl. H. 203, 2"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": "temporal",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé tó þám seofoþan dæge ne becymð",
+              "latin": null,
+              "english": "he will not live till the seventh day",
+              "citations": "Lch. iii. 76, 23"
+            },
+            {
+              "old_english": "Ðá þá seó hálige tíd lenctenfæstenes becom on þone drihtenlican dæg",
+              "latin": null,
+              "english": "when Lent had got to the Sunday",
+              "citations": "Hml. S. 23 b, 649"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": "where a state, condition, position, &c. is reached, to come to power, get into trouble",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif hé on ríce becymð",
+              "latin": "si ad regiminis culmen eruperit",
+              "english": null,
+              "citations": "Past. 35, 12"
+            },
+            {
+              "old_english": "Gé becumað on micle yfelu",
+              "latin": null,
+              "english": null,
+              "citations": "Deut. 31, 29"
+            },
+            {
+              "old_english": "Hé becom on hatunga his herges",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 193, 1"
+            },
+            {
+              "old_english": "Hé becom tó ðǽre cynelican geðincðe",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 80, 34"
+            },
+            {
+              "old_english": "Þeós ǽ becom tó gýmeleáste",
+              "latin": null,
+              "english": "this law fell into neglect",
+              "citations": "Angl. vii. 8, 71"
+            },
+            {
+              "old_english": "Becuman tó þǽm écean lífe",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 77, 21"
+            },
+            {
+              "old_english": "Ne magon ðider fullíce becuman ðá stæpas ðæs weorces ðieder ðe hé wilnað",
+              "latin": "quo desiderium innititur, illuc gressus oferis efficaciter non sequuntur",
+              "english": null,
+              "citations": "Past. 65, 17"
+            },
+            {
+              "old_english": "Hí on his anwald becumene wǽron",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1067; P. 201, 22"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": null,
+              "heading": "becuman tó to become",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Seó éhtnys him ne becymð tó nánre eádignysse",
+                  "latin": null,
+                  "english": "the persecution does not become a blessing to them",
+                  "citations": "Hml. Th. i. 552, 32, 34"
+                },
+                {
+                  "old_english": "Seó lease wyriung becymð þám rihtwísum tó bletsunge",
+                  "latin": null,
+                  "english": null,
+                  "citations": "554, 22"
+                },
+                {
+                  "old_english": "Þ-bar; hit him tó forwyrde becume",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Angl. vii. 28, 261"
+                },
+                {
+                  "old_english": "Þeáh þe hit ús becóme tó écere álýsednysse",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 27, 178"
+                },
+                {
+                  "old_english": "Him tó gemynde þá mihton becuman",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ælfc. T. Grn. 12, 30"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(4)",
+          "heading": "of acquirement, to come to, by",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Æ-acute;rþon þe hé tó his leómum becóme",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 167, 2"
+            },
+            {
+              "old_english": "Hí him gefylstan þ-bar; hié eft tó hiora ágnum becóman",
+              "latin": "vindicati sunt et restituti",
+              "english": null,
+              "citations": "Ors. 4, 3; S. 162, 21"
+            },
+            {
+              "old_english": "Þ-bar; hié mósten tó þǽm sáwlum becuman",
+              "latin": null,
+              "english": null,
+              "citations": "3, 3; S. 102, 21"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(4 a)",
+              "heading": "where something is received, to come to a person",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Swá hwæt swá gé biddað . . . hit eów becymð (-cymeð, L. R.)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Mk. 11, 24"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(5)",
+          "heading": "of recourse",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On ðás word ic becom þe lǽs ǽnig man leóge",
+              "latin": null,
+              "english": "I had recourse to these words lest any man lie",
+              "citations": "Bl. H. 177, 33"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "of events, to come upon, to befall",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þ-bar; wíte þe nǽnig ende ne becymeþ",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 51, 31"
+        },
+        {
+          "old_english": "Gif him ǽnig hearm of þám drence becymð",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. T. Grn. 21, 32, 38"
+        },
+        {
+          "old_english": "Se grama þe ofer mannum becymð",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 538, 28: Wlfst. 201, 6"
+        },
+        {
+          "old_english": "Him siþþan becom on micel hungor . . . him becom on þæt Deniscæ gewin",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 6, 13; S. 268, 8-10"
+        },
+        {
+          "old_english": "Þá sorga þe on woruld becumað",
+          "latin": null,
+          "english": null,
+          "citations": "89, 14"
+        },
+        {
+          "old_english": "Ðá bisgu þe on þá rícu becómon",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. proœm. 7"
+        },
+        {
+          "old_english": "Þára þinga þe ús on becwómon",
+          "latin": null,
+          "english": null,
+          "citations": "Nar. 14, 23"
+        },
+        {
+          "old_english": "Gif ús on niht uncúðes hwæt on becwóme",
+          "latin": "si quis noctu oriretur pavor tumultusque aliquis novus",
+          "english": null,
+          "citations": "13, 2"
+        },
+        {
+          "old_english": "Ús wæs swælc geswencnis becymen",
+          "latin": null,
+          "english": null,
+          "citations": "14, 31"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": "[Goth. bi-kwiman: O. Frs. bi-kuma: O. H. Ger. bi-queman.]",
+      "meaning": "to become, behove",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif ic scile &l-bar; becyme mec þ-bar; ic efne gesuelta ðé",
+          "latin": "etsi oportuerit me commori tibi",
+          "english": null,
+          "citations": "Mk. L. 14, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ofer-becuman"
+  ],
+  "source_text": "be-cuman. Add: I. to come, get, (1) local, of completed movement (arrival, traverse):--Ecbyrht becuman wolde on Germaniam . . . ac hé ne mihte; ac Wihtbyrht ðyder becom . . . and eft wæs hám hweorfende on Scotland, þanon hé ǽr becom, Bd. 5, 9; Sch. 589, 5-12. Hé lange wunode wræclástum. . . . Syððan forð becom, Chr. 1065; P. 194, 10. Ðæt word becom tó Neróne, Bl. H. 173, 35. Siþþan eástan hider Engle and Seaxe up becóman, Chr. 937; P. 110, 4. Hí ofer sǽ becómon, 1052; P. 182, 7. Hí becóman on án convenerunt in unum, Ps. Spl. 2, 3. Farað gesunde and gesǽlige becumað have a good journey and a happy return, Hml. S. 6, 89. Gif þú wǽre wegférende and þú þonne becóme on þeófsceole, Bt. 14, 3; F. 46, 26. Tógædere becuman, Hml. S. 23 b, 643. (1 a) of attack:--Hié on Ahténe ungearwe becóman and hié gefliémdon, Ors. 3, 1; S. 98, 15. (1 b) of coming into the world, birth:--Þá þú ǽrest tó monnum becóme cum te matris ex utero natura produxit, Bt. 7, 3; F. 20, 10. Hé hider becom of his Fæder ríce, Bl. H. 203, 2. (2) temporal:--Hé tó þám seofoþan dæge ne becymð he will not live till the seventh day, Lch. iii. 76, 23. Ðá þá seó hálige tíd lenctenfæstenes becom on þone drihtenlican dæg when Lent had got to the Sunday, Hml. S. 23 b, 649. (3) where a state, condition, position, &c. is reached, to come to power, get into trouble:--Gif hé on ríce becymð si ad regiminis culmen eruperit, Past. 35, 12. Gé becumað on micle yfelu, Deut. 31, 29. Hé becom on hatunga his herges, Bl. H. 193, 1. Hé becom tó ðǽre cynelican geðincðe, Hml. Th. i. 80, 34. Þeós ǽ becom tó gýmeleáste this law fell into neglect, Angl. vii. 8, 71. Becuman tó þǽm écean lífe, Bl. H. 77, 21. Ne magon ðider fullíce becuman ðá stæpas ðæs weorces ðieder ðe hé wilnað quo desiderium innititur, illuc gressus oferis efficaciter non sequuntur, Past. 65, 17. Hí on his anwald becumene wǽron, Chr. 1067; P. 201, 22. ¶ becuman tó to become:--Seó éhtnys him ne becymð tó nánre eádignysse the persecution does not become a blessing to them, Hml. Th. i. 552, 32, 34. Seó lease wyriung becymð þám rihtwísum tó bletsunge, 554, 22. Þ-bar; hit him tó forwyrde becume, Angl. vii. 28, 261. Þeáh þe hit ús becóme tó écere álýsednysse, Hml. S. 27, 178. Him tó gemynde þá mihton becuman, Ælfc. T. Grn. 12, 30. (4) of acquirement, to come to, by:--Æ-acute;rþon þe hé tó his leómum becóme, Bl. H. 167, 2. Hí him gefylstan þ-bar; hié eft tó hiora ágnum becóman vindicati sunt et restituti, Ors. 4, 3; S. 162, 21. Þ-bar; hié mósten tó þǽm sáwlum becuman, 3, 3; S. 102, 21. (4 a) where something is received, to come to a person:--Swá hwæt swá gé biddað . . . hit eów becymð (-cymeð, L. R.), Mk. 11, 24. (5) of recourse:--On ðás word ic becom þe lǽs ǽnig man leóge I had recourse to these words lest any man lie, Bl. H. 177, 33. II. of events, to come upon, to befall:--Þ-bar; wíte þe nǽnig ende ne becymeþ, Bl. H. 51, 31. Gif him ǽnig hearm of þám drence becymð, Ælfc. T. Grn. 21, 32, 38. Se grama þe ofer mannum becymð, Hml. Th. ii. 538, 28: Wlfst. 201, 6. Him siþþan becom on micel hungor . . . him becom on þæt Deniscæ gewin, Ors. 6, 13; S. 268, 8-10. Þá sorga þe on woruld becumað, 89, 14. Ðá bisgu þe on þá rícu becómon, Bt. proœm. 7. Þára þinga þe ús on becwómon, Nar. 14, 23. Gif ús on niht uncúðes hwæt on becwóme si quis noctu oriretur pavor tumultusque aliquis novus, 13, 2. Ús wæs swælc geswencnis becymen, 14, 31. III. to become, behove:--Gif ic scile &l-bar; becyme mec þ-bar; ic efne gesuelta ðé etsi oportuerit me commori tibi, Mk. L. 14, 31. [Goth. bi-kwiman: O. Frs. bi-kuma: O. H. Ger. bi-queman.] v. ofer-becuman."
+}

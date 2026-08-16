@@ -1,0 +1,58 @@
+{
+  "citation_form": "níd-wís",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Necessary, due",
+      "latin": "laus debita",
+      "quotations": [
+        {
+          "old_english": "Lof neádwís",
+          "latin": "laus debita",
+          "english": null,
+          "citations": "Hy. Surt. 49. 29"
+        },
+        {
+          "old_english": "Neádþearflíc &l-bar; neádwís",
+          "latin": "debitum, necessarium",
+          "english": null,
+          "citations": "Hpt. Gl. 424, 52"
+        },
+        {
+          "old_english": "Swá swá se líchama biþ ontend þurh unálýfede lustas, swá eác byrnþ seó sáwul þurh neádwís wíte",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 338, 19"
+        },
+        {
+          "old_english": "Neádwísum &l-bar; neád-þearflícum gestreónum",
+          "latin": "debito emolumento",
+          "english": null,
+          "citations": "Hpt. Gl. 432, 68"
+        },
+        {
+          "old_english": "Þances hit ágylde neadwíse",
+          "latin": "grates rependat debitas",
+          "english": null,
+          "citations": "Hy. Surt. 27, 21"
+        },
+        {
+          "old_english": "Loft neádwíse",
+          "latin": "laudes debitas",
+          "english": null,
+          "citations": "86, 33"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "níd"
+  ],
+  "source_text": "níd-wís; adj. Necessary, due :-- Lof neádwís laus debita, Hy. Surt. 49. 29. Neádþearflíc &l-bar; neádwís debitum, necessarium, Hpt. Gl. 424, 52. Swá swá se líchama biþ ontend þurh unálýfede lustas, swá eác byrnþ seó sáwul þurh neádwís wíte, Homl. Th. ii. 338, 19. Neádwísum &l-bar; neád-þearflícum gestreónum debito emolumento, Hpt. Gl. 432, 68. Þances hit ágylde neadwíse grates rependat debitas, Hy. Surt. 27, 21. Loft neádwíse laudes debitas, 86, 33. v. níd, III."
+}

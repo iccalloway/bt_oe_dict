@@ -1,0 +1,27 @@
+{
+  "citation_form": "ymb-sǽlan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to bind round, tie round",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sié unbunden (ymbunden, Lind.) &l-bar; unsǽled (=ymbsǽled)",
+          "latin": "circumdaretur",
+          "english": null,
+          "citations": "Mk. Skt. Rush. 9, 42"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ymb-sǽlan to bind round, tie round :-- Sié unbunden (ymbunden, Lind.) &l-bar; unsǽled (=ymbsǽled) circumdaretur, Mk. Skt. Rush. 9, 42."
+}

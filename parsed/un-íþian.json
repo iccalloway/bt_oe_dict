@@ -1,0 +1,34 @@
+{
+  "citation_form": "un-íþian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To disquiet, molest",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðonne mé unýþgiende wǽron",
+          "latin": "cum me molesti essent",
+          "english": null,
+          "citations": "Ps. Spl. T. 34, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "un-íþian; p. ode To disquiet, molest :-- Ðonne mé unýþgiende wǽron cum me molesti essent, Ps. Spl. T. 34, 15."
+}

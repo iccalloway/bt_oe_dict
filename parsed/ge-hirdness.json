@@ -1,0 +1,30 @@
+{
+  "citation_form": "ge-hirdness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Keeping guard, watchful care",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-heordnes",
+    "ge-hyrdnes"
+  ],
+  "source_text": "ge-hirdness, e; f. Keeping guard, watchful care. Take here ge-heordnes, ge-hyrdnes in Dict. , and add :-- On h&u-long; mycelre Godes gehyrdnysse beó&d-bar; þ&a-long; þe cunnon h&y-long; sylfe forseón on þysum l&i-long;fe in quanta custodia sunt qui in hoc vita seipsos despicere noverunt, Gr. D. 39, 29."
+}

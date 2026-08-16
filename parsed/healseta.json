@@ -1,0 +1,28 @@
+{
+  "citation_form": "healseta",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The opening in a tunic for the head to pass through, the neck of a tunic",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": "Evenit ei, ut coluber per caput eius inter tunicam et ventrem irreperet et latus suis morsibus laniaret",
+          "english": null,
+          "citations": "Mart. H. 238"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "healseta. Add: The opening in a tunic for the head to pass through, the neck of a tunic. The Latin of the original narrative is: Evenit ei, ut coluber per caput eius inter tunicam et ventrem irreperet et latus suis morsibus laniaret, Mart. H. 238."
+}

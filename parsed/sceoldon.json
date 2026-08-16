@@ -1,0 +1,83 @@
+{
+  "citation_form": "sceoldon",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "sceoldon he bade throw, but he did not decide on which side they were to throw the net",
+          "latin": null,
+          "english": "he bade throw, but he did not decide on which side they were to throw the net",
+          "citations": "Homl. Th. ii. 290, 9"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": "Scírde actionabatur [or is the verb here connected with scír an office ? cf. gescíra uilicare, Lk. Skt. Lind. 16, 2, folcgeréfa actionator, Wrt. Voc. i. 17, 30]",
+      "meaning": "to bring a charge against a person",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Scírde actionabatur",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 99, 11 : 3, 55"
+        },
+        {
+          "old_english": "Ealdormenn swýðe sprǽcon and wið me wráðum wordum scírdan",
+          "latin": "principes adversum me loquebantur",
+          "english": null,
+          "citations": "Ps. Th. 118, 23"
+        },
+        {
+          "old_english": "Nes nan mon þat durste word sciren.",
+          "latin": null,
+          "english": null,
+          "citations": "Laym. 16822"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "IV.",
+      "supplemental": "[A. R. schiren to make pure: Goth. gaskeirjan to interpret: Icel. skíra to purify, clear from a charge; skýra to explain, solve, decide.]",
+      "meaning": "to get clear of obligation, trouble, etc., get exemption",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif hwylc man ðone ándagan forgémeleásige, æt forman cyrre . iii. messan, æt óðerum cyrre. v. , æt þriddan cyrre ne scíre his nán man (no man shall be exempt from the obligation), bútun hit sié for mettrumnesse oððe for hláfordes neóde",
+          "latin": null,
+          "english": "no man shall be exempt from the obligation",
+          "citations": "Chart. Th. 614, 18"
+        },
+        {
+          "old_english": "Ðæm folce wæs ǽgðres waa ge ðæt hié ðæt mǽste yfel forberan sceoldon ge eác ðæt hié his scíran ne dorstan",
+          "latin": null,
+          "english": "there was trouble to the people on both accounts, that they had to bear a very great evil, and that they durst not get rid of it",
+          "citations": "Ors. 3, 7 ; Swt. 114, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sceoldon he bade throw, but he did not decide on which side they were to throw the net, Homl. Th. ii. 290, 9. III. to bring a charge against a person :-- Scírde actionabatur [or is the verb here connected with scír an office ? cf. gescíra uilicare, Lk. Skt. Lind. 16, 2, folcgeréfa actionator, Wrt. Voc. i. 17, 30], Wrt. Voc. ii. 99, 11 : 3, 55. Ealdormenn swýðe sprǽcon and wið me wráðum wordum scírdan principes adversum me loquebantur, Ps. Th. 118, 23. [Cf. Nes nan mon þat durste word sciren. Laym. 16822.] IV. to get clear of obligation, trouble, etc. , get exemption :-- Gif hwylc man ðone ándagan forgémeleásige, æt forman cyrre . iii. messan, æt óðerum cyrre. v. , æt þriddan cyrre ne scíre his nán man (no man shall be exempt from the obligation), bútun hit sié for mettrumnesse oððe for hláfordes neóde, Chart. Th. 614, 18. Ðæm folce wæs ǽgðres waa ge ðæt hié ðæt mǽste yfel forberan sceoldon ge eác ðæt hié his scíran ne dorstan there was trouble to the people on both accounts, that they had to bear a very great evil, and that they durst not get rid of it, Ors. 3, 7 ; Swt. 114, 32. [A. R. schiren to make pure: Goth. gaskeirjan to interpret: Icel. skíra to purify, clear from a charge; skýra to explain, solve, decide.]"
+}

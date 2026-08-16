@@ -1,0 +1,94 @@
+{
+  "citation_form": "wyrcness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "work, labour, operation",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Dónde wircnisse (operationes) in wætrum miclum",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Surt. 106, 23"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "working, doing, operation",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðurh swá hwylces béne swá hé gehǽled sí, ðysses geleáfa and wyrcnes (operatio) sí gelýfed Gode andfenge",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 2, 2 ; S. 502, 23"
+        },
+        {
+          "old_english": "His geearnunge oft ðurh godcunde wyrcnesse (operationem) mid miclum mægenum scínaþ",
+          "latin": null,
+          "english": null,
+          "citations": "3, 19; S. 550, 16"
+        },
+        {
+          "old_english": "Ða ðe lǽrdon ǽnne willan and áne wyrcnesse beón on Drihtne Hǽlende",
+          "latin": null,
+          "english": null,
+          "citations": "5, 19; S. 639, 34"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": null,
+          "meaning": "working, performance of something",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Wyrcnes heofonlícra mægena operatio virtutum",
+              "latin": null,
+              "english": null,
+              "citations": "Bd. 1, 7 ; S. 479, 9"
+            },
+            {
+              "old_english": "Mid wuudra wyrcnesse",
+              "latin": null,
+              "english": null,
+              "citations": "2, 3 ; S. 505, 1 : 3, 13; S. 538, 39"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "wyrcness, e ; f. I. work, labour, operation. v. wyrcan, I :-- Dónde wircnisse (operationes) in wætrum miclum, Ps. Surt. 106, 23. II. working, doing, operation. v. wyrcan, III :-- Ðurh swá hwylces béne swá hé gehǽled sí, ðysses geleáfa and wyrcnes (operatio) sí gelýfed Gode andfenge, Bd. 2, 2 ; S. 502, 23. His geearnunge oft ðurh godcunde wyrcnesse (operationem) mid miclum mægenum scínaþ, 3, 19; S. 550, 16. Ða ðe lǽrdon ǽnne willan and áne wyrcnesse beón on Drihtne Hǽlende, 5, 19; S. 639, 34. II a. working, performance of something :-- Wyrcnes heofonlícra mægena operatio virtutum, Bd. 1, 7 ; S. 479, 9. Mid wuudra wyrcnesse, 2, 3 ; S. 505, 1 : 3, 13; S. 538, 39."
+}

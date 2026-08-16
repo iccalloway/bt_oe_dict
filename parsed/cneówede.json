@@ -1,0 +1,34 @@
+{
+  "citation_form": "cneówede",
+  "variant_forms": [
+    "-ade"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Having great knees",
+      "latin": "genosus",
+      "quotations": [
+        {
+          "old_english": "Cneówede genosus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 45, 39"
+        },
+        {
+          "old_english": "Cneówade",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 42, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "cneówede (-ade); adj. Having great knees:--Cneówede genosus, Wrt. Voc. i. 45, 39. Cneówade, ii. 42, 14."
+}

@@ -1,0 +1,50 @@
+{
+  "citation_form": "siþþan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé wolde ðá ealdan ǽ ǽr gefyllan, and siððan ðá níwan gecýðnysse onginnan",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 244, 28: Chr. 690; P. 40, 11"
+        },
+        {
+          "old_english": "Þæt sind ǽrest heofonas. . . and syððan þeós eorðe",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 276, 11"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "correlative, when . . . then",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Siþþan Metellus þá elpendas ofercóm, siþþan hé hæfde eác raðe þæt óþer folc gefliémed",
+          "latin": "Metellus prius belluas vel in fugam vel in mortem egit, et sic magnam vim hostium superavit",
+          "english": null,
+          "citations": "Ors. 4, 6; S. 178, 2-3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "siþþan. I. add :-- Hé wolde ðá ealdan ǽ ǽr gefyllan, and siððan ðá níwan gecýðnysse onginnan, Hml. Th. ii. 244, 28: Chr. 690; P. 40, 11. Þæt sind ǽrest heofonas. . . and syððan þeós eorðe, Hml. Th. i. 276, 11. II. add: correlative, when . . . then :-- Siþþan Metellus þá elpendas ofercóm, siþþan hé hæfde eác raðe þæt óþer folc gefliémed Metellus prius belluas vel in fugam vel in mortem egit, et sic magnam vim hostium superavit, Ors. 4, 6; S. 178, 2-3."
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-blissung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mid mycelre geblissunge",
+          "latin": "cum magna hilaritate",
+          "english": null,
+          "citations": "Angl. xiii. 367, 28"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-blissung. Add: -- Mid mycelre geblissunge cum magna hilaritate, Angl. xiii. 367, 28."
+}

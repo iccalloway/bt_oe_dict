@@ -1,0 +1,308 @@
+{
+  "citation_form": "yfel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "Goth. ubils: O. Sax. u&b-bar;il: O. Frs. evel: O. H. Ger. ubil.",
+      "meaning": "Evil, ill, bad",
+      "latin": "malus",
+      "quotations": [
+        {
+          "old_english": "Yfel malus",
+          "latin": "malus",
+          "english": null,
+          "citations": "Wrt. Voc. i. 74, 47"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": "in a moral sense",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Yfel mann of yfelum goldborde bringð yfel forð",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. Kmbl. 12, 35"
+            },
+            {
+              "old_english": "Hié nǽnigo firen ne gewundode, ne yfel gewitnes (witness of wrong-doing) ne wrégde",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 161, 33"
+            },
+            {
+              "old_english": "Ðæt ðǽr mæge yfelu uncyst on eardian",
+              "latin": null,
+              "english": null,
+              "citations": "37, 10"
+            },
+            {
+              "old_english": "Se yfela déma onféhþ medmycclum feó, and onwendeþ ðone rihtan dóm",
+              "latin": null,
+              "english": null,
+              "citations": "61, 30"
+            },
+            {
+              "old_english": "Se yfela þeów",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. Kmbl. 24, 48"
+            },
+            {
+              "old_english": "Se yfela willa",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 36, 7; Fox 184, 31"
+            },
+            {
+              "old_english": "Se yfela unrihtwísa cynincg",
+              "latin": null,
+              "english": null,
+              "citations": "Met. 15, 1"
+            },
+            {
+              "old_english": "Fram yfelum menn ab homine malo",
+              "latin": "ab homine malo",
+              "english": null,
+              "citations": "Ps. Th. 139, 1"
+            },
+            {
+              "old_english": "Yflum",
+              "latin": null,
+              "english": null,
+              "citations": "Exon. Th. 96, 20; Cri. 1577"
+            },
+            {
+              "old_english": "From ðære inwitfullan yflan tungan a lingua dolosa",
+              "latin": "a lingua dolosa",
+              "english": null,
+              "citations": "Ps. Th. 119, 3"
+            },
+            {
+              "old_english": "Ne sette ic mé fore eágum yfele wísan (rem malam)",
+              "latin": "rem malam",
+              "english": null,
+              "citations": "100, 3"
+            },
+            {
+              "old_english": "Synnigra cirm, yfele sprǽce",
+              "latin": null,
+              "english": null,
+              "citations": "Cd. Th. 145, 20; Gen. 2408"
+            },
+            {
+              "old_english": "Áfyr fram ðé ða yfelan sǽlþa and ða unnettan, and ðone yflan ege ðisse worulde",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 6; Fox 14, 33"
+            },
+            {
+              "old_english": "Yfele men magon yfel dón",
+              "latin": null,
+              "english": null,
+              "citations": "36, 7; Fox 184, 4: Blickl. Homl. 45, 23"
+            },
+            {
+              "old_english": "Yfele geþancas",
+              "latin": null,
+              "english": null,
+              "citations": "Mk. Skt. 7, 21"
+            },
+            {
+              "old_english": "Hyra weorc wǽron yfele",
+              "latin": null,
+              "english": null,
+              "citations": "Jn. Skt. 3, 19"
+            },
+            {
+              "old_english": "Se anweald ðara yflena cymþ of unþeáwum",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 36, 7; Fox 182, 26"
+            },
+            {
+              "old_english": "Ic tó yflum cwæð dixi iniquis",
+              "latin": "dixi iniquis",
+              "english": null,
+              "citations": "Ps. Th. 74, 4: Exon. Th. 57, 15; Cri. 919"
+            },
+            {
+              "old_english": "Yfflum",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 33, 22"
+            },
+            {
+              "old_english": "Yfelum wordum",
+              "latin": null,
+              "english": null,
+              "citations": "39, 3"
+            },
+            {
+              "old_english": "He wile gesceáwian wlitige and unclǽne, tile and yfle",
+              "latin": null,
+              "english": null,
+              "citations": "Cd. Th. 303, 10; Sat. 610"
+            },
+            {
+              "old_english": "Hé áraþ ða gódan, and hé wítnaþ ða yfelan",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 41, 2; Fox 246, 20"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": "of things, bad, not good of its kind",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sió yfele gillestre and ðæt yfele blód",
+              "latin": null,
+              "english": null,
+              "citations": "Lchdm. ii. 148, 6"
+            },
+            {
+              "old_english": "Gif eáran willen ádeáfian, oþþe yfel hlyst sié . . . Gif mon yfelne hlyst hæbbe (cf. wiþ yfelre hlyste, 2, 13)",
+              "latin": null,
+              "english": null,
+              "citations": "40, 22-26"
+            },
+            {
+              "old_english": "Nys gód treów ðe yfelne wæstm déð, ne nis yfel treów gódne wæstm dónde",
+              "latin": null,
+              "english": null,
+              "citations": "Lk. Skt. 6, 43"
+            },
+            {
+              "old_english": "Heó is on onsýne útan yfeles heówes",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 197, 11"
+            },
+            {
+              "old_english": "Ðá gecuron hig ða gódan (fiscas) on hyra fatu, ða yflan hig áwurpon út",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. Kmbl. 13, 48"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "III.",
+          "heading": "of what is grievous, hurtful, etc.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": "of animate objects",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Yfel wiht phantasma",
+                  "latin": "phantasma",
+                  "english": null,
+                  "citations": "Mk. Skt. Lind. 6, 49"
+                },
+                {
+                  "old_english": "Hé sealde yfelan wyrme hiora wyrta",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ps. Th. 77, 46"
+                },
+                {
+                  "old_english": "Hí ǽtan yfle tostan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "77, 45"
+                },
+                {
+                  "old_english": "Hé gehǽlde manega of yfelum (yflum, Lind.) gástum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lk. Skt. 7, 21"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2)",
+              "heading": "of things",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Yfel gesihð malus oculus",
+                  "latin": "malus oculus",
+                  "english": null,
+                  "citations": "Mk. Skt. 7, 22"
+                },
+                {
+                  "old_english": "Yfel wyrd bad fortune",
+                  "latin": null,
+                  "english": "bad fortune",
+                  "citations": "Bt. 40, 2; Fox 236, 22"
+                },
+                {
+                  "old_english": "Him ðæs æfter becwom yfel endeleán",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Cd. Th. 227, 15; Dan. 187"
+                },
+                {
+                  "old_english": "Ðorn byð þearle scearp, anfengys yfel (bad to take hold of)",
+                  "latin": null,
+                  "english": "bad to take hold of",
+                  "citations": "Runic pm. Kmbl. 340, 1; Rún. 3"
+                },
+                {
+                  "old_english": "Ic hit mid yfelre bysene inc forgylde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Blickl. Homl. 189, 25"
+                },
+                {
+                  "old_english": "Yfele habban sorge",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Exon. Th. 376, 32; Seel. 163"
+                },
+                {
+                  "old_english": "Earmne gehýnan yflum yrmþum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "280, 24; Jul. 634"
+                },
+                {
+                  "old_english": "Ic wíte þolade, yfel earfeþu",
+                  "latin": null,
+                  "english": null,
+                  "citations": "89, 6; Cri. 1453"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "wirsa"
+  ],
+  "source_text": "yfel; adj. Evil, ill, bad :-- Yfel malus, Wrt. Voc. i. 74, 47. I. in a moral sense :-- Yfel mann of yfelum goldborde bringð yfel forð, Mt. Kmbl. 12, 35. Hié nǽnigo firen ne gewundode, ne yfel gewitnes (witness of wrong-doing) ne wrégde, Blickl. Homl. 161, 33. Ðæt ðǽr mæge yfelu uncyst on eardian, 37, 10. Se yfela déma onféhþ medmycclum feó, and onwendeþ ðone rihtan dóm, 61, 30. Se yfela þeów, Mt. Kmbl. 24, 48. Se yfela willa, Bt. 36, 7; Fox 184, 31. Se yfela unrihtwísa cynincg, Met. 15, 1. Fram yfelum menn ab homine malo, Ps. Th. 139, 1. Yflum, Exon. Th. 96, 20; Cri. 1577. From ðære inwitfullan yflan tungan a lingua dolosa, Ps. Th. 119, 3. Ne sette ic mé fore eágum yfele wísan (rem malam), 100, 3. Synnigra cirm, yfele sprǽce, Cd. Th. 145, 20; Gen. 2408. Áfyr fram ðé ða yfelan sǽlþa and ða unnettan, and ðone yflan ege ðisse worulde, Bt. 6; Fox 14, 33. Yfele men magon yfel dón, 36, 7; Fox 184, 4: Blickl. Homl. 45, 23. Yfele geþancas, Mk. Skt. 7, 21. Hyra weorc wǽron yfele, Jn. Skt. 3, 19. Se anweald ðara yflena cymþ of unþeáwum, Bt. 36, 7; Fox 182, 26. Ic tó yflum cwæð dixi iniquis, Ps. Th. 74, 4: Exon. Th. 57, 15; Cri. 919. Yfflum, Blickl. Homl. 33, 22. Yfelum wordum, 39, 3. He wile gesceáwian wlitige and unclǽne, tile and yfle, Cd. Th. 303, 10; Sat. 610. Hé áraþ ða gódan, and hé wítnaþ ða yfelan, Bt. 41, 2; Fox 246, 20. II. of things, bad, not good of its kind :-- Sió yfele gillestre and ðæt yfele blód, Lchdm. ii. 148, 6. Gif eáran willen ádeáfian, oþþe yfel hlyst sié . . . Gif mon yfelne hlyst hæbbe (cf. wiþ yfelre hlyste, 2, 13), 40, 22-26. Nys gód treów ðe yfelne wæstm déð, ne nis yfel treów gódne wæstm dónde, Lk. Skt. 6, 43. Heó is on onsýne útan yfeles heówes, Blickl. Homl. 197, 11. Ðá gecuron hig ða gódan (fiscas) on hyra fatu, ða yflan hig áwurpon út, Mt. Kmbl. 13, 48. III. of what is grievous, hurtful, etc., (1) of animate objects :-- Yfel wiht phantasma, Mk. Skt. Lind. 6, 49. Hé sealde yfelan wyrme hiora wyrta, Ps. Th. 77, 46. Hí ǽtan yfle tostan, 77, 45. Hé gehǽlde manega of yfelum (yflum, Lind.) gástum. Lk. Skt. 7, 21. (2) of things :-- Yfel gesihð malus oculus, Mk. Skt. 7, 22. Yfel wyrd bad fortune, Bt. 40, 2; Fox 236, 22. Him ðæs æfter becwom yfel endeleán, Cd. Th. 227, 15; Dan. 187. Ðorn byð þearle scearp, anfengys yfel (bad to take hold of), Runic pm. Kmbl. 340, 1; Rún. 3. Ic hit mid yfelre bysene inc forgylde, Blickl. Homl. 189, 25. Yfele habban sorge, Exon. Th. 376, 32; Seel. 163. Earmne gehýnan yflum yrmþum, 280, 24; Jul. 634. Ic wíte þolade, yfel earfeþu, 89, 6; Cri. 1453. [Goth. ubils: O. Sax. u&b-bar;il: O. Frs. evel: O. H. Ger. ubil.] v. wirsa."
+}

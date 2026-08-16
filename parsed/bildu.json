@@ -1,0 +1,89 @@
+{
+  "citation_form": "bildu",
+  "variant_forms": [
+    "-o",
+    "bild",
+    "bielde",
+    "bældo",
+    "byldu",
+    "baeldo",
+    "byldum",
+    "beldo",
+    "belde"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "indecl.: bild, e; f.",
+      "meaning": "Boldness, confidence",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt ne weaxe tó ungemetlico beldo (praecipitatio), and swá ðrycce ðá belde ...",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 455, 21"
+        },
+        {
+          "old_english": "Bielde constantia",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 23, 58"
+        },
+        {
+          "old_english": "Bældo temeritate",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. p. 9, 4"
+        },
+        {
+          "old_english": "Mid hwylcre byldu mæg ic gán tó Godes temple?",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. A. 134, 617"
+        },
+        {
+          "old_english": "Mid bylde Godes gewinnes",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 494, 31: Hml. S. 25, 319"
+        },
+        {
+          "old_english": "Ðæt hié habbað ðá arodnesse and ðá bieldo (bældo, v. l.) ðæt hié magon anweald habban",
+          "latin": "auctoritatis fortitudine erecti",
+          "english": null,
+          "citations": "Past. 41, 17"
+        },
+        {
+          "old_english": "Hé hæfde mid him myccle bælde (fiduciam) híwcúþnesse",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 140, 7"
+        },
+        {
+          "old_english": "Baeldo",
+          "latin": null,
+          "english": null,
+          "citations": "Rtl. 89, 3"
+        },
+        {
+          "old_english": "Byldum fiducia, i. confidentia",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 148, 74"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-bildu",
+    "byld"
+  ],
+  "source_text": "bildu (-o); indecl.: bild, e; f. Boldness, confidence :-- Ðæt ne weaxe tó ungemetlico beldo (praecipitatio), and swá ðrycce ðá belde ... Past. 455, 21. Bielde constantia, Wrt. Voc. ii. 23, 58. Bældo temeritate, Mt. p. 9, 4. Mid hwylcre byldu mæg ic gán tó Godes temple?, Hml. A. 134, 617. Mid bylde Godes gewinnes, Hml. Th. ii. 494, 31: Hml. S. 25, 319. Ðæt hié habbað ðá arodnesse and ðá bieldo (bældo, v. l.) ðæt hié magon anweald habban auctoritatis fortitudine erecti, Past. 41, 17. Hé hæfde mid him myccle bælde (fiduciam) híwcúþnesse, Gr. D. 140, 7. Baeldo, Rtl. 89, 3. Byldum fiducia, i. confidentia, Wrt. Voc. ii. 148, 74. v. un-bildu, and byld in Dict."
+}

@@ -1,0 +1,526 @@
+{
+  "citation_form": "lytel",
+  "variant_forms": [
+    "lýtel"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "A.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "as the opposite of great",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "of material objects, portions of space, &c., small in size, not large",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ne bið nǽnig tó þæs lytel lið on lime áweaxen",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Seel. 96"
+                },
+                {
+                  "old_english": "Swilce án lytel (lytlu, v. l.) pricu",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 18, 1 ; F. 62, 4"
+                },
+                {
+                  "old_english": "Lyttel scipp naviculam",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Mt. L. 13, 2"
+                },
+                {
+                  "old_english": "Sé ðe lytelo bý (domicilium) hæfde in byrgennum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Mk. L. 5, 3"
+                },
+                {
+                  "old_english": "lytle bollan fulle",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. ii. 214, 11"
+                },
+                {
+                  "old_english": "Hé wæs lytel (lyttel pussillus, L.) on wæstmum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lk. 19, 3"
+                }
+              ],
+              "sub_senses": [
+                {
+                  "label": "(1 a)",
+                  "heading": null,
+                  "meaning": "used to designate species or varieties which are distinguished by their smallness from others belonging to the same genus or bearing the same name",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Brúne wyrt, háre wyrt lytelu",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Lch, ii. 132, 8"
+                    }
+                  ],
+                  "sub_senses": []
+                },
+                {
+                  "label": "(1 b)",
+                  "heading": null,
+                  "meaning": "with superlative force in little finger, toe",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Gif se lytla bið of áslegen",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Ll. Th. i. 96, 7"
+                    },
+                    {
+                      "old_english": "Sió lytle tá",
+                      "latin": null,
+                      "english": null,
+                      "citations": "23"
+                    },
+                    {
+                      "old_english": "On ðǽm lytlan . . . ánum fingre (cf. on ðám lǽstan fingre, Bt. 33, 4; F. 132, 1)",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Met. 20, 179"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "used of young children",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Lytel cnæht ðes parvolus iste",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Mt. L. 18, 4"
+                },
+                {
+                  "old_english": "Syle þicgean on wine geongum men fif cuceleras fulle, and gingrum and untrumum and wífum þrý cuculeras, litlum cildum ánne",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. i. 122, 24"
+                },
+                {
+                  "old_english": "Lytlo cild parvulos",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Mk. 10, 13"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(3)",
+              "heading": null,
+              "meaning": "of collective unities, having few members, inhabitants, &c. ; small in number",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hér is an lytele (parva) burg swíðe neáh . . . Hió is án lytel (modica)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Past. 399, 23"
+                },
+                {
+                  "old_english": "Is hiora here . . . tó lytel swelcra láriówa",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Met. 10, 55"
+                },
+                {
+                  "old_english": "Lytlo édo pusillo gregi",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lk. p. 7, 15"
+                },
+                {
+                  "old_english": "Lytle werede",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 2093"
+                },
+                {
+                  "old_english": "Ic wát hér áne neáh lytle ceastre",
+                  "latin": null,
+                  "english": null,
+                  "citations": "2578"
+                },
+                {
+                  "old_english": "Lytle worado pauci",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lk. L. 13, 23"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(4)",
+              "heading": null,
+              "meaning": "of immaterial things, considered in respect of their quantity, length in series, &c.",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gé eów ondrǽdaþ þ-bar; gé onfón tó lytlum leánum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bl. H. 41, 21"
+                },
+                {
+                  "old_english": "Lytlum sticcum leóðworda dǽl reccan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "An. 1490"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(5)",
+              "heading": null,
+              "meaning": "of distance or period of time. Cf. B. II. 3",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðá geswigode se wísdóm áne lytle hwíle",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 7, 1 ; F. 16, 5"
+                },
+                {
+                  "old_english": "Lytle hwíle",
+                  "latin": null,
+                  "english": null,
+                  "citations": "B. 2030"
+                },
+                {
+                  "old_english": "Þone lytlan fyrst",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Cri. 1323"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(6)",
+              "heading": null,
+              "meaning": "of qualities, conditions, &c. , small in extent or degree",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Mé þúhte þæt sár swíðe lytel oððe ealles náwiht",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Solil. H. 41, 4"
+                },
+                {
+                  "old_english": "Mé ne þincþ náuht lytel gód þisses andweardan lífes gesǽlþa, ne eác náuht lytel yfel his ungesǽlþa in hac ipsa fortuna populari nonnihil boni malive inesse perpendo",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 39, 2 ; F. 212, 14"
+                },
+                {
+                  "old_english": "Nales fore lytlum . . . ac fore þám mǽstan mægenearfeðum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Cri. 963"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(7)",
+              "heading": null,
+              "meaning": "not of importance",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": [
+                {
+                  "label": "(a)",
+                  "heading": null,
+                  "meaning": "of things, trifling, trivial",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Þonne ongit hé hú lytel se hlísa bið and hú lǽne and hú tédre and hú bedǽled ǽlces gódes fama quam sit exilis et totius vacua ponderis",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Bt. 18, 1; F. 60, 29"
+                    },
+                    {
+                      "old_english": "Hé biþ for swíþe lytlium þingum gedréfed",
+                      "latin": null,
+                      "english": null,
+                      "citations": "1. 11; F. 32, 18"
+                    },
+                    {
+                      "old_english": "Énne of bebodum ðissum lytlum (minimus)",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Mt. L. 5, 19"
+                    },
+                    {
+                      "old_english": "For ðám ðe þú wǽre getrýwe ofer lytle þing, ic gesette þé ofer mycle",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Mt. 25, 21"
+                    }
+                  ],
+                  "sub_senses": []
+                },
+                {
+                  "label": "(b)",
+                  "heading": null,
+                  "meaning": "of persons, inferior in rank or condition, not distinguished",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Lytel hé bið genemned in ríc heafna . . . ðes micil bið geceigd",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Mt. L. 5, 19"
+                    },
+                    {
+                      "old_english": "Lytel þáhte ic leóda bearnum, læg on heardum stáne",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Cri. 1425"
+                    },
+                    {
+                      "old_english": "Swá hwylc swá sylð ánne drinc ánum þyssa lytylra manna",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Mt. 10, 42"
+                    },
+                    {
+                      "old_english": "Ánum of ðisum bróðrum mínum lytlum",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Mt. L. 25, 40"
+                    }
+                  ],
+                  "sub_senses": [
+                    {
+                      "label": "(b a)",
+                      "heading": null,
+                      "meaning": "of a town",
+                      "latin": null,
+                      "quotations": [
+                        {
+                          "old_english": "Ðú, Bethlem, unðærfe ðing lyttel arð (nequa&dash-uncertain;quam minima es)",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Mt. L. 2, 6"
+                        }
+                      ],
+                      "sub_senses": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "(8)",
+              "heading": null,
+              "meaning": "mean, vile",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": [
+                {
+                  "label": "(a)",
+                  "heading": null,
+                  "meaning": "of things",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Tó þám þæt ðú hwylce þénunga mínon lytlan líchaman tó gehýðnysse gegearwige",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Hml. S. 23 b, 252"
+                    }
+                  ],
+                  "sub_senses": []
+                },
+                {
+                  "label": "(b)",
+                  "heading": null,
+                  "meaning": "of persons",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Ic eom se lytla for þé and se lýðra man, se hér syngigeswíðe genehhe. . . þearle scyldig",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Hy. 3, 41"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "as opposite of much",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "not much, only a slight amount or degree of, barely any",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Sceáwige mon georne hwilc se útgang sié, þe micel. þe lytel, þe þǽr nán ne sié",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. ii. 218, 11"
+                },
+                {
+                  "old_english": "Hwæt is heora nú tó láfe bútan se lytla hlísa and se nama mid feáum stafum áwriten signat superstes fama tenuis pauculis inane women litteris",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 19; F. 70, 10"
+                },
+                {
+                  "old_english": "Gýt lǽssan mynstres þǽr lytel þeówdóm sý",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ll. Th. i. 360, 22"
+                },
+                {
+                  "old_english": "Byþ lytel frécne fram fýre",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. i. 330, 2"
+                },
+                {
+                  "old_english": "Tó lytel hit biþ, beó hit á lǽsse",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ll. Th. i. 432, 24 : B. 1748"
+                },
+                {
+                  "old_english": "Lytles geleáfas",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Mt. L. 6, 30 : 14, 31"
+                },
+                {
+                  "old_english": "Wé habbaþ litellne gearowitan búton tweón",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 41, 5 ; F. 254, 10"
+                },
+                {
+                  "old_english": "Ic him lífwraðe lytle meahte ætgifan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "B. 2877"
+                }
+              ],
+              "sub_senses": [
+                {
+                  "label": "(1 a)",
+                  "heading": null,
+                  "meaning": "forming with its sb. a kind of privative combination, with the sense absence or scarcity of what the sb. denotes",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Gemune hwæt sí mín lytle spéd memorare quae mea substantia",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Ps. Th. 83, 40"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "a small quantity of, some, though not much",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Nú gýt ys lytel (lyttil, L. , lyttel, R. ) leóht on eów athuc modicum lumen in uobis est",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Jn. 12, 35"
+                },
+                {
+                  "old_english": "lytle bollan fulle mid lytle hunige gemengde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. ii. 214, 11"
+                },
+                {
+                  "old_english": "Þǽr dydon Rómáne lytla triéwþa þæt him þá wǽron unweorþe þe hiera hláford beswican in hoc solo Romanis circa eum fortiter agentibus quod percussores ejus indignos judicarent",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ors. 5, 2 ; S. 218, 17"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(3)",
+              "heading": null,
+              "meaning": "with pl., few",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Wræccum lytlum (feáwum, W. S. ) plagis paucis",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lk. R. L. 12, 48"
+                },
+                {
+                  "old_english": "Hý sculan nyttian lytlum and",
+                  "latin": null,
+                  "english": null,
+                  "citations": null
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "lytel; adj., and neut. of adj. Add: , lýtel (?). A. adj. I. as the opposite of great. (1) of material objects, portions of space, &c., small in size, not large :-- Ne bið nǽnig tó þæs lytel lið on lime áweaxen, Seel. 96. Swilce án lytel (lytlu, v. l.) pricu, Bt. 18, 1 ; F. 62, 4. Lyttel scipp naviculam, Mt. L. 13, 2. Sé ðe lytelo bý (domicilium) hæfde in byrgennum, Mk. L. 5, 3. .II. UNCERTAIN lytle bollan fulle, Lch. ii. 214, 11. ¶ If of a person's stature :-- Hé wæs lytel (lyttel pussillus, L.) on wæstmum, Lk. 19, 3. (1 a) used to designate species or varieties which are distinguished by their srnallness from others belonging to the same genus or bearing the same name :-- Brúne wyrt, háre wyrt lytelu, Lch, ii. 132, 8. (1 b) with superlative force in little finger, toe :-- Gif se lytla bið of áslegen, Ll. Th. i. 96, 7. Sió lytle tá, 23. On ðǽm lytlan . . . ánum fingre (cf. on ðám lǽstan fingre, Bt. 33, 4; F. 132, 1), Met. 20, 179. (2) used of young children :-- Lytel cnæht ðes parvolus iste, Mt. L. 18, 4. Syle þicgean on wine geongum men fif cuceleras fulle, and gingrum and untrumum and wífum þrý cuculeras, litlum cildum ánne, Lch. i. 122, 24. Lytlo cild parvulos, Mk. 10, 13. (3) of collective unities, having few members, inhabitants, &c. ; small in number :-- Hér is an lytele (parva) burg swíðe neáh . . . Hió is án lytel (modica), Past. 399, 23. Is hiora here . . . tó lytel swelcra láriówa, Met. 10, 55. Lytlo édo pusillo gregi, Lk. p. 7, 15. Lytle werede, Gen. 2093. Ic wát hér áne neáh lytle ceastre, 2578. Lytle worado pauci, Lk. L. 13, 23. (4) of immaterial things, considered in respect of their quantity, length in series, &c. :-- Gé eów ondrǽdaþ þ-bar; gé onfón tó lytlum leánum, Bl. H. 41, 21. Lytlum sticcum leóðworda dǽl reccan, An. 1490. (5) of distance or period of time. Cf. B. II. 3 :-- Ðá geswigode se wísdóm áne lytle hwíle, Bt. 7, 1 ; F. 16, 5. Lytle hwíle, B. 2030. Þone lytlan fyrst, Cri. 1323. (6) of qualities, conditions, &c. , small in extent or degree :-- Mé þúhte þæt sár swíðe lytel oððe ealles náwiht, Solil. H. 41, 4. Mé ne þincþ náuht lytel gód þisses andweardan lífes gesǽlþa, ne eác náuht lytel yfel his ungesǽlþa in hac ipsa fortuna populari nonnihil boni malive inesse perpendo, Bt. 39, 2 ; F. 212, 14. Nales fore lytlum . . . ac fore þám mǽstan mægenearfeðum, Cri. 963. (7) not of importance, (a) of things, trifling, trivial :-- Þonne ongit hé hú lytel se hlísa bið and hú lǽne and hú tédre and hú bedǽled ǽlces gódes fama quam sit exilis et totius vacua ponderis, Bt. 18, 1; F. 60, 29. Hé biþ for swíþe lytlium þingum gedréfed, 1. 11; F. 32, 18, Énne of bebodum ðissum lytlum (minimus), Mt. L. 5, 19. For ðám ðe þú wǽre getrýwe ofer lytle þing, ic gesette þé ofer mycle, Mt. 25, 21. (b) of persons, inferior in rank or condition, not distinguished :-- Lytel hé bið genemned in ríc heafna . . . ðes micil bið geceigd, Mt. L. 5, 19. Lytel þáhte ic leóda bearnum, læg on heardum stáne, Cri. 1425. Swá hwylc swá sylð ánne drinc ánum þyssa lytylra manna, Mt. 10, 42. Ánum of ðisum bróðrum mínum lytlum, Mt. L. 25, 40. (b a) of a town :-- Ðú, Bethlem, unðærfe ðing lyttel arð (nequa&dash-uncertain;quam minima es), Mt. L. 2, 6. (8) mean, vile, (a) of things :-- Tó þám þæt ðú hwylce þénunga mínon lytlan líchaman tó gehýðnysse gegearwige, Hml. S. 23 b, 252. (b) of persons :-- Ic eom se lytla for þé and se lýðra man, se hér syngigeswíðe genehhe. . . þearle scyldig, Hy. 3, 41. II. as opposite of much. (1) not much, only a slight amount or degree of, barely any :-- Sceáwige mon georne hwilc se útgang sié, þe micel. þe lytel, þe þǽr nán ne sié, Lch. ii. 218, 11. Hwæt is heora nú tó láfe bútan se lytla hlísa and se nama mid feáum stafum áwriten signat super&dash-uncertain;stes fama tenuis pauculis inane women litteris. Bt. 19; F. 70, 10. Gýt lǽssan mynstres þǽr lytel þeówdóm sý, Ll. Th. i. 360, 22. Byþ lytel frécne fram fýre, Lch. i. 330, 2. Tó lytel hit biþ, beó hit á lǽsse, Ll. Th. i. 432, 24 : B. 1748. Lytles geleáfes, Mt. L. 6, 30 : 14, 31. Wé habbaþ litellne gearowitan búton tweón, Bt. 41, 5 ; F. 254, 10. Ic him lífwraðe lytle meahte ætgifan, B. 2877. (1 a) forming with its sb. a kind of privative combination, with the sense absence or scarcity of what the sb. denotes :-- Gemune hwæt sí mín lytle spéd memorare quae mea substantia, Ps. Th. 83, 40. (2) a small quantity of, some, though not much :-- Nú gýt ys lytel (lyttil, L. , lyttel, R. ) leóht on eów athuc modicum lumen in uobis est, Jn. 12, 35. .II.UNCERTAIN lytle bollan fulle mid lytle hunige gemengde, Lch. ii. 214, 11. Þǽr dydon Rómáne lytla triéwþa þæt him þá wǽron unweorþe þe hiera hláford beswican in hoc solo Romanis circa eum fortiter agentibus quod percussores ejus indignos judicarent, Ors. 5, 2 ; S. 218, 17. (3) with pl., few :-- Wræccum lytlum (feáwum, W. S. ) plagis paucis, Lk. R. L. 12, 48. Hý sculan nyttian lytlum and"
+}

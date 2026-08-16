@@ -1,0 +1,62 @@
+{
+  "citation_form": "tó-lísing",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "dissolution, destruction",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geleáfan tólýsinge",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 206, 20"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "release, redemption",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðætte hé salde sáwel his lésnise &l-bar; tólésinc fore monigum",
+          "latin": "ut daret animam suam redemptionem pro multis",
+          "english": null,
+          "citations": "Mk. Skt. Lind. 10, 45"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "tó-lísan"
+  ],
+  "source_text": "tó-lísing, e; f. I. dissolution, destruction :-- Geleáfan tólýsinge, Lchdm. iii. 206, 20. II. release, redemption, v. tó-lísan, I b :-- Ðætte hé salde sáwel his lésnise &l-bar; tólésinc fore monigum ut daret animam suam redemptionem pro multis, Mk. Skt. Lind. 10, 45."
+}

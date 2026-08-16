@@ -1,0 +1,36 @@
+{
+  "citation_form": "ge-strod",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. ge-strúdan.",
+      "meaning": "Plunder[?], wealth",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt hí ðý éþ mǽgen heora unriht gewitt forþbringan hí sind mid gifum and mid gestreónum [Cot. gestrodum] gefyrðrode",
+          "latin": "flagitiosum facinus ad efficiendum præmiis incitari",
+          "english": null,
+          "citations": "Bt. 3, 4; Fox 6, note 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-strúdan"
+  ],
+  "source_text": "ge-strod, es; n. Plunder[?], wealth :-- Ðæt hí ðý éþ mǽgen heora unriht gewitt forþbringan hí sind mid gifum and mid gestreónum [Cot. gestrodum] gefyrðrode flagitiosum facinus ad efficiendum præmiis incitari, Bt. 3, 4; Fox 6, note 7. [Cf. ge-strúdan.]"
+}

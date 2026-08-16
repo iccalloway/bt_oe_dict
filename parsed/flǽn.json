@@ -1,0 +1,30 @@
+{
+  "citation_form": "flǽn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a lance",
+      "latin": "framea",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 16, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "flán"
+  ],
+  "source_text": "flǽn a lance; fr&a-short;mea, Ps. Spl. 16, 14. v. flán."
+}

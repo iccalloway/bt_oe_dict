@@ -1,0 +1,52 @@
+{
+  "citation_form": "efn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Even, equal",
+      "latin": "æquus, plānus, æquālis",
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "On efn, adv.",
+          "meaning": "Together",
+          "latin": "simul, ūna",
+          "quotations": [
+            {
+              "old_english": "On efn",
+              "latin": "simul, ūna",
+              "english": "Together",
+              "citations": "Ps. Th. 116, 1"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": null,
+          "heading": "On efn, prep.",
+          "meaning": "On even ground, by, near, aside with",
+          "latin": "in æquāli, juxta",
+          "quotations": [
+            {
+              "old_english": "On efn",
+              "latin": null,
+              "english": null,
+              "citations": "Beo. Th. 5798; B. 2903"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "efen"
+  ],
+  "source_text": "efn; adj. Even, equal; æquus, pl&a-long;nus, æqu&a-long;lis :-- On efn, adv. Together; s&i-short;mul, &u-long;na, Ps. Th. 116, 1. On efn, prep. On even ground, by, near, aside with; in æqu&a-long;li, juxta, Beo. Th. 5798; B. 2903. v. efen."
+}

@@ -1,0 +1,42 @@
+{
+  "citation_form": "ge-swyru",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Hills",
+      "latin": "colles",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 71, 3"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "113, 4"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "148, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-sweoru"
+  ],
+  "source_text": "ge-swyru; pl. n. Hills; colles, Ps. Th. 71, 3: 113, 4: 148, 9. v. ge-sweoru."
+}

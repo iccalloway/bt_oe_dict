@@ -1,0 +1,70 @@
+{
+  "citation_form": "heáfod-stocc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "This word, which occurs several times in charters that describe the boundaries of land, seems from the following passage to mean A stock or post on which the head of a criminal was fixed after beheading",
+      "meaning": "A stock or post on which the head of a criminal was fixed after beheading",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Heora lima man ealle tóbrǽd ǽlc fram óðrum . . . and ðá heáfodleásan man héngc on ðá portweallas, and man sette heora heáfda swilce óþra ðeófa búton ðám portweallon on ðám heáfodstoccum",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23, 71-76"
+        },
+        {
+          "old_english": "Æfter Foss tó þám heáfodstocce",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iii. 384, 29"
+        },
+        {
+          "old_english": "Of ðǽre hylle andlang ðǽre díc úp tó heáfodstoccan; of heáfodstoccan andlang strǽt",
+          "latin": null,
+          "english": null,
+          "citations": "v. 110, 34: 217, 14"
+        },
+        {
+          "old_english": "Tó weáwan hócan; ðanon on ðá heáfodstoccas",
+          "latin": null,
+          "english": null,
+          "citations": "207, 26"
+        },
+        {
+          "old_english": "Be gemǽre; ðæt on ðá heáfodstoccas; of ðan stoccan on ðone mǽrstán",
+          "latin": null,
+          "english": null,
+          "citations": "iii. 439, 6"
+        },
+        {
+          "old_english": "On gerihte on ðá heáfudstoccas; of ðan heáfodstoccum",
+          "latin": null,
+          "english": null,
+          "citations": "vi. 62, 7"
+        },
+        {
+          "old_english": "On gréne wei on neðe héuedstokes; of ðanne héuedstocken",
+          "latin": null,
+          "english": null,
+          "citations": "iii. 201, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "heáfod-stocc, es; m. This word, which occurs several times in charters that describe the boundaries of land, seems from the following passage to mean A stock or post on which the head of a criminal was fixed after beheading :-- Heora lima man ealle tóbrǽd ǽlc fram óðrum . . . and ðá heáfodleásan man héngc on ðá portweallas, and man sette heora heáfda swilce óþra ðeófa búton ðám portweallon on ðám heáfodstoccum, Hml. S. 23, 71-76. Instances of occurrence in charters are :-- Æfter Foss tó þám heáfodstocce, C. D. iii. 384, 29. Of ðǽre hylle andlang ðǽre díc úp tó heáfodstoccan; of heáfodstoccan andlang strǽt, v. 110, 34: 217, 14. Tó weáwan hócan; ðanon on ðá heáfodstoccas, 207, 26. Be gemǽre; ðæt on ðá heáfodstoccas; of ðan stoccan on ðone mǽrstán, iii. 439, 6. On gerihte on ðá heáfudstoccas; of ðan heáfodstoccum, vi. 62, 7. On gréne wei on neðe héuedstokes; of ðanne héuedstocken, iii. 201, 32."
+}

@@ -1,0 +1,37 @@
+{
+  "citation_form": "þreápung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Þrepyng strife, Allit. Pms. 43, 183. Cf. Cheaste. Þes bo&yogh; him todelþ ine .vij. oþre bo&yogh;es ... þe zixte þreapninge (threatening) ... Efterward comeþ þe þreapnynges and beginneþ þe medles and þe werres, Ayenb. 65-66.",
+      "meaning": "Rebuke, reproof",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt geðreátade mód bið suíðe raðe gehwierfed tó fióunga gif him mon tó ungemetlíce mid ðære ðreápunga (ðreáwunga, Cott. MSS.) oferfylgð suíður ðonne mon ðyrfe",
+          "latin": "correpti mens repente ad odium proruit, si hanc immoderata increpatio, plus quam debuit, affligit",
+          "english": null,
+          "citations": "Past. 21; Swt. 167, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "þreápian",
+    "þreápung"
+  ],
+  "source_text": "þreápung, e; f. Rebuke, reproof :-- Ðæt geðreátade mód bið suíðe raðe gehwierfed tó fióunga gif him mon tó ungemetlíce mid ðære ðreápunga (ðreáwunga, Cott. MSS.) oferfylgð suíður ðonne mon ðyrfe correpti mens repente ad odium proruit, si hanc immoderata increpatio, plus quam debuit, affligit, Past. 21; Swt. 167, 14. [Þrepyng strife, Allit. Pms. 43, 183. Cf. Cheaste. Þes bo&yogh; him todelþ ine .vij. oþre bo&yogh;es ... þe zixte þreapninge (threatening) ... Efterward comeþ þe þreapnynges and beginneþ þe medles and þe werres, Ayenb. 65-66.] v. two preceding words."
+}

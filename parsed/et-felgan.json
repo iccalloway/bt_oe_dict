@@ -1,0 +1,48 @@
+{
+  "citation_form": "et-felgan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-fealh",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-fulgon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-folgen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To cleave or stick to, adhere",
+      "latin": "adhærére",
+      "quotations": [
+        {
+          "old_english": "Ná etfilgþ me heorte þweor",
+          "latin": null,
+          "english": "a wicked heart cleaves not to me",
+          "citations": "Ps. Spl. T. 100, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æt-felgan"
+  ],
+  "source_text": "et-felgan; p. -fealh, pl. -fulgon; pp. -folgen To cleave or stick to, adhere; adhærére :-- Ná etfilgþ me heorte þweor a wicked heart cleaves not to me, Ps. Spl. T. 100, 4. v. æt-felgan."
+}

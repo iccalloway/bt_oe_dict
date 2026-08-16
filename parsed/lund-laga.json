@@ -1,0 +1,55 @@
+{
+  "citation_form": "lund-laga",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Icel. lundir; pl. f. the flesh along the back: O. H. Ger. lunda arvina; and see gelynd, gelyndu.",
+      "meaning": "Rein, kidney",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðes lundlaga hic rigen oððe ren",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9, 13; Som. 9, 34"
+        },
+        {
+          "old_english": "Lundlaga lien",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 45, 14: renunculus, ii, 118, 72"
+        },
+        {
+          "old_english": "Lundlagan renunculi",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc, 44, 67: renunculæ, 65, 58"
+        },
+        {
+          "old_english": "Ðú nymst twegen lundlagan sumes duos renes",
+          "latin": null,
+          "english": null,
+          "citations": "Ex. 29, 13: Lev. 8, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gelynd",
+    "gelyndu"
+  ],
+  "source_text": "lund-laga, an; m. Rein, kidney :-- Ðes lundlaga hic rigen oððe ren, Ælfc. Gr. 9, 13; Som. 9, 34. Lundlaga lien, Wrt. Voc. 45, 14: renunculus, ii, 118, 72. Lundlagan renunculi, Wrt. Voc, 44, 67: renunculæ, 65, 58. Ðú nymst twegen lundlagan sumes duos renes, Ex. 29, 13: Lev. 8, 25. [Cf. Icel. lundir; pl. f. the flesh along the back: O. H. Ger. lunda arvina; and see gelynd, gelyndu.]"
+}

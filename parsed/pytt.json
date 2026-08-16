@@ -1,0 +1,151 @@
+{
+  "citation_form": "pytt",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "O. H. Ger. pfuzzi, pfuzza puteus, cisterna : Ger. pfütze: Icel. pyttr. From Latin puteus.",
+      "meaning": "a pit, hole in the ground, a grave",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Pyt puteus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 84, 58"
+        },
+        {
+          "old_english": "Scrobs ys pytt oððe díc",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9, 51 ; Zup. 66, 10"
+        },
+        {
+          "old_english": "Heora mód ys swá deóp swá grundleás pytt",
+          "latin": "sepulcrum patens est guttur eorum",
+          "english": null,
+          "citations": "Ps. Th. 5, 10"
+        },
+        {
+          "old_english": "Gif hwá pytt (cisternam) ádelfe and hine ne oferhelie and ðǽr fealle on oxa oððe assa, gilde ðæs pyttes hláford ðæra nýtena wurð",
+          "latin": null,
+          "english": null,
+          "citations": "Ex. 21, 33-34"
+        },
+        {
+          "old_english": "Pytte baratrum",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 11, 68"
+        },
+        {
+          "old_english": "On fúlan pyt; of ðam pytte on dene",
+          "latin": null,
+          "english": null,
+          "citations": "Cod. Dip. Kmbl. iii. 77, 20"
+        },
+        {
+          "old_english": "On wulfputt; of ðam pytte on ða wógan ǽc",
+          "latin": null,
+          "english": null,
+          "citations": "449, 31-32"
+        },
+        {
+          "old_english": "Tó wulfpytte",
+          "latin": null,
+          "english": null,
+          "citations": "Cod. Dip. B. i. 280, 20"
+        },
+        {
+          "old_english": "Gelǽste man á ðone sáwelsceat æt openum pytte (cf. æt openum græfe, L. Eth. v. 12 ; Th. i. 308, 5)",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 118, 7"
+        },
+        {
+          "old_english": "Uton dón hine on ðone ealdan pytt (cisternam)",
+          "latin": null,
+          "english": null,
+          "citations": "Gen. 37. 20"
+        },
+        {
+          "old_english": "Ic wæs on pytt beworpen",
+          "latin": "in lacum missus sum",
+          "english": null,
+          "citations": "40, 15"
+        },
+        {
+          "old_english": "Hé ádylfþ ðone pytt",
+          "latin": "lacum aperuit",
+          "english": null,
+          "citations": "Ps. Th. 7, 15"
+        },
+        {
+          "old_english": "Hwylces eówres assa befealþ on ánne pytt (puteum)",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. 14, 5"
+        },
+        {
+          "old_english": "Hé hét ádelfan ǽnne gehwǽdne pytt",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 02, 2"
+        },
+        {
+          "old_english": "On hiere bryne gemulton ealle ða onlícnessa tógædere and on pyttas besuncan",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 5, 2 ; Swt. 216, 3"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a pit (as in pitted with small-pox)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Pyt ful wyrmses",
+          "latin": "serpedo (cf. serpedo a mesylle, 224, 9 : a tetere, 267, 48)",
+          "english": null,
+          "citations": "Wrt. Voc. i. 20, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gang-pytt",
+    "hor-pytt",
+    "lám-pytt",
+    "mór-pytt",
+    "rysc-pytt",
+    "wæter-pytt"
+  ],
+  "source_text": "pytt, es ; m. I. a pit, hole in the ground, a grave :-- Pyt puteus, Wrt. Voc. i. 84, 58. Scrobs ys pytt oððe díc, Ælfc. Gr. 9, 51 ; Zup. 66, 10. Heora mód ys swá deóp swá grundleás pytt sepulcrum patens est guttur eorum, Ps. Th. 5, 10. Gif hwá pytt (cisternam) ádelfe and hine ne oferhelie and ðǽr fealle on oxa oððe assa, gilde ðæs pyttes hláford ðæra nýtena wurð, Ex. 21, 33-34. Pytte baratrum, Wrt. Voc. ii. 11, 68. On fúlan pyt; of ðam pytte on dene, Cod. Dip. Kmbl. iii. 77, 20. On wulfputt; of ðam pytte on ða wógan ǽc, 449, 31-32. Tó wulfpytte, Cod. Dip. B. i. 280, 20. Gelǽste man á ðone sáwelsceat æt openum pytte (cf. æt openum græfe, L. Eth. v. 12 ; Th. i. 308, 5), Wulfst. 118, 7. Uton dón hine on ðone ealdan pytt (cisternam), Gen. 37. 20. Ic wæs on pytt beworpen in lacum missus sum, 40, 15. Hé ádylfþ ðone pytt lacum aperuit, Ps. Th. 7, 15. Hwylces eówres assa befealþ on ánne pytt (puteum), Lk. Skt. 14, 5. Hé hét ádelfan ǽnne gehwǽdne pytt, Homl. Th. ii. 02, 2. On hiere bryne gemulton ealle ða onlícnessa tógædere and on pyttas besuncan, Ors. 5, 2 ; Swt. 216, 3. II. a pit (as in pitted with small-pox) : Pyt ful wyrmses serpedo (cf. serpedo a mesylle, 224, 9 : a tetere, 267, 48), Wrt. Voc. i. 20, 4. [O. H. Ger. pfuzzi, pfuzza puteus, cisterna : Ger. pfütze: Icel. pyttr. From Latin puteus.] v. gang-, hor-, lám-, mór-, rysc-, wæter-pytt, and next word."
+}

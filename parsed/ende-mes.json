@@ -1,0 +1,36 @@
+{
+  "citation_form": "ende-mes",
+  "variant_forms": [
+    "endemest",
+    "ændemes",
+    "ændemest"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Equally, likewise, in like manner, together",
+      "latin": "pārĭter",
+      "quotations": [
+        {
+          "old_english": "Forðon ic ne mæg eal ða monigfealdan yfel endemes areccan",
+          "latin": null,
+          "english": "because I cannot equally reckon all the manifest evils",
+          "citations": "Ors. 2, 5; Bos. 49, 11: 3, 10; Bos. 69, 36"
+        },
+        {
+          "old_english": "Ne mæg hió ealle endemest gescínan",
+          "latin": null,
+          "english": "nor can she equally shine upon all",
+          "citations": "Bt. 41, 1; Fox 244, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ende-mes, endemest, ændemes, ændemest; adv. Equally, likewise, in like manner, together; p&a-short;r&i-short;ter :-- Forðon ic ne mæg eal ða monigfealdan yfel endemes areccan because I cannot equally reckon all the manifest evils, Ors. 2, 5; Bos. 49, 11: 3, 10; Bos. 69, 36. Ne mæg hió ealle endemest gescínan nor can she equally shine upon all, Bt. 41, 1; Fox 244, 9."
+}

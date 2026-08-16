@@ -1,0 +1,37 @@
+{
+  "citation_form": "sam-wrǽdness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Combination, union",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eall ðæt ðætte ánnesse hæfþ þæt wé secgaþ ðætte síe ða hwíle ðe hit ætsomne biþ and ða samwrǽdnesse wé hátaþ gód",
+          "latin": "omne, quod est, unum esse, ipsumque unum bonum esse didicisti,",
+          "english": "everything that has unity, that, we say, exists, while it maintains its unity, and the union of its parts we call good",
+          "citations": "Bt. 37, 3; Fox 190, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wrǽd",
+    "wrǽd-mǽlum"
+  ],
+  "source_text": "sam-wrǽdness, e; f. Combination, union:--Eall ðæt ðætte ánnesse hæfþ þæt wé secgaþ ðætte síe ða hwíle ðe hit ætsomne biþ and ða samwrǽdnesse wé hátaþ gód everything that has unity, that, we say, exists, while it maintains its unity, and the union of its parts we call good; omne, quod est, unum esse, ipsumque unum bonum esse didicisti,Bt. 37, 3; Fox 190, 23. Cf. wrǽd, wrǽd-mǽlum."
+}

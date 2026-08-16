@@ -1,0 +1,27 @@
+{
+  "citation_form": "ge-dingan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Mid. E. ding to throw oneself with force, dash, press, drive.",
+      "meaning": "to press, throw oneself with force",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gedinð appetit",
+          "latin": null,
+          "english": null,
+          "citations": "Kent. Gl. 1155"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-dingan (?) to press, throw oneself with force :-- Gedinð appetit, Kent. Gl. 1155. [Cf. Mid. E. ding to throw oneself with force, dash, press, drive.]"
+}

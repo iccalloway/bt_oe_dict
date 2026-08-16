@@ -1,0 +1,123 @@
+{
+  "citation_form": "cíte",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a hut, cabin, cottage",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Cétan gurgustione",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 110, 17"
+        },
+        {
+          "old_english": "Gecóm hé tó hyre cýtan",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 182, 26: 184, 7"
+        },
+        {
+          "old_english": "Settan Hierusalem samod anlícast swá hí æppelbearu áne cýtan",
+          "latin": "posuerunt Hierusalem velut pomorum custodiam",
+          "english": null,
+          "citations": "Ps. Th. 78, 2"
+        },
+        {
+          "old_english": "Hé lét árǽran ealle ábútan ðá dúne his hyrdecnapan cýtan, þ-bar; hí ðǽr gehende mid heora hláfordes yrfe lágon, and wið cyle and wið hǽton hí sylfe geburgon",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23, 418"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": "v. N. E. D. chete.",
+      "meaning": "a cell of a monk, hermit, &c.",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Cýte, hulce (hulce &l-bar; céte, Hpt. Gl. 465, 45) tugurio .i. cella (the cell of John the hermit)",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 2515"
+        },
+        {
+          "old_english": "Sý þám untrumum gebróðrum synderlíce cýte (hús, cýte, R. Ben. I. 67, 17) geset and tó þám ánum betǽht",
+          "latin": "fratribus infirmis sit cella super se deputata",
+          "english": null,
+          "citations": "R. Ben. 60, 20"
+        },
+        {
+          "old_english": "Þæs muneces cýte mid leóhte wearð áfylled",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 31, 811"
+        },
+        {
+          "old_english": "Heó began faran tó ðæs foresǽdan wéstensetlan cýtan, and on þǽre cýtan duru cnocode",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. A. 196, 25"
+        },
+        {
+          "old_english": "Hé eóde on þá cétan þǽr se líchoma wæs",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 217, 25: 219, 14"
+        },
+        {
+          "old_english": "Se geatweard sceal cýtan (hús cellam, R. Ben. I. 112, 7) habban wið þæt geat",
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. 126, 18"
+        },
+        {
+          "old_english": "Gangende in þá cýtan (cellam) Benedictes",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 140, 10"
+        },
+        {
+          "old_english": "¶ in a local name, Cétwudu Chetwood",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. i. 292, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "cete",
+    "cyte"
+  ],
+  "source_text": "cíte, an; f. I. a hut, cabin, cottage:--Cétan gurgustione, Wrt. Voc. i. 110, 17. Gecóm hé tó hyre cýtan (cf. Gr. D. 167, 6), Hml. Th. ii. 182, 26: 184, 7. Settan Hierusalem samod anlícast swá hí æppelbearu áne cýtan posuerunt Hierusalem velut pomorum custodiam, Ps. Th. 78, 2. Hé lét árǽran ealle ábútan ðá dúne his hyrdecnapan cýtan, þ-bar; hí ðǽr gehende mid heora hláfordes yrfe lágon, and wið cyle and wið hǽton hí sylfe geburgon, Hml. S. 23, 418. II. a cell of a monk, hermit, &c.:--Cýte, hulce (hulce &l-bar; céte, Hpt. Gl. 465, 45) tugurio .i. cella (the cell of John the hermit), An. Ox. 2515. Sý þám untrumum gebróðrum synderlíce cýte (hús, cýte, R. Ben. I. 67, 17) geset and tó þám ánum betǽht fratribus infirmis sit cella super se deputata, R. Ben. 60, 20. Þæs muneces cýte mid leóhte wearð áfylled, Hml. S. 31, 811. Heó began faran tó ðæs foresǽdan wéstensetlan cýtan, and on þǽre cýtan duru cnocode, Hml. A. 196, 25. Hé eóde on þá cétan þǽr se líchoma wæs, Bl. H. 217, 25: 219, 14. Se geatweard sceal cýtan (hús cellam, R. Ben. I. 112, 7) habban wið þæt geat, R. Ben. 126, 18. Gangende in þá cýtan (cellam) Benedictes, Gr. D. 140, 10. ¶ in a local name, Cétwudu Chetwood, C. D. i. 292, 20. [v. N. E. D. chete.] v. cete, cyte (l. céte, cýte) in Dict."
+}

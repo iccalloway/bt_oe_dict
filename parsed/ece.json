@@ -1,0 +1,39 @@
+{
+  "citation_form": "ece",
+  "variant_forms": [
+    "æce",
+    "ace"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An AKE, pain",
+      "latin": "dōlor",
+      "quotations": [
+        {
+          "old_english": "Efne swá se bisceop ðone ece and ðæt sár mid him ut bǽre",
+          "latin": null,
+          "english": "as if the bishop had borne the ake and the sore out with him",
+          "citations": "Bd. 5, 3; S. 616, 37: 5, 4; S. 617, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "acan"
+  ],
+  "source_text": "ece, æce, ace, es; m. An AKE, pain; d&o-short;lor :-- Efne swá se bisceop ðone ece and ðæt sár mid him ut bǽre as if the bishop had borne the ake and the sore out with him. Bd. 5, 3; S. 616, 37: 5, 4; S. 617, 22. DER. acan."
+}

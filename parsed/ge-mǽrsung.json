@@ -1,0 +1,42 @@
+{
+  "citation_form": "ge-mǽrsung",
+  "variant_forms": [
+    "-mérsung"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Magnificence",
+      "latin": "magnificentia",
+      "quotations": [
+        {
+          "old_english": "Ðæt hí cúðe wyrcan wuldor gemǽrsunge ríces ðínes",
+          "latin": "ut n&o-long;tam f&a-short;ciant gl&o-long;riam magn&i-short;f&i-short;centiæ regni tui",
+          "english": null,
+          "citations": "Ps. Spl. 144, 12"
+        },
+        {
+          "old_english": "Gimérsung celebritas",
+          "latin": null,
+          "english": null,
+          "citations": "Rtl. 48, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-mǽrsung, -mérsung, e; f. Magnificence; magn&i-short;f&i-short;centia :-- Ðæt hí cúðe wyrcan wuldor gemǽrsunge ríces ðínes ut n&o-long;tam f&a-short;ciant gl&o-long;riam magn&i-short;f&i-short;centiæ regni tui, Ps. Spl. 144, 12. Gimérsung celebritas, Rtl. 48, 20."
+}

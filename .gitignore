@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+.DS_Store
+environment.env
+.venv/
+venv/
+bt_text.txt
+

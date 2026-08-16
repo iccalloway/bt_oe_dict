@@ -1,0 +1,50 @@
+{
+  "citation_form": "wudere",
+  "variant_forms": [
+    "wudi[g]ere"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A bearer of wood",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wuderas calones (the passage is : Ejusdem militiae calones et clientes cum lixarum coetibus ad inferiorem gradum pertinentes, Ald. 13. In another gloss on the same passage is the note : Calones sunt qui ligna militibus portant, Hpt. Gl. 427, 4)",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 76, 72 : 17, 73"
+        },
+        {
+          "old_english": "Wudu silva, wudieras calones",
+          "latin": null,
+          "english": null,
+          "citations": "i. 33, 55"
+        },
+        {
+          "old_english": "Wudigeras",
+          "latin": null,
+          "english": null,
+          "citations": "39, 54"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wudian"
+  ],
+  "source_text": "wudere, wudi[g]ere, es ; m. A bearer of wood :-- Wuderas calones (the passage is : Ejusdem militiae calones et clientes cum lixarum coetibus ad inferiorem gradum pertinentes, Ald. 13. In another gloss on the same passage is the note : Calones sunt qui ligna militibus portant, Hpt. Gl. 427, 4), Wrt. Voc. ii. 76, 72 : 17, 73. Wudu silva, wudieras calones, i. 33, 55. Wudigeras, 39, 54. v. wudian."
+}

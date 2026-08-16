@@ -1,0 +1,28 @@
+{
+  "citation_form": "be-swungen",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "beaten; pp. of be-swingan",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 37, 1; Fox 186, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-swingan"
+  ],
+  "source_text": "be-swungen beaten, Bt. 37, 1; Fox 186, 20; pp. of be-swingan."
+}

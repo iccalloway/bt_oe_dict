@@ -1,0 +1,90 @@
+{
+  "citation_form": "ge-lífed",
+  "variant_forms": [
+    "ge-lýfed"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "endowed with belief, believing",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se gelýfeda ætwint ðám frecednyssum ðǽra deóflicra costnunga",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 368, 32"
+        },
+        {
+          "old_english": "Hwónlíce gelýfede menn",
+          "latin": null,
+          "english": "men of little faith",
+          "citations": "566, 28"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "¶",
+          "heading": null,
+          "meaning": "believing on",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "with acc., cf. ge-lífan; II. 1 a α",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Sum man . . . swíðe gelýfed on þone lyfiendan God",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ælfc. T. Grn. 11, 5"
+                },
+                {
+                  "old_english": "Sum mǽden . . . on ðone Hǽlend gelýfed",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 7, 7"
+                },
+                {
+                  "old_english": "Cómon his ágene landleóde gelýfede (-leóf-, v. l.) on God",
+                  "latin": null,
+                  "english": null,
+                  "citations": "14, 172"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "with dat., cf. ge-lífan; II. 1 a β",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Sume sǽdon þ-bar; hí wǽran on Críste gelýfede",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 2, 303"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "riht-gelífed",
+    "un-gelífed",
+    "be-lífed"
+  ],
+  "source_text": "ge-lífed. Take here ge-lýfed in Dict., and add: endowed with belief, believing:--Se gelýfeda ætwint ðám frecednyssum ðǽra deóflicra costnunga, Hml. Th. i. 368, 32. Hwónlíce gelýfede menn men of little faith, 566, 28. ¶ believing on, (1) with acc., cf. ge-lífan; II. 1 a α:--Sum man . . . swíðe gelýfed on þone lyfiendan God, Ælfc. T. Grn. 11, 5. Sum mǽden . . . on ðone Hǽlend gelýfed, Hml. S. 7, 7. Cómon his ágene landleóde gelýfede (-leóf-, v. l.) on God, 14, 172. (2) with dat., cf. ge-lífan; II. 1 a β:--Sume sǽdon þ-bar; hí wǽran on Críste gelýfede, Hml. S. 2, 303. v. riht-, un-gelífed; cf. be-lífed."
+}

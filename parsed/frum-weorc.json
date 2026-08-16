@@ -1,0 +1,34 @@
+{
+  "citation_form": "frum-weorc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An ancient work, the work of the creation",
+      "latin": "opus priscum, res in principio creata",
+      "quotations": [
+        {
+          "old_english": "Woldon hie ædre gecýðan frumweorca fæder",
+          "latin": null,
+          "english": "they would at once proclaim the father of creation's works",
+          "citations": "Andr. Kmbl. 1607; An. 805"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "frum-weorc, es; n. An ancient work, the work of the creation; &o-short;pus priscum, res in princ&i-short;pio cre&a-long;ta :-- Woldon hie ædre gecýðan frumweorca fæder they would at once proclaim the father of creation's works, Andr. Kmbl. 1607; An. 805."
+}

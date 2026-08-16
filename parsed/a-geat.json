@@ -1,0 +1,29 @@
+{
+  "citation_form": "a-geat",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "understood; p. of a-gitan",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 118, 95"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-gitan"
+  ],
+  "source_text": "a-geat understood. Ps. Spl. 118, 95; p. of a-gitan."
+}

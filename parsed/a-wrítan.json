@@ -1,0 +1,132 @@
+{
+  "citation_form": "a-wrítan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-wrát",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-writon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-writen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "a, wrítan to engrave, write",
+      "meaning": "to write out or down, to transcribe, describe, compose",
+      "latin": "transcribere, describere, conscribere, contexere",
+      "quotations": [
+        {
+          "old_english": "Ðæs hálgan fæder and biscopes Sancti Cuþberhtes líf ǽrest eroico metro and æfter fæce gerǽde worde ic awrát",
+          "latin": null,
+          "english": "I wrote out the life of the holy father and bishop, St. Cuthbert, first in heroic metre, and after a space in prose",
+          "citations": "Bd. 5, 23 ; S. 648, 27"
+        },
+        {
+          "old_english": "Eall þurh endebyrdnesse ic awrát",
+          "latin": "cuncta per ordinem transcribere curavi",
+          "english": null,
+          "citations": "5, 23; S. 648, 11"
+        },
+        {
+          "old_english": "Nú hæbbe we awriten ðære súþ",
+          "latin": null,
+          "english": "now have we described the south",
+          "citations": "Ors.1,1; Bos. 17, 42"
+        },
+        {
+          "old_english": "Leviticus ys genemned Ministerialis on Lýden, dæt ys þénungbóc, for ðam ðara sacerda þénunga sind ðár awritene",
+          "latin": null,
+          "english": "Leviticus is called in Latin Ministerialis, that is servicebook, because the services of the priests are described therein",
+          "citations": "Lev. pref."
+        },
+        {
+          "old_english": "Ðám ðæt hálige gewrit awriten is",
+          "latin": "quibus scriptura sancta contexta est",
+          "english": null,
+          "citations": "Bd. 5, 23; S. 648, 43"
+        },
+        {
+          "old_english": "Wéndest ðú ðæt awriten nǽre",
+          "latin": null,
+          "english": "thoughtest thou that it was not written",
+          "citations": "Cd. 228; Th. 307, 8; Sat. 676: Ps. Th. 138, 14"
+        },
+        {
+          "old_english": "Sum biþ list-hendig to awrítanne word-gerýnu",
+          "latin": null,
+          "english": "one is cunning to write down word-mysteries",
+          "citations": "Exon. 79 b; Th. 299, 2 ; Crä. 96"
+        },
+        {
+          "old_english": "Ðara abbuda stǽr and spell ðysses mynstres on twám bócum ic awrát",
+          "latin": null,
+          "english": "I wrote a history and narrative of the abbots of this monastery in two books",
+          "citations": "Bd. 5, 23 ; S. 648, 30: 5, 23 ; S. 649, 11"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to inscribe",
+      "latin": "inscribere, inscriptione ornare",
+      "quotations": [
+        {
+          "old_english": "Wæs se beám bócstafum awriten",
+          "latin": null,
+          "english": "the beam was inscribed with letters",
+          "citations": "Elen. Kmbl. 182; El. 91"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "to carve, delineate, draw",
+      "latin": "sculpere, delineare",
+      "quotations": [
+        {
+          "old_english": "Sindon awritene [MS. awriten] on wealle wuldres þegnas",
+          "latin": null,
+          "english": "upon the wall are carved the thanes of glory",
+          "citations": "Andr. Kmbl. 1451; An. 726"
+        },
+        {
+          "old_english": "Hí bǽron anlícnysse Hǽlendes on brede afægde and awritene",
+          "latin": "ferebant imaginem Domini Salvatoris in tabula depictam",
+          "english": "they bore the Saviour's likeness figured and drawn on a board",
+          "citations": "Bd. 1, 25; S. 487, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "a-wrítan; p. -wrát, pl. -writon ; pp. -writen ; v. a. [a, wrítan to engrave, write]. I. to write out or down, to transcribe, describe, compose; transcribere, describere, conscribere, contexere :-- Ðæs hálgan fæder and biscopes Sancti Cuþberhtes líf ǽrest eroico metro and æfter fæce gerǽde worde ic awrát I wrote out the life of the holy father and bishop, St. Cuthbert, first in heroic metre, and after a space in prose, Bd. 5, 23 ; S. 648, 27. Eall þurh endebyrdnesse ic awrát cuncta per ordinem transcribere curavi, 5, 23; S. 648, 11. Nú hæbbe we awriten ðære súþ now have we described the south, Ors.1,1; Bos. 17, 42. Leviticus ys genemned Ministerialis on Lýden, dæt ys þénungbóc, for ðam ðara sacerda þénunga sind ðár awritene Leviticus is called in Latin Ministerialis, that is servicebook, because the services of the priests are described therein, Lev. pref. Ðám ðæt hálige gewrit awriten is quibus scriptura sancta contexta est, Bd. 5, 23; S. 648, 43. Wéndest ðú ðæt awriten nǽre thoughtest thou that it was not written, Cd. 228; Th. 307, 8; Sat. 676: Ps. Th. 138, 14. Sum biþ list-hendig to awrítanne word-gerýnu one is cunning to write down word-mysteries, Exon. 79 b; Th. 299, 2 ; Crä. 96. Ðara abbuda stǽr and spell ðysses mynstres on twám bócum ic awrát I wrote a history and narrative of the abbots of this monastery in two books, Bd. 5, 23 ; S. 648, 30: 5, 23 ; S. 649, 11. II. to inscribe; inscribere, inscriptione ornare :-- Wæs se beám bócstafum awriten the beam was inscribed with letters, Elen. Kmbl. 182; El. 91. III. to carve, delineate, draw; sculpere, delineare :-- Sindon awritene [MS. awriten] on wealle wuldres þegnas upon the wall are carved the thanes of glory, Andr. Kmbl. 1451; An. 726. Hí bǽron anlícnysse Hǽlendes on brede afægde and awritene they bore the Saviour's likeness figured and drawn on a board; ferebant imaginem Domini Salvatoris in tabula depictam, Bd. 1, 25; S. 487, 4."
+}

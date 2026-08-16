@@ -1,0 +1,36 @@
+{
+  "citation_form": "ge-frédnes",
+  "variant_forms": [
+    "-ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A feeling, sense, perception",
+      "latin": "sensus",
+      "quotations": [
+        {
+          "old_english": "Gesiht, and gehérnes, and gefrédnes ongitaþ ðone líchoman dæs monnes",
+          "latin": null,
+          "english": "sight, and hearing, and feeling perceive the body of the man",
+          "citations": "Bt. 41, 4; Fox 252, 7, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-frédnes, -ness, e; f. A feeling, sense, perception; sensus :-- Gesiht, and gehérnes, and gefrédnes ongitaþ ðone líchoman dæs monnes sight, and hearing, and feeling perceive the body of the man, Bt. 41, 4; Fox 252, 7, 10."
+}

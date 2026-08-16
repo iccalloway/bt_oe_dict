@@ -1,0 +1,146 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px;
+  color: #000;
+  line-height: 1.6;
+  #margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 0.2em;
+}
+
+p {
+  margin: 0.5em 0;
+}
+
+b {
+  font-weight: bold;
+  color: #444;
+}
+
+.ending{
+ font-style: italic;
+ color: #666;
+ font-size: 85%;
+}
+
+i {
+  font-style: italic;
+  color: #666;
+}
+
+.meaning-la {
+  color: #888;
+  font-style: italic;
+}
+
+ul.quotes {
+  list-style: none;
+  padding-left: 1em;
+  margin: 0.3em 0;
+}
+
+ul.quotes > li {
+  position: relative;
+  margin: 0.5em 0;
+  padding-left: 1.2em;
+}
+
+ul.quotes > li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: #888;
+}
+
+ul.quotes .q-en,
+ul.quotes .q-la,
+ul.quotes .q-oe {
+  display: block;
+}
+
+ul.quotes .q-en,
+ul.quotes .q-la {
+  color: #888;
+}
+
+ul.quotes .q-oe {
+  color: #000;
+}
+
+ul.quotes .q-cite {
+  color: #888;
+  font-style: italic;
+  font-size: 90%;
+}
+
+ol {
+  margin-left: 1.2em;
+  padding-left: 0;
+}
+
+ol > li {
+  margin: 0.3em 0;
+}
+
+blockquote {
+  margin: 0.5em 1em;
+  font-style: italic;
+  color: #666;
+}
+
+.sense-label {
+  font-weight: bold;
+  color: #444;
+  margin-right: 0.3em;
+}
+
+.sub-heading {
+  font-style: italic;
+  color: #666;
+  margin-right: 0.3em;
+}
+
+ol.sub-senses {
+  margin-left: 1.5em;
+  margin-top: 0.2em;
+  list-style-type: lower-alpha;
+}
+
+/* Custom sense labels ("I.", "(1)") — suppress auto-numbering. */
+/* Placed after ol.sub-senses so list-style-type: none wins the cascade. */
+ol.labeled {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+ol.labeled > li {
+  margin: 0.5em 0;
+}
+
+p.xref {
+  margin-top: 1em;
+  color: #666;
+  font-size: 90%;
+}
+
+p.xref::before {
+  content: "→ ";
+  color: #888;
+}
+
+p.xref a.xref-target {
+  color: #444;
+  text-decoration: none;
+  border-bottom: 1px dotted #888;
+}
+

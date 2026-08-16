@@ -1,0 +1,28 @@
+{
+  "citation_form": "be-scyred",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "deprived",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 5, 5; S. 617, 38"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-scyrian"
+  ],
+  "source_text": "be-scyred deprived, Bd. 5, 5; S. 617, 38; pp. of be-scyrian."
+}

@@ -1,0 +1,33 @@
+{
+  "citation_form": "ge-weallan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to boil, be hot",
+      "latin": "fervescere, fervere",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Rtl. 101, 26"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "105, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-weallan to boil, be hot; fervescere, fervere, Rtl. 101, 26: 105, 3."
+}

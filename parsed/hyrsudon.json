@@ -1,0 +1,38 @@
+{
+  "citation_form": "hyrsudon",
+  "variant_forms": [
+    "hyrsian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "v. hors ?",
+      "meaning": "To go on horseback (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Æghwanon hyrsudon of eallum þissum bīfylcum tō his folgōðe and tō his þēnunge ðā æþelestan menn",
+          "latin": "ut undique ad eius mini-sterium de cunctis prope prouinciis uiri nobilissimi concurrerent",
+          "english": null,
+          "citations": "Bd. 3, 14 ; Sch. 256, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hors"
+  ],
+  "source_text": "hyrsudon. Substitute: hyrsian (v. hors ?); p. ode. To go on horseback (?) :-- Æ-long;ghwanon hyrsudon of eallum þissum b&i-long;fylcum t&o-long; his folgo&d-bar;e and t&o-long; his þ&e-long;nunge &d-bar;&a-long; æþelestan menn ut undique ad eius mini-sterium de cunctis prope prouinciis uiri nobilissimi concurrerent, Bd. 3, 14 ; Sch. 256, 13."
+}

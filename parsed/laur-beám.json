@@ -1,0 +1,46 @@
+{
+  "citation_form": "laur-beám",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Laurel",
+      "latin": "Laurbeám daphnis vel laurus",
+      "quotations": [
+        {
+          "old_english": "Laurbeám daphnis vel laurus",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 45; Som. 64, 110; Wrt. Voc. 32, 45"
+        },
+        {
+          "old_english": "Lauwer [lawer] beám laurus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 79, 78"
+        },
+        {
+          "old_english": "Laurbeáme gelíce similes lauro",
+          "latin": null,
+          "english": null,
+          "citations": "Nar. 36, 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "laur-beám, es; m. Laurel :-- Laurbeám daphnis vel laurus, Ælfc. Gl. 45; Som. 64, 110; Wrt. Voc. 32, 45. Lauwer [lawer] beám laurus, Wrt. Voc. 79, 78. Laurbeáme gelíce similes lauro, Nar. 36, 30."
+}

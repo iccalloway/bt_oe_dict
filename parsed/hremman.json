@@ -1,0 +1,35 @@
+{
+  "citation_form": "hremman",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé mid smeágungum smeálíce ús hremð (v. l. dereð)",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 13, 59"
+        },
+        {
+          "old_english": "Þá gecorenan hé hræmde &l-bar; gelette (impediuit)",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. L. 77, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-hremman"
+  ],
+  "source_text": "hremman. Add:--Hé mid smeágungum smeálíce ús hremð (v. l. dereð), Hml. S. 13, 59. Þá gecorenan hé hræmde &l-bar; gelette (impediuit), Ps. L. 77, 31. v. ge-hremman."
+}

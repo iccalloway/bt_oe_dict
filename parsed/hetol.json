@@ -1,0 +1,118 @@
+{
+  "citation_form": "hetol",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "applied to persons",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "of disposition, malignant",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se (Jove) wearð hetol feónd (hetol and þrymlic, Sal. K. p. 121, 24). Hé áflýmde his ágene fæder, . . . and wolde hine forfaran georne",
+              "latin": null,
+              "english": null,
+              "citations": "Wlfst. 106. 9"
+            },
+            {
+              "old_english": "Þ UNCERTAIN hetole wíf (Jezebel)",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 18, 194"
+            },
+            {
+              "old_english": "Leódnatan hetele",
+              "latin": null,
+              "english": null,
+              "citations": "Wlfst. 310, 4"
+            },
+            {
+              "old_english": "Ðá hǽðenan þe him hetole wǽron",
+              "latin": null,
+              "english": null,
+              "citations": "Hml, S. 25, 685"
+            },
+            {
+              "old_english": "Cwǽdon þá weardmenn tó þám hetelum Júdéiscum",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. A. 79, 176"
+            },
+            {
+              "old_english": "Þá hǽðengildon þe þǽr heteloste wǽron",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 29, 166"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "of appearance, having a malicious expression, that shows ill-will",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se níðfulla wer wyrð geswutelod ðurh his hátheortnysse on hetolum and-wlitan",
+              "latin": null,
+              "english": null,
+              "citations": "Hex. 46, 31"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "of an animal, ferocious",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hetelum",
+          "latin": "rabidis, i. ferocibus (molossi rictibus)",
+          "english": null,
+          "citations": "An. Ox. 3640"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "of punishment, severe",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sý hé gewítnod mid hetolre steóre",
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben 67, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-hetol"
+  ],
+  "source_text": "hetol. Add: I. applied to persons. (l) of disposition, malignant :-- Se (Jove) wearð hetol feónd (hetol and þrymlic, Sal. K. p. 121, 24). Hé áflýmde his ágene fæder, . . . and wolde hine forfaran georne, Wlfst. 106. 9. Þ UNCERTAIN hetole wíf (Jezebel), Hml. S. 18, 194. Leódnatan hetele. Wlfst. 310, 4. Ðá hǽðenan þe him hetole wǽron, Hml, S. 25, 685. Cwǽdon þá weardmenn tó þám hetelum Júdéiscum, Hml. A. 79, 176. Þá hǽðengildon þe þǽr heteloste wǽron, Hml. S. 29, 166. (2) of appearance, having a malicious expression, that shows ill-will :-- Se níðfulla wer wyrð geswutelod ðurh his hátheortnysse on hetolum and-wlitan, Hex. 46, 31. II. of an animal, ferocious, v. hetolness; II :-- Hetelum rabidis, i. ferocibus (molossi rictibus). An. Ox. 3640. III. of punishment, severe. Cf. hetollíce; II :-- Sý hé gewítnod mid hetolre steóre, R. Ben 67, 16. v. un-hetol."
+}

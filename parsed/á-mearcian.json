@@ -1,0 +1,142 @@
+{
+  "citation_form": "á-mearcian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to give the form or limits of, write out, to describe, define",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þá Homérus on hys bócum ámearcode Homer gives these particulars in his books",
+          "latin": null,
+          "english": "Homer gives these particulars in his books",
+          "citations": "Lch. i. 168, 17"
+        },
+        {
+          "old_english": "Wé wyllað þás þing preóstum ámearkian",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 304, 37"
+        },
+        {
+          "old_english": "Nú wylle wé heom hér ámearkian eall gewiss ymbe his ryne",
+          "latin": null,
+          "english": null,
+          "citations": "328, 14"
+        },
+        {
+          "old_english": "Yfen hér æfter ys ámearkod",
+          "latin": null,
+          "english": "the symbol for the hyphen is given afterwards",
+          "citations": "333, 30"
+        },
+        {
+          "old_english": "Þǽra mónða naman synd hér ámearcode",
+          "latin": null,
+          "english": null,
+          "citations": "298, 8"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to mark out, distinguish by a mark",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Æ-acute;lc þǽra stæpa þe wé gestæppað, ealle hí beóð ámétte and ámearcode mid gildenum stafum on heofenum",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 302, 28"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "to mark, give a distinguishing form to, denote",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Týn híw habbað þá bóceras mid þám hig tódǽlað and ámearkiað heora accentas",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 333, 22"
+        },
+        {
+          "old_english": "Yfen ys þus ámearcod",
+          "latin": null,
+          "english": null,
+          "citations": "31"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "III a.",
+          "heading": null,
+          "meaning": "to mark by a name, to denominate",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Synt þá feówer tíman ámearcod lengten, sumor, hærfest, and winter",
+              "latin": null,
+              "english": null,
+              "citations": "299, 23"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "IV.",
+      "supplemental": null,
+      "meaning": "to mark out for an end, to design, destine, assign",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mid eallum þám þingum on circulum þe þá þeódwitan þǽrtó ámearcodon",
+          "latin": null,
+          "english": null,
+          "citations": "321, 41"
+        },
+        {
+          "old_english": "Stów gecwéme gebróþrum sí ámearcud",
+          "latin": "designetur",
+          "english": null,
+          "citations": "Angl. xiii. 397, 461"
+        },
+        {
+          "old_english": "Syndan wé nú eft þider ámearcode tó þám gefeán neorxna wanges",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 252, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "á-mearcian. Add: I. to give the form or limits of, write out, to describe, define:--Þá Homérus on hys bócum ámearcode Homer gives these particulars in his books, Lch. i. 168, 17. Wé wyllað þás þing preóstum ámearkian, Angl. viii. 304, 37. Nú wylle wé heom hér ámearkian eall gewiss ymbe his ryne, 328, 14. Yfen hér æfter ys ámearkod the symbol for the hyphen is given afterwards, 333, 30. Þǽra mónða naman synd hér ámearcode, 298, 8. II. to mark out, distinguish by a mark:--Æ-acute;lc þǽra stæpa þe wé gestæppað, ealle hí beóð ámétte and ámearcode mid gildenum stafum on heofenum, Wlfst. 302, 28. III. to mark, give a distinguishing form to, denote:--Týn híw habbað þá bóceras mid þám hig tódǽlað and ámearkiað heora accentas, Angl. viii. 333, 22. Yfen ys þus ámearcod, 31. III a. to mark by a name, to denominate:--Synt þá feówer tíman ámearcod lengten, sumor, hærfest, and winter, 299, 23. IV. to mark out for an end, to design, destine, assign:--Mid eallum þám þingum on circulum þe þá þeódwitan þǽrtó ámearcodon, 321, 41. Stów gecwéme gebróþrum sí ámearcud (designetur), Angl. xiii. 397, 461. Syndan wé nú eft þider ámearcode tó þám gefeán neorxna wanges, Wlfst. 252, 14."
+}

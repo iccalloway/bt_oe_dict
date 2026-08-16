@@ -1,0 +1,40 @@
+{
+  "citation_form": "wítu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "His wite abideð on þere oðre weorlde, O. E. Homl. i. 103, 32. Mid ærmliche witen (in ȝoure bendhuse, 2nd MS.), Laym. 1046. Uppe wite of feowerti punden, 5118. O. Sax. wíti punishment, torment: O. Frs. wíte: O. H. Ger. wízi poena, supplicium, tormentum, passio, damnatio, judicium, crux: Icel. víti a punishment, fine.",
+      "meaning": "the pains that we inflict",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "wítu ne ondrǽde",
+          "latin": null,
+          "english": null,
+          "citations": "85, 15: Cd. Th. 289, 3; Sat. 392"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "blód-wíte",
+    "dol-wíte",
+    "fiht-wíte",
+    "fyht-wíte",
+    "fyrd-wíte",
+    "ferd-wíte",
+    "helle-wíte",
+    "leger-wíte",
+    "weard-wíte",
+    "weorold-wíte",
+    "wræc-wíte"
+  ],
+  "source_text": "wítu (the pains that we inflict) ne ondrǽde, 85, 15: Cd. Th. 289, 3; Sat. 392. [His wite abideð on þere oðre weorlde, O. E. Homl. i. 103, 32. Mid ærmliche witen (in &yogh;oure bendhuse, 2nd MS.), Laym. 1046. Uppe wite of feowerti punden, 5118. O. Sax. wíti punishment, torment: O. Frs. wíte: O. H. Ger. wízi poena, supplicium, tormentum, passio, damnatio, judicium, crux: Icel.víti a punishment, fine.] v. blód-, dol-, fiht- (fyht-), fyrd- (ferd-), helle-, leger-, weard-, weorold-, wræc-wíte."
+}

@@ -1,0 +1,64 @@
+{
+  "citation_form": "be-líðan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-láþ",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-liðon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-lidon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-liðen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "-liden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "be from, líðan to go, sail",
+      "meaning": "To go from, to leave",
+      "latin": "effugere, relinquere",
+      "quotations": [
+        {
+          "old_english": "Lífe belidenes líc the body of the left by life, i. e. the body of the lifeless",
+          "latin": null,
+          "english": "the body of the left by life, i. e. the body of the lifeless",
+          "citations": "Elen. Kmbl. 1752; El. 878 : Exon. 52 a; Th. 182, 18, note; Gú. 1312 : Judth. 12; Thw. 25, 26; Jud. 280"
+        },
+        {
+          "old_english": "Ða belidenan [MS. behlidenan] the dead",
+          "latin": "mortuos",
+          "english": "the dead",
+          "citations": "Andr. Kmbl. 2179; An. 1091"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "be-líðan; p. -láþ, pl. -liðon = -lidon; pp. -liðen = -liden [be from, líðan to go, sail] To go from, to leave; effugere, relinquere :-- Lífe belidenes líc the body of the left by life, i. e. the body of the lifeless, Elen. Kmbl. 1752; El. 878 : Exon. 52 a; Th. 182, 18, note; Gú. 1312 : Judth. 12; Thw. 25, 26; Jud. 280. Ða belidenan [MS. behlidenan] the dead; mortuos, Andr. Kmbl. 2179; An. 1091."
+}

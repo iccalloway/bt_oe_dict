@@ -1,0 +1,30 @@
+{
+  "citation_form": "camal",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a camel",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Lind. War. 18, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "camel"
+  ],
+  "source_text": "camal a camel. Lk. Lind. War. 18, 25. v. camel."
+}

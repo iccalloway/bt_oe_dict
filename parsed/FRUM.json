@@ -1,0 +1,50 @@
+{
+  "citation_form": "FRUM",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "Laym. frum first: Goth. fruma the first: Icel. frum- the first: Lat. prīmus the first.",
+      "meaning": "Original, primitive, first",
+      "latin": "nātīvus, prīmĭtīvus, prīmus",
+      "quotations": [
+        {
+          "old_english": "Frum, in composition, is used with the preceding meanings",
+          "latin": null,
+          "english": null,
+          "citations": null
+        },
+        {
+          "old_english": "On ðære fruman gecynde",
+          "latin": null,
+          "english": "in the original nature",
+          "citations": "Bt. 30, 2; Fox 110, 14"
+        },
+        {
+          "old_english": "Ðone fruman sceaft geþencan",
+          "latin": null,
+          "english": "to remember the first creation",
+          "citations": "Bt. 30, 2; Fox 110, 17, 21"
+        },
+        {
+          "old_english": "Frúmes",
+          "latin": "primæ",
+          "english": null,
+          "citations": "Rtl. 35, 13"
+        },
+        {
+          "old_english": "Æt fruman",
+          "latin": null,
+          "english": "at first [cf. æt ǽrestan]",
+          "citations": "H. R. 103, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "FRUM; def. se fruma; adj. Original, primitive, first; n&a-long;t&i-long;vus, pr&i-long;m&i-short;t&i-long;vus, pr&i-long;mus :-- Frum, in composition, is used with the preceding meanings :-- On ðære fruman gecynde in the original nature, Bt. 30, 2; Fox 110, 14. Ðone fruman sceaft geþencan to remember the first creation, Bt. 30, 2; Fox 110, 17, 21. Fr&u-long;mes primæ, Rtl. 35, 13. Æt fruman at first [cf. æt ǽrestan], H. R. 103, 34. [Laym. frum first: Goth. fruma the first: Icel. frum- the first: Lat. pr&i-long;mus the first.]"
+}

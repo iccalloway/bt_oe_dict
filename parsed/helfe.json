@@ -1,0 +1,46 @@
+{
+  "citation_form": "helfe",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Orm. hellfe: Prompt. Parv. helve manubrium: Wick. helve: O. H. Ger. halap, halp, halbe, helbe manubrium. Helve is a word given as still belonging to the dialects of East Anglia.",
+      "meaning": "Helve, handle",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hæft and helfe manubrium",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 52; Som. 66, 31; Wrt. Voc. 35, 20"
+        },
+        {
+          "old_english": "Sió æcs áwient of ðæm hielfe ferrum lapsum de manubrio",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 21, 7; Swt. 167, 1"
+        },
+        {
+          "old_english": "Gaderode me hylfa tó ǽlcum ðara tóla ðe ic mid wircan cúðe",
+          "latin": null,
+          "english": "I gathered me handles for each of the tools that I could work with",
+          "citations": "Shrn. 163, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "helfe, es; m. n.[?] Helve, handle :-- Hæft and helfe manubrium, Ælfc. Gl. 52; Som. 66, 31; Wrt. Voc. 35, 20. Sió æcs áwient of ðæm hielfe ferrum lapsum de manubrio, Past. 21, 7; Swt. 167, 1. Gaderode me hylfa tó ǽlcum ðara tóla ðe ic mid wircan cúðe I gathered me handles for each of the tools that I could work with, Shrn. 163, 6. [Orm. hellfe: Prompt. Parv. helve manubrium: Wick. helve: O. H. Ger. halap, halp, halbe, helbe manubrium. Helve is a word given as still belonging to the dialects of East Anglia.]"
+}

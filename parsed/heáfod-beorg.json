@@ -1,0 +1,40 @@
+{
+  "citation_form": "heáfod-beorg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A chief hill (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On cissan beorg middanweardne . . . ; swá tó heáfodbeorge westeweardon",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. v. 179, 26-30"
+        },
+        {
+          "old_english": "Ðis synt ðá landes meǽre tó Bryningtúne. Æ-acute;rest on heáfdbeorh; ðonne on wyrtwalan . . . swá tó herpaðe; andlang herpaðes tó Imman beorge ; of Imman beorge eft on heáfodbeorge",
+          "latin": null,
+          "english": null,
+          "citations": "300, 7-22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "heáfod-beorg, es; m. A chief hill (?) :-- On cissan beorg middanweardne . . . ; swá tó heáfodbeorge westeweardon, C. D. v. 179, 26-30. Ðis synt ðá landes meǽre tó Bryningtúne. Æ-acute;rest on heáfdbeorh; ðonne on wyrtwalan . . . swá tó herpaðe; andlang herpaðes tó Imman beorge ; of Imman beorge eft on heáfodbeorge, 300, 7-22."
+}

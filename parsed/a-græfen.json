@@ -1,0 +1,28 @@
+{
+  "citation_form": "a-græfen",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "engraved, carved",
+      "latin": "cælatum",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot, 33"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-grafan"
+  ],
+  "source_text": "a-græfen engraved, carved; cælatum. Cot, 33. v. a-grafan,"
+}

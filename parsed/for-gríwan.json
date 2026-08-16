@@ -1,0 +1,36 @@
+{
+  "citation_form": "for-gríwan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-griwen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To sink in vice",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þá þe on unrihttídum on oferfylla bióð forgriwene",
+          "latin": null,
+          "english": null,
+          "citations": "Nap. 27, 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-gríwan"
+  ],
+  "source_text": "for-gríwan; pp. -griwen To sink in vice:--Þá þe on unrihttídum on oferfylla bióð forgriwene, Nap. 27, 30. v. be-gríwan."
+}

@@ -1,0 +1,208 @@
+{
+  "citation_form": "ge-hȳdan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": "The passage given under II may belong to I. The Latin of Ps. Th. 55, 6 is: Inhabitabunt et abscondent ipsi calcaneurn meum observabunt, which is translated: Oneardiaþ þā þe swā þenceaþ þæt heó gehȳden hæ-long;lun mīne. Gehȳden may refer to abscondent. For passage under III see next word.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Condit, i. abscondit, reservat vel sell vel gehȳt",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 135, 56"
+        },
+        {
+          "old_english": "Gehȳdde occulit",
+          "latin": null,
+          "english": null,
+          "citations": "65, 23"
+        },
+        {
+          "old_english": "Gehȳddum abditis",
+          "latin": null,
+          "english": null,
+          "citations": "98, 34"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to hide, put out of sight, bury in the ground",
+          "latin": "abscondit",
+          "quotations": [
+            {
+              "old_english": "Dætste þ-bar; wīf gehȳdeð (abscondit) in meolo mitto",
+              "latin": null,
+              "english": null,
+              "citations": "Lk. L. R. 13, 21"
+            },
+            {
+              "old_english": "Ic gehȳdde (abscondi) cræft ðīn on eorðo",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. L. 25, 25"
+            },
+            {
+              "old_english": "Gehȳdde l̄ dēgelde",
+              "latin": null,
+              "english": null,
+              "citations": "13, 33"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to hide an object in order that it may not be found",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Strión monn gehȳdde",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. L. 13, 44"
+            },
+            {
+              "old_english": "Þām þe unrihte inne gehȳdde wræ-long;te under wealle",
+              "latin": null,
+              "english": null,
+              "citations": "B. 3059"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "to hide in order to shield",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gewint se iil tō ānum cliéwene, and tīhð his fēt suā hē inmest mæg, and gehȳt his heáfod (caput abscondit)",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 241, 12"
+            },
+            {
+              "old_english": "Hié biddaþ þ-bar; seó eorþe hié forswelge and gehȳde . . . hié cweþaþ tō; þæ-long;m dūnum : ' Feallaþ ofer ūs, and ūs bewreóþ and gehȳdaþ, '",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 93, 27-33"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "reflex.",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se Hæ-long;lend becierde hié and gehȳdde hiene",
+              "latin": "Jesus fugit in montem ipse solus",
+              "english": null,
+              "citations": "Past. 33, 15: Jn. L. 12, 36"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(5)",
+          "heading": null,
+          "meaning": "to keep a matter from the knowledge of others",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðu gehȳddest (abscondisti) ðās from snottrum and ædeánades ðā ðām lytlum",
+              "latin": null,
+              "english": null,
+              "citations": "Lk. L. 10, 21"
+            },
+            {
+              "old_english": "Ne is gehȳded þ-bar;ne oncnāuen biþ",
+              "latin": null,
+              "english": null,
+              "citations": "8, 17: 12, 2: 19, 42"
+            },
+            {
+              "old_english": "Næ-long;nig is gehȳded (occultum) þ-bar; ne sē gewitten",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. L. 10, 26"
+            },
+            {
+              "old_english": "Hié ðeahtigaþ on hiera mōdes rinde monig gōd weorc tō wyrcanne, ac on ðām piðan biþ ōðer gehȳded (aliud in imis intentio supprimit)",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 55, 23"
+            },
+            {
+              "old_english": "Hē þā oðēwde openlīce þ-bar; hē æ-long;r diégellīce gehȳd hæfde",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 6, 34; S. 388, 32"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(6)",
+          "heading": null,
+          "meaning": "to hide from sight, prevent from being seen, cover up",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne mæg burug gehȳda ofer mōr geseted",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. L. 5, 14"
+            },
+            {
+              "old_english": "Ongunnun sume gehȳdæ (uelare) onsióne his",
+              "latin": null,
+              "english": null,
+              "citations": "Mk. L. 14, 65"
+            },
+            {
+              "old_english": "Þeós læ-long;ine gesceaft longe stōðe heolstre gehȳded",
+              "latin": null,
+              "english": null,
+              "citations": "Hy. II, 13"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(6 a)",
+              "heading": null,
+              "meaning": "fig.",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þā dysegan sint swā hlince, þæt hī ne magon oncnāwan hwæ-long;r þā ēcan gōd sindon gehȳdde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Met. 19, 32"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ge-hēdan"
+  ],
+  "source_text": "ge-h&y-long;dan. Dele ge-h&e-long;dan, and to I. add :-- Condit, i. abscondit, reservat vel sell vel geh&y-long;t, Wrt. Voc. ii. 135, 56. Geh&y-long;dde occulit, 65, 23. Geh&y-long;ddum abditis, 98, 34. (I) to hide, put out of sight, bury in the ground :-- Dætste þ-bar; w&i-long;f geh&y-long;de&d-bar; (abscondit) in meolo mitto, Lk. L. R. 13, 21. Ic geh&y-long;dde (abscondi) cræft &d-bar;&i-long;n on eor&d-bar;o, Mt. L. 25, 25. Geh&y-long;dde &l-bar; d&e-long;gelde, 13, 33. (2) to hide an object in order that it may not be found :-- Strión monn geh&y-long;dde, Mt. L. 13, 44. Þ&a-long;m þe unrihte inne geh&y-long;dde wræ-long;te under wealle, B. 3059. (3) to hide in order to shield :-- Gewint se iil t&o-long; &a-long;num cliéwene, and t&i-long;h&d-bar; his f&e-long;t su&a-long; h&e-long; inmest mæg, and geh&y-long;t his heáfod (caput abscondit), Past. 241, 12. Hié biddaþ þ-bar; seó eorþe hié forswelge and geh&y-long;de . . . hié cweþaþ t&o-long;; þæ-long;m d&u-long;num : ' Feallaþ ofer &u-long;s, and &u-long;s bewreóþ and geh&y-long;da&d-bar;, ' Bl. H. 93, 27-33. (4) reflex. :-- Se Hæ-long;lend becierde hié and geh&y-long;dde hiene Jesus fugit in montem ipse solus, Past. 33, 15: Jn. L. 12, 36. (5) to keep a matter from the knowledge of others :-- Ð&u-long; geh&y-long;ddest (abscondisti) &d-bar;&a-long;s from snottrum and ædeánades &d-bar;&a-long; &d-bar;&a-long;m lytlum, Lk. L. 10, 21. Ne is geh&y-long;ded þ-bar;ne oncn&a-long;uen bi&d-bar;, 8, 17: 12, 2: 19, 42. Næ-long;nig is geh&y-long;ded (occultum) þ-bar; ne s&e-long; gewitten, Mt. L. 10, 26. Hié &d-bar;eahtiga&d-bar; on hiera m&o-long;des rinde monig g&o-long;d weorc t&o-long; wyrcanne, ac on &d-bar;&a-long;m pi&d-bar;an bi&d-bar; &o-long;&d-bar;er geh&y-long;ded (aliud in imis intentio supprimit), Past. 55, 23. H&e-long; þ&a-long; o&d-bar;&e-long;wde openl&i-long;ce þ-bar; h&e-long; æ-long;r diégell&i-long;ce geh&y-long;d hæfde. Ors. 6, 34; S. 388, 32. (6) to hide from sight, prevent from being seen, cover up :-- Ne mæg burug geh&y-long;da ofer m&o-long;r geseted. Mt. L. 5, 14. Ongunnun sume geh&y-long;dæ (uelare) onsióne his, Mk. L. 14, 65. Þeós læ-long;ine gesceaft longe st&o-long;&d-bar;e heolstre geh&y-long;ded, Hy. II, 13. (6 a) fig. :-- Þ&a-long; dysegan sint sw&a-long; hlince, þæt h&i-long; ne magon oncn&a-long;wan hwæ-long;r þ&a-long; &e-long;can g&o-long;d sindon geh&y-long;dde, Met. 19, 32. [The passage given under II may belong to I. The Latin of Ps. Th. 55, 6 is: Inhabitabunt et abscondent ipsi calcaneurn meum observabunt, which is translated: Oneardia&d-bar; þ&a-long; þe sw&a-long; þencea&d-bar; þæt heó geh&y-long;den hæ-long;lun m&i-long;ne. Geh&y-long;den may refer to abscondent. For passage under III see next word.]"
+}

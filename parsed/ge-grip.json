@@ -1,0 +1,30 @@
+{
+  "citation_form": "ge-grip",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gegrip corruptionem (correptionem seems to have been read)",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. T. 15, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-gripennis"
+  ],
+  "source_text": "ge-grip. Add:--Gegrip corruptionem (correptionem seems to have been read), Ps. Spl. T. 15, 10. v. ge-gripennis."
+}

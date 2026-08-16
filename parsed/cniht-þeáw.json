@@ -1,0 +1,34 @@
+{
+  "citation_form": "cniht-þeáw",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Boyish habit",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Placidus þágyt heóld his cniht-",
+          "latin": null,
+          "english": null,
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "cniht-þeáw, es; m. Boyish habit:--Placidus þágyt heóld his cniht-"
+}

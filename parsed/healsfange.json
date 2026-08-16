@@ -1,0 +1,321 @@
+{
+  "citation_form": "healsfange",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to pay compensation for a person wronged or slain",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif hwá fǽmnan beswíce unbeweddode, and hire mid slǽpe, forgielde hié",
+              "latin": null,
+              "english": null,
+              "citations": "52, 6"
+            },
+            {
+              "old_english": "Hé þone ǽnne héht golde forgyldan, þone þe Grendel ácwealde",
+              "latin": null,
+              "english": null,
+              "citations": "B. 1054"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(b)",
+          "heading": "the object a thing lost or destroyed or damaged",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif . . . sié funden þ-bar; hé ǽr stæl, be twyfealdum forgielde hé hit",
+              "latin": "gilde be twifealdon duplum restituet, Ex. 22, 4",
+              "english": null,
+              "citations": "Ll. Th. i. 50, 23"
+            },
+            {
+              "old_english": "Gif mon áfelle on wuda wel monega treówa . . ., forgielde .III. treówu ǽlc .XXX. sci&l-bar;&l-bar;.",
+              "latin": null,
+              "english": null,
+              "citations": "128, 20"
+            },
+            {
+              "old_english": "Gif fyrdscip man ámyrre þ-bar; hit ǽnote weorðe, forgilde hit fullíce",
+              "latin": null,
+              "english": null,
+              "citations": "324, 7"
+            },
+            {
+              "old_english": "Ðeáh úre heorda hwylc án sceáp forgýme, wé willað þ-bar; hé hit forgylde",
+              "latin": null,
+              "english": null,
+              "citations": "ii. 326, 25"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(c)",
+          "heading": "the object an undischarged obligation",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ciricsceat gelǽste man be Martinus mæssan, and se þe þ-bar; ne gelǽste, forgilde hine mid twelffealdan",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 342, 28"
+            },
+            {
+              "old_english": "Forgylde hine .XI. síðan",
+              "latin": null,
+              "english": null,
+              "citations": "366, 20"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(d)",
+          "heading": "the object a misdeed",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sceolan wé mid úre ánre sáule forgyldan and gebétan ealle þá þing þe wé ǽr ofor his bebod gedydon",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 91, 16"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": "with acc. of compensation paid",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif man mannan ofslæhð . . . ealne leód forgelde . . . þá mágas healfne leód forgelden",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 8, 6, 8"
+            },
+            {
+              "old_english": "Ealle forgielden þone wer gemǽnum hondum",
+              "latin": null,
+              "english": null,
+              "citations": "80, 16"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "with idea of release, redemption",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to pay for a criminal to save him from punishment",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif hine (the criminal) mon eft gefó, forgielde hé hine selfa be his wergilde",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 66, 11"
+            },
+            {
+              "old_english": "Sý hé his tungan scyldig, búton hé hine mid his were forgilde",
+              "latin": null,
+              "english": null,
+              "citations": "384, 27"
+            },
+            {
+              "old_english": "Sié se hláford ofslegen oþþe forgolden",
+              "latin": null,
+              "english": null,
+              "citations": "i. 50, 1"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to pay to get immunity from, buy off",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Eów betere is þæt gé þisne gárrǽs mid gafole forgyldon",
+              "latin": null,
+              "english": null,
+              "citations": "By. 32"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "IV.",
+      "supplemental": null,
+      "meaning": "with idea of recompense, retribution, to repay, pay out, requite a person (dat.)",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "absolute",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé forgylt ánra gehwylcum æfter his ágenum gewyrhtum",
+              "latin": "reddet Deus unicuique secundum opera sua",
+              "english": null,
+              "citations": "Wlfst. 184, 9"
+            },
+            {
+              "old_english": "Wæs him forgolden æfter his ágenum gewyrhtum",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 45, 2"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "with acc. of action that is recompensed",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ic heora synne swinglum forgylde",
+              "latin": "visitabo in verberibus peccata eorum",
+              "english": null,
+              "citations": "Ps. Th. 88, 29"
+            },
+            {
+              "old_english": "Forþon þú ús þus dydest, wé hit þé forgyldaþ",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 241, 18"
+            },
+            {
+              "old_english": "Hý him grimme forguldon þone wígcræft þe hý æt him geleornodon",
+              "latin": "vincere, dum vincitur, edocuit",
+              "english": null,
+              "citations": "Ors. 1, 2; S. 30, 7"
+            },
+            {
+              "old_english": "Mid hwám hié hit ðé forgielden",
+              "latin": "retribuant",
+              "english": null,
+              "citations": "Past. 323, 24"
+            },
+            {
+              "old_english": "Hé wolde Grendle forgyldan gúðrǽsa fela",
+              "latin": null,
+              "english": null,
+              "citations": "B. 1577"
+            },
+            {
+              "old_english": "Hé wile hit him mid yfele eall forgyldan",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 55, 25"
+            },
+            {
+              "old_english": "Hit weorþeþ forgolden",
+              "latin": null,
+              "english": null,
+              "citations": "195, 23"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(2 a)",
+              "heading": "the object a clause",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé ús forgyldeþ swá wé nú hér dóþ ge gódes ge yfeles",
+                  "latin": null,
+                  "english": "he will requite us for both the good and the evil that we do here",
+                  "citations": "Bl. H. 51, 26"
+                },
+                {
+                  "old_english": "Beorges hyrde wolde líge forgyldan dryncfæt dýre",
+                  "latin": null,
+                  "english": "the fire-drake wanted to repay (the robbery of) the precious cup with flame",
+                  "citations": "B. 2305"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "V.",
+      "supplemental": "[v. N. E. D. foryield: Goth. fra-gildan: O. Sax. O. L. Ger. far-geldan: O. Frs. for-ielda: O. H. Ger. fer-geltan.]",
+      "meaning": "to pay what is due, perform a vow",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðú forgeldes Drihtne giháta ðíne",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. L. 5, 33"
+        },
+        {
+          "old_english": "Þæt ic ðé forgulde ealle þá gehát",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 65, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-forgolden"
+  ],
+  "source_text": "healsfange; and gif hine man gebinde, forgilde be healfan were, i. 408, 18-20. Gif hwá fǽmnan beswíce unbeweddode, and hire mid slǽpe, forgielde hié, 52, 6. Hé þone ǽnne héht golde forgyldan, þone þe Grendel ácwealde, B. 1054. (b) the object a thing lost or destroyed or damaged:--Gif . . . sié funden þ-bar; hé ǽr stæl, be twyfealdum forgielde hé hit (cf. gilde be twifealdon duplum restituet, Ex. 22, 4), Ll. Th. i. 50, 23. Gif mon áfelle on wuda wel monega treówa . . ., forgielde .III. treówu ǽlc .XXX. sci&l-bar;&l-bar;., 128, 20. Gif fyrdscip man ámyrre þ-bar; hit ǽnote weorðe, forgilde hit fullíce, 324, 7. Ðeáh úre heorda hwylc án sceáp forgýme, wé willað þ-bar; hé hit forgylde, ii. 326, 25. (c) the object an undischarged obligation:--Ciricsceat gelǽste man be Martinus mæssan, and se þe þ-bar; ne gelǽste, forgilde hine mid twelffealdan, Ll. Th. i. 342, 28. Forgylde hine .XI. síðan, 366, 20. (d) the object a misdeed:--Sceolan wé mid úre ánre sáule forgyldan and gebétan ealle þá þing þe wé ǽr ofor his bebod gedydon, Bl. H. 91, 16. (3) with acc. of compensation paid:--Gif man mannan ofslæhð . . . ealne leód forgelde . . . þá mágas healfne leód forgelden, Ll. Th. i. 8, 6, 8. Ealle forgielden þone wer gemǽnum hondum, 80, 16. III. with idea of release, redemption. (1) to pay for a criminal to save him from punishment:--Gif hine (the criminal) mon eft gefó, forgielde hé hine selfa be his wergilde, Ll. Th. i. 66, 11. Sý hé his tungan scyldig, búton hé hine mid his were forgilde, 384, 27. Sié se hláford ofslegen oþþe forgolden, i. 50, 1. (2) to pay to get immunity from, buy off:--Eów betere is þæt gé þisne gárrǽs mid gafole forgyldon, By. 32. IV. with idea of recompense, retribution, to repay, pay out, requite a person (dat.). (1) absolute:--Hé forgylt ánra gehwylcum æfter his ágenum gewyrhtum reddet Deus unicuique secundum opera sua, Wlfst. 184, 9. Wæs him forgolden æfter his ágenum gewyrhtum, Bl. H. 45, 2. (2) with acc. of action that is recompensed:--Ic heora synne swinglum forgylde visitabo in verberibus peccata eorum, Ps. Th. 88, 29. Forþon þú ús þus dydest, wé hit þé forgyldaþ, Bl. H. 241, 18. Hý him grimme forguldon þone wígcræft þe hý æt him geleornodon vincere, dum vincitur, edocuit, Ors. 1, 2; S. 30, 7. Mid hwám hié hit ðé forgielden (retribuant), Past. 323, 24. Hé wolde Grendle forgyldan gúðrǽsa fela, B. 1577. Hé wile hit him mid yfele eall forgyldan, Bl. H. 55, 25. Hit weorþeþ forgolden, 195, 23. (2 a) the object a clause:--Hé ús forgyldeþ swá wé nú hér dóþ ge gódes ge yfeles he will requite us for both the good and the evil that we do here, Bl. H. 51, 26. ¶ with acc. of object which has been the subject of action to be requited:--Beorges hyrde wolde líge forgyldan dryncfæt dýre the fire-drake wanted to repay (the robbery of) the precious cup with flame, B. 2305. V. to pay what is due, perform a vow:--Ðú forgeldes Drihtne giháta ðíne, Mt. L. 5, 33. Þæt ic ðé forgulde ealle þá gehát, Ps. Th. 65, 13. [v. N. E. D. foryield: Goth. fra-gildan: O. Sax. O. L. Ger. far-geldan: O. Frs. for-ielda: O. H. Ger. fer-geltan.] v. un-forgolden."
+}

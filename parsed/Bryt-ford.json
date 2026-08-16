@@ -1,0 +1,34 @@
+{
+  "citation_form": "Bryt-ford",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Bryt a Briton, ford a ford",
+      "meaning": "BRITFORD, near Sarum, Wiltshire",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tostig wæs ðá æt Brytforda [MS. Brytfordan] mid ðam cinge [MS. kinge]",
+          "latin": null,
+          "english": "Tostig was then at Britfqrd with the king",
+          "citations": "Chr. 1065; Erl. 194, 38"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Bryt-ford, es; m. [Bryt a Briton, ford a ford] BRITFORD, near Sarum, Wiltshire :-- Tostig wæs ðá æt Brytforda [MS. Brytfordan] mid ðam cinge [MS. kinge] Tostig was then at Britfqrd with the king, Chr. 1065; Erl. 194, 38."
+}

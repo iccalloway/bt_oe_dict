@@ -1,0 +1,1997 @@
+wyrht	32	0	wyrht			
+cynewulf	481	0	Cynewulf			
+ribbe	1693	0	ribbe			
+þeaca	2236	0	þeaca			
+ge bȳsnian	2426	0	ge-bȳsnian			
+ge bysnian	2426	0	ge-bȳsnian			
+hāli	2624	0	hāli			
+hali	2624	0	hāli			
+mōtian	2814	0	mōtian			
+motian	2814	0	mōtian			
+ōs	3256	0	ōs			
+os	3256	0	ōs			
+feōwer feald	3820	0	feōwer-feald			
+feower feald	3820	0	feōwer-feald			
+mamme	4120	0	mamme			
+under sittende	4443	0	under-sittende			
+cōn	4661	0	cōn			
+con	4661	0	cōn			
+coon	4661	0	cōn			
+rēnig	4934	0	rēnig			
+renig	4934	0	rēnig			
+midnæddran	5125	0	midnæddran			
+midnaeddran	5125	0	midnæddran			
+midnǣddran	5125	0	midnæddran			
+wrǣstlere	5469	0	wrǣstlere			
+wraestlere	5469	0	wrǣstlere			
+hlædel	5851	0	hlædel			
+hlaedel	5851	0	hlædel			
+for sceādan	6178	0	for-sceādan			
+for sceadan	6178	0	for-sceādan			
+hearpe	6537	0	hearpe			
+hærpe	6537	0	hearpe			
+haerpe	6537	0	hearpe			
+ge hȳdan	7658	0	ge-hȳdan			
+ge hydan	7658	0	ge-hȳdan			
+ge leāfa	9250	0	ge-leāfa			
+ge leafa	9250	0	ge-leāfa			
+sprott	10367	0	sprott			
+hyll	10701	0	hyll			
+ā werian	11095	0	ā-werian			
+a werian	11095	0	ā-werian			
+be nǣman	11290	0	be-nǣman			
+be naeman	11290	0	be-nǣman			
+be nēman	11290	0	be-nǣman			
+be neman	11290	0	be-nǣman			
+on dōmes dæg	11828	0	on dōmes dæg			
+on domes daeg	11828	0	on dōmes dæg			
+ge lǣt	12037	0	ge-lǣt			
+ge laet	12037	0	ge-lǣt			
+un fracodlīce	12238	0	un-fracodlīce			
+un fracodlice	12238	0	un-fracodlīce			
+clīða	12694	0	clīða			
+cliða	12694	0	clīða			
+clȳða	12694	0	clīða			
+clyða	12694	0	clīða			
+ge dafenian	13559	0	ge-dafenian			
+dafnian	13559	0	ge-dafenian			
+dæfnia	13559	0	ge-dafenian			
+daefnia	13559	0	ge-dafenian			
+ārfæstnes	14585	0	ārfæstnes			
+arfaestnes	14585	0	ārfæstnes			
+leāctūn weard	15247	0	leāctūn-weard			
+leactun weard	15247	0	leāctūn-weard			
+ge ealdian	15609	0	ge-ealdian			
+cucurbite	16019	0	cucurbite			
+āhyrdincg	16321	0	āhyrdincg			
+ahyrdincg	16321	0	āhyrdincg			
+ofer cirr	16634	0	ofer-cirr			
+dynge	16964	0	dynge			
+giscian	17340	0	giscian			
+lǣnan	17680	0	lǣnan			
+laenan	17680	0	lǣnan			
+scendþ(u)	18599	0	scendþ(u)			
+un geheāfdod	18798	0	un-geheāfdod			
+un geheafdod	18798	0	un-geheāfdod			
+dæges	19168	0	dæges			
+daeges	19168	0	dæges			
+marm stān	19564	0	marm-stān			
+marm stan	19564	0	marm-stān			
+āhwettan	19980	0	āhwettan			
+ahwettan	19980	0	āhwettan			
+heall ærn	20586	0	heall-ærn			
+heall aern	20586	0	heall-ærn			
+fird	20781	0	fird			
+faerd	20781	0	fird			
+ferd	20781	0	fird			
+fierd	20781	0	fird			
+fyrd(e)	20781	0	fird			
+trumlīce	22828	0	trumlīce			
+trumlice	22828	0	trumlīce			
+neāhfeald lic	23553	0	neāhfeald-lic			
+neahfeald lic	23553	0	neāhfeald-lic			
+eāgan beorht	23926	0	eāgan beorht			
+eagan beorht	23926	0	eāgan beorht			
+un sefuntig	24258	0	un-sefuntig			
+seofuntig	24258	0	un-sefuntig			
+ā swēgan	24628	0	ā-swēgan			
+a swegan	24628	0	ā-swēgan			
+helfe	24940	0	helfe			
+þeā	25458	0	þeā			
+þea	25458	0	þeā			
+ge hōfod	25654	0	ge-hōfod			
+ge hofod	25654	0	ge-hōfod			
+aclian	25986	0	aclian			
+an funden	26177	0	an-funden			
+weorold rīcetere	26446	0	weorold-rīcetere			
+weorold ricetere	26446	0	weorold-rīcetere			
+hose bend	26891	0	hose-bend			
+æppel leāf	27149	0	æppel-leāf			
+aeppel leaf	27149	0	æppel-leāf			
+aloþ	27439	0	aloþ			
+þæslīcness	27908	0	þæslīcness			
+þaeslicness	27908	0	þæslīcness			
+þæslīcnysse	27908	0	þæslīcness			
+þaeslicnysse	27908	0	þæslīcness			
+neoðane	28394	0	neoðane			
+fōre cymeþ	28739	0	fōre-cymeþ			
+fore cymeþ	28739	0	fōre-cymeþ			
+cymþ	28739	0	fōre-cymeþ			
+edisc	29030	0	edisc			
+īstas	29474	0	Īstas			
+istas	29474	0	Īstas			
+hearm scearu	29831	0	hearm-scearu			
+gewif sǣlig	30252	0	gewif-sǣlig			
+gewif saelig	30252	0	gewif-sǣlig			
+āwrītan	30655	0	āwrītan			
+awritan	30655	0	āwrītan			
+ge sāweled	32112	0	ge-sāweled			
+ge saweled	32112	0	ge-sāweled			
+brōc lice	32361	0	brōc-lice			
+broc lice	32361	0	brōc-lice			
+efen niht	32651	0	efen-niht			
+ge hycgan	32923	0	ge-hycgan			
+un gecnāwen	33651	0	un-gecnāwen			
+un gecnawen	33651	0	un-gecnāwen			
+ge spēdsumian	33987	0	ge-spēdsumian			
+ge spedsumian	33987	0	ge-spēdsumian			
+tǣl	34232	0	-tǣl			
+tael	34232	0	-tǣl			
+mǣle	34428	0	-mǣle			
+maele	34428	0	-mǣle			
+brim stæþ	34620	0	brim-stæþ			
+brim staeþ	34620	0	brim-stæþ			
+sæc dōm	34948	0	sæc-dōm			
+saec dom	34948	0	sæc-dōm			
+liþe wāc	35147	0	liþe-wāc			
+liþe wac	35147	0	liþe-wāc			
+gōs fugol	35349	0	gōs-fugol			
+gos fugol	35349	0	gōs-fugol			
+wǣred	35594	0	-wǣred			
+waered	35594	0	-wǣred			
+twi sestre	35785	0	twi-sestre			
+āweorpan	36096	0	āweorpan			
+aweorpan	36096	0	āweorpan			
+wurpan	36096	0	āweorpan			
+wyrpan	36096	0	āweorpan			
+engle	37117	0	Engle			
+rōþer	37436	0	rōþer			
+roþer	37436	0	rōþer			
+hweorfan	37702	0	hweorfan			
+gyrn wracu	39997	0	GYRN-WRACU			
+seax ben[n]	40237	0	seax-ben[n]			
+līsing	40431	0	līsing			
+lising	40431	0	līsing			
+ge bȳsgian	40877	0	ge-bȳsgian			
+ge bysgian	40877	0	ge-bȳsgian			
+borcian	41075	0	borcian			
+full wiht	41498	0	full-wiht			
+byrðyn	41768	0	byrðyn			
+and lang	42156	0	and-lang			
+ond long	42156	0	and-lang			
+on long	42156	0	and-lang			
+hām cūþ	42844	0	hām-cūþ			
+ham cuþ	42844	0	hām-cūþ			
+werig(e)an	43167	0	werig(e)an			
+carl	43440	0	carl			
+ā niman	43795	0	ā-niman			
+a niman	43795	0	ā-niman			
+wīgwǣpen	44446	0	wīgwǣpen			
+wigwaepen	44446	0	wīgwǣpen			
+heofon cenned	44788	0	heofon-cenned			
+heofancenned	44788	0	heofon-cenned			
+taccian	45107	0	taccian			
+ār weorþlīce	45333	0	ār-weorþlīce			
+ar weorþlice	45333	0	ār-weorþlīce			
+mān wyrhta	45680	0	mān-wyrhta			
+man wyrhta	45680	0	mān-wyrhta			
+be swungen	46012	0	be-swungen			
+ge blissung	46278	0	ge-blissung			
+spornettan	46546	0	spornettan			
+ge swyru	46884	0	ge-swyru			
+wiþerweard ness	47159	0	wiþerweard-ness			
+strapul	48659	0	strapul			
+þeox	49039	0	þeox			
+ge rǽde	49352	0	GE-RǼDE			
+ge raede	49352	0	GE-RǼDE			
+wiþer hlinian	49561	0	wiþer-hlinian			
+wel hwilc	49921	0	wel-hwilc			
+þīfe þorn	50200	0	þīfe-þorn			
+þife þorn	50200	0	þīfe-þorn			
+ge hēn	50467	0	ge-hēn			
+ge hen	50467	0	ge-hēn			
+clerc	50802	0	clerc			
+cleric	50802	0	clerc			
+flītan	51511	0	flītan			
+flitan	51511	0	flītan			
+lesan	52536	0	lesan			
+bōc æceras	53378	0	bōc-æceras			
+boc aeceras	53378	0	bōc-æceras			
+ge bedda	53663	0	ge-bedda			
+āblācian	54186	0	āblācian			
+ablacian	54186	0	āblācian			
+blācigan	54186	0	āblācian			
+blacigan	54186	0	āblācian			
+cīping	54595	0	cīping			
+ciping	54595	0	cīping			
+stirfan	55665	0	stirfan			
+byrðen mǣlum	55922	0	byrðen-mǣlum			
+byrðen maelum	55922	0	byrðen-mǣlum			
+gyrn	56233	0	gyrn			
+162	57158	0	162			
+under serc	57487	0	under-serc			
+dōm leās	57712	0	dōm-leās			
+dom leas	57712	0	dōm-leās			
+ā wirgedlic	58251	0	ā-wirgedlic			
+a wirgedlic	58251	0	ā-wirgedlic			
+un behelod	58462	0	un-behelod			
+bearn eācnigende	58774	0	bearn-eācnigende			
+bearn eacnigende	58774	0	bearn-eācnigende			
+bȳend	59088	0	bȳend			
+byend	59088	0	bȳend			
+sand hyll	59283	0	sand-hyll			
+hyse beorþor	59611	0	hyse-beorþor			
+berþor	59611	0	hyse-beorþor			
+borþor	59611	0	hyse-beorþor			
+scip rōwend	60158	0	scip-rōwend			
+scip rowend	60158	0	scip-rōwend			
+fela specolnys	60510	0	fela-specolnys			
+nyss	60510	0	fela-specolnys			
+firwitgeorn ness	60793	0	firwitgeorn-ness			
+hetol	61126	0	hetol			
+haran specel	62081	0	haran-specel			
+sprecel	62081	0	haran-specel			
+un āwriten	62327	0	un-āwriten			
+un awriten	62327	0	un-āwriten			
+ge lūtian	62687	0	ge-lūtian			
+ge lutian	62687	0	ge-lūtian			
+efen þwær	63096	0	efen-þwær			
+efen þwaer	63096	0	efen-þwær			
+þeōw beōcere	63339	0	þeōw-beōcere			
+þeow beocere	63339	0	þeōw-beōcere			
+tigel leāh	63540	0	tigel-leāh			
+tigel leah	63540	0	tigel-leāh			
+fealu	63840	0	fealu			
+ēg streām	64105	0	ēg-streām			
+eg stream	64105	0	ēg-streām			
+ēh streām	64105	0	ēg-streām			
+eh stream	64105	0	ēg-streām			
+sīþ from	64653	0	sīþ-from			
+siþ from	64653	0	sīþ-from			
+hīwendlic	65140	0	-hīwendlic			
+hiwendlic	65140	0	-hīwendlic			
+bȳgþ	65337	0	bȳgþ			
+bygþ	65337	0	bȳgþ			
+bȳhþ	65337	0	bȳgþ			
+byhþ	65337	0	bȳgþ			
+æftum	65671	0	æftum			
+aeftum	65671	0	æftum			
+sǣ wār	65973	0	sǣ-wār			
+sae war	65973	0	sǣ-wār			
+ge þoftrǣden	66300	0	ge-þoftrǣden			
+ge þoftraeden	66300	0	ge-þoftrǣden			
+husclīce	66670	0	husclīce			
+husclice	66670	0	husclīce			
+huxlīce	66670	0	husclīce			
+huxlice	66670	0	husclīce			
+healseta	67157	0	healseta			
+mæg	67401	0	mæg			
+maeg	67401	0	mæg			
+rics	67942	0	rics			
+buterian	68127	0	buterian			
+teosol	68319	0	teosol			
+ul	68319	0	teosol			
+el	68319	0	teosol			
+druncen læt	68793	0	druncen-læt			
+druncen laet	68793	0	druncen-læt			
+staþolness	69031	0	staþolness			
+æfter rǣding	69234	0	æfter-rǣding			
+aefter raeding	69234	0	æfter-rǣding			
+be þoht	69438	0	be-þoht			
+þohte	69438	0	be-þoht			
+þohton	69438	0	be-þoht			
+stānig	69716	0	stānig			
+stanig	69716	0	stānig			
+stǣnig	69716	0	stānig			
+staenig	69716	0	stānig			
+swangettung	70279	0	swangettung			
+ræpsan	70660	0	ræpsan			
+raepsan	70660	0	ræpsan			
+driās	70854	0	driās			
+drias	70854	0	driās			
+fīf leāf	71166	0	fīf-leāf			
+fif leaf	71166	0	fīf-leāf			
+ge midleahtrian	71685	0	ge-midleahtrian			
+ge þungen	72065	0	ge-þungen			
+ster melda	73166	0	ster-melda			
+īdel hende	73696	0	īdel-hende			
+idel hende	73696	0	īdel-hende			
+galere	74395	0	galere			
+gat	74721	0	gat			
+twædding	75228	0	twædding			
+twaedding	75228	0	twædding			
+tinges	75598	0	-tinges			
+āfȳrd	75786	0	āfȳrd			
+afyrd	75786	0	āfȳrd			
+ge sundfullīc	76095	0	ge-sundfullīc			
+ge sundfullic	76095	0	ge-sundfullīc			
+ge gladian	76441	0	ge-gladian			
+ge frēdan	77841	0	ge-frēdan			
+ge fredan	77841	0	ge-frēdan			
+brǣr	79331	0	brǣr			
+braer	79331	0	brǣr			
+galg mōd	79611	0	galg-mōd			
+galg mod	79611	0	galg-mōd			
+hīw cūþ	80051	0	hīw-cūþ			
+hiw cuþ	80051	0	hīw-cūþ			
+heow	80051	0	hīw-cūþ			
+feaxede	80645	0	feaxede			
+geofian	81299	0	geofian			
+hīwe	81739	0	-hīwe			
+hiwe	81739	0	-hīwe			
+mæhe	81932	0	mæhe			
+maehe	81932	0	mæhe			
+mæhte	81932	0	mæhe			
+maehte	81932	0	mæhe			
+ful gewēpned	82219	0	ful-gewēpned			
+ful gewepned	82219	0	ful-gewēpned			
+heald nes	82494	0	heald-nes			
+ness	82494	0	heald-nes			
+wer borh	82856	0	wer-borh			
+mægen	83153	0	mægen			
+maegen	83153	0	mægen			
+grunnian	84055	0	grunnian			
+ǣrend bōc	84245	0	ǣrend-bōc			
+aerend boc	84245	0	ǣrend-bōc			
+mæsser bana	84532	0	mæsser-bana			
+maesser bana	84532	0	mæsser-bana			
+eāg gemearc	84863	0	EĀG-GEMEARC			
+eag gemearc	84863	0	EĀG-GEMEARC			
+hryto	85066	0	hryto			
+hrȳte	85066	0	hryto			
+hryte	85066	0	hryto			
+heolfrig	85322	0	heolfrig			
+hlīwsian	85646	0	hlīwsian			
+hliwsian	85646	0	hlīwsian			
+be tyllan	85844	0	be-tyllan			
+ymb sǣlan	86361	0	ymb-sǣlan			
+ymb saelan	86361	0	ymb-sǣlan			
+flāh	86699	0	flāh			
+flah	86699	0	flāh			
+sciran	87103	0	sciran			
+sworettan	88113	0	sworettan			
+flsc lacu	88439	0	flsc-lacu			
+ābeden	88626	0	ābeden			
+abeden	88626	0	ābeden			
+fela mōdig	88891	0	fela-mōdig			
+fela modig	88891	0	fela-mōdig			
+bed rida	89268	0	bed-rida			
+for helan	89523	0	for-helan			
+hrīðeren	90289	0	hrīðeren			
+hriðeren	90289	0	hrīðeren			
+ymb sittend	90629	0	ymb-sittend			
+scrīn	91203	0	scrīn			
+scrin	91203	0	scrīn			
+ge wæterian	92414	0	ge-wæterian			
+ge waeterian	92414	0	ge-wæterian			
+freōnd scipe	92761	0	freōnd-scipe			
+freond scipe	92761	0	freōnd-scipe			
+scype	92761	0	freōnd-scipe			
+fāmig	93680	0	fāmig			
+famig	93680	0	fāmig			
+fǣmig	93680	0	fāmig			
+faemig	93680	0	fāmig			
+gliwian	94056	0	gliwian			
+scip hlæst	94397	0	scip-hlæst			
+scip hlaest	94397	0	scip-hlæst			
+isen	95194	0	isen			
+iesen	95194	0	isen			
+iesend	95194	0	isen			
+gerād	95381	0	gerād			
+gerad	95381	0	gerād			
+ful cyrten	97136	0	ful-cyrten			
+un eāðlǣce	97495	0	un-eāðlǣce			
+un eaðlaece	97495	0	un-eāðlǣce			
+eorþ hrērness	97825	0	eorþ-hrērness			
+eorþ hrerness	97825	0	eorþ-hrērness			
+under settan	98316	0	under-settan			
+lǣden word	98537	0	Lǣden-word			
+laeden word	98537	0	Lǣden-word			
+sām cwic	98899	0	sām-cwic			
+sam cwic	98899	0	sām-cwic			
+īþian	99295	0	-īþian			
+iþian	99295	0	-īþian			
+feormung	99491	0	feormung			
+ge fole	100080	0	ge-fole			
+prod bor	100431	0	prod-bor			
+hearm leōþ	100696	0	HEARM-LEŌÞ			
+hearm leoþ	100696	0	HEARM-LEŌÞ			
+flǣn	100943	0	flǣn			
+flaen	100943	0	flǣn			
+under standendlīc	101219	0	under-standendlīc			
+under standendlic	101219	0	under-standendlīc			
+hnesc līc	101458	0	hnesc-līc			
+hnesc lic	101458	0	hnesc-līc			
+for prǣstan	101887	0	for-prǣstan			
+for praestan	101887	0	for-prǣstan			
+gotonisc	102222	0	Gotonisc			
+fōre beōn	102517	0	fōre-beōn			
+fore beon	102517	0	fōre-beōn			
+hundred sōcn	102831	0	hundred-sōcn			
+hundred socn	102831	0	hundred-sōcn			
+āblican	103310	0	āblican			
+ablican	103310	0	āblican			
+on bīdan	103803	0	on-bīdan			
+on bidan	103803	0	on-bīdan			
+ǣrend wreccan	104275	0	ǣrend-wreccan			
+aerend wreccan	104275	0	ǣrend-wreccan			
+beācen stān	104762	0	beācen-stān			
+beacen stan	104762	0	beācen-stān			
+winter dūn	105070	0	winter-dūn			
+winter dun	105070	0	winter-dūn			
+be scyrian	105589	0	be-scyrian			
+for þrysmian	105858	0	for-þrysmian			
+ealdor bisceop	106326	0	ealdor-bisceop			
+regn snegel	106862	0	regn-snegel			
+lytel	107165	0	lytel			
+lȳtel	107165	0	lytel			
+fore þingung	110575	0	fore-þingung			
+getel cræft	111195	0	getel-cræft			
+getel craeft	111195	0	getel-cræft			
+ē sceapa	111440	0	ē-sceapa			
+e sceapa	111440	0	ē-sceapa			
+an æðelian	111633	0	an-æðelian			
+an aeðelian	111633	0	an-æðelian			
+ge trumian	112123	0	ge-trumian			
+hwītel	112598	0	hwītel			
+hwitel	112598	0	hwītel			
+be hlemman	112962	0	be-hlemman			
+ymb habban	113252	0	ymb-habban			
+senn	113584	0	senn			
+bȳencg	113769	0	bȳencg			
+byencg	113769	0	bȳencg			
+andredes weald	113961	0	Andredes weald			
+wamm freht	114156	0	wamm-freht			
+wīf hand	114592	0	wīf-hand			
+wif hand	114592	0	wīf-hand			
+eges līc	115147	0	eges līc			
+eges lic	115147	0	eges līc			
+wadung	115667	0	wadung			
+cneord	116050	0	cneord			
+ā mearcian	116333	0	ā-mearcian			
+a mearcian	116333	0	ā-mearcian			
+ge mōdsumnes	117430	0	ge-mōdsumnes			
+ge modsumnes	117430	0	ge-mōdsumnes			
+fōwer	117868	0	fōwer			
+fower	117868	0	fōwer			
+for bodian	118227	0	for-bodian			
+under sprecan	118418	0	under-sprecan			
+wylcþ	118641	0	wylcþ			
+ān lǣcung	118833	0	ān-lǣcung			
+an laecung	118833	0	ān-lǣcung			
+(?)	118833	0	ān-lǣcung			
+ge timbru	119037	0	GE-TIMBRU			
+ambiht	119241	0	ambiht			
+ambieht	119241	0	ambiht			
+wearoþ	119527	0	wearoþ			
+ge mearcund	119715	0	ge-mearcund			
+rūm gāl	119910	0	rūm-gāl			
+rum gal	119910	0	rūm-gāl			
+ge þohte	120367	0	ge-þohte			
+cniht līc	120715	0	cniht-līc			
+cniht lic	120715	0	cniht-līc			
+waru	121142	0	waru			
+bodan	121544	0	bodan			
+ufan cund	121730	0	ufan-cund			
+lār spell	122275	0	lār-spell			
+lar spell	122275	0	lār-spell			
+ā bilgan	122816	0	ā-bilgan			
+a bilgan	122816	0	ā-bilgan			
+wīn sæl	123014	0	wīn-sæl			
+win sael	123014	0	wīn-sæl			
+eal	123413	0	EAL			
+eall	123413	0	EAL			
+ge strod	124613	0	ge-strod			
+līcham līce	125112	0	līcham-līce			
+licham lice	125112	0	līcham-līce			
+līcum līce	125112	0	līcham-līce			
+licum lice	125112	0	līcham-līce			
+sigefæstnian	125684	0	-sigefæstnian			
+sigefaestnian	125684	0	-sigefæstnian			
+teart	125885	0	teart			
+efn eald	126298	0	efn-eald			
+sibsumness	126681	0	sibsumness			
+sirwung	126875	0	sirwung			
+þrym wealdend	127669	0	þrym-wealdend			
+heard sǣlig	128119	0	heard-sǣlig			
+heard saelig	128119	0	heard-sǣlig			
+wirpan	128519	0	wirpan			
+woruld	129117	0	woruld			
+of setting	129306	0	of-setting			
+þideres	129606	0	þideres			
+hūs bonda	129873	0	hūs-bonda			
+hus bonda	129873	0	hūs-bonda			
+bunda	129873	0	hūs-bonda			
+drepe	130470	0	drepe			
+drype	130470	0	drepe			
+trymmend	130904	0	trymmend			
+dæg wist	131186	0	dæg-wist			
+daeg wist	131186	0	dæg-wist			
+for sewen	131553	0	for-sewen			
+wīs hygdig	131781	0	wīs-hygdig			
+wis hygdig	131781	0	wīs-hygdig			
+fulteman	132146	0	fulteman			
+fultemian	132146	0	fulteman			
+ge neāt scōlu	132647	0	ge-neāt-scōlu			
+ge neat scolu	132647	0	ge-neāt-scōlu			
+forþ rihte	132997	0	forþ-rihte			
+ge hlid	133947	0	ge-hlid			
+ge cælcian	134485	0	ge-cælcian			
+ge caelcian	134485	0	ge-cælcian			
+gedwol mist	134683	0	gedwol-mist			
+scortness	135052	0	scortness			
+þwāstrian	135759	0	þwāstrian			
+þwastrian	135759	0	þwāstrian			
+bȳsnung	136191	0	-bȳsnung			
+bysnung	136191	0	-bȳsnung			
+bisceop wyrt	136387	0	bisceop-wyrt			
+fuhlas	136663	0	fuhlas			
+fuglas	136663	0	fuhlas			
+in burh	136919	0	in-burh			
+plegan	137193	0	plegan			
+plægan	137193	0	plegan			
+plaegan	137193	0	plegan			
+plegian	137193	0	plegan			
+plagian	137193	0	plegan			
+þeōd scipe	139459	0	þeōd-scipe			
+þeod scipe	139459	0	þeōd-scipe			
+deōg	140145	0	deōg			
+deog	140145	0	deōg			
+ge tȳdan	140339	0	ge-tȳdan			
+ge tydan	140339	0	ge-tȳdan			
+streng līc	140538	0	streng-līc			
+streng lic	140538	0	streng-līc			
+ǣ mynde	140917	0	ǣ-mynde			
+ae mynde	140917	0	ǣ-mynde			
+un sōþ	141321	0	un-sōþ			
+un soþ	141321	0	un-sōþ			
+ed ric	141732	0	ed-ric			
+earg scipe	141920	0	earg-scipe			
+wiþer mēde	142393	0	wiþer-mēde			
+wiþer mede	142393	0	wiþer-mēde			
+sige hwīl	142972	0	sige-hwīl			
+sige hwil	142972	0	sige-hwīl			
+geond brǣdan	143351	0	geond-brǣdan			
+geond braedan	143351	0	geond-brǣdan			
+and wīsnes	143745	0	and-wīsnes			
+and wisnes	143745	0	and-wīsnes			
+seāw	144063	0	seāw			
+seaw	144063	0	seāw			
+bildu	144430	0	bildu			
+o	144430	0	bildu			
+bild	144430	0	bildu			
+bielde	144430	0	bildu			
+bældo	144430	0	bildu			
+baeldo	144430	0	bildu			
+byldu	144430	0	bildu			
+byldum	144430	0	bildu			
+beldo	144430	0	bildu			
+belde	144430	0	bildu			
+ge leoran	145172	0	ge-leoran			
+īdel georn	145934	0	īdel-georn			
+idel georn	145934	0	īdel-georn			
+ge bēd hūs	146335	0	ge-bēd-hūs			
+ge bed hus	146335	0	ge-bēd-hūs			
+fyrdlīc	146854	0	fyrdlīc			
+fyrdlic	146854	0	fyrdlīc			
+deōfulgyld hūs	147222	0	deōfulgyld-hūs			
+deofulgyld hus	147222	0	deōfulgyld-hūs			
+finns buruh	147665	0	Finns buruh			
+finnes burh	147665	0	Finns buruh			
+sige beācen	148147	0	sige-beācen			
+sige beacen	148147	0	sige-beācen			
+streōn	148413	0	streōn			
+streon	148413	0	streōn			
+ge hwyrfednes	149504	0	ge-hwyrfednes			
+hwyrfenes	149504	0	ge-hwyrfednes			
+āhycgan	149939	0	āhycgan			
+ahycgan	149939	0	āhycgan			
+hicgan	149939	0	āhycgan			
+grunnung	150568	0	grunnung			
+in feccan	150756	0	in-feccan			
+ylp	151104	0	ylp			
+elp	151104	0	ylp			
+brycg	151882	0	BRYCG			
+bricg	151882	0	BRYCG			
+six hynde	152490	0	six-hynde			
+sixhynde	152490	0	six-hynde			
+syxhynde	152490	0	six-hynde			
+syxhyndu	152490	0	six-hynde			
+syxhyndum	152490	0	six-hynde			
+ge dysigend	153220	0	ge-dysigend			
+eting	153552	0	eting			
+erþ ling	153864	0	erþ-ling			
+firn	154055	0	firn			
+ceosel stān	154240	0	ceosel-stān			
+ceosel stan	154240	0	ceosel-stān			
+cysel stān	154240	0	ceosel-stān			
+cysel stan	154240	0	ceosel-stān			
+gind	154627	0	gind			
+trūwian	154812	0	trūwian			
+truwian	154812	0	trūwian			
+ge cneōrednis	156612	0	ge-cneōrednis			
+ge cneorednis	156612	0	ge-cneōrednis			
+þorfend	156859	0	þorfend			
+niþer dǣl	157472	0	niþer-dǣl			
+niþer dael	157472	0	niþer-dǣl			
+wīf þegen	157812	0	wīf-Þegen			
+wif þegen	157812	0	wīf-Þegen			
+styrian	158077	0	styrian			
+dǣl nimung	158763	0	dǣl-nimung			
+dael nimung	158763	0	dǣl-nimung			
+un sæpig	159162	0	un-sæpig			
+un saepig	159162	0	un-sæpig			
+under þeōdendlīc	159530	0	under-þeōdendlīc			
+under þeodendlic	159530	0	under-þeōdendlīc			
+weg līsu	159770	0	weg-līsu			
+weg lisu	159770	0	weg-līsu			
+gūþ spell	160072	0	gūþ-spell			
+guþ spell	160072	0	gūþ-spell			
+weā	160319	0	weā			
+wea	160319	0	weā			
+gēsne	162395	0	gēsne			
+gesne	162395	0	gēsne			
+ealdor dōm scipe	162918	0	ealdor-dōm-scipe			
+ealdor dom scipe	162918	0	ealdor-dōm-scipe			
+ge scola	163313	0	ge-scola			
+scōla ?	163313	0	ge-scola			
+scola ?	163313	0	ge-scola			
+baroc scīr	163648	0	Baroc-scīr			
+baroc scir	163648	0	Baroc-scīr			
+barruc	163648	0	Baroc-scīr			
+bearruc	163648	0	Baroc-scīr			
+bearwucscīre	163648	0	Baroc-scīr			
+bearwucscire	163648	0	Baroc-scīr			
+stīg	163964	0	stīg			
+stig	163964	0	stīg			
+ge hwǣmlic	164436	0	ge-hwǣmlic			
+ge hwaemlic	164436	0	ge-hwǣmlic			
+cent rīce	164640	0	Cent-rīce			
+cent rice	164640	0	Cent-rīce			
+brogdettan	164922	0	brogdettan			
+brodd	164922	0	brogdettan			
+brōd	164922	0	brogdettan			
+brod	164922	0	brogdettan			
+brēd	164922	0	brogdettan			
+bred	164922	0	brogdettan			
+brott	164922	0	brogdettan			
+georn ness	165816	0	georn-ness			
+ēsa	166014	0	ēsa			
+esa	166014	0	ēsa			
+tō weard	166205	0	tō-weard			
+to weard	166205	0	tō-weard			
+sealf	167195	0	sealf			
+sealfe	167195	0	sealf			
+ācwelledness	167995	0	ācwelledness			
+acwelledness	167995	0	ācwelledness			
+candel sticca	168312	0	candel-sticca			
+nunn fǣmne	168584	0	nunn-fǣmne			
+nunn faemne	168584	0	nunn-fǣmne			
+spircing	168978	0	spircing			
+firgen gāt	169353	0	firgen-gāt			
+firgen gat	169353	0	firgen-gāt			
+sceoldon	169671	0	sceoldon			
+fōre	170604	0	fōre-			
+fore	170604	0	fōre-			
+slege	170843	0	slege			
+æl fæle	171298	0	æl-fæle			
+ael faele	171298	0	æl-fæle			
+creācisc	171683	0	Creācisc			
+creacisc	171683	0	Creācisc			
+eāst sūþ	171882	0	eāst-sūþ			
+east suþ	171882	0	eāst-sūþ			
+samod gesīþ	172273	0	samod-gesīþ			
+samod gesiþ	172273	0	samod-gesīþ			
+gild	172609	0	gild			
+weorold gewritu	174461	0	weorold-gewritu			
+weoruldgewritu	174461	0	weorold-gewritu			
+woruldgewrytu	174461	0	weorold-gewritu			
+ǣr nemned	174879	0	ǣr-nemned			
+aer nemned	174879	0	ǣr-nemned			
+wed bryce	175173	0	wed-bryce			
+rǣpe	175713	0	-rǣpe			
+raepe	175713	0	-rǣpe			
+gȳme	175911	0	GȲME			
+gyme	175911	0	GȲME			
+firra	176161	0	firra			
+ymbren fæsten	176347	0	ymbren-fæsten			
+ymbren faesten	176347	0	ymbren-fæsten			
+hālig wæcca	176953	0	hālig-wæcca			
+halig waecca	176953	0	hālig-wæcca			
+ge hirdness	177365	0	ge-hirdness			
+medu wyrt	177677	0	medu-wyrt			
+hwioð	178113	0	hwioð			
+tō helpan	178303	0	tō-helpan			
+to helpan	178303	0	tō-helpan			
+þȳfel	178634	0	þȳfel			
+þyfel	178634	0	þȳfel			
+ge þyncþ(u)	178931	0	ge-þyncþ(u)			
+āweg	180836	0	āweg			
+aweg	180836	0	āweg			
+ofer bebeōdan	181416	0	ofer-bebeōdan			
+ofer bebeodan	181416	0	ofer-bebeōdan			
+brasian	181738	0	brasian			
+brasigan	181738	0	brasian			
+eln	182050	0	ELN			
+rēn līc	182846	0	rēn-līc			
+ren lic	182846	0	rēn-līc			
+efen hāda bisceop	183043	0	efen-hāda-bisceop			
+efen hada bisceop	183043	0	efen-hāda-bisceop			
+swǣslǣcan	183314	0	swǣslǣcan			
+swaeslaecan	183314	0	swǣslǣcan			
+ellen lǣca	183701	0	ellen-lǣca			
+ellen laeca	183701	0	ellen-lǣca			
+cyrf	183973	0	cyrf			
+ge fadung	184456	0	ge-fadung			
+ge wēnan	185123	0	ge-wēnan			
+ge wenan	185123	0	ge-wēnan			
+and wlītan	185437	0	and-wlītan			
+and wlitan	185437	0	and-wlītan			
+mær weorc	185901	0	mær-weorc			
+maer weorc	185901	0	mær-weorc			
+frōf(e)rian	186154	0	frōf(e)rian			
+frof(e)rian	186154	0	frōf(e)rian			
+ofer rano	186358	0	ofer-rano			
+betost	186720	0	betost			
+līdeþ	187147	0	līdeþ			
+lideþ	187147	0	līdeþ			
+ge hīwian	187346	0	ge-hīwian			
+ge hiwian	187346	0	ge-hīwian			
+hiewian	187346	0	ge-hīwian			
+þeāf	187797	0	þeāf			
+þeaf	187797	0	þeāf			
+soeald þȳfel	187993	0	soeald-þȳfel			
+soeald þyfel	187993	0	soeald-þȳfel			
+hȳfel	187993	0	soeald-þȳfel			
+hyfel	187993	0	soeald-þȳfel			
+iōw	188434	0	iōw			
+iow	188434	0	iōw			
+un mynegod	188622	0	un-mynegod			
+un gefremed	189032	0	un-gefremed			
+hōd	189380	0	hōd			
+hod	189380	0	hōd			
+be siōn	189907	0	be-siōn			
+be sion	189907	0	be-siōn			
+erythræa centaureum	190269	0	erythræa centaureum			
+erythraea centaureum	190269	0	erythræa centaureum			
+hell ware	190587	0	hell-ware			
+wara	190587	0	hell-ware			
+leōht sceāwigend	191152	0	leōht-sceāwigend			
+leoht sceawigend	191152	0	leōht-sceāwigend			
+on sting	191401	0	on-sting			
+and swaru	191879	0	and-swaru			
+feorm	192445	0	feorm			
+ge hwǣmlīce	194323	0	ge-hwǣmlīce			
+ge hwaemlice	194323	0	ge-hwǣmlīce			
+lǣce	194530	0	LǢCE			
+laece	194530	0	LǢCE			
+ge bryttian	194731	0	ge-bryttian			
+heorþ	195192	0	heorþ			
+clincig	195893	0	clincig			
+or dǣle	196257	0	or-dǣle			
+or daele	196257	0	or-dǣle			
+tiig	196514	0	Tiig			
+æt is	196698	0	æt-is			
+aet is	196698	0	æt-is			
+wyndrian	196996	0	wyndrian			
+hlosnian	197185	0	hlosnian			
+āstīgan	197989	0	āstīgan			
+astigan	197989	0	āstīgan			
+under standan	199744	0	under-standan			
+ge fæd	199957	0	ge-fæd			
+ge faed	199957	0	ge-fæd			
+ge cunnian	200346	0	ge-cunnian			
+ge cȳþedness	201011	0	ge-cȳþedness			
+ge cyþedness	201011	0	ge-cȳþedness			
+þwang	201341	0	þwang			
+gemynd blīþe	201793	0	gemynd-blīþe			
+gemynd bliþe	201793	0	gemynd-blīþe			
+murnung	202151	0	murnung			
+ende mes	202462	0	ende-mes			
+endemest	202462	0	ende-mes			
+ændemes	202462	0	ende-mes			
+aendemes	202462	0	ende-mes			
+ændemest	202462	0	ende-mes			
+aendemest	202462	0	ende-mes			
+cneōwede	202946	0	cneōwede			
+cneowede	202946	0	cneōwede			
+ade	202946	0	cneōwede			
+stīming	203275	0	stīming			
+stiming	203275	0	stīming			
+ā smūgan	203617	0	ā-smūgan			
+a smugan	203617	0	ā-smūgan			
+ge rynning	203933	0	ge-rynning			
+ūre	204123	0	ūre			
+ure	204123	0	ūre			
+ge cliht	205526	0	ge-cliht			
+āblǣcnes	205718	0	āblǣcnes			
+ablaecnes	205718	0	āblǣcnes			
+gyfl	206041	0	gyfl			
+heaðu deōr	206227	0	heaðu-deōr			
+heaðu deor	206227	0	heaðu-deōr			
+meðema	206461	0	meðema			
+ealdor dēma	206655	0	ealdor-dēma			
+ealdor dema	206655	0	ealdor-dēma			
+ge dingan	206928	0	ge-dingan			
+āfæstan	207226	0	āfæstan			
+afaestan	207226	0	āfæstan			
+þorn stybb	207606	0	þorn-stybb			
+stubb	207606	0	þorn-stybb			
+helfling	208023	0	helfling			
+for bor	208387	0	for-bor			
+oþ hrīnan	208578	0	oþ-hrīnan			
+oþ hrinan	208578	0	oþ-hrīnan			
+seō	209348	0	seō			
+seo	209348	0	seō			
+ge edðrawen	209540	0	ge-edðrawen			
+hǣmdere	209790	0	hǣmdere			
+haemdere	209790	0	hǣmdere			
+flǣsc tawere	209988	0	flǣsc-tawere			
+flaesc tawere	209988	0	flǣsc-tawere			
+lacu	210431	0	lacu			
+lēsan	211307	0	-lēsan			
+lesan	211307	0	-lēsan			
+cwide	211500	0	cwide			
+cōlode	212007	0	cōlode			
+colode	212007	0	cōlode			
+wāc scipe	212359	0	wāc-scipe			
+wac scipe	212359	0	wāc-scipe			
+fore witol	212801	0	fore-witol			
+cīte	213103	0	cīte			
+cite	213103	0	cīte			
+ge tydd	214278	0	ge-tydd			
+ge māgnys	214470	0	ge-māgnys			
+ge magnys	214470	0	ge-māgnys			
+ge cǣlan	214897	0	ge-cǣlan			
+ge caelan	214897	0	ge-cǣlan			
+rēnian	215096	0	rēnian			
+renian	215096	0	rēnian			
+frum	215289	0	FRUM			
+for grīwan	215811	0	for-grīwan			
+for griwan	215811	0	for-grīwan			
+loca	216207	0	loca			
+caminatum	216480	0	caminatum			
+geān cwide	216784	0	geān-cwide			
+gean cwide	216784	0	geān-cwide			
+rīce	216991	0	rīce			
+rice	216991	0	rīce			
+efen lāste	217730	0	efen-lāste			
+efen laste	217730	0	efen-lāste			
+eft	218146	0	eft			
+āttor drinca	220367	0	āttor-drinca			
+attor drinca	220367	0	āttor-drinca			
+be weddendlic	220649	0	be-weddendlic			
+wagung	220955	0	wagung			
+hweowol	221388	0	hweowol			
+hweogul	221388	0	hweowol			
+hweōl	221388	0	hweowol			
+hweol	221388	0	hweowol			
+hweōhle	221388	0	hweowol			
+hweohle	221388	0	hweowol			
+hwēl	221388	0	hweowol			
+hwel	221388	0	hweowol			
+heg hūs	222113	0	heg-hūs			
+heg hus	222113	0	heg-hūs			
+hig hūs	222113	0	heg-hūs			
+hig hus	222113	0	heg-hūs			
+scendness	222381	0	scendness			
+þeōf	222571	0	þeōf			
+þeof	222571	0	þeōf			
+heolor bledu	224370	0	heolor-bledu			
+swēgend līc	224707	0	swēgend-līc			
+swegend lic	224707	0	swēgend-līc			
+fryþ	225075	0	fryþ			
+pīle	225602	0	pīle			
+pile	225602	0	pīle			
+fæsten behæfednes	225887	0	fæsten-behæfednes			
+faesten behaefednes	225887	0	fæsten-behæfednes			
+orsorg līc	226167	0	ORSORG-LĪC			
+orsorg lic	226167	0	ORSORG-LĪC			
+scilbrong	226376	0	scilbrong			
+frēfer ness	226567	0	frēfer-ness			
+frefer ness	226567	0	frēfer-ness			
+blōt	226908	0	blōt			
+blot	226908	0	blōt			
+ge rēþra	227188	0	ge-rēþra			
+ge reþra	227188	0	ge-rēþra			
+for meltan	227588	0	for-meltan			
+myltan	227588	0	for-meltan			
+ge clingan	228142	0	ge-clingan			
+andergilde	228337	0	andergilde			
+būr	228734	0	-BŪR			
+bur	228734	0	-BŪR			
+mōdor cynd	228936	0	mōdor-cynd			
+modor cynd	228936	0	mōdor-cynd			
+æmete	229298	0	æmete			
+aemete	229298	0	æmete			
+æmette	229298	0	æmete			
+aemette	229298	0	æmete			
+æmytte	229298	0	æmete			
+aemytte	229298	0	æmete			
+tō līsing	229744	0	tō-līsing			
+to lising	229744	0	tō-līsing			
+leac blæd	230268	0	leac-blæd			
+leac blaed	230268	0	leac-blæd			
+be sparrian	230615	0	be-sparrian			
+sūþ eāsterne	230970	0	sūþ-eāsterne			
+suþ easterne	230970	0	sūþ-eāsterne			
+clam	231279	0	clam			
+clam[m]	231279	0	clam			
+clom[m]	231279	0	clam			
+ār cræftig	231880	0	ār-cræftig			
+ar craeftig	231880	0	ār-cræftig			
+nīdþearflīce	232251	0	nīdþearflīce			
+nidþearflice	232251	0	nīdþearflīce			
+nēdþearflīce	232251	0	nīdþearflīce			
+nedþearflice	232251	0	nīdþearflīce			
+nȳdþearflīce	232251	0	nīdþearflīce			
+nydþearflice	232251	0	nīdþearflīce			
+neādþearflīce	232251	0	nīdþearflīce			
+neadþearflice	232251	0	nīdþearflīce			
+nīd hǣmestre	232592	0	nīd-hǣmestre			
+nid haemestre	232592	0	nīd-hǣmestre			
+hwer hwette	232955	0	hwer-hwette			
+ā cuman	233404	0	ā-cuman			
+a cuman	233404	0	ā-cuman			
+bȳed	234441	0	bȳed			
+byed	234441	0	bȳed			
+langlīce	234632	0	langlīce			
+langlice	234632	0	langlīce			
+biedan heāfod	234909	0	Biedan heāfod			
+biedan heafod	234909	0	Biedan heāfod			
+grost	235324	0	grost			
+gicel	235638	0	GICEL			
+bēmere	236082	0	bēmere			
+bemere	236082	0	bēmere			
+sylfor	236344	0	sylfor			
+āte	236531	0	ĀTE			
+ate	236531	0	ĀTE			
+ǣte	236531	0	ĀTE			
+aete	236531	0	ĀTE			
+be lādian	237033	0	be-lādian			
+be ladian	237033	0	be-lādian			
+āgeat	237499	0	āgeat			
+ageat	237499	0	āgeat			
+ge dreht	237763	0	ge-dreht			
+gifan	238029	0	gifan			
+on gecoplīce	238220	0	on-gecoplīce			
+on gecoplice	238220	0	on-gecoplīce			
+beorþ	238420	0	beorþ			
+berþ	238420	0	beorþ			
+byrþ	238420	0	beorþ			
+ge twisa	238774	0	ge-twisa			
+stician	239197	0	stician			
+hundteōntigfealde	241426	0	hundteōntigfealde			
+hundteontigfealde	241426	0	hundteōntigfealde			
+feōnd rǣs	241779	0	feōnd-rǣs			
+feond raes	241779	0	feōnd-rǣs			
+flōd wudu	242183	0	flōd-wudu			
+flod wudu	242183	0	flōd-wudu			
+ātor coppe	242631	0	ātor-coppe			
+ator coppe	242631	0	ātor-coppe			
+gyrnan	242956	0	gyrnan			
+girnan	242956	0	gyrnan			
+heāfod slæge	243613	0	heāfod-slæge			
+heafod slaege	243613	0	heāfod-slæge			
+eād mēd	243924	0	eād-mēd			
+ead med	243924	0	eād-mēd			
+snotinga hām	244368	0	Snotinga-hām			
+snotinga ham	244368	0	Snotinga-hām			
+hell bend	244856	0	hell-bend			
+wyrmǣte	245171	0	wyrmǣte			
+wyrmaete	245171	0	wyrmǣte			
+tȳman	245470	0	tȳman			
+tyman	245470	0	tȳman			
+friþ sōcn	245658	0	friþ-sōcn			
+friþ socn	245658	0	friþ-sōcn			
+byge	246051	0	byge			
+æt gædere	246236	0	æt-gædere			
+aet gaedere	246236	0	æt-gædere			
+fieder	246892	0	fieder			
+bēce	247147	0	bēce			
+bece	247147	0	bēce			
+nytan	247614	0	nytan			
+wīc bora	248590	0	wīc-bora			
+wic bora	248590	0	wīc-bora			
+un gemetfæstness	248785	0	un-gemetfæstness			
+un gemetfaestness	248785	0	un-gemetfæstness			
+ge irflan	249195	0	ge-irflan			
+ādriōgan	249388	0	ādriōgan			
+adriogan	249388	0	ādriōgan			
+driōhan	249388	0	ādriōgan			
+driohan	249388	0	ādriōgan			
+un mennisclīc	249652	0	un-mennisclīc			
+un mennisclic	249652	0	un-mennisclīc			
+þǣra diācona wæs se forma stephanus	250098	0	Þǣra diācona wæs se forma Stephanus			
+þaera diacona waes se forma stephanus	250098	0	Þǣra diācona wæs se forma Stephanus			
+on gripe	250664	0	on-gripe			
+ge cweccan	251007	0	ge-cweccan			
+strica	251293	0	strica			
+ge leāffulnes	251602	0	ge-leāffulnes			
+ge leaffulnes	251602	0	ge-leāffulnes			
+nys	251602	0	ge-leāffulnes			
+ge þancol	252075	0	ge-þancol			
+þeōh hweorfa	252657	0	þeōh-hweorfa			
+þeoh hweorfa	252657	0	þeōh-hweorfa			
+laur beām	252983	0	laur-beām			
+laur beam	252983	0	laur-beām			
+heāfod cwide	253403	0	heāfod-cwide			
+heafod cwide	253403	0	heāfod-cwide			
+breāt	253911	0	breāt			
+breat	253911	0	breāt			
+tō leoðian	254205	0	tō-leoðian			
+to leoðian	254205	0	tō-leoðian			
+āwegyd	254407	0	āwegyd			
+awegyd	254407	0	āwegyd			
+wræcca	254667	0	wræcca			
+wraecca	254667	0	wræcca			
+molde	254860	0	molde			
+efn	256262	0	efn			
+līn wyrt	256766	0	līn-wyrt			
+lin wyrt	256766	0	līn-wyrt			
+cyric tūn	257005	0	cyric-tūn			
+cyric tun	257005	0	cyric-tūn			
+āhwelfan	257201	0	āhwelfan			
+ahwelfan	257201	0	āhwelfan			
+spell bōc	257469	0	SPELL-BŌC			
+spell boc	257469	0	SPELL-BŌC			
+lāþ	257672	0	LĀÞ			
+laþ	257672	0	LĀÞ			
+cysel stān	257913	0	cysel-stān			
+cysel stan	257913	0	cysel-stān			
+siþþan	258170	0	siþþan			
+be gēmed	258777	0	be-gēmed			
+be gemed	258777	0	be-gēmed			
+efen ēce	259019	0	efen-ēce			
+efen ece	259019	0	efen-ēce			
+be limpan	259534	0	be-limpan			
+in settan	261154	0	in-settan			
+biscepdōm	261480	0	biscepdōm			
+biscepdom	261480	0	biscepdōm			
+ge pōht	261914	0	ge-pōht			
+ge poht	261914	0	ge-pōht			
+ge fiþerian	262109	0	ge-fiþerian			
+tīned	262394	0	-tīned			
+tined	262394	0	-tīned			
+gapian	262586	0	gapian			
+ymb þringend	262776	0	ymb-þringend			
+stæl wyrt	262976	0	stæl-wyrt			
+stael wyrt	262976	0	stæl-wyrt			
+sceāp īg	263325	0	Sceāp-īg			
+sceap ig	263325	0	Sceāp-īg			
+hamacgað	263764	0	hamacgað			
+heāðu sigel	263960	0	HEĀÐU-SIGEL			
+heaðu sigel	263960	0	HEĀÐU-SIGEL			
+wīd nett	264196	0	wīd-nett			
+wid nett	264196	0	wīd-nett			
+āwegan	264526	0	āwegan			
+awegan	264526	0	āwegan			
+ge cirran	265245	0	ge-cirran			
+ge cerran	265245	0	ge-cirran			
+ge cyrran	265245	0	ge-cirran			
+drēd	266304	0	drēd			
+dred	266304	0	drēd			
+estre	266579	0	-estre			
+istre	266579	0	-estre			
+ystre	266579	0	-estre			
+firmþ	267090	0	firmþ			
+camal	267302	0	camal			
+wan hygd	267548	0	wan-hygd			
+hygdu	267548	0	wan-hygd			
+hygdo	267548	0	wan-hygd			
+emb wlātian	268010	0	emb-wlātian			
+emb wlatian	268010	0	emb-wlātian			
+sīc	268435	0	sīc			
+sic	268435	0	sīc			
+ange	268630	0	ange			
+ænge	268630	0	ange			
+aenge	268630	0	ange			
+enge	268630	0	ange			
+onge	268630	0	ange			
+asc þrotu	269138	0	asc-þrotu			
+gaful rǣden	269403	0	gaful-rǣden			
+gaful raeden	269403	0	gaful-rǣden			
+rǣdenn	269403	0	gaful-rǣden			
+raedenn	269403	0	gaful-rǣden			
+lād leās	269881	0	lād-leās			
+lad leas	269881	0	lād-leās			
+tylung	270345	0	tylung			
+tȳma	270531	0	tȳma			
+tyma	270531	0	tȳma			
+æcer weg	270725	0	æcer-weg			
+aecer weg	270725	0	æcer-weg			
+ge glengan	271054	0	ge-glengan			
+glencan	271054	0	ge-glengan			
+glæncan	271054	0	ge-glengan			
+glaencan	271054	0	ge-glengan			
+glencgan	271054	0	ge-glengan			
+glengcan	271054	0	ge-glengan			
+dolh bōt	272293	0	dolh-bōt			
+dolh bot	272293	0	dolh-bōt			
+dolg bōt	272293	0	dolh-bōt			
+dolg bot	272293	0	dolh-bōt			
+mōd sefa	272682	0	mōd-sefa			
+mod sefa	272682	0	mōd-sefa			
+berþ	273802	0	berþ			
+hand seax	274083	0	hand-seax			
+grōwnes	274652	0	grōwnes			
+grownes	274652	0	grōwnes			
+dǣd	275181	0	DǢD			
+daed	275181	0	DǢD			
+biter līce	277251	0	biter-līce			
+biter lice	277251	0	biter-līce			
+ge wemmendlic	277628	0	ge-wemmendlic			
+geond drencan	277964	0	geond-drencan			
+cyte	278235	0	cyte			
+cote	278235	0	cyte			
+þeaclīce	278994	0	þeaclīce			
+þeaclice	278994	0	þeaclīce			
+hwanan	279198	0	hwanan			
+hwanon	279198	0	hwanan			
+hwonan	279198	0	hwanan			
+hwanone	279198	0	hwanan			
+strægdness	280087	0	strægdness			
+straegdness	280087	0	strægdness			
+welig stedende	280285	0	welig-stedende			
+feþor byrste	280628	0	feþor-byrste			
+ofer wealdan	280829	0	ofer-wealdan			
+ā cennicge	281192	0	ā-cennicge			
+a cennicge	281192	0	ā-cennicge			
+bǣdend	281525	0	bǣdend			
+baedend	281525	0	bǣdend			
+ge þwǣrian	281816	0	ge-þwǣrian			
+ge þwaerian	281816	0	ge-þwǣrian			
+flēs	283633	0	flēs			
+fles	283633	0	flēs			
+be hwearf	284068	0	be-hwearf			
+feran	284413	0	feran			
+sand pytt	286627	0	sand-pytt			
+orcen	287007	0	orcen			
+on rād	287383	0	on-rād			
+on rad	287383	0	on-rād			
+ge teldung	287761	0	ge-teldung			
+ǣn līce	288139	0	ǣn-līce			
+aen lice	288139	0	ǣn-līce			
+hnāh	288393	0	hnāh			
+hnah	288393	0	hnāh			
+ece	289189	0	ece			
+æce	289189	0	ece			
+aece	289189	0	ece			
+ace	289189	0	ece			
+ge liger	289658	0	ge-liger			
+ligere	289658	0	ge-liger			
+ligre	289658	0	ge-liger			
+gemynd beniming	290597	0	gemynd-beniming			
+boda	290793	0	boda			
+ge teāma	292187	0	ge-teāma			
+ge teama	292187	0	ge-teāma			
+tȳma	292187	0	ge-teāma			
+tyma	292187	0	ge-teāma			
+scealc	292689	0	scealc			
+þeād	293966	0	þeād			
+þead	293966	0	þeād			
+camp	294163	0	CAMP			
+comp	294163	0	CAMP			
+ān būende	295073	0	ān-būende			
+an buende	295073	0	ān-būende			
+æt standend	295429	0	æt-standend			
+aet standend	295429	0	æt-standend			
+heort hama	295824	0	heort-hama			
+felg	296242	0	FELG			
+felge	296242	0	FELG			
+lencten bere	297001	0	lencten-bere			
+mortere	297412	0	mortere			
+seuoþ	297825	0	seuoþ			
+læs boren	298017	0	læs-boren			
+laes boren	298017	0	læs-boren			
+unriht cyst	298413	0	unriht-cyst			
+wæl dreōr	298861	0	wæl-dreōr			
+wael dreor	298861	0	wæl-dreōr			
+for weorþan	299323	0	for-weorþan			
+wurþan	299323	0	for-weorþan			
+ān stonde	300233	0	ān-stonde			
+an stonde	300233	0	ān-stonde			
+cealdian	300505	0	cealdian			
+deāþ scyld	300869	0	deāþ-scyld			
+deaþ scyld	300869	0	deāþ-scyld			
+drepan	301292	0	drepan			
+be hlæstan	301826	0	be-hlæstan			
+be hlaestan	301826	0	be-hlæstan			
+norþan eāstan wind	302124	0	norþan-eāstan-wind			
+norþan eastan wind	302124	0	norþan-eāstan-wind			
+dwyld	302390	0	dwyld			
+margen	302644	0	margen			
+micgern	302830	0	micgern			
+mycgern	302830	0	micgern			
+blǣst	303149	0	blǣst			
+blaest	303149	0	blǣst			
+ge wis	303572	0	ge-wis			
+wiss	303572	0	ge-wis			
+hǣs	304596	0	hǣs			
+haes	304596	0	hǣs			
+wǣre	305813	0	-wǣre			
+waere	305813	0	-wǣre			
+lǣce cræftig	306004	0	lǣce-cræftig			
+laece craeftig	306004	0	lǣce-cræftig			
+scrid	306507	0	scrid			
+under þeōdan	306884	0	under-þeōdan			
+under þeodan	306884	0	under-þeōdan			
+datia	307117	0	Datia			
+datie	307117	0	Datia			
+hǣme	307552	0	-hǣme			
+haeme	307552	0	-hǣme			
+un īþian	307744	0	un-īþian			
+un iþian	307744	0	un-īþian			
+ōþ standan	308094	0	ōþ-standan			
+oþ standan	308094	0	ōþ-standan			
+yfel	308961	0	yfel			
+þyrfende	311039	0	þyrfende			
+ceaster hof	311235	0	ceaster-hof			
+hoh fæst	311611	0	hoh-fæst			
+hoh faest	311611	0	hoh-fæst			
+grafu	311806	0	grafu			
+byriga	312256	0	byriga			
+gǣstlīc	312659	0	gǣstlīc			
+gaestlic	312659	0	gǣstlīc			
+ge frēdnes	313179	0	ge-frēdnes			
+ge frednes	313179	0	ge-frēdnes			
+ā seōþan	313596	0	ā-seōþan			
+a seoþan	313596	0	ā-seōþan			
+hofer	314314	0	hofer			
+hrāca	314642	0	hrāca			
+hraca	314642	0	hrāca			
+sittende	315057	0	-sittende			
+glencg	315251	0	glencg			
+mynster lic	315438	0	mynster-lic			
+hōlinga	315798	0	hōlinga			
+holinga	315798	0	hōlinga			
+woede	315992	0	woede			
+hrace	316183	0	hrace			
+æt ferian	316946	0	æt-ferian			
+aet ferian	316946	0	æt-ferian			
+un sȳferlīc	317252	0	un-sȳferlīc			
+un syferlic	317252	0	un-sȳferlīc			
+sciccels	317613	0	sciccels			
+āc hal	317945	0	āc-hal			
+ac hal	317945	0	āc-hal			
+willa	318203	0	willa			
+wella	318203	0	willa			
+wylla	318203	0	willa			
+bryt ford	318882	0	Bryt-ford			
+ge grip	319289	0	ge-grip			
+friþ gedāl	319600	0	friþ-gedāl			
+friþ gedal	319600	0	friþ-gedāl			
+be scyred	320060	0	be-scyred			
+cwic seolfor	320316	0	cwic-seolfor			
+gewinful	320586	0	gewinful			
+andredes ceaster	321138	0	Andredes ceaster			
+myrige	321335	0	myrige			
+mirige	321335	0	myrige			
+felge	321618	0	felge			
+feorh hyrde	321914	0	feorh-hyrde			
+hirde	321914	0	feorh-hyrde			
+brūn wyrt	322222	0	brūn-wyrt			
+brun wyrt	322222	0	brūn-wyrt			
+brūne wyrt	322222	0	brūn-wyrt			
+brune wyrt	322222	0	brūn-wyrt			
+ge fēre	322829	0	ge-fēre			
+ge fere	322829	0	ge-fēre			
+fyr gearwunge	323273	0	fyr-gearwunge			
+cucler mǣl	323565	0	cucler-mǣl			
+cucler mael	323565	0	cucler-mǣl			
+wiþo bān	323832	0	wiþo-bān			
+wiþo ban	323832	0	wiþo-bān			
+orþanoscipe	324364	0	orþanoscipe			
+dōm dæg	324903	0	dōm-dæg			
+dom daeg	324903	0	dōm-dæg			
+ge fremniss	325501	0	ge-fremniss			
+unriht wīfung	325758	0	unriht-wīfung			
+unriht wifung	325758	0	unriht-wīfung			
+be cēpan	326132	0	be-cēpan			
+be cepan	326132	0	be-cēpan			
+hleōþian	326485	0	hleōþian			
+hleoþian	326485	0	hleōþian			
+mǣr þyrne	326683	0	mǣr-þyrne			
+maer þyrne	326683	0	mǣr-þyrne			
+un wærscipe	327032	0	un-wærscipe			
+un waerscipe	327032	0	un-wærscipe			
+fīftigoða	327381	0	fīftigoða			
+fiftigoða	327381	0	fīftigoða			
+fīftigeða	327381	0	fīftigoða			
+fiftigeða	327381	0	fīftigoða			
+fīfteogoða	327381	0	fīftigoða			
+fifteogoða	327381	0	fīftigoða			
+treaflīce	327821	0	treaflīce			
+treaflice	327821	0	treaflīce			
+wyrd	328164	0	wyrd			
+helle hinca	329088	0	helle-hinca			
+feormend	329362	0	feormend			
+þeōfian	329769	0	þeōfian			
+þeofian	329769	0	þeōfian			
+þeōfan	329769	0	þeōfian			
+þeofan	329769	0	þeōfian			
+cnōdan	330215	0	cnōdan			
+cnodan	330215	0	cnōdan			
+cneōdan	330215	0	cnōdan			
+cneodan	330215	0	cnōdan			
+hwearf	330886	0	hwearf			
+andredes leāg	331296	0	Andredes leāg			
+andredes leag	331296	0	Andredes leāg			
+eāþ bēde	331494	0	eāþ-bēde			
+eaþ bede	331494	0	eāþ-bēde			
+ge mǣrsung	331844	0	ge-mǣrsung			
+ge maersung	331844	0	ge-mǣrsung			
+mērsung	331844	0	ge-mǣrsung			
+mersung	331844	0	ge-mǣrsung			
+gast hūs	332292	0	gast-hūs			
+gast hus	332292	0	gast-hūs			
+þearlwīsness	332708	0	þearlwīsness			
+þearlwisness	332708	0	þearlwīsness			
+cniht þeāw	333145	0	cniht-þeāw			
+cniht þeaw	333145	0	cniht-þeāw			
+hālsigend	333450	0	hālsigend			
+halsigend	333450	0	hālsigend			
+ge ǣfenian	333785	0	ge-ǣfenian			
+ge aefenian	333785	0	ge-ǣfenian			
+ǣfnian	333785	0	ge-ǣfenian			
+aefnian	333785	0	ge-ǣfenian			
+swīgen[n]	334214	0	swīgen[n]			
+swigen[n]	334214	0	swīgen[n]			
+un wittol	334620	0	un-wittol			
+hlūtor līce	334944	0	hlūtor-līce			
+hlutor lice	334944	0	hlūtor-līce			
+helle duru	335594	0	helle-duru			
+wræccan	336061	0	wræccan			
+wraeccan	336061	0	wræccan			
+hran	336255	0	hran			
+hron	336255	0	hran			
+gærs bed	336855	0	gærs-bed			
+gaers bed	336855	0	gærs-bed			
+bedd	336855	0	gærs-bed			
+of slītan	337283	0	of-slītan			
+of slitan	337283	0	of-slītan			
+ram	337629	0	ram			
+hūslung	337814	0	hūslung			
+huslung	337814	0	hūslung			
+lāc	338129	0	lāc			
+lac	338129	0	lāc			
+stān brycg	338319	0	stān-brycg			
+stan brycg	338319	0	stān-brycg			
+flǣscod	338860	0	flǣscod			
+flaescod	338860	0	flǣscod			
+cifes gemāna	339055	0	cifes-gemāna			
+cifes gemana	339055	0	cifes-gemāna			
+slǣting	339453	0	slǣting			
+slaeting	339453	0	slǣting			
+tō scendan	339813	0	tō-scendan			
+to scendan	339813	0	tō-scendan			
+for hogiend	340129	0	for-hogiend			
+for gifedness	340488	0	for-gifedness			
+gifen ?	340488	0	for-gifedness			
+ge teolod	340805	0	ge-teolod			
+be swingan	341251	0	be-swingan			
+ā blǣcung	341721	0	ā-blǣcung			
+a blaecung	341721	0	ā-blǣcung			
+ferhþ wērig	342078	0	ferhþ-wērig			
+ferhþ werig	342078	0	ferhþ-wērig			
+emdenes	342367	0	emdenes			
+snīðan	342556	0	snīðan			
+sniðan	342556	0	snīðan			
+þurh borian	344117	0	þurh-borian			
+be cuman	344524	0	be-cuman			
+elm	347223	0	elm			
+un nyt[t]	347525	0	un-nyt[t]			
+æt īwness	348358	0	æt-īwness			
+aet iwness	348358	0	æt-īwness			
+niht wacu	349344	0	niht-wacu			
+o	349344	0	niht-wacu			
+ge firenian	349714	0	ge-firenian			
+under fōnd	349994	0	under-fōnd			
+under fond	349994	0	under-fōnd			
+babilōnia	350293	0	Babilōnia			
+babilonia	350293	0	Babilōnia			
+dēmere	350625	0	dēmere			
+demere	350625	0	dēmere			
+fǣr spel	350899	0	fǣr-spel			
+faer spel	350899	0	fǣr-spel			
+spell	350899	0	fǣr-spel			
+leōht	351646	0	leōht			
+leoht	351646	0	leōht			
+ǣr fæder	352065	0	ǣr-fæder			
+aer faeder	352065	0	ǣr-fæder			
+land scearu	352378	0	land-scearu			
+sticca	352864	0	sticca			
+un reordian	353888	0	un-reordian			
+heāfod stocc	354286	0	heāfod-stocc			
+heafod stocc	354286	0	heāfod-stocc			
+cursumbor	355001	0	cursumbor			
+wīf lufu	355196	0	wīf-lufu			
+wif lufu	355196	0	wīf-lufu			
+sniden ness	355700	0	sniden-ness			
+hyrsudon	355894	0	hyrsudon			
+hyrsian	355894	0	hyrsudon			
+fȳrenfull	356392	0	fȳrenfull			
+fyrenfull	356392	0	fȳrenfull			
+tō līsendlīc	356746	0	tō-līsendlīc			
+to lisendlic	356746	0	tō-līsendlīc			
+āgylde	357077	0	āgylde			
+agylde	357077	0	āgylde			
+feald	357346	0	feald			
+eōw	357594	0	eōw			
+eow	357594	0	eōw			
+lǣðu	357882	0	-lǣðu			
+laeðu	357882	0	-lǣðu			
+sweoloþa	358083	0	sweoloþa			
+biter wyrde	358349	0	biter-wyrde			
+samod wist	358698	0	samod-wist			
+ge canc	359254	0	ge-canc			
+drǣfness	359522	0	drǣfness			
+draefness	359522	0	drǣfness			
+fyrmest	359722	0	fyrmest			
+geā	360562	0	GEĀ			
+gea	360562	0	GEĀ			
+ge bisgīan	361068	0	ge-bisgīan			
+ge bisgian	361068	0	ge-bisgīan			
+ceorl	361346	0	CEORL			
+mund heāls	362936	0	mund-heāls			
+mund heals	362936	0	mund-heāls			
+hāls	362936	0	mund-heāls			
+hals	362936	0	mund-heāls			
+brǣding	363403	0	brǣding			
+braeding	363403	0	brǣding			
+ge nugan	363784	0	ge-nugan			
+wude	364382	0	wude-			
+sciccing	364569	0	sciccing			
+scinccing	364569	0	sciccing			
+scicging	364569	0	sciccing			
+pocc	364953	0	pocc			
+pytt	365610	0	pytt			
+iōwih	366832	0	iōwih			
+iowih	366832	0	iōwih			
+fæstum	367024	0	fæstum			
+faestum	367024	0	fæstum			
+swician	367472	0	swician			
+burg sittende	369070	0	burg-sittende			
+ge cnedan	369347	0	ge-cnedan			
+þǣr bufan	369894	0	þǣr-bufan			
+þaer bufan	369894	0	þǣr-bufan			
+þearf	370330	0	þearf			
+ferhþ friðende	370524	0	ferhþ-friðende			
+ge eæd leǣnian	370795	0	ge-eæd-leǣnian			
+ge eaed leaenian	370795	0	ge-eæd-leǣnian			
+for boda	371095	0	for-boda			
+hold	371296	0	hold			
+fleardere	371779	0	fleardere			
+ge mǣtan	372205	0	ge-mǣtan			
+ge maetan	372205	0	ge-mǣtan			
+wōl bryne	372699	0	wōl-bryne			
+wol bryne	372699	0	wōl-bryne			
+fearh hama	373255	0	fearh-hama			
+here lof	373608	0	here-lof			
+berþor	374105	0	berþor			
+þyhtig	374314	0	þyhtig			
+sceāpen	374665	0	sceāpen			
+sceapen	374665	0	sceāpen			
+scearpþanclīce	375010	0	scearpþanclīce			
+scearpþanclice	375010	0	scearpþanclīce			
+gylting	375321	0	gylting			
+glenc	375671	0	glenc			
+cearm	375857	0	cearm			
+wyrcness	376238	0	wyrcness			
+fætt	376988	0	fætt			
+faett	376988	0	fætt			
+weler	377503	0	weler			
+ur	377503	0	weler			
+or	377503	0	weler			
+weolor	377503	0	weler			
+weolor ur	377503	0	weler			
+weolor er	377503	0	weler			
+gleāwlic	378679	0	gleāwlic			
+gleawlic	378679	0	gleāwlic			
+fant wæter	379057	0	fant-wæter			
+fant waeter	379057	0	fant-wæter			
+sǣ ceaster	379423	0	sǣ-ceaster			
+sae ceaster	379423	0	sǣ-ceaster			
+rǣd bana	379622	0	rǣd-bana			
+raed bana	379622	0	rǣd-bana			
+edring	380051	0	edring			
+ealdor ner	380245	0	ealdor-ner			
+ealdor neru	380245	0	ealdor-ner			
+fore weard	380491	0	fore-weard			
+andwlatod	380789	0	-andwlatod			
+ge weallan	380981	0	ge-weallan			
+rysel	381223	0	rysel			
+wærelīce	381976	0	wærelīce			
+waerelice	381976	0	wærelīce			
+ge cænnan	382175	0	ge-cænnan			
+ge caennan	382175	0	ge-cænnan			
+on blǣstan	382372	0	on-blǣstan			
+on blaestan	382372	0	on-blǣstan			
+sylen	382611	0	sylen			
+flet sittend	382796	0	flet-sittend			
+sendeþ	383367	0	SENDEÞ			
+frum weorc	383565	0	frum-weorc			
+ālǣdan	383995	0	ālǣdan			
+alaedan	383995	0	ālǣdan			
+ge strewian	384711	0	ge-strewian			
+ge streāwian	384711	0	ge-strewian			
+ge streawian	384711	0	ge-strewian			
+gēn dele	384970	0	gēn-dele			
+gen dele	384970	0	gēn-dele			
+geān	384970	0	gēn-dele			
+gean	384970	0	gēn-dele			
+under slūpan	385336	0	under-slūpan			
+under slupan	385336	0	under-slūpan			
+ā wirgende	385555	0	ā-wirgende			
+a wirgende	385555	0	ā-wirgende			
+ge bȳred	385881	0	ge-bȳred			
+ge byred	385881	0	ge-bȳred			
+salf	386143	0	salf			
+greōsn	386328	0	greōsn			
+greosn	386328	0	greōsn			
+wirgend	386641	0	wirgend			
+brȳttian	387123	0	brȳttian			
+bryttian	387123	0	brȳttian			
+stedefulness	387601	0	stedefulness			
+hypebān ece	387796	0	hypebān-ece			
+hypeban ece	387796	0	hypebān-ece			
+iōwian	388175	0	iōwian			
+iowian	388175	0	iōwian			
+fōr sceōtan	388364	0	fōr-sceōtan			
+for sceotan	388364	0	fōr-sceōtan			
+ge hweled	389049	0	ge-hweled			
+swiftlere	389421	0	swiftlere			
+mertze	389765	0	mertze			
+myrtse	389765	0	mertze			
+ā berendlic	390142	0	ā-berendlic			
+a berendlic	390142	0	ā-berendlic			
+un gedafenlīc	390543	0	un-gedafenlīc			
+un gedafenlic	390543	0	un-gedafenlīc			
+hredding	391258	0	hredding			
+horh	391660	0	horh			
+hīwede	392196	0	-hīwede			
+hiwede	392196	0	-hīwede			
+swara	392407	0	swara			
+bliōtan	392765	0	bliōtan			
+bliotan	392765	0	bliōtan			
+sylf	393197	0	sylf			
+clawan	393382	0	clawan			
+syn[n]	393744	0	syn[n]			
+weorc hūs	393934	0	weorc-hūs			
+weorc hus	393934	0	weorc-hūs			
+gomorringas	394312	0	Gomorringas			
+mōd	394623	0	mōd			
+mod	394623	0	mōd			
+feastlice	395144	0	feastlice			
+cystig līce	395544	0	cystig-līce			
+cystig lice	395544	0	cystig-līce			
+cyste	395544	0	cystig-līce			
+han crēd	395880	0	han-crēd			
+han cred	395880	0	han-crēd			
+wræcce ness	396375	0	wræcce-ness			
+wraecce ness	396375	0	wræcce-ness			
+āgræfen	396572	0	āgræfen			
+agraefen	396572	0	āgræfen			
+ge gān	396866	0	ge-gān			
+ge gan	396866	0	ge-gān			
+ge wæccan	397371	0	ge-wæccan			
+ge waeccan	397371	0	ge-wæccan			
+giefernes	397674	0	giefernes			
+hrā līc	398104	0	hrā-līc			
+hra lic	398104	0	hrā-līc			
+birce	398357	0	birce			
+sēnian	398776	0	sēnian			
+senian	398776	0	sēnian			
+beaf	398968	0	beaf			
+fīf leāfe	399223	0	fīf-leāfe			
+fif leafe	399223	0	fīf-leāfe			
+firmdig	399502	0	firmdig			
+hūsel wer	399689	0	hūsel-wer			
+husel wer	399689	0	hūsel-wer			
+under steppan	400037	0	under-steppan			
+firen cræft	400249	0	firen-cræft			
+firen craeft	400249	0	firen-cræft			
+hwistlung	400677	0	hwistlung			
+sibness	401174	0	-sibness			
+wudere	401363	0	wudere			
+wudi[g]ere	401363	0	wudere			
+sōþ word	401905	0	sōþ-word			
+soþ word	401905	0	sōþ-word			
+heal	402212	0	heal			
+hal	402212	0	heal			
+ed recan	402784	0	ed-recan			
+tylþ	403095	0	tylþ			
+brǣd	403285	0	brǣd			
+braed	403285	0	brǣd			
+brǣdo	403285	0	brǣd			
+braedo	403285	0	brǣd			
+brǣdu	403285	0	brǣd			
+braedu	403285	0	brǣd			
+ge fylling	404005	0	ge-fylling			
+riht þeōw	404363	0	riht-þeōw			
+riht þeow	404363	0	riht-þeōw			
+þeōwa	404363	0	riht-þeōw			
+þeowa	404363	0	riht-þeōw			
+hyge frōfor	404728	0	hyge-frōfor			
+hyge frofor	404728	0	hyge-frōfor			
+un gefyrn	404985	0	un-gefyrn			
+gang	405459	0	gang			
+ge styltan	405716	0	ge-styltan			
+þennan	406218	0	þennan			
+god borh	406749	0	god-borh			
+wrist	407368	0	wrist			
+ufor	407826	0	ufor			
+flǣsc hamian	408297	0	flǣsc-hamian			
+flaesc hamian	408297	0	flǣsc-hamian			
+leahter	408618	0	LEAHTER			
+yslende	408874	0	yslende			
+for hogiendlic	409168	0	for-hogiendlic			
+forhogigendlic	409168	0	for-hogiendlic			
+ge wealdan	409472	0	ge-wealdan			
+ellen þrīst	410671	0	ellen-þrīst			
+ellen þrist	410671	0	ellen-þrīst			
+ge edcenned	411010	0	ge-edcenned			
+fram fær	411555	0	fram-fær			
+fram faer	411555	0	fram-fær			
+færeld	412047	0	færeld			
+faereld	412047	0	færeld			
+ā ǣlan	412428	0	ā-ǣlan			
+a aelan	412428	0	ā-ǣlan			
+heall gamen	412625	0	heall-gamen			
+scinu	412817	0	scinu			
+scill	413273	0	scill			
+scell	413273	0	scill			
+scyll	413273	0	scill			
+for standan	414530	0	for-standan			
+stondan	414530	0	for-standan			
+stān weg	415745	0	stān-weg			
+stan weg	415745	0	stān-weg			
+dolh ben	416126	0	dolh-ben			
+benn	416126	0	dolh-ben			
+god sunu	416318	0	god-sunu			
+on ēgan	416858	0	ON-ĒGAN			
+on egan	416858	0	ON-ĒGAN			
+ge bēcnendlīce	417061	0	ge-bēcnendlīce			
+ge becnendlice	417061	0	ge-bēcnendlīce			
+bēcniendlīce	417061	0	ge-bēcnendlīce			
+becniendlice	417061	0	ge-bēcnendlīce			
+dropan	417320	0	dropan			
+droppan	417320	0	dropan			
+meaht loc	417771	0	meaht-loc			
+weder	418140	0	weder			
+friþ scipe	420498	0	friþ-scipe			
+ūp ānafu	420838	0	ūp-ānafu			
+up anafu	420838	0	ūp-ānafu			
+un ālīsendlīc	421195	0	un-ālīsendlīc			
+un alisendlic	421195	0	un-ālīsendlīc			
+healsfange	421530	0	healsfange			
+ge cænenis	423723	0	ge-cænenis			
+ge caenenis	423723	0	ge-cænenis			
+eāþ mōd	423922	0	eāþ-mōd			
+eaþ mod	423922	0	eāþ-mōd			
+sylfren	424463	0	sylfren			
+fina	424651	0	fina			
+fīna	424651	0	fina			
+byro	424964	0	byro			
+mete leās	425360	0	mete-leās			
+mete leas	425360	0	mete-leās			
+on būtan	425766	0	on-būtan			
+on butan	425766	0	on-būtan			
+tæl sum	426464	0	tæl-sum			
+tael sum	426464	0	tæl-sum			
+ge þegnian	426661	0	ge-þegnian			
+fōr stondan	426990	0	fōr-stondan			
+for stondan	426990	0	fōr-stondan			
+ācen	427274	0	ācen			
+acen	427274	0	ācen			
+gār secg	427467	0	gār-secg			
+gar secg	427467	0	gār-secg			
+leax heāfod	428452	0	leax-heāfod			
+leax heafod	428452	0	leax-heāfod			
+scot	428760	0	scot			
+be līðan	429458	0	be-līðan			
+be liðan	429458	0	be-līðan			
+mǣr stān	430002	0	mǣr-stān			
+maer stan	430002	0	mǣr-stān			
+weorold welig	430372	0	weorold-welig			
+ge mearr	430667	0	ge-mearr			
+bō	431043	0	bō			
+bo	431043	0	bō			
+both	431043	0	bō			
+hopian	431318	0	hopian			
+heāfod beorg	431671	0	heāfod-beorg			
+heafod beorg	431671	0	heāfod-beorg			
+bōt	432148	0	BŌT			
+bot	432148	0	BŌT			
+besining	433184	0	besining			
+tō stencean	433523	0	tō-stencean			
+to stencean	433523	0	tō-stencean			
+mearc beorh	435116	0	mearc-beorh			
+ge gearwungness	435606	0	ge-gearwungness			
+sendlīc	435989	0	sendlīc			
+sendlic	435989	0	sendlīc			
+on cnāwness	436312	0	on-cnāwness			
+on cnawness	436312	0	on-cnāwness			
+ge hwilcness	436712	0	ge-hwilcness			
+wudu telga	437213	0	wudu-telga			
+an	437213	0	wudu-telga			
+norþ eāst	437546	0	norþ-eāst			
+norþ east	437546	0	norþ-eāst			
+ge cyssan	437817	0	ge-cyssan			
+ge welhwilc	438242	0	ge-welhwilc			
+blǣd wēla	438509	0	blǣd-wēla			
+blaed wela	438509	0	blǣd-wēla			
+ān cenned	438951	0	ān-cenned			
+an cenned	438951	0	ān-cenned			
+se ān cenneda	438951	0	ān-cenned			
+se an cenneda	438951	0	ān-cenned			
+ealdor	439323	0	ealdor			
+ealdur	439323	0	ealdor			
+aldor	439323	0	ealdor			
+fram	440429	0	FRAM			
+from	440429	0	FRAM			
+lēon fōt	441265	0	lēon-fōt			
+leon fot	441265	0	lēon-fōt			
+for tīhan	441502	0	for-tīhan			
+for tihan	441502	0	for-tīhan			
+norþ land	442000	0	norþ-land			
+hīwodlīce	442328	0	-hīwodlīce			
+hiwodlice	442328	0	-hīwodlīce			
+ge hrifan	442526	0	ge-hrifan			
+æle lendisc	442933	0	æle-lendisc			
+aele lendisc	442933	0	æle-lendisc			
+ed recedroc	443128	0	ed-recedroc			
+ge recce līc	443320	0	ge-recce-līc			
+ge recce lic	443320	0	ge-recce-līc			
+cwidian	443592	0	cwidian			
+feoh leās	443778	0	feoh-leās			
+feoh leas	443778	0	feoh-leās			
+wæl rǣw	444047	0	wæl-rǣw			
+wael raew	444047	0	wæl-rǣw			
+hete sprǣc	444250	0	hete-sprǣc			
+hete spraec	444250	0	hete-sprǣc			
+hygd	444505	0	-hygd			
+fōre steall	444727	0	fōre-steall			
+fore steall	444727	0	fōre-steall			
+cwidol	445299	0	cwidol			
+wlǣta	445486	0	wlǣta			
+wlaeta	445486	0	wlǣta			
+wlǣtta	445486	0	wlǣta			
+wlaetta	445486	0	wlǣta			
+cīwung	446581	0	cīwung			
+ciwung	446581	0	cīwung			
+liþewǣcan	446908	0	liþewǣcan			
+liþewaecan	446908	0	liþewǣcan			
+bȳgan	447111	0	bȳgan			
+bygan	447111	0	bȳgan			
+healfpenig wurþ	447306	0	healfpenig-wurþ			
+ǣ lǣte	447575	0	ǣ-lǣte			
+ae laete	447575	0	ǣ-lǣte			
+wyrt tūn	448070	0	wyrt-tūn			
+wyrt tun	448070	0	wyrt-tūn			
+wyrtūn	448070	0	wyrt-tūn			
+wyrtun	448070	0	wyrt-tūn			
+wyrttūn	448070	0	wyrt-tūn			
+wyrttun	448070	0	wyrt-tūn			
+lādung	448701	0	lādung			
+ladung	448701	0	lādung			
+fang	449920	0	fang			
+ge ēfstan	450372	0	ge-ēfstan			
+ge efstan	450372	0	ge-ēfstan			
+be hīdan	450839	0	be-hīdan			
+be hidan	450839	0	be-hīdan			
+cæg loca	451240	0	cæg-loca			
+caeg loca	451240	0	cæg-loca			
+gota	451851	0	Gota			
+friþ her[e]paþ	452363	0	friþ-her[e]paþ			
+emb stemn	452758	0	emb-stemn			
+fōr ān	452949	0	fōr ān			
+for an	452949	0	fōr ān			
+gagol	453425	0	gagol			
+of dūne	453758	0	of-dūne			
+of dune	453758	0	of-dūne			
+ā wirpan	454282	0	ā-wirpan			
+a wirpan	454282	0	ā-wirpan			
+þrum	454571	0	þrum			
+be stæpþ	454765	0	be-stæpþ			
+be staepþ	454765	0	be-stæpþ			
+ge frēge	455037	0	ge-frēge			
+ge frege	455037	0	ge-frēge			
+hilde sæd	455522	0	hilde-sæd			
+hilde saed	455522	0	hilde-sæd			
+ge tweō	455747	0	ge-tweō			
+ge tweo	455747	0	ge-tweō			
+mēþe	456027	0	mēþe			
+meþe	456027	0	mēþe			
+wuldorfullīce	456241	0	wuldorfullīce			
+wuldorfullice	456241	0	wuldorfullīce			
+druncen	456655	0	druncen			
+hnol	456938	0	hnol			
+feorhlic	457189	0	-feorhlic			
+un befohten	457384	0	un-befohten			
+æ blēc	457755	0	æ-blēc			
+ae blec	457755	0	æ-blēc			
+hīwen	458071	0	-hīwen			
+hiwen	458071	0	-hīwen			
+forscapung	458263	0	forscapung			
+hwāstrian	458742	0	hwāstrian			
+hwastrian	458742	0	hwāstrian			
+hwǣstrian	458742	0	hwāstrian			
+hwaestrian	458742	0	hwāstrian			
+hand leān	459272	0	hand-leān			
+hand lean	459272	0	hand-leān			
+springe	459736	0	springe			
+mynster þegnung	459928	0	mynster-þegnung			
+dǣl leās	460163	0	dǣl-leās			
+dael leas	460163	0	dǣl-leās			
+crēd	460548	0	crēd			
+cred	460548	0	crēd			
+ofer gitness	460740	0	ofer-gitness			
+hridder	461141	0	hridder			
+hrīder	461141	0	hridder			
+hrider	461141	0	hridder			
+hriddern	461141	0	hridder			
+steall	461593	0	steall			
+gelimplǣcan	463359	0	gelimplǣcan			
+gelimplaecan	463359	0	gelimplǣcan			
+hwīl stycce	463661	0	hwīl-stycce			
+hwil stycce	463661	0	hwīl-stycce			
+benesing tūn	464072	0	Benesing-tūn			
+benesing tun	464072	0	Benesing-tūn			
+rǣde	464273	0	-rǣde			
+raede	464273	0	-rǣde			
+ge feallan	464464	0	ge-feallan			
+tweōnigend līc	466783	0	tweōnigend-līc			
+tweonigend lic	466783	0	tweōnigend-līc			
+wǣpn	467159	0	wǣpn			
+waepn	467159	0	wǣpn			
+eodorcan	467350	0	eodorcan			
+eal niwe	467541	0	eal-niwe			
+hold scipe	467804	0	hold-scipe			
+ge grētan	468298	0	ge-grētan			
+ge gretan	468298	0	ge-grētan			
+ge līfed	469112	0	ge-līfed			
+ge lifed	469112	0	ge-līfed			
+ge lȳfed	469112	0	ge-līfed			
+ge lyfed	469112	0	ge-līfed			
+malscrung	469898	0	malscrung			
+þyrelian	470152	0	þyrelian			
+clǣþ	470400	0	clǣþ			
+claeþ	470400	0	clǣþ			
+frōfernis	470748	0	frōfernis			
+frofernis	470748	0	frōfernis			
+woel	470951	0	woel			
+here spell	471141	0	here-spell			
+burg weall	471528	0	burg-weall			
+freōls bryce	471999	0	freōls-bryce			
+freols bryce	471999	0	freōls-bryce			
+ge þynge	472294	0	ge-þynge			
+swēge	472746	0	swēge			
+swege	472746	0	swēge			
+un wērig	472942	0	un-wērig			
+un werig	472942	0	un-wērig			
+ge ortrīwan	473511	0	ge-ortrīwan			
+ge ortriwan	473511	0	ge-ortrīwan			
+treōwan	473511	0	ge-ortrīwan			
+treowan	473511	0	ge-ortrīwan			
+heāhmæsse dæg	475157	0	heāhmæsse-dæg			
+heahmaesse daeg	475157	0	heāhmæsse-dæg			
+un tīdlīce	475521	0	un-tīdlīce			
+un tidlice	475521	0	un-tīdlīce			
+reōnian	475864	0	reōnian			
+reonian	475864	0	reōnian			
+cwēnn	476242	0	cwēnn			
+cwenn	476242	0	cwēnn			
+merisc	476479	0	merisc			
+restan	476665	0	restan			
+wæp mann	477108	0	wæp-mann			
+waep mann	477108	0	wæp-mann			
+fōt lǣst	477308	0	fōt-lǣst			
+fot laest	477308	0	fōt-lǣst			
+leāst	477308	0	fōt-lǣst			
+least	477308	0	fōt-lǣst			
+æt gemman	477563	0	æt-gemman			
+aet gemman	477563	0	æt-gemman			
+horrat	477887	0	horrat			
+et felgan	478128	0	et-felgan			
+ge blīþe	478574	0	ge-blīþe			
+ge bliþe	478574	0	ge-blīþe			
+hafe leāst	478918	0	hafe-leāst			
+hafe least	478918	0	hafe-leāst			
+fandere	479304	0	fandere			
+wirsa	479689	0	wirsa			
+wirra	479689	0	wirsa			
+be heōfian	482711	0	be-heōfian			
+be heofian	482711	0	be-heōfian			
+gedwol sprǣc	483020	0	gedwol-sprǣc			
+gedwol spraec	483020	0	gedwol-sprǣc			
+rihte	483443	0	rihte			
+fadian	485026	0	fadian			
+heofon þrym	485856	0	heofon-þrym			
+fealgian	486114	0	fealgian			
+for gīmeleāsian	486514	0	for-gīmeleāsian			
+for gimeleasian	486514	0	for-gīmeleāsian			
+þeōd sceaþa	486850	0	þeōd-sceaþa			
+þeod sceaþa	486850	0	þeōd-sceaþa			
+ge þwǣrnes	487719	0	ge-þwǣrnes			
+ge þwaernes	487719	0	ge-þwǣrnes			
+eærfoðian	488469	0	eærfoðian			
+eaerfoðian	488469	0	eærfoðian			
+forþ beran	488708	0	forþ-beran			
+wiþer sprecend	489370	0	wiþer-sprecend			
+riht sinscipe	489642	0	riht-sinscipe			
+fīc wyrm	490049	0	fīc-wyrm			
+fic wyrm	490049	0	fīc-wyrm			
+feor land	490485	0	feor-land			
+lond	490485	0	feor-land			
+firr	490824	0	firr			
+dreahnian	491009	0	dreahnian			
+gafol mǣd	491447	0	gafol-mǣd			
+gafol maed	491447	0	gafol-mǣd			
+hūs wist	491810	0	hūs-wist			
+hus wist	491810	0	hūs-wist			
+hwilc ness	492166	0	hwilc-ness			
+in wunung	492554	0	in-wunung			
+gihsinga	492955	0	gihsinga			
+weōd	493171	0	weōd			
+weod	493171	0	weōd			
+metgung	493881	0	metgung			
+heona	494078	0	heona			
+ge dīþan	494263	0	ge-dīþan			
+ge diþan	494263	0	ge-dīþan			
+dēþan	494263	0	ge-dīþan			
+deþan	494263	0	ge-dīþan			
+firmetan	494911	0	firmetan			
+firmettan	494911	0	firmetan			
+ācolmōdian	495106	0	ācolmōdian			
+acolmodian	495106	0	ācolmōdian			
+stealdan	495307	0	stealdan			
+on tygness	495631	0	on-tygness			
+costigend	495989	0	costigend			
+wīd mǣre	496246	0	wīd-mǣre			
+wid maere	496246	0	wīd-mǣre			
+nīd wīs	497211	0	nīd-wīs			
+nid wis	497211	0	nīd-wīs			
+hremman	497829	0	hremman			
+hilde spell	498208	0	hilde-spell			
+ge leōd	498450	0	ge-leōd			
+ge leod	498450	0	ge-leōd			
+ǣfstian	498848	0	ǣfstian			
+aefstian	498848	0	ǣfstian			
+fragian	499178	0	fragian			
+sǣd leāp	499429	0	sǣd-leāp			
+saed leap	499429	0	sǣd-leāp			
+hlīsa	499961	0	hlīsa			
+hlisa	499961	0	hlīsa			
+æt nīman	502340	0	æt-nīman			
+aet niman	502340	0	æt-nīman			
+ūp lic	502772	0	ūp-lic			
+up lic	502772	0	ūp-lic			
+ārena	503291	0	ārena			
+arena	503291	0	ārena			
+dwolema	503545	0	dwolema			
+eūwu	503802	0	eūwu			
+euwu	503802	0	eūwu			
+rān	504057	0	rān			
+ran	504057	0	rān			
+symnen lic	504401	0	symnen-lic			
+stūpian	504594	0	stūpian			
+stupian	504594	0	stūpian			
+cælic	505220	0	cælic			
+caelic	505220	0	cælic			
+hlīpe	505624	0	-hlīpe			
+hlipe	505624	0	-hlīpe			
+impe	505825	0	impe			
+nifol	506316	0	nifol			
+efn gemæcca	506503	0	efn-gemæcca			
+efn gemaecca	506503	0	efn-gemæcca			

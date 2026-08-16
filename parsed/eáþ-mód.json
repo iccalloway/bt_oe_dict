@@ -1,0 +1,40 @@
+{
+  "citation_form": "eáþ-mód",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Humble, lowly, obedient",
+      "latin": "h&u-short;m&i-short;lis, ob&e-long;diens",
+      "quotations": [
+        {
+          "old_english": "Gif ðú eáþmódne eorl geméte",
+          "latin": null,
+          "english": "if thou meet a lowly person",
+          "citations": "Exon. 84 b; Th. 318, 5; Mód. 78"
+        },
+        {
+          "old_english": "He eáþmóde him eorlas funde",
+          "latin": null,
+          "english": "he found men obedient to him",
+          "citations": "Menol. Fox 195; Men. 99"
+        },
+        {
+          "old_english": "His ætgiefan eáþmód weorþeþ",
+          "latin": null,
+          "english": "he becomes obedient to his feeder",
+          "citations": "Exon. 88 b; Th. 332, 27; Vy. 91"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "eád-mód"
+  ],
+  "source_text": "eáþ-mód; adj. Humble, lowly, obedient; h&u-short;m&i-short;lis, ob&e-long;diens :-- Gif ðú eáþmódne eorl geméte if thou meet a lowly person, Exon. 84 b; Th. 318, 5; Mód. 78. He eáþmóde him eorlas funde he found men obedient to him, Menol. Fox 195; Men. 99. His ætgiefan eáþmód weorþeþ he becomes obedient to his feeder, Exon. 88 b; Th. 332, 27; Vy. 91. v. eád-mód."
+}

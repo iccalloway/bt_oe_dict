@@ -1,0 +1,119 @@
+{
+  "citation_form": "streón",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "Gif þu hauest welþe . . . ahte nis non eldere stren (ayhte nys non ildre istreon, Jes. MS.), O. E. Misc. 113, 184.",
+      "meaning": "gain, acquisition, treasure",
+      "latin": "thesaurus",
+      "quotations": [
+        {
+          "old_english": "Ðér is strión ðín",
+          "latin": "ubi est thesaurus tuus",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 6, 21: 12, 35 : Lk. Skt. Lind. 6, 45"
+        },
+        {
+          "old_english": "Striónes",
+          "latin": "thesauri",
+          "english": null,
+          "citations": "p. 17, 5"
+        },
+        {
+          "old_english": "Tilða &l-bar; stre (= streóna or streón)",
+          "latin": "quaestuum, lucrum",
+          "english": null,
+          "citations": "Hpt. Gl. 452, 7"
+        },
+        {
+          "old_english": "Ða ðe geléfeþ in striónum (on gistrión, Rush.)",
+          "latin": "confidentes in pecuniis",
+          "english": null,
+          "citations": "Mk. Skt. Lind. 10, 24"
+        },
+        {
+          "old_english": "Of striónum hiora",
+          "latin": "de facultatibus suis",
+          "english": null,
+          "citations": "Lk. Skt. Lind. 8, 3"
+        },
+        {
+          "old_english": "Strióna",
+          "latin": "thesauros",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 6, 20"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": "Crist is his sune, Noht after chesunge ac after strene; for þan he him strende, alse þe sunne streneð liht, O.E. Homl. ii 19, 24. The word is used also in the sense of what is begotten,progeny, lineage, strain :--Of hire owene streone (race), Laym. 2737. Streon (offspring) of a swuch strunde, Jul. 55, 16. Ne not ich none sunne þet ne mei beon iled to one of ham seouene oðer to hore streones, A.R. 208, 15. All follc wass þatt illke streon þatt Adam haffde strenedd, Orm. 27. Hiss stren shollde ben todrifenn, 16396. Þat holy streon, O.E. Misc. 153, 217. Of God, nat of the streen of which they been engendered, Chauc. Cl. T. 157. Spenser uses the form strene in this sense.",
+      "meaning": "begetting(?), generating",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Swá hwylc monn swá his wíf for intingan ánum brúceþ tó streónne (streónenne ?; other text has bearna tó strýnenne)",
+          "latin": "si quis suam conjugem creandorum liberorum gratia utitur",
+          "english": null,
+          "citations": "Bd. 1, 27 ; S. 495, 33 MS. T."
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "power (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geþencaþ hwelc ðǽs flǽsclícan gód sién and ða gesǽlþa ðe géungemetlíce wilniaþ ðonne mágon gé ongeotan ðæt ð æs líchoman fæger and his streón mágon (strengo mæg Cott. MS.) beón áfeorred mid þreora daga fefre",
+          "latin": "aestimate, quam vultis nimio corporis bona, dum sciatis hoc, quodcumque miramini, triduanae febris igniculo posse dissolvi",
+          "english": null,
+          "citations": "Bt. 32, 2; Fox 116, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-streón",
+    "streónan"
+  ],
+  "source_text": "streón, es; n. I. gain, acquisition, treasure:-- Ðér is strión ðín ubi est thesaurus tuus. Mt. Kmbl. Lind. 6, 21: 12, 35 : Lk. Skt. Lind. 6, 45. Striónes thesauri, p. 17, 5. Tilða &l-bar; stre (= streóna or streón) quaestuum, lucrum, Hpt. Gl. 452, 7. Ða ðe geléfeþ in striónum (on gistrión, Rush.) confidentes in pecuniis, Mk. Skt. Lind. 10, 24. Of striónum hiora de facultatibus suis, Lk. Skt. Lind. 8, 3. Strióna thesauros. Mt. Kmbl. Lind. 6, 20. [Gif þu hauest welþe . . . ahte nis non eldere stren (ayhte nys non ildre istreon, Jes. MS.), O. E. Misc. 113, 184.] II. begetting(?), generating:-- Swá hwylc monn swá his wíf for intingan ánum brúceþ tó streónne (streónenne ?; other text has bearna tó strýnenne) si quis suam conjugem creandorum liberorum gratia utitur, Bd. 1, 27 ; S. 495, 33 MS. T. [Crist is his sune, Noht after chesunge ac after strene; for þan he him strende, alse þe sunne streneð liht, O.E. Homl. ii 19, 24. The word is used also in the sense of what is begotten,progeny, lineage, strain :--Of hire owene streone (race), Laym. 2737. Streon (offspring) of a swuch strunde, Jul. 55, 16. Ne not ich none sunne þet ne mei beon iled to one of ham seouene oðer to hore streones, A.R. 208, 15. All follc wass þatt illke streon þatt Adam haffde strenedd, Orm. 27. Hiss stren shollde ben todrifenn, 16396. Þat holy streon, O.E. Misc. 153, 217. Of God, nat of the streen of which they been engendered, Chauc. Cl. T. 157. Spenser uses the form strene in this sense.] III. power (?):-- Geþencaþ hwelc ðǽs flǽsclícan gód sién and ða gesǽlþa ðe géungemetlíce wilniaþ ðonne mágon gé ongeotan ðæt ð æs líchoman fæger and his streón mágon (strengo mæg Cott. MS.) beón áfeorred mid þreora daga fefre aestimate, quam vultis nimio corporis bona, dum sciatis hoc, quodcumque miramini, triduanae febris igniculo posse dissolvi, Bt. 32, 2; Fox 116, 31. v. ge-streón; streónan."
+}

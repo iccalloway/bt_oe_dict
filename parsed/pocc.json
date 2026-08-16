@@ -1,0 +1,52 @@
+{
+  "citation_form": "pocc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Prompt. Parv. pokke, sekenesse porrigo, variolus : Piers P. 20, 97 : Kynde come after with many kene sores, As pokkes and pestilence.",
+      "meaning": "A pock, pustule, ulcer",
+      "latin": "ulcera",
+      "quotations": [
+        {
+          "old_english": "Poccas ulcera",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 90, 73"
+        },
+        {
+          "old_english": "Gif poc sý on eágan",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 4, 1 : 14, 31"
+        },
+        {
+          "old_english": "Wið ómena geberste ... sleah feówer scearpan ymb ða poccas útan, and lǽt yrnan ða hwíle ðe hé wille",
+          "latin": null,
+          "english": null,
+          "citations": "44, 1 : ii. 100, 4"
+        },
+        {
+          "old_english": "Wið pocádle... Mid hunige smire ðǽr hit út sleá on ðone poc ... Sealf wið pocádl ... Drenc wið poccum ... Wið poccum swíðe sceal mon blód lǽtan ... gif hié út sleán ǽlcne man sceall áweg ádelfan mid þorne, and ðonne wín oððe alordrenc drýpe on innan, ðonne ne beóþ hý gesýne",
+          "latin": null,
+          "english": null,
+          "citations": "104, 14-106, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "pocc, es ; m. A pock, pustule, ulcer :-- Poccas ulcera, Wrt. Voc. ii. 90, 73. Gif poc sý on eágan, Lchdm. iii. 4, 1 : 14, 31. Wið ómena geberste ... sleah feówer scearpan ymb ða poccas útan, and lǽt yrnan ða hwíle ðe hé wille, 44, 1 : ii. 100, 4. Wið pocádle... Mid hunige smire ðǽr hit út sleá on ðone poc ... Sealf wið pocádl ... Drenc wið poccum ... Wið poccum swíðe sceal mon blód lǽtan ... gif hié út sleán ǽlcne man sceall áweg ádelfan mid þorne, and ðonne wín oððe alordrenc drýpe on innan, ðonne ne beóþ hý gesýne, 104, 14-106, 6. See the note on this section. [Prompt. Parv. pokke, sekenesse porrigo, variolus : Piers P. 20, 97 : Kynde come after with many kene sores, As pokkes and pestilence.]"
+}

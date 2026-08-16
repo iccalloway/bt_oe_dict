@@ -1,0 +1,30 @@
+{
+  "citation_form": "midnæddran",
+  "variant_forms": [
+    "midnǽddran"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ofer nǽddran and midnǽddran (mid nǽddran (?) basiliscum: the glosser seems to have taken -cum as a preposition suffixed, and to have thought basiliscum = cum basilis) þú gǽst",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 90, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "midnæddran :-- Ofer nǽddran and midnǽddran (mid nǽddran (?) basiliscum: the glosser seems to have taken -cum as a preposition suffixed, and to have thought basiliscum = cum basilis) þú gǽst, Ps. Spl. 90, 13."
+}

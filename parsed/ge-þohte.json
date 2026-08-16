@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-þohte",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "thought; p. of ge-þencean",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "ge-þohte",
+          "latin": null,
+          "english": "thought",
+          "citations": "Cd. 217; Th. 276, 11; Sat. 187"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-þencean"
+  ],
+  "source_text": "ge-þohte thought, Cd. 217; Th. 276, 11; Sat. 187; p. of ge-þencean."
+}

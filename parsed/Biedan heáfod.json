@@ -1,0 +1,39 @@
+{
+  "citation_form": "Biedan heáfod",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "heáfdes",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "heáfde",
+            "case": "dative",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Biedan Bieda's, heáfod head : Flor. Bidanheafod, A.D. 1114",
+      "meaning": "BIEDA'S HEAD = Bedwin, Wilts?",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hér Wulfhere and Æscwine gefuhton æt Biedan heáfde here, A. D. 675",
+          "latin": null,
+          "english": "Wulfhere and Æscwine fought at Bedwin",
+          "citations": "Chr. 675; Erl. 36, 9; Th. 58, 15, col. 1, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Biedan heáfod; gen. heáfdes; dat. heáfde; m. [Biedan Bieda's, heáfod head : Flor. Bidanheafod, A.D. 1114] BIEDA'S HEAD = Bedwin, Wilts? - Hér Wulfhere and Æscwine gefuhton æt Biedan heáfde here, A. D. 675, Wulfhere and Æscwine fought at Bedwin, Chr. 675; Erl. 36, 9; Th. 58, 15, col. 1, 3."
+}

@@ -1,0 +1,40 @@
+{
+  "citation_form": "dǽl-nimung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "participation",
+      "latin": "participatio",
+      "quotations": [
+        {
+          "old_english": "Fram sóþre lufe dǽlnimincge",
+          "latin": "a caritatis participatione",
+          "english": null,
+          "citations": "Scint. 6, 7"
+        },
+        {
+          "old_english": "Daelneomencge",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. i. 114, 24"
+        },
+        {
+          "old_english": "Fram beóde dǽlnimunge",
+          "latin": "a mense participatione",
+          "english": null,
+          "citations": "R. Ben. I. 56, 8; 77, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "dǽl-nimung. Add: , participation:--Fram sóþre lufe dǽlnimincge a caritatis participatione, Scint. 6, 7. Daelneomencge, C. D. i. 114, 24. Fram beóde dǽlnimunge a mense participatione, R. Ben. I. 56, 8; 77, 13."
+}

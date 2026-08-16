@@ -1,0 +1,62 @@
+{
+  "citation_form": "a-hycgan",
+  "variant_forms": [
+    "-hicgan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-hogde",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-hogode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "[ge]-hugod",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To devise, search, invent",
+      "latin": "excogitare, perscrutari, invenire",
+      "quotations": [
+        {
+          "old_english": "Leóhtor ðonne hit men mǽgen módum ahycgan",
+          "latin": null,
+          "english": "more clearly than men may in mind devise it",
+          "citations": "Exon. 21 a; Th. 56, 20; Cri. 903"
+        },
+        {
+          "old_english": "Bæd him ðæs rǽd ahicgan",
+          "latin": null,
+          "english": "besought them to devise counsel for this",
+          "citations": "Cd. 94; Th. 122, 24; Gen. 2031: 178; Th. 224, 3; Dan. 130"
+        },
+        {
+          "old_english": "Hie ahogodan heoro",
+          "latin": null,
+          "english": "they invented the sword",
+          "citations": "Exon. 92 a; Th. 346, 9; Gn. Ex. 202"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hycgan"
+  ],
+  "source_text": "a-hycgan, -hicgan; p. -hogde, -hogode; pp. [ge]-hugod To devise, search, invent; excogitare, perscrutari, invenire :-- Leóhtor ðonne hit men mǽgen módum ahycgan more clearly than men may in mind devise it, Exon. 21 a; Th. 56, 20; Cri. 903. Bæd him ðæs rǽd ahicgan besought them to devise counsel for this, Cd. 94; Th. 122, 24; Gen. 2031: 178; Th. 224, 3; Dan. 130. Hie ahogodan heoro they invented the sword, Exon. 92 a; Th. 346, 9; Gn. Ex. 202. v. hycgan."
+}

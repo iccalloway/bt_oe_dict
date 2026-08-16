@@ -1,0 +1,38 @@
+{
+  "citation_form": "stíg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "In Ps. L. the word is masculine",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seó stíg (semita) wæs swíðe neara on ðǽre sídan þæs muntes . . . án lytel cniht eóde upp unwærlíce on ðǽre nearwan stíge",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 212, 19-22: 322, 19"
+        },
+        {
+          "old_english": "Stígas, stíga, Ps. Rdr. Vos. stíge, Ps. Srt.) semitas",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. L. 138, 23: 141, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ciric-stíg",
+    "fore-stíg",
+    "heáfod-stíg"
+  ],
+  "source_text": "stíg. Add: In Ps. L. the word is masculine :-- Seó stíg (semita) wæs swíðe neara on ðǽre sídan þæs muntes . . . án lytel cniht eóde upp unwærlíce on ðǽre nearwan stíge, Gr. D. 212, 19-22: 322, 19. Stígas, stíga, Ps. Rdr. Vos. stíge, Ps. Srt.) semitas, Ps. L. 138, 23: 141, 4. v. ciric-, fore- (?), heáfod-stíg."
+}

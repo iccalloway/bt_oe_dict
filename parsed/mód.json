@@ -1,0 +1,45 @@
+{
+  "citation_form": "mód",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": "ad bibendum",
+          "english": null,
+          "citations": "Hml. A. 93, 25"
+        },
+        {
+          "old_english": "Eálá gé ðeówan . . . swá hwæt swá gé wyrcað, wyrcað mid móde, swá swá Gode sylfum",
+          "latin": "servi . . . quodcumque facitis ex animo (heartily, A.V.) operamini, sicut Domino (Col. 2, 23)",
+          "english": null,
+          "citations": "Hml. Th. ii. 336, 23"
+        },
+        {
+          "old_english": "Ic eów sumes fyrstes geann þ-bar; gé eów sylfe beþencean and on beteran móde gebringan",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23, 188"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-mód",
+    "meaht-mód",
+    "þole-mód",
+    "un-mód"
+  ],
+  "source_text": "ad bibendum, Hml. A. 93, 25. Eálá gé ðeówan . . . swá hwæt swá gé wyrcað, wyrcað mid móde, swá swá Gode sylfum servi . . . quodcumque facitis ex animo (heartily, A.V.) operamini, sicut Domino (Col. 2, 23), Hml. Th. ii. 336, 23. Ic eów sumes fyrstes geann þ-bar; gé eów sylfe beþencean and on beteran móde gebringan, Hml. S. 23, 188. v. ge-, meaht-, þole-, un-mód."
+}

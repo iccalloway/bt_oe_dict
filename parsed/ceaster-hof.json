@@ -1,0 +1,34 @@
+{
+  "citation_form": "ceaster-hof",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "hof a house, dwelling",
+      "meaning": "A city-dwelling",
+      "latin": "urbis ædes",
+      "quotations": [
+        {
+          "old_english": "Storm upp arás æfter ceasterhofum",
+          "latin": null,
+          "english": "a storm arose along the city-dwellings",
+          "citations": "Andr. Kmbl. 2475; An. 1239"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ceaster-hof, es; n. [hof a house, dwelling] A city-dwelling; urbis ædes :-- Storm upp arás æfter ceasterhofum a storm arose along the city-dwellings, Andr. Kmbl. 2475; An. 1239."
+}

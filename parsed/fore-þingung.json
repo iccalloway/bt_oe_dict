@@ -1,0 +1,46 @@
+{
+  "citation_form": "fore-þingung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A pleading for anyone, intercession",
+      "latin": "intercessio",
+      "quotations": [
+        {
+          "old_english": "Se Hǽlend hét gehwilcne óðerne aþweán fram fúlum synnum mid foreþingunge",
+          "latin": null,
+          "english": "the Saviour commanded each to wash the other from foul sins by intercession",
+          "citations": "Homl. Th. ii. 242, 33"
+        },
+        {
+          "old_english": "Þurh foreþingunga ealra háligra ðínra gehýr me",
+          "latin": "per intercessi&o-long;nes omnium sanct&o-long;rum tu&o-long;rum exaudi me",
+          "english": "per intercessionnes omnium sanctorum tuorum exaudi me",
+          "citations": "Wanl. Catal. 294, 20, col. 2"
+        },
+        {
+          "old_english": "Mid gódum foreþingungum",
+          "latin": null,
+          "english": "with good intercessions",
+          "citations": "Bd. 4, 3; S. 568, 21, note, MS. Ca.; Rtl. 49, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fore-þingung, e; f. A pleading for anyone, intercession; intercessio :-- Se Hǽlend hét gehwilcne óðerne aþweán fram fúlum synnum mid foreþingunge the Saviour commanded each to wash the other from foul sins by intercession, Homl. Th. ii. 242, 33. Þurh foreþingunga ealra háligra ðínra gehýr me per intercessi&o-long;nes omnium sanct&o-long;rum tu&o-long;rum exaudi me, Wanl. Catal. 294, 20, col. 2. Mid gódum foreþingungum with good intercessions, Bd. 4, 3; S. 568, 21, note, MS. Ca.; Rtl. 49, 34."
+}

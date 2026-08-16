@@ -1,0 +1,34 @@
+{
+  "citation_form": "bisceop-wyrt",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Biscopuuyrt hibiscum",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 110, 37"
+        },
+        {
+          "old_english": "Biscopwyrt gerabotane",
+          "latin": null,
+          "english": null,
+          "citations": "42, 26"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "bisceop-wyrt. Add :-- Biscopuuyrt hibiscum, Wrt. Voc. ii. 110, 37. Biscopwyrt gerabotane, 42, 26."
+}

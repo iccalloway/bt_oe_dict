@@ -1,0 +1,36 @@
+{
+  "citation_form": "for-sceádan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "In Past. 18, 4; S. 135, 16 forsceádne translates dispersi.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif hér ðegna hwelc ðyrelne kylle bróhte tó ðýs burnan, béte hine georne, ðýlǽs hé forsceáde scírost wætra",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 469, 11"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-sceádan. [In Past. 18, 4; S. 135, 16 forsceádne translates dispersi.] Add :-- Gif hér ðegna hwelc ðyrelne kylle bróhte tó ðýs burnan, béte hine georne, ðýlǽs hé forsceáde scírost wætra, Past. 469, 11."
+}

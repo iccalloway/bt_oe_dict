@@ -1,0 +1,38 @@
+{
+  "citation_form": "a-blǽcnes",
+  "variant_forms": [
+    "-ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A paleness, gloom",
+      "latin": "pallor",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Herb. 164; Lchdm. i. 294, 3, note 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æ-blǽcnys"
+  ],
+  "source_text": "a-blǽcnes, -ness, e; f. A paleness, gloom; pallor, Herb. 164; Lchdm. i. 294, 3, note 6. v. æ-blǽcnys."
+}

@@ -1,0 +1,39 @@
+{
+  "citation_form": "ge-teáma",
+  "variant_forms": [
+    "-týma"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An advocate, avoucher, a warranter",
+      "latin": "adv&o-short;c&a-long;tus, qui rei emptæ f&i-short;dem præstat",
+      "quotations": [
+        {
+          "old_english": "Ic wille ðæt gehwilc man hæbbe his geteáman",
+          "latin": null,
+          "english": "I will that every man have his warranter",
+          "citations": "L. Ed. 1; Th. i. 158, 9: L. Eth. ii. 8; Th. i. 288, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "teám",
+    "ge-téman"
+  ],
+  "source_text": "ge-teáma, -týma, an; m. An advocate, avoucher, a warranter; adv&o-short;c&a-long;tus, qui rei emptæ f&i-short;dem præstat :-- Ic wille ðæt gehwilc man hæbbe his geteáman I will that every man have his warranter, L. Ed. 1; Th. i. 158, 9: L. Eth. ii. 8; Th. i. 288, 16. v. teám, ge-téman."
+}

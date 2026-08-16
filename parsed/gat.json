@@ -1,0 +1,66 @@
+{
+  "citation_form": "gat",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "u",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "a",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "o",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "u",
+            "case": "accusative",
+            "number": "plural"
+          },
+          {
+            "ending": "a",
+            "case": "accusative",
+            "number": "plural"
+          },
+          {
+            "ending": "o",
+            "case": "accusative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A GATE",
+      "latin": "porta",
+      "quotations": [
+        {
+          "old_english": "Ðá se Hǽlend geneálǽhte ðære ceastre gate",
+          "latin": null,
+          "english": "when the Saviour approached the gate of the city",
+          "citations": "Lk. Bos. 7, 12 : Exon. 12 b; Th, 20, 15; Cri. 318 : Ps. Spl. 117, 19 : Ps. Th. 126, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "geat"
+  ],
+  "source_text": "gat, es; pl. nom. acc. u, a, o; n. A GATE; porta :-- Ðá se Hǽlend geneálǽhte ðære ceastre gate when the Saviour approached the gate of the city, Lk. Bos. 7, 12 : Exon. 12 b; Th, 20, 15; Cri. 318 : Ps. Spl. 117, 19 : Ps. Th. 126, 6. v. geat."
+}

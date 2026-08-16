@@ -1,0 +1,28 @@
+{
+  "citation_form": "sóþ-word",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a true word",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic Gode sealmas singe, sóðword sprece",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 56, 9: 118, 93"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sóþ-word a true word:--Ic Gode sealmas singe, sóðword sprece, Ps. Th. 56, 9: 118, 93."
+}

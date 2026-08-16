@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-mearr",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Wicked, fraudulent",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif hwá gemearra manna wǽre",
+          "latin": null,
+          "english": "if there were any wicked man",
+          "citations": "L. Edw. 1; Th. i. 160, note 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-mearr"
+  ],
+  "source_text": "ge-mearr; adj. Wicked, fraudulent :-- Gif hwá gemearra manna wǽre if there were any wicked man, L. Edw. 1; Th. i. 160, note 2. v. ge-mearr."
+}

@@ -1,0 +1,274 @@
+{
+  "citation_form": "hlīsa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "in reference to persons",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(l)",
+          "heading": "where knowledge of a person's greatness is widespread",
+          "meaning": "fame",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "His hlīsa āsprang tō Syrian lande",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 16, 137"
+            },
+            {
+              "old_english": "Āsprang his hlīsa geond þā land wīde",
+              "latin": null,
+              "english": null,
+              "citations": "26, 239"
+            },
+            {
+              "old_english": "Gif hæleða hwone hlīsan lyste",
+              "latin": null,
+              "english": null,
+              "citations": "Met. 10, 1"
+            },
+            {
+              "old_english": "Sē þe wile wīslīce æfter þām hlīsan spyrian, þonne ongit he swīþe hraþe hū lytel hē bið",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 18, I; F. 60, 28"
+            },
+            {
+              "old_english": "Heora gemynd onweg gewāt mid þām myclan hlīsan",
+              "latin": null,
+              "english": "the memory of them passed away along with the great fame (? the Latin is: Periit memoria eorum cum sonitu)",
+              "citations": "Ps. Th. 9, 7"
+            },
+            {
+              "old_english": "Gē þone hlīsan habban tiliaþ ofer þióda mā þonne eów þearf sié",
+              "latin": null,
+              "english": null,
+              "citations": "Met. 10, 22"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "where a certain character is attributed to a person",
+          "meaning": "reputation, repute",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sint tō manienne þā þe yfel dēgellīce dōð and gōd openlīce, þæt hī geþencen hū hrædlīce se eorþlica hlīsa ofergæð (humana judicia quanta velocitate evolant)",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 447, 30"
+            },
+            {
+              "old_english": "Gōd word and gōd hlīsa ælces monnes biþ betera þonne ænig wēla",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 13; F. 38, 23"
+            },
+            {
+              "old_english": "Iōhannes wæs wanigende on his hlīsan, for þan þe hē wearð oncnāwen wītega, sē þe wæs lytle ær Crīst geteald",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 356, 35"
+            },
+            {
+              "old_english": "Beó ā getreówra þonne þē mon tō wēne, þȳ læs men wēnan þæt þū nāne næbbe būton wið hlīsan (unless you get credit for it)",
+              "latin": null,
+              "english": null,
+              "citations": "Prov. K. 76"
+            },
+            {
+              "old_english": "Wilnigaþ monige men anwealdes þe hié woldon habban gōdne hlīsan, þeáh hī his unwyrþe sién",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 18, I; F. 60, 26"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "¶",
+              "heading": "used of the Deity",
+              "meaning": "glory",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Næfre hlīsan āh Meotud þan māran þonne hē wið monna bearn wyrceð weldædum",
+                  "latin": null,
+                  "english": "no more glorious attribute has the Maker than his mercy to man",
+                  "citations": "Az. 85"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2 a)",
+          "heading": "where special characteristics are attributed, reputation",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(α)",
+              "heading": "for something, the thing expressed (or implied) by a noun",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hlīsa rumusculus (speciali castimonia)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "An. Ox. 717"
+                },
+                {
+                  "old_english": "Hlīse singalre opinio crebra (lectionis assiduitate)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "II. 162"
+                },
+                {
+                  "old_english": "Wilnung ungemetlices hlīsan gōdra weorca",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 18, l; F. 60, 24"
+                },
+                {
+                  "old_english": "Hī willað habban þone hlīsan hālgidōmes odorem de se extendere sanctae opinionis quaerunt",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Past. 439, 34: Gū. 31"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(β)",
+              "heading": "of being or doing something, with clause",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "His hlīsa weóx . . . þæt hē sōð God wæs",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. i. 356, 33"
+                },
+                {
+                  "old_english": "Ne hē ne scrīfe þæs hlīsan būton hū hē ryhtosð wyrce",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Past. 323, 17"
+                },
+                {
+                  "old_english": "For þām gōdan hlīsan (þæt hié gifule þyncen)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "339, 25"
+                },
+                {
+                  "old_english": "Monige menn noldan þone hlīsan habban þæt hié unwīse sién, nonnulli aestimari hebetes nolunt",
+                  "latin": null,
+                  "english": null,
+                  "citations": "67, 2"
+                },
+                {
+                  "old_english": "Monig mon dēð micel fæsten, and hæfð þone hlīsan þæt hē hit dō for forhæfdnesse . . . monig bið āgīeta his gōda, and wilnaþ mid þȳ geearnigan þone hlīsan þæt hē sié rūmgiful saepe sub parsimoniae nomine se tenacia palliat, contraque se effusio sub appetta-tione largitatis occultat",
+                  "latin": null,
+                  "english": null,
+                  "citations": "149, 4-8"
+                },
+                {
+                  "old_english": "Hē wæs . . . beorn bōca gleáw. Boitius se hæle hātte, sē þone hlīsan geþah",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Met. I. 53"
+                },
+                {
+                  "old_english": "Þone eádegan hlīsan faustam famam (Ald. 161, 12)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Wrt. Voc. ii. 92, 16: 37, 31"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(3)",
+          "heading": "report of those who no longer exist",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hwæt is hiora here būton se hlīsa ān ?",
+              "latin": null,
+              "english": null,
+              "citations": "Met. 10, 54"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": "what is told about a person",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Nis ūs se hlīsa tō forswigianne þe be þām eádegan Gregorie þurh ealdra manna sage tō ūs becōm nec silentio praetereunda opinio, quae de beato Gregorio traditione maiorum ad nos usque perlata est",
+              "latin": null,
+              "english": null,
+              "citations": "Bd. 2, l; Sch. 108, 20"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "in reference to a thing",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(l)",
+          "heading": "fame of something admirable or remarkable",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se gesæliga hlīsa hire geornfulnesse felix industriae eius rumor",
+              "latin": null,
+              "english": null,
+              "citations": "Bd. 4, 23; Sch. 472, 16"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hl&i-long;sa. Add: I. in reference to persons. (l) where knowledge of a person's greatness is widespread, fame :-- His hl&i-long;sa &a-long;sprang t&o-long; Syrian lande, Hml. S. 16, 137. &A-long;sprang his hl&i-long;sa geond þ&a-long; land w&i-long;de, 26, 239. Gif hæle&d-bar;a hwone hl&i-long;san lyste, Met. 10, 1. S&e-long; þe wile w&i-long;sl&i-long;ce æfter þ&a-long;m hl&i-long;san spyrian, þonne ongit he sw&i-long;þe hraþe h&u-long; lytel h&e-long; bi&d-bar;, Bt. 18, I; F. 60, 28. Heora gemynd onweg gew&a-long;t mid þ&a-long;m myclan hl&i-long;san the memory of them passed away along with the great fame (? the Latin is: Periit memoria eorum cum sonitu), Ps. Th. 9, 7. G&e-long; þone hl&i-long;san habban tilia&d-bar; ofer &d-bar;ióda m&a-long; þonne eów þearf sié, Met. 10, 22. (2) where a certain character is attributed to a person, reputation, repute :-- Sint t&o-long; manienne &d-bar;&a-long; &d-bar;e yfel d&e-long;gell&i-long;ce d&o-long;&d-bar; and g&o-long;d openl&i-long;ce, &d-bar;æt h&i-long; ge&d-bar;encen h&u-long; hrædl&i-long;ce se eor&d-bar;lica hl&i-long;sa ofergæ-long;&d-bar; (humana judicia quanta velocitate evolant), Past. 447, 30. G&o-long;d word and g&o-long;d hl&i-long;sa æ-long;lces monnes biþ betera þonne æ-long;nig w&e-long;la, Bt. 13; F. 38, 23. I&o-long;hannes wæs wanigende on his hl&i-long;san, for &d-bar;an &d-bar;e h&e-long; wear&d-bar; oncn&a-long;wen w&i-long;tega, s&e-long; &d-bar;e wæs lytle æ-long;r Cr&i-long;st geteald, Hml. Th. i. 356, 35. Beó &a-long; getreówra &d-bar;onne &d-bar;&e-long; mon t&o-long; w&e-long;ne, &d-bar;&y-long; læ-long;s men w&e-long;nan &d-bar;æt &d-bar;&u-long; n&a-long;ne næbbe b&u-long;ton wi&d-bar; hl&i-long;san (unless you get credit for it), Prov. K. 76. Wilnigaþ monige men anwealdes &d-bar;e hié woldon habban g&o-long;dne hl&i-long;san, þeáh h&i-long; his unwyrþe sién, Bt. 18, I ; F. 60, 26. ¶ used of the Deity, glory :-- Næ-long;fre hl&i-long;san &a-long;h Meotud þan m&a-long;ran þonne h&e-long; wi&d-bar; monna bearn wyrce&d-bar; weldæ-long;dum no more glorious attribute has the Maker than his mercy to man, Az. 85. (2 a) where special characteristics are attributed, reputation (α) for something, the thing expressed (or implied) by a noun :-- Hl&i-long;sa rumusculus (speciali castimonia), An. Ox. 717. Hl&i-long;se singalre opinio crebra (lectionis assiduitate), II. 162. Wilnung ungemetlices hl&i-long;san g&o-long;dra weorca. Bt. 18, l ; F. 60, 24. H&i-long; willa&d-bar; habban &d-bar;one hl&i-long;san h&a-long;ligd&o-long;mes odorem de se extendere sanctae opinionis quaerunt, Past. 439, 34: G&u-long;. 31. (β) of being or doing something, with clause :-- His hl&i-long;sa weóx . . . þæt h&e-long; s&o-long;&d-bar; God wæs. Hml. Th. i. 356, 33. Ne h&e-long; ne scr&i-long;fe &d-bar;æs hl&i-long;san b&u-long;ton h&u-long; h&e-long; ryhtos&d-bar; wyrce, Past. 323, 17. For &d-bar;&a-long;m g&o-long;dan hl&i-long;san (&d-bar;æt hié gifule &d-bar;yncen), 339, 25. Monige menn noldan &d-bar;one hl&i-long;san habban &d-bar;æt hié unwiése sién, nonnulli aestimari hebetes nolunt, 67, 2. Monig mon d&e-long;&d-bar; micel fæsten, and hæf&d-bar; &d-bar;one hl&i-long;san &d-bar;æt h&e-long; hit d&o-long; for forhæfdnesse . . . monig bi&d-bar; &a-long;giéta his g&o-long;da, and wilna&d-bar; mid &d-bar;&y-long; geearnigan &d-bar;one hl&i-long;san &d-bar;æt h&e-long; sié r&u-long;mgiful saepe sub parsimoniae nomine se tenacia palliat, contraque se effusio sub appetta-tione largitatis occultat, 149, 4-8. H&e-long; wæs . . . beorn b&o-long;ca gleáw. Boitius se hæle h&a-long;tte, s&e-long; þone hl&i-long;san geþah, Met. I. 53. Þone eádegan hl&i-long;san faustam famam (Ald. 161, 12), Wrt. Voc. ii. 92, 16: 37, 31. (3) report of those who no longer exist :-- Hwæt is hiora here b&u-long;ton se hl&i-long;sa &a-long;n ?, Met. 10, 54. (4) what is told about a person :-- Nis &u-long;s se hl&i-long;sa t&o-long; forswigianne þe be &d-bar;&a-long;m eádegan Gregorie &d-bar;urh ealdra manna sage t&o-long; &u-long;s bec&o-long;m nec silentio praetereunda opinio, quae de beato Gregorio traditione maiorum ad nos usque perlata est, Bd. 2, l; Sch. 108, 20. II. in reference to a thing. (l) fame of something admirable or remarkable :-- Se gesæ-long;liga hl&i-long;sa hire geornfulnesse felix industriae eius rumor, Bd. 4, 23 ; Sch. 472, 16. H&i-long; þancunge dydon"
+}

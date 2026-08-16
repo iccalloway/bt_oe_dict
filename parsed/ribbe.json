@@ -1,0 +1,64 @@
+{
+  "citation_form": "ribbe",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The herb hounds-tongue",
+      "latin": "cynogiossum officinale",
+      "quotations": [
+        {
+          "old_english": "Ribbe cinoglosa",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 286, 23 : ii. 104, 2"
+        },
+        {
+          "old_english": "Ribbe",
+          "latin": "canes linga",
+          "english": null,
+          "citations": "102, 51"
+        },
+        {
+          "old_english": "Ribbe",
+          "latin": "quinquenerbia",
+          "english": null,
+          "citations": "i. 68, 33"
+        },
+        {
+          "old_english": "Ðás wyrte ðe man cynoglossam and óðrum naman ribbe nemneþ, and hý eác sume men linguam canis háteþ",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 210, 16-19"
+        },
+        {
+          "old_english": "Ribban seáw",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 40, 29"
+        },
+        {
+          "old_english": "Genim ribban",
+          "latin": null,
+          "english": null,
+          "citations": "36, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ribbe, an; f. The herb hounds-tongue; cynogiossum officinale :-- Ribbe cinoglosa, Wrt. Voc. i. 286, 23 : ii. 104, 2 : canes linga, 102, 51 : quinquenerbia, i. 68, 33. Ribbe. Ðás wyrte ðe man cynoglossam and óðrum naman ribbe nemneþ, and hý eác sume men linguam canis háteþ, Lchdm. i. 210, 16-19. Ribban seáw, ii. 40, 29. Genim ribban, 36, 23."
+}

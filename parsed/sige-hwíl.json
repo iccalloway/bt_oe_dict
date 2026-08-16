@@ -1,0 +1,34 @@
+{
+  "citation_form": "sige-hwíl",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A time of victory, the hour of victory",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wedra helm feónd gefylde . . . Ðæt ðam þeódne wæs síðes sigehwíl",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 5413 ; B. 2710"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sige-hwíl, e ; f. A time of victory, the hour of victory :--Wedra helm feónd gefylde . . . Ðæt ðam þeódne wæs síðes sigehwíl, Beo. Th. 5413 ; B. 2710."
+}

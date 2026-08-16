@@ -1,0 +1,82 @@
+{
+  "citation_form": "and-swaru",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Him andswaru (an-, v. l.) ne com",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 18, 117"
+        },
+        {
+          "old_english": "Seó góde andswaru (ant-, v. l.)",
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. 55, 8"
+        },
+        {
+          "old_english": "Hnesce andswore",
+          "latin": "responsio mollis",
+          "english": null,
+          "citations": "Kent. Gl. 502"
+        },
+        {
+          "old_english": "Underfón andswore (responsum)",
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. I. 112, 6"
+        },
+        {
+          "old_english": "Ondsuære",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. L. 1, 22"
+        },
+        {
+          "old_english": "Ondsuere (-swore, R.)",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. L. 2, 26"
+        },
+        {
+          "old_english": "Andswara, rǽdas",
+          "latin": "consulta, i. interrogata",
+          "english": null,
+          "citations": "An. Ox. 2524"
+        },
+        {
+          "old_english": "Antswara",
+          "latin": null,
+          "english": null,
+          "citations": "8, 130"
+        },
+        {
+          "old_english": "Ðá bysmrode ic hine mid mínum ondswarum . . . þá wæs hé ge&dash-uncertain;feónde mínra ondswaro",
+          "latin": null,
+          "english": null,
+          "citations": "Nar. 18, 13-18"
+        },
+        {
+          "old_english": "Ondsuearum (-sworum, R.)",
+          "latin": "responsis",
+          "english": null,
+          "citations": "Lk. L. 2, 47"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "and-swaru. Add:--Him andswaru (an-, v. l.) ne com, Hml. S. 18, 117. Seó góde andswaru (ant-, v. l.), R. Ben. 55, 8. Hnesce andswore responsio mollis, Kent. Gl. 502. Underfón andswore (responsum), R. Ben. I. 112, 6. Ondsuære, Jn. L. 1, 22. Ondsuere (-swore, R.), Lk. L. 2, 26. Andswara, rǽdas consulta, i. interrogata, An. Ox. 2524. Antswara, 8, 130. Ðá bysmrode ic hine mid mínum ondswarum . . . þá wæs hé ge&dash-uncertain;feónde mínra ondswaro, Nar. 18, 13-18. Ondsuearum (-sworum, R.) responsis, Lk. L. 2, 47."
+}

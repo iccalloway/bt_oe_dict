@@ -1,0 +1,52 @@
+{
+  "citation_form": "hlūtor-līce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "clearly, plainly, simply",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðis spell ic for þǣra hǣlo þe hit leornade oððe gehȳrde hlūttorlīce āwrāt and sǣde",
+          "latin": "hanc historiam simpliciter ob salutem legentium siue audientium narrandam esse putaui",
+          "english": null,
+          "citations": "Bd. 5, 13 ; Sch. 643, 5"
+        },
+        {
+          "old_english": "Allum lūtorlīce æteáwas",
+          "latin": "cunctis perspicue oslenditur",
+          "english": null,
+          "citations": "Mt. p. 10, 8"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "with sincerity",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þǣr man cyrcean rǣre, Þǣr mon Gode ārwurðlīce hlūttorlice (with reverence and sincerity) offrigean mæge",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. ii. 408, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hlūtor"
+  ],
+  "source_text": "hl&u-long;tor-l&i-long;ce; Add; I. clearly, plainly, simply. Cf hl&u-long;tor; IV :-- Ðis spell ic for þæ-long;ra hæ-long;lo þe hit leornade o&d-bar;&d-bar;e geh&y-long;rde hl&u-long;ttorl&i-long;ce &a-long;wr&a-long;t and sæ-long;de hanc historiam simpliciter ob salutem legentium siue audientium narrandam esse putaui, Bd. 5, 13 ; Sch. 643, 5. Allum l&u-long;torl&i-long;ce æteáwas cunctis perspicue oslenditur, Mt. p. 10, 8. II. with sincerity. Cf. hl&u-long;tor; VI :-- Þæ-long;r man cyrcean ræ-long;re, Þæ-long;r mon Gode &a-long;rwur&d-bar;l&i-long;ce hl&u-long;ttorlice (with reverence and sincerity) offrigean mæge, Ll. Th. ii. 408, 17."
+}

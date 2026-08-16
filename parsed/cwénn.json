@@ -1,0 +1,34 @@
+{
+  "citation_form": "cwénn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "s",
+            "case": "accusative",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "acc. s. of cwén",
+      "meaning": "a woman",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 25b; Th. 73, 34; Cri. 1199"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "cwénn a woman, Exon. 25b; Th. 73, 34; Cri. 1199; acc. s. of cwén."
+}

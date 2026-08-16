@@ -1,0 +1,50 @@
+{
+  "citation_form": "han-créd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "cock-crowing",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Scyllendre cocca fiþerslehte and . . . hancréde",
+          "latin": "concrepante pullorum plausu et sonante gallicinio",
+          "english": null,
+          "citations": "An. Ox. 4893"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a division of the night",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Betwux hancréde læg se hálga wer geedcucod",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 334, 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "han-grǽd"
+  ],
+  "source_text": "han-créd. Add: I. cock-crowing :-- Scyllendre cocca fiþerslehte and . . . hancréde concrepante pullorum plausu et sonante gallicinio, An. Ox. 4893. II. a division of the night:-- Betwux hancréde læg se hálga wer geedcucod, Hml. Th. ii. 334, 30. Cf. han-grǽd."
+}

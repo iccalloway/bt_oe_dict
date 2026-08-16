@@ -1,0 +1,46 @@
+{
+  "citation_form": "ge-bryttian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To dispense, expend",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gebryttade",
+          "latin": "exibuit",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 83, 64: 31, 22"
+        },
+        {
+          "old_english": "Wé sculon him gefremman and gebryttian hwylcnehuga dǽl þǽre bróðorlican lufan",
+          "latin": "debemus ei aliquid caritatis impendere",
+          "english": null,
+          "citations": "Gr. D. 345, 24"
+        },
+        {
+          "old_english": "Gebryttodre",
+          "latin": "inpensa",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 45, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-bryttian; p. ode To dispense, expend :-- Gebryttade exibuit, Wrt. Voc. ii. 83, 64: 31, 22. Wé sculon him gefremman and gebryttian hwylcnehuga dǽl þǽre bróðorlican lufan debemus ei aliquid caritatis impendere, Gr. D. 345, 24. Gebryttodre inpensa, Wrt. Voc. ii. 45, 9."
+}

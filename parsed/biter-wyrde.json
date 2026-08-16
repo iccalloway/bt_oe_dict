@@ -1,0 +1,26 @@
+{
+  "citation_form": "biter-wyrde",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Inclined to bitterness",
+      "latin": "ad amaritudinem pronus",
+      "quotations": [
+        {
+          "old_english": "Ne he biterwyrde næs",
+          "latin": null,
+          "english": "he was not inclined to bitterness",
+          "citations": "Homl. Th. i. 320, 15: ii. 44, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "biter-wyrde; adj. Inclined to bitterness; ad amaritudinem pronus :-- Ne he biterwyrde næs he was not inclined to bitterness, Homl. Th. i. 320, 15: ii. 44, 22."
+}

@@ -1,0 +1,40 @@
+{
+  "citation_form": "heort-hama",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Frs. hert-hamo præcordia.",
+      "meaning": "A covering of the heart",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Heorthama bucleamen",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 75; Som. 71, 102; Wrt. Voc. 45, 9"
+        },
+        {
+          "old_english": "Ðú nymst ðone hearthaman",
+          "latin": null,
+          "english": "thou shalt take the fat that covers the inwards",
+          "citations": "Ex. 29, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "heort-hama, an; m. A covering of the heart :-- Heorthama bucleamen, Ælfc. Gl. 75; Som. 71, 102; Wrt. Voc. 45, 9. Ðú nymst ðone hearthaman thou shalt take the fat that covers the inwards, Ex. 29, 22. [O. Frs. hert-hamo præcordia.]"
+}

@@ -1,0 +1,26 @@
+{
+  "citation_form": "hríðeren",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O. H. Ger. rinderin bovinus, bubula (caro).",
+      "meaning": "Of cattle",
+      "latin": "bovinus",
+      "quotations": [
+        {
+          "old_english": "Genim hrýðeren flǽsc",
+          "latin": null,
+          "english": "take ox-flesh",
+          "citations": "L. M. 2, 7; Lchdm. ii. 186, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hríðeren; adj. Of cattle; bovinus :-- Genim hrýðeren flǽsc take ox-flesh, L. M. 2, 7; Lchdm. ii. 186, 18. [Cf. O. H. Ger. rinderin bovinus, bubula (caro).]"
+}

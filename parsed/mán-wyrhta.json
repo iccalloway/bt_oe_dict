@@ -1,0 +1,40 @@
+{
+  "citation_form": "mán-wyrhta",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A worker of wickedness, a sinner",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mánwyrhtan",
+          "latin": "peccatores",
+          "english": null,
+          "citations": "Ps. Th. 93, 3"
+        },
+        {
+          "old_english": null,
+          "latin": "qui operautur iniquitatem",
+          "english": null,
+          "citations": "118, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mán-wyrhta, an; m. A worker of wickedness, a sinner :-- Mánwyrhtan peccatores, Ps. Th. 93, 3: qui operautur iniquitatem, 118, 3."
+}

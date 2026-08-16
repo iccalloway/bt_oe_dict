@@ -1,0 +1,46 @@
+{
+  "citation_form": "wed-bryce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. With wedbrek cum adulteris, Ps. 49, 18.",
+      "meaning": "Breach of a pledge or engagement",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif hé ðæs weddie, ðe hym riht sý tó gelǽstanne, and ðæt áleóge . . . béte ðone wedbryce swá him his scrift scrífe",
+          "latin": null,
+          "english": null,
+          "citations": "L. Alf. pol. 1; Th. i. 60, 6-21"
+        },
+        {
+          "old_english": "Eác syndan wide þurh áðbrycas and ðurh wedbrycas and ðurh mistlíce leásunga forloren and forlogen má ðonne scolde",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 164, 7"
+        },
+        {
+          "old_english": "Wed‒bricas",
+          "latin": null,
+          "english": null,
+          "citations": "130, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "wed-bryce, es; m. Breach of a pledge or engagement :-- Gif hé ðæs weddie, ðe hym riht sý tó gelǽstanne, and ðæt áleóge . . . béte ðone wedbryce swá him his scrift scrífe, L. Alf. pol. 1; Th. i. 60, 6-21. Eác syndan wide þurh áðbrycas and ðurh wedbrycas and ðurh mistlíce leásunga forloren and forlogen má ðonne scolde, Wulfst. 164, 7. Wed&dash-uncertain;bricas, 130, 6. [Cf. With wedbrek cum adulteris, Ps. 49, 18.]"
+}

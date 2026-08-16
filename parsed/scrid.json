@@ -1,0 +1,52 @@
+{
+  "citation_form": "scrid",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Cræt &l-bar; sc[r]id",
+          "latin": "currus",
+          "english": null,
+          "citations": "Ps. Cam. 67, 18"
+        },
+        {
+          "old_english": "Fýrene scridu",
+          "latin": "igneos currus",
+          "english": null,
+          "citations": "Chrd. 99, 9"
+        },
+        {
+          "old_english": "Cræta, scriþena",
+          "latin": "bigarum",
+          "english": null,
+          "citations": "An. Ox. 2185"
+        },
+        {
+          "old_english": "Scriddum",
+          "latin": "bigis",
+          "english": null,
+          "citations": "18, 22"
+        },
+        {
+          "old_english": "Scridú",
+          "latin": "carpentum",
+          "english": null,
+          "citations": "Germ. 393, 154"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "scrid. Add :-- Cræt &l-bar; sc[r]id currus, Ps. Cam. 67, 18. Fýrene scridu igneos currus, Chrd. 99, 9. Cræta, scriþena bigarum, An. Ox. 2185. Scriddum bigis, 18, 22. Scrid&u-long; carpentum, Germ. 393, 154."
+}

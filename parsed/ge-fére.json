@@ -1,0 +1,46 @@
+{
+  "citation_form": "ge-fére",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A companion",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Be Aþelbaldes gefére . . . Aþelbaldes gefére, þæs nama wæs Ecga, wæs fram þám áwyrgedan gáste unstille",
+          "latin": null,
+          "english": null,
+          "citations": "Guth. 60, 9-13"
+        },
+        {
+          "old_english": "Be Aþelbaldes gefére . . . cóm Æþelbaldes geféra þæs nama wæs Ova",
+          "latin": null,
+          "english": null,
+          "citations": "66, 20"
+        },
+        {
+          "old_english": "Gefére",
+          "latin": "comitem",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 23, 42"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-fére, es; m. A companion :-- Be Aþelbaldes gefére . . . Aþelbaldes gefére, þæs nama wæs Ecga, wæs fram þám áwyrgedan gáste unstille, Guth. 60, 9-13. Be Aþelbaldes gefére . . . cóm Æþelbaldes geféra þæs nama wæs Ova, 66, 20. Gefére comitem, Wrt. Voc. ii. 23, 42."
+}

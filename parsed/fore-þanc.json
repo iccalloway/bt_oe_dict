@@ -1,0 +1,82 @@
+{
+  "citation_form": "fore-þanc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "consideration of the future",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Forþances gleáw",
+              "latin": null,
+              "english": null,
+              "citations": "Hpt. 33, 71, 1"
+            },
+            {
+              "old_english": "Of embehýdigum foreþance",
+              "latin": "sollerti prescientia",
+              "english": null,
+              "citations": "An. Ox. 7, 355: 8, 344"
+            },
+            {
+              "old_english": "Ðonne ðá hátheortan hié mid náne foreðonce nyllað gestillan",
+              "latin": "cum iracundi nulla consideratione se mitigant",
+              "english": null,
+              "citations": "Past. 297, 3"
+            },
+            {
+              "old_english": "Ðone foreðonc his gesceádwísnesse forlǽtan",
+              "latin": "intentionem providam non tenere",
+              "english": null,
+              "citations": "431, 36"
+            },
+            {
+              "old_english": "Hé ne meahte mód oncyrran, fǽmnan foreþonc",
+              "latin": null,
+              "english": null,
+              "citations": "Jul. 227"
+            },
+            {
+              "old_english": "Hé næfð nǽnne forðanc be his deáðe",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 48, 8"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "what is thought beforehand, a preconceived idea",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On þone foreþonc . . . þý þe hý (the apostate angels) him sylfum séllan þúhton þonne Críst",
+              "latin": null,
+              "english": null,
+              "citations": "Hy. 4, 53"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fore-þanc. Add: (1) consideration of the future:--Forþances gleáw, Hpt. 33, 71, 1. Of embehýdigum foreþance sollerti prescientia, An. Ox. 7, 355: 8, 344. Ðonne ðá hátheortan hié mid náne foreðonce nyllað gestillan cum iracundi nulla consideratione se mitigant, Past. 297, 3. Ðone foreðonc his gesceádwísnesse forlǽtan intentionem providam non tenere, 431, 36. Hé ne meahte mód oncyrran, fǽmnan foreþonc, Jul. 227. Hé næfð nǽnne forðanc be his deáðe, Ps. Th. 48, 8. (2) what is thought beforehand, a preconceived idea:--On þone foreþonc . . . þý þe hý (the apostate angels) him sylfum séllan þúhton þonne Críst, Hy. 4, 53."
+}

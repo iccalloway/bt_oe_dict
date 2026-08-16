@@ -1,0 +1,52 @@
+{
+  "citation_form": "medu-wyrt",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Scott. med-uart: Dan. mjöd-urt.",
+      "meaning": "Meadow-sweet, also mead-sweet",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Meodowyrt mel-leuna",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 59, 43: L. M. 1, 38; Lchdm. ii. 94, 14"
+        },
+        {
+          "old_english": "Medowyrt",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. ii. 96, 17: 1, 44; Lchdm. ii. 108, 11"
+        },
+        {
+          "old_english": "Medewyrt malletina(?)",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 31, 1: Lchdm. iii. 6, 12: 16, 9"
+        },
+        {
+          "old_english": "Meodeuyrt mellauna, papamo",
+          "latin": null,
+          "english": null,
+          "citations": "304, 1, 35"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "medu-wyrt, e; f. Meadow-sweet, also mead-sweet :-- Meodowyrt mel-leuna, Wrt. Voc. ii. 59, 43: L. M. 1, 38; Lchdm. ii. 94, 14. Medowyrt, Lchdm. ii. 96, 17: 1, 44; Lchdm. ii. 108, 11. Medewyrt malletina(?), Wrt. Voc. i. 31, 1: Lchdm. iii. 6, 12: 16, 9. Meodeuyrt mellauna, papamo, 304, 1, 35, [Scott. med-uart: Dan. mjöd-urt.]"
+}

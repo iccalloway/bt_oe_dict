@@ -1,0 +1,52 @@
+{
+  "citation_form": "stán-brycg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A stone bridge",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Andlang bróces óð stánbrycge, súð from stánbrycge",
+          "latin": null,
+          "english": null,
+          "citations": "Cod. Dip. Kmbl. iii. 429, 9-10"
+        },
+        {
+          "old_english": "Andlang burnan óð hit cymþ ðér Blíðe út scýt; ðæt andlang Blíðan óð ða stánbriccge; ðæt eást of ðære bricgge",
+          "latin": null,
+          "english": null,
+          "citations": "421, 34"
+        },
+        {
+          "old_english": "Ðis sint ða landgemǽre ... Æ-acute;rest on stánbriccge; of stánbriccge eást onlang Temese",
+          "latin": null,
+          "english": null,
+          "citations": "v. 395, 29-31"
+        },
+        {
+          "old_english": "Stánbricge(?)",
+          "latin": "lithostratos",
+          "english": null,
+          "citations": "Wrt. Voc. i. 22, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "stán-brycg, e; f. A stone bridge :-- Andlang bróces óð stánbrycge, súð from stánbrycge, Cod. Dip. Kmbl. iii. 429, 9-10. Andlang burnan óð hit cymþ ðér Blíðe út scýt; ðæt andlang Blíðan óð ða stánbriccge; ðæt eást of ðære bricgge, 421, 34. Ðis sint ða landgemǽre ... Æ-acute;rest on stánbriccge; of stánbriccge eást onlang Temese, v. 395, 29-31. Stánbricge(?) lithostratos, Wrt. Voc. i. 22, 6."
+}

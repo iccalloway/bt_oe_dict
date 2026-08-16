@@ -1,0 +1,135 @@
+{
+  "citation_form": "ge-cirran",
+  "variant_forms": [
+    "ge-cerran",
+    "ge-cyrran"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "A.",
+      "supplemental": null,
+      "meaning": "trans.",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": "of actual movement.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "to turn, turn back, change the direction of motion of",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": [
+                {
+                  "label": "(a)",
+                  "heading": null,
+                  "meaning": "a living creature",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Isaias wæs áwæg farende, ac God hine gecyrde",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Hml. S. 18, 422"
+                    },
+                    {
+                      "old_english": "Se cyningc hý gecyrran wolde eft tó Egyptum",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Ors. 1, 7; S. 38, 23"
+                    }
+                  ],
+                  "sub_senses": [
+                    {
+                      "label": "(α)",
+                      "heading": null,
+                      "meaning": "to repulse an advancing enemy (lit. and fig.)",
+                      "latin": null,
+                      "quotations": [
+                        {
+                          "old_english": "Hé ofercuóm &l-bar; gecerde (Iudaeos)",
+                          "latin": "conuincit",
+                          "english": null,
+                          "citations": "Mk. p. 4, 19"
+                        },
+                        {
+                          "old_english": "Men þe þis land bewiston him fyrd ongeán sændon, and hine gecyrdon",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Chr. 1091; P. 226, 27"
+                        },
+                        {
+                          "old_english": "Ðǽr wearð se cyng of France þurh gesmeáh gecyrred, and seó fyrding tóhwearf",
+                          "latin": null,
+                          "english": null,
+                          "citations": "1094; P. 229, 29"
+                        }
+                      ],
+                      "sub_senses": []
+                    }
+                  ]
+                },
+                {
+                  "label": "(b)",
+                  "heading": null,
+                  "meaning": "a thing",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Seó strǽl wearð eft gecyrred, and þone mon, þe heó ǽr from sended wæs, sceát.",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Bl. H. 199, 22"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "where motion has been caused, to replace, return to a former position",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gecerr (-cer, R.) suord in stówe his",
+                  "latin": "converte gladium in locum suum",
+                  "english": null,
+                  "citations": "Mt. L. 26, 52"
+                },
+                {
+                  "old_english": "Hæfde Metod égstreám eft gecyrred.",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 1415"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(3)",
+              "heading": null,
+              "meaning": "to go to a person, visit",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-cirran. Take here ge-cerran, ge-cyrran in Dict., and add: A. trans. I. of actual movement. (1) to turn, turn back, change the direction of motion of, (a) a living creature :-- Isaias wæs áwæg farende, ac God hine gecyrde, Hml. S. 18, 422. Se cyningc hý gecyrran wolde eft tó Egyptum, Ors. 1, 7; S. 38, 23. (α) to repulse an advancing enemy (lit. and fig.) :-- Hé ofercuóm &l-bar; gecerde (Iudaeos) conuincit, Mk. p. 4, 19. Men þe þis land bewiston him fyrd ongeán sændon, and hine gecyrdon, Chr. 1091; P. 226, 27. Ðǽr wearð se cyng of France þurh gesmeáh gecyrred, and seó fyrding tóhwearf, 1094; P. 229, 29. (b) a thing :-- Seó strǽl wearð eft gecyrred, and þone mon, þe heó ǽr from sended wæs, sceát. Bl. H. 199, 22. (2) where motion has been caused, to replace, return to a former position :-- Gecerr (-cer, R.) suord in stówe his converte gladium in locum suum, Mt. L. 26, 52. Hæfde Metod égstreám eft gecyrred. Gen. 1415. (3) to go to a person, visit:"
+}

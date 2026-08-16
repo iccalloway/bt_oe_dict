@@ -1,0 +1,44 @@
+{
+  "citation_form": "teart",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "of material objects, sharp, piercing",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tearte acra (testularum fragmina)",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 8, 218"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "of pain, &c.",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On þǽre teartestan tintregun",
+          "latin": "acerrimo, i. asperrimo tormento",
+          "english": null,
+          "citations": "1946"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "teart. Add: I. of material objects, sharp, piercing :-- Tearte acra (testularum fragmina), An. Ox. 8, 218. II. of pain, &c. :-- On þǽre teartestan tintregun acerrimo, i. asperrimo tormento, 1946."
+}

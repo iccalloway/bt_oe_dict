@@ -1,0 +1,151 @@
+{
+  "citation_form": "CEORL",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a freeman of the lowest class, CHURL, countryman, husbandman",
+      "latin": "homo liber, rusticus, colonus",
+      "quotations": [
+        {
+          "old_english": "Ceorles weorþig sceal beón betýned",
+          "latin": null,
+          "english": "a churl's close must be fenced",
+          "citations": "L. In. 40; Th. i. 126, 13"
+        },
+        {
+          "old_english": "Se ceorl",
+          "latin": null,
+          "english": null,
+          "citations": "60; Th. i. 140, 8"
+        },
+        {
+          "old_english": "Swá we eác settaþ be eallum hádum, ge ceorle ge eorle",
+          "latin": null,
+          "english": "so also we ordain for all degrees, whether to churl or earl [gentle or simple]",
+          "citations": "L. Alf. pol. 4; Th. i. 64, 3"
+        },
+        {
+          "old_english": "Twelfhyndes mannes áþ forstent vi ceorla áþ",
+          "latin": null,
+          "english": "a twelve hundred man's oath stands for six churls' oaths",
+          "citations": "L. O. 13; Th. i. 182, 19"
+        },
+        {
+          "old_english": "Be ceorles gærstúne",
+          "latin": null,
+          "english": "of a husbandman's meadow",
+          "citations": "L. In. 42; Th. i. 128, 4, 5"
+        },
+        {
+          "old_english": "Landes [MS. londes] ceorl",
+          "latin": null,
+          "english": "a land's man",
+          "citations": "Bt. Met. Fox 12, 54; Met. 12, 27"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a man, husband",
+      "latin": "vir, maritus",
+      "quotations": [
+        {
+          "old_english": "Ceorla cyngc",
+          "latin": null,
+          "english": "king of the commons",
+          "citations": "Chr. 1020; Erl. 160, 23"
+        },
+        {
+          "old_english": "Ealdan ceorlas wilniaþ",
+          "latin": null,
+          "english": "old men wish",
+          "citations": "Bt. 36, 5; Fox 180, 7"
+        },
+        {
+          "old_english": "Clypa ðínne ceorl",
+          "latin": "voca virum [husband] tuum",
+          "english": null,
+          "citations": "Jn. Bos. 4, 16, 17"
+        },
+        {
+          "old_english": "Ðú hæfdest fíf ceorlas",
+          "latin": null,
+          "english": "thow hast had five husbands",
+          "citations": "4, 18"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "III.",
+      "supplemental": "[Chauc. cherl: Wyc. cherl, churl: Laym. cheorl: Orm. cherl a young man: Plat. keerl: Frs. tzierl: O. Frs. tzerle, tzirle: Dut. karel, m: Ger. M. H. Ger. kerl, m: O. H. Ger. charal, charl, m; Icel. karl, m.]",
+      "meaning": "a free man, as opposed to þeów, and to þrǽl a slave; or as opposed to þegen a thane or nobleman, as we say, 'gentle or simple:'",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "We witan ðæt, þurh Godes gyfe, þrǽl wearþ to þegene, and ceorl wearþ to eorle, sangere to sacerde, and bócere to biscope",
+          "latin": null,
+          "english": "we know that, by the grace of God, a slave has risen to a thane, and a ceorl [free man] has risen to an earl, a singer to a priest, and a scribe to be a bishop",
+          "citations": "L. Eth. vii. 21; Th. i. 334, 7-9"
+        },
+        {
+          "old_english": "Gif ceorl geþeáh, ðæt he hæfde fullíce fíf hída ágenes landes, cirican and cycenan [MS. Ky-cenan UNCERTAIN ], bell-hús and burh-geat-setl, and sunder-note on cynges healle, ðonne wæs he ðonon-forþ begen-rihtes weorþe",
+          "latin": null,
+          "english": "if a free man thrived, so that he had fully five hides of his own land, church and kitchen, bell-house and a city-gate-seat, and special duty in the king's hall, then was he thenceforth worthy of thane-right",
+          "citations": "L. R. 2; Th. i. 190, 14-17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ceorl-boren",
+    "ceorl-folc",
+    "ceorl-ian",
+    "ceorl-isc",
+    "ceorl-iscnes",
+    "ceorl-líe",
+    "ceorl-líce",
+    "ceorl-strang",
+    "æcer-ceorl",
+    "hús-"
+  ],
+  "source_text": "CEORL, es; m. I. a freeman of the lowest class, CHURL, countryman, husbandman; homo liber, rusticus, colonus :-- Ceorles weorþig sceal beón betýned a churl's close must be fenced, L. In. 40; Th. i. 126, 13. Se ceorl, 60; Th. i. 140, 8. Swá we eác settaþ be eallum hádum, ge ceorle ge eorle so also we ordain for all degrees, whether to churl or earl [gentle or simple], L. Alf. pol. 4; Th. i. 64, 3. Twelfhyndes mannes áþ forstent vi ceorla áþ a twelve hundred man's oath stands for six churls' oaths, L. O. 13; Th. i. 182, 19. Be ceorles gærstúne of a husbandman's meadow, L. In. 42; Th. i. 128, 4, 5. Landes [MS. londes] ceorl a land's man, Bt. Met. Fox 12, 54; Met. 12, 27. II. a man, husband; vir, maritus :-- Ceorla cyngc king of the commons, Chr. 1020; Erl. 160, 23. Ealdan ceorlas wilniaþ old men wish, Bt. 36, 5; Fox 180, 7. Clypa ðínne ceorl voca virum [husband] tuum, Jn. Bos. 4, 16, 17. Ðú hæfdest fíf ceorlas thow hast had five husbands, 4, 18. III. a free man, as opposed to þeów, and to þrǽl a slave; or as opposed to þegen a thane or nobleman, as we say, 'gentle or simple:' -- We witan ðæt, þurh Godes gyfe, þrǽl wearþ to þegene, and ceorl wearþ to eorle, sangere to sacerde, and bócere to biscope we know that, by the grace of God, a slave has risen to a thane, and a ceorl [free man] has risen to an earl, a singer to a priest, and a scribe to be a bishop, L. Eth. vii. 21; Th. i. 334, 7-9. Gif ceorl geþeáh, ðæt he hæfde fullíce fíf hída ágenes landes, cirican and cycenan [MS. Ky-cenan UNCERTAIN ], bell-hús and burh-geat-setl, and sunder-note on cynges healle, ðonne wæs he ðonon-forþ begen-rihtes weorþe if a free man thrived, so that he had fully five hides of his own land, church and kitchen, bell-house and a city-gate-seat, and special duty in the king's hall, then was he thenceforth worthy of thane-right, L. R. 2; Th. i. 190, 14-17. [Chauc. cherl: Wyc. cherl, churl: Laym. cheorl: Orm. cherl a young man: Plat. keerl: Frs. tzierl: O. Frs. tzerle, tzirle: Dut. karel, m: Ger. M. H. Ger. kerl, m: O. H. Ger. charal, charl, m; Icel. karl, m.] DER. ceorl-boren, -folc, -ian, -isc, -iscnes, -líe, -líce, -strang: æcer-ceorl, hús-."
+}

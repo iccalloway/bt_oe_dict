@@ -1,0 +1,70 @@
+{
+  "citation_form": "forþ-beran",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-bereþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-bireþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-bær",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-bǽron",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-boren",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To bear or carry forth, bring forth, bring forward, produce",
+      "latin": "proferre, perhĭbēre",
+      "quotations": [
+        {
+          "old_english": "Ðone æðelan Albanum seó wæstmberende Bryton forþbereþ",
+          "latin": "Albānum egrĕgium fēcunda Britannia profert",
+          "english": null,
+          "citations": "Bd. 1, 7; S. 476, 34"
+        },
+        {
+          "old_english": "Ðætte ealle openlíce be heora dǽde þurh andetnesse forþbǽron",
+          "latin": "ut omnes pălam quæ gessĕrant confĭtendo proferrent",
+          "english": null,
+          "citations": "4, 27; S. 604, 23: Blickl. Homl. 25, 2; 101, 30"
+        },
+        {
+          "old_english": "Ðæt he gewitnesse forþbǽre be ðam leóhte",
+          "latin": "ut testĭmōnium perhĭbēret de lūmĭne",
+          "english": null,
+          "citations": "Jn. Bos. 1. 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "forþ-beran; he -bereþ, -bireþ; p. -bær, pl. -bǽron; pp. -boren To bear or carry forth, bring forth, bring forward, produce; proferre, perh&i-short;b&e-long;re :-- Ðone æðelan Albanum seó wæstmberende Bryton forþbereþ Alb&a-long;num egr&e-short;gium f&e-long;cunda Britannia profert, Bd. 1, 7; S. 476, 34. Ðætte ealle openlíce be heora dǽde þurh andetnesse forþbǽron ut omnes p&a-short;lam quæ gess&e-short;rant conf&i-short;tendo proferrent, 4, 27; S. 604, 23: Blickl. Homl. 25, 2; 101, 30. Ðæt he gewitnesse forþbǽre be ðam leóhte ut test&i-short;m&o-long;nium perh&i-short;b&e-long;ret de l&u-long;m&i-short;ne, Jn. Bos. 1. 8."
+}

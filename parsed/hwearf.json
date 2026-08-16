@@ -1,0 +1,43 @@
+{
+  "citation_form": "hwearf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Sax. hwarf a crowd. Cf. hweorfan; and gang a number of people (in its connection with the verb gangan).",
+      "meaning": "A crowd, troop, band of people",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hwearfum þringan",
+          "latin": null,
+          "english": "to press in crowds",
+          "citations": "Judth. 12; Thw. 25, 8; Jud. 249"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 36 a; Th. 118, 3; Gú. 234"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hweorfan",
+    "gang"
+  ],
+  "source_text": "hwearf, es; m. A crowd, troop, band of people :-- Hwearfum þringan to press in crowds, Judth. 12; Thw. 25, 8; Jud. 249: Exon. 36 a; Th. 118, 3; Gú. 234. [O. Sax. hwarf a crowd. Cf. hweorfan; and gang a number of people (in its connection with the verb gangan).]"
+}

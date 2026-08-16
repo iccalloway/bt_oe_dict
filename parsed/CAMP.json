@@ -1,0 +1,67 @@
+{
+  "citation_form": "CAMP",
+  "variant_forms": [
+    "comp"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Laym. comp a conflict: Plat. kamp: O. Frs. kamp, komp, m: Dut. kamp, m. a battle: Ger. M. H. Ger. kampf, m. a fight: O. H. Ger. champh, m: Dan. kamp, m. f: Swed. kamp, m: Norw. Icel. kapp, n: Wel. camp, f.",
+      "meaning": "A contest, war, battle",
+      "latin": "certamen, pugna, bellum",
+      "quotations": [
+        {
+          "old_english": "Ic ne gýme ðæs compes",
+          "latin": null,
+          "english": "I care not for the contest",
+          "citations": "Exon. 105b; Th. 402, 26; Rä. 21, 35"
+        },
+        {
+          "old_english": "Drihten tǽcþ handa míne to gefeohte, and fingras míne to slehte oððe to campe",
+          "latin": "Dominus docet manus meas ad prælium, et digitos meos ad bellum",
+          "english": null,
+          "citations": "Ps. Lamb. 143, 1: Bd. 3, 24; S. 556, 21: Judth. 11; Thw. 14, 21; Jud. 200: Beo. Th. 5003; B. 2505: Chr. 937; Th. 202, 2, col. 1, 2; Æðelst. 8: Andr. Kmbl. 2651; An. 1327"
+        },
+        {
+          "old_english": "Mec gesette Crist to compe",
+          "latin": null,
+          "english": "Christ has placed me in battle",
+          "citations": "Exon. 102b; Th. 389, 3; Rä. 7, 2: Andr. Kmbl. 468; An. 234"
+        },
+        {
+          "old_english": "He ofercom campe feónda folcriht",
+          "latin": null,
+          "english": "he overcame the liberty of enemies in battle",
+          "citations": "Cd. 143; Th. 178, 33; Exod. 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "camp-dóm",
+    "camp-hád",
+    "camp-rǽden",
+    "camp-stede",
+    "camp-wǽpen",
+    "camp-wered",
+    "camp-weorud",
+    "camp-wíg",
+    "camp-wudu",
+    "comp-wǽpen",
+    "comp-weorod",
+    "comp-wíg"
+  ],
+  "source_text": "CAMP, comp, es; m. A contest, war, battle; certamen, pugna, bellum :-- Ic ne gýme ðæs compes I care not for the contest, Exon. 105b; Th. 402, 26; Rä. 21, 35. Drihten tǽcþ handa míne to gefeohte, and fingras míne to slehte oððe to campe Dominus docet manus meas ad prælium, et digitos meos ad bellum, Ps. Lamb. 143, 1: Bd. 3, 24; S. 556, 21: Judth. 11; Thw. 14, 21; Jud. 200: Beo. Th. 5003; B. 2505: Chr. 937; Th. 202, 2, col. 1, 2; Æðelst. 8: Andr. Kmbl. 2651; An. 1327. Mec gesette Crist to compe Christ has placed me in battle, Exon. 102b; Th. 389, 3; Rä. 7, 2: Andr. Kmbl. 468; An. 234. He ofercom campe feónda folcriht he overcame the liberty of enemies in battle, Cd. 143; Th. 178, 33; Exod. 21. [Laym. comp a conflict: Plat. kamp: O. Frs. kamp, komp, m: Dut. kamp, m. a battle: Ger. M. H. Ger. kampf, m. a fight: O. H. Ger. champh, m: Dan. kamp, m. f: Swed. kamp, m: Norw. Icel. kapp, n: Wel. camp, f.] DER. camp-dóm, -hád, -rǽden, -stede, -wǽpen, -wered, -weorud, -wíg, -wudu: comp-wǽpen, -weorod, -wíg."
+}

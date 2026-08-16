@@ -1,0 +1,31 @@
+{
+  "citation_form": "a-driógan",
+  "variant_forms": [
+    "-drióhan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to bear",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 40, 3; Fox 238, 22; MS. Cott. The Bodl. MS. has a-drióhan."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-dreógan"
+  ],
+  "source_text": "a-driógan, -drióhan to bear, Bt. 40, 3; Fox 238, 22; MS. Cott. The Bodl. MS. has a-drióhan. v. a-dreógan."
+}

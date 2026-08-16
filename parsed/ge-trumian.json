@@ -1,0 +1,57 @@
+{
+  "citation_form": "ge-trumian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "intrans.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þú getrumast",
+              "latin": "convalescas",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 15, 75"
+            },
+            {
+              "old_english": "Hé þǽre ealdan untrumnesse getrumad wæs",
+              "latin": "ueterno infirmitatis discusso",
+              "english": null,
+              "citations": "Bd. 5, 5; Sch. 572, 10"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "reflex.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þá getrumade ic mé and gestrangad wæs",
+              "latin": "convalui",
+              "english": null,
+              "citations": "5, 6; Sch. 581, 11"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-trumian. Add: (1) intrans. :-- Þú getrumast convalescas, Wrt. Voc. ii. 15, 75. Hé þǽre ealdan untrumnesse getrumad wæs ueterno infirmitatis discusso, Bd. 5, 5; Sch. 572, 10. (2) reflex. :-- Þá getrumade ic mé and gestrangad wæs convalui, 5, 6; Sch. 581, 11."
+}

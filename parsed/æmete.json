@@ -1,0 +1,55 @@
+{
+  "citation_form": "æmete",
+  "variant_forms": [
+    "æmette",
+    "æmytte"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "æ = a from, off, away; mete meat, food: Grm. (Gr. ii. 88) thinks it is connected with O. H. Ger. emizíc assiduus; ameiza formica: O. Nrs. ami labour: A.Sax. æmettig otiosus; æmtegian vacare.",
+      "meaning": "An EMMET, ant",
+      "latin": "formica",
+      "quotations": [
+        {
+          "old_english": "Æmete formica",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 23, 78"
+        },
+        {
+          "old_english": "Æmettan ægru gením",
+          "latin": null,
+          "english": "take emmet's eggs",
+          "citations": "L. M. 1, 87; Lchdm, ii. 156, 6"
+        },
+        {
+          "old_english": "Æmytte formica",
+          "latin": null,
+          "english": null,
+          "citations": "Somn. 108"
+        },
+        {
+          "old_english": "Níme æmettan",
+          "latin": null,
+          "english": "take emmets",
+          "citations": "L. M. 3, 34; Lchdm, ii. 328, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "æmete, æmette, æmytte, an; f. An EMMET, ant; formica :-- Æmete formica. Wrt. Voc. 23, 78. Æmettan ægru gením take emmet's eggs, L. M. 1, 87; Lchdm, ii. 156, 6. Æmytte formica, Somn. 108. Níme æmettan take emmets, L. M. 3, 34; Lchdm, ii. 328, 7. [æ = a from, off, away; mete meat, food: Grm. (Gr. ii. 88) thinks it is connected with O. H. Ger. emizíc assiduus; ameiza formica: O. Nrs. ami labour: A.Sax. æmettig otiosus; æmtegian vacare.]"
+}

@@ -1,0 +1,36 @@
+{
+  "citation_form": "byrðyn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A burthen",
+      "latin": "onus",
+      "quotations": [
+        {
+          "old_english": "Mín byrðyn ys leóht",
+          "latin": "meum onus est leve",
+          "english": null,
+          "citations": "Mt. Bos. 11, 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "byrðen"
+  ],
+  "source_text": "byrðyn, e; f. A burthen; onus :-- Mín byrðyn ys leóht meum onus est leve, Mt. Bos. 11, 30. v. byrðen."
+}

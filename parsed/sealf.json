@@ -1,0 +1,106 @@
+{
+  "citation_form": "sealf",
+  "variant_forms": [
+    "sealfe"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Sax. sal&b-bar;a: O. H. Ger. salb and salba (gen. -a and -un) unctio, unguentum, malagma, cataplasma.",
+      "meaning": "Salve, ointment",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Salf, salb malagma",
+          "latin": null,
+          "english": null,
+          "citations": "Txts. 77, 127"
+        },
+        {
+          "old_english": "Sealf",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 68, 6"
+        },
+        {
+          "old_english": "Smyrels vel sealf unguina vel unguenta",
+          "latin": null,
+          "english": null,
+          "citations": "49, 29"
+        },
+        {
+          "old_english": "Fota, i. confortata vel sealf",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 149, 76"
+        },
+        {
+          "old_english": "Smyrels oððe sealfe unguentum",
+          "latin": null,
+          "english": null,
+          "citations": "i. 74, 8"
+        },
+        {
+          "old_english": "Sealfe nardi",
+          "latin": null,
+          "english": null,
+          "citations": "Hpt. Gl. 517, 28"
+        },
+        {
+          "old_english": "For hwí wæs ðisse sealfe forspillednes? Ðeós sealf mihte beón geseald",
+          "latin": null,
+          "english": null,
+          "citations": "Mk. Skt. 14, 4, 5: Jn. Skt. 12, 3, 5"
+        },
+        {
+          "old_english": "Wyrc tó salfe (sealfe, MSS. H. B.)",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 110, 18"
+        },
+        {
+          "old_english": "Sealfe fotu",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 90, 74"
+        },
+        {
+          "old_english": "Lǽcedómnessa oððe sealfe cataplasma",
+          "latin": null,
+          "english": null,
+          "citations": "18, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bæþ-sealf",
+    "bán-sealf",
+    "ciper-sealf",
+    "cú-sealf",
+    "dolh-sealf",
+    "eág-sealf",
+    "eár-sealf",
+    "ele-sealf",
+    "múþ-sealf",
+    "sceáde-sealf",
+    "smeoru-sealf",
+    "tóþ-sealf",
+    "weax-sealf",
+    "weax&dash-uncertain;hláf-sealf",
+    "wen-sealf"
+  ],
+  "source_text": "sealf, e: sealfe, an (?); f. Salve, ointment:--Salf, salb malagma, Txts. 77, 127. Sealf, Wrt. Voc. i. 68, 6. Smyrels vel sealf unguina vel unguenta, 49, 29. Fota, i. confortata vel sealf, ii. 149, 76. Smyrels oððe sealfe unguentum, i. 74, 8. Sealfe nardi, Hpt. Gl. 517, 28. For hwí wæs ðisse sealfe forspillednes? Ðeós sealf mihte beón geseald, Mk. Skt. 14, 4, 5: Jn. Skt. 12, 3, 5. Wyrc tó salfe (sealfe, MSS. H. B.), Lchdm. i. 110, 18. Sealfe fotu, Wrt. Voc. ii. 90, 74. Lǽcedómnessa oððe sealfe cataplasma, 18, 31. [O. Sax. sal&b-bar;a: O. H. Ger. salb and salba (gen. -a and -un) unctio, unguentum, malagma, cataplasma.] v. bæþ-, bán-, ciper-, cú-, dolh-, eág-, eár-, ele-, múþ-, sceáde-, smeoru-, tóþ-, weax-, weax&dash-uncertain;hláf-, wen-sealf."
+}

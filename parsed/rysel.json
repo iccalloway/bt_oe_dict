@@ -1,0 +1,90 @@
+{
+  "citation_form": "rysel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "fat",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hrisel cada, lytel hrisel cadula",
+          "latin": "cada arvina; cadula guttae quae cadunt ex pingui carne, cum assatur; frusta ex adipe, Migne",
+          "english": null,
+          "citations": "Wrt. Voc. i. 44, 1"
+        },
+        {
+          "old_english": "Hrysel arvina vel adeps vel axungia vel abdomen",
+          "latin": null,
+          "english": null,
+          "citations": "20"
+        },
+        {
+          "old_english": "Rysele, smerewe ausungia, i. aruina",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 2762"
+        },
+        {
+          "old_english": "Gemæstra swína rysele scrofarum auxungia",
+          "latin": null,
+          "english": null,
+          "citations": "23, 28"
+        },
+        {
+          "old_english": "Mæng wiþ ealdne rysele",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 62, 28: 130, 19"
+        },
+        {
+          "old_english": "Genim ealdne rysle",
+          "latin": null,
+          "english": null,
+          "citations": "180, 4"
+        },
+        {
+          "old_english": "Bringon þone rysle þe þá heortgesída mid beóð oferwrigen",
+          "latin": "offerent adipem qui operit vitalia",
+          "english": null,
+          "citations": "Lev. 3, 3"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "resin",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hryseles, tyrewan resinę, i. bituminis",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 4027"
+        },
+        {
+          "old_english": "Ryselas oððe swefel gesihð, hefige teónan getácnað",
+          "latin": "resinas uel sulphur uiderit, grandes molestias significat",
+          "english": null,
+          "citations": "Lch. ii. 210, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "rysel. Add. I. fat :-- Hrisel cada, lytel hrisel cadula (cada arvina; cadula guttae quae cadunt ex pingui carne, cum assatur; frusta ex adipe, Migne), Wrt. Voc. i. 44, 1. Hrysel arvina vel adeps vel axungia vel abdomen, 20. Rysele, smerewe ausungia, i. aruina, An. Ox. 2762. Gemæstra swína rysele scrofarum auxungia, 23, 28. Mæng wiþ ealdne rysele, Lch. ii. 62, 28: 130, 19. Genim ealdne rysle, 180, 4. Bringon þone rysle þe þá heortgesída mid beóð oferwrigen offerent adipem qui operit vitalia, Lev. 3, 3. II. resin :-- Hryseles, tyrewan resin&e-hook;, i. bituminis, An. Ox. 4027. Ryselas oððe swefel gesihð, hefige teónan getácnað resinas uel sulphur uiderit, grandes molestias significat, Lch. ii. 210, 13."
+}

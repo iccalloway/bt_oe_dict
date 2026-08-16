@@ -1,0 +1,70 @@
+{
+  "citation_form": "oþ-hrínan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "of physical contact, to touch",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se rodor þǽre eorþan ǽfre ne oðríneð",
+          "latin": null,
+          "english": null,
+          "citations": "Met. 20, 138"
+        },
+        {
+          "old_english": "Ic hys hrægles fnædes oðhrán",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. A. 189, 228"
+        },
+        {
+          "old_english": "Hé hire fét mid teárum oþrán . . . heó mid ðǽre hálgan róde gedryncnesse Iordanem oþhrínan (ongan)",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23 b, 719-723"
+        },
+        {
+          "old_english": "Gif man mid unclǽnum handum hwylces metes onhríne, oððe him hund oððe catt oððe mús oðhríne",
+          "latin": "se quis immundis manibus cibum aliquem tetigerit, vel canis, vel felis, vel mus tetigerit",
+          "english": null,
+          "citations": "Ll. Th. ii. 164, 9"
+        },
+        {
+          "old_english": "Hé hire fét mid his teárum þwóh, ne geþrýstlǽhte hé nán óþer þæs líchaman oðhrínan",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23 b, 745"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to touch the heart, mind, &c.",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic wearð gelǽd mid þǽre hǽtu þæs geleáfan, and mid þám trúwan oþhrinon (æthrinen, v. l.)",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23 b, 456"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "oþ-hrínan. I. of physical contact, to touch :-- Se rodor þǽre eorþan ǽfre ne oðríneð, Met. 20, 138. Ic hys hrægles fnædes oðhrán, Hml. A. 189, 228. Hé hire fét mid teárum oþrán . . . heó mid ðǽre hálgan róde gedryncnesse Iordanem oþhrínan (ongan), Hml. S. 23 b, 719-723. Gif man mid unclǽnum handum hwylces metes onhríne, oððe him hund oððe catt oððe mús oðhríne se quis immundis manibus cibum aliquem tetigerit, vel canis, vel felis, vel mus tetigerit, Ll. Th. ii. 164, 9. Hé hire fét mid his teárum þwóh, ne geþrýstlǽhte hé nán óþer þæs líchaman oðhrínan, Hml. S. 23 b, 745. II. to touch the heart, mind, &c. :-- Ic wearð gelǽd mid þǽre hǽtu þæs geleáfan, and mid þám trúwan oþhrinon (æthrinen, v. l.), Hml. S. 23 b, 456."
+}

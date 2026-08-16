@@ -1,0 +1,54 @@
+{
+  "citation_form": "sǽd-leáp",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Ðæt acersǽd hwǽte, ðæt is twegen sédlǽpes, and ðæt bærlíc, ðæt is þré sédlǽpas, and ðæt acersǽd áten, ðæt is feówer sédlǽpas, Chr. 1124; Erl. 252, 34-36. In the note on this passage seed-lip is said to be still used in Somersetshire.",
+      "meaning": "A basket or other vessel of wood carried on one arm of the husbandman, to bear the seed which he sows with the other, a seed-leap (Essex), seed-lip (Oxford)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hopur or a seed lepe",
+          "latin": "satorium, saticulum",
+          "english": null,
+          "citations": "Prompt. Parv. 246"
+        },
+        {
+          "old_english": "A sedlepe",
+          "latin": "saticulum",
+          "english": null,
+          "citations": "Wülck. Gl. 609, 28"
+        },
+        {
+          "old_english": null,
+          "latin": "semilio",
+          "english": null,
+          "citations": "611, 11"
+        },
+        {
+          "old_english": "Sǽdleáp",
+          "latin": null,
+          "english": null,
+          "citations": "Anglia ix. 264, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "leáp"
+  ],
+  "source_text": "sǽd-leáp, es; m. A basket or other vessel of wood carried on one arm of the husbandman, to bear the seed which he sows with the other, a seed-leap (Essex), seed-lip (Oxford). v. E. D. S. Pub. B. 18; also seed-lop, v. Old Country and Farming words, iii. Hopur or a seed lepe satorium, saticulum, Prompt. Parv. 246. A sedlepe saticulum, Wülck. Gl. 609, 28: semilio, 611, 11:--Sǽdleáp, Anglia ix. 264, 13. [Ðæt acersǽd hwǽte, ðæt is twegen sédlǽpes, and ðæt bærlíc, ðæt is þré sédlǽpas, and ðæt acersǽd áten, ðæt is feówer sédlǽpas, Chr. 1124; Erl. 252, 34-36. In the note on this passage seed-lip is said to be still used in Somersetshire.] v. leáp."
+}

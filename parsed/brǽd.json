@@ -1,0 +1,57 @@
+{
+  "citation_form": "brǽd",
+  "variant_forms": [
+    "brǽdo",
+    "brǽdu"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "brád broad; latus. Chauc. brede: Wyc. breede: O. Frs. brede, f: Dut. breedte, f: Ger. M. H. Ger. breite, f: O. H. Ger. breiti, f: Goth. braidei, f: Dan. brede, c: Swed. bredd, f: Icel. breidd, f. breadth.",
+      "meaning": "BREADTH, width, latitude",
+      "latin": "latitudo, amplitudo",
+      "quotations": [
+        {
+          "old_english": "Biþ se arc fíftig fæðma on brǽde",
+          "latin": "quinquaginta cubitorum erit latitudo arcæ",
+          "english": "the ark shall be fifty fathoms in breadth",
+          "citations": "Gen. 6, 15"
+        },
+        {
+          "old_english": "On brǽdo his stealles",
+          "latin": "latitudine sui status",
+          "english": null,
+          "citations": "Bd. 1, 1; S. 474, 29"
+        },
+        {
+          "old_english": "Ic on brǽdu [brǽde, Spl.] gange",
+          "latin": "ambulabam in latitudine",
+          "english": null,
+          "citations": "Ps. Th. 118, 45"
+        },
+        {
+          "old_english": "Drihten me gehýrde on heáre [ = heáhre, MS. hearr] brǽdu",
+          "latin": "exaudivit me in latitudine Dominus",
+          "english": null,
+          "citations": "117, 5"
+        },
+        {
+          "old_english": "Hí habbaþ ingang swá mycelre brǽdo swá mon mæg mid liðeran geworpan",
+          "latin": "habet ingressum amplitudinis quasi jactus fundæ",
+          "english": null,
+          "citations": "Bd. 4, 13; S. 583, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hand-brǽd"
+  ],
+  "source_text": "brǽd, e; f: brǽdo, brǽdu; indecl. f. [brád broad; latus] BREADTH, width, latitude; latitudo, amplitudo :-- Biþ se arc fíftig fæðma on brǽde the ark shall be fifty fathoms in breadth; quinquaginta cubitorum erit latitudo arcæ, Gen. 6, 15. On brǽdo his stealles latitudine sui status, Bd. 1, 1; S. 474, 29. Ic on brǽdu [brǽde, Spl.] gange ambulabam in latitudine, Ps. Th. 118, 45. Drihten me gehýrde on heáre [ = heáhre, MS. hearr] brǽdu exaudivit me in latitudine Dominus, 117, 5. Hí habbaþ ingang swá mycelre brǽdo swá mon mæg mid liðeran geworpan habet ingressum amplitudinis quasi jactus fundæ, Bd. 4, 13; S. 583, 11. [Chauc. brede: Wyc. breede: O. Frs. brede, f: Dut. breedte, f: Ger. M. H. Ger. breite, f: O. H. Ger. breiti, f: Goth. braidei, f: Dan. brede, c: Swed. bredd, f: Icel. breidd, f. breadth.] DER. hand-brǽd."
+}

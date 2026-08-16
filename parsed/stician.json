@@ -1,0 +1,308 @@
+{
+  "citation_form": "stician",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "trans. To stick, stab, pierce, prick",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Oxa spæc and cwæð: 'Tó hwon sticast ðú mé,'",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 30, 12"
+        },
+        {
+          "old_english": "Mé on fæðme sticaþ hygegálan hond,",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 394, 1; Rä. 13, 11"
+        },
+        {
+          "old_english": "Hé(the wounded elephant) ða óþre elpendas sticade,",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 4, 1; Swt. 156, 13"
+        },
+        {
+          "old_english": "Gé hyne (Christ) myd spere sticodon,",
+          "latin": null,
+          "english": null,
+          "citations": "Nicod. 13; Thw. 6, 35"
+        },
+        {
+          "old_english": "Sticedon,",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 297, 1; Sat. 510"
+        },
+        {
+          "old_english": "Stycodon,",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 147, 36"
+        },
+        {
+          "old_english": "Hí ne mihte þorn stician,",
+          "latin": null,
+          "english": null,
+          "citations": "66, 17"
+        },
+        {
+          "old_english": "Stycigende",
+          "latin": "stimulosa,",
+          "english": null,
+          "citations": "Scint. 104, 6"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I a.",
+          "heading": null,
+          "meaning": "to kill (to stick is still used of killing pigs. Cf. sticung, II)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Wé oþþe sticode beóþ oþþe on sǽ ádruncene",
+              "latin": "aut jugulamur aut mergimur,",
+              "english": null,
+              "citations": "Bd. 1, 13; S. 482, 1"
+            },
+            {
+              "old_english": "Monige fanggene wǽron and heápmǽlum sticode",
+              "latin": "nonnulli comprehensi acervatim jugulabantur,",
+              "english": null,
+              "citations": "1, 15; S. 484, 5"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "I b.",
+          "heading": null,
+          "meaning": "to thrust out (cf. stingan)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sticode him mon ða eágan út",
+              "latin": "efossis oculis,",
+              "english": null,
+              "citations": "Ors. 4, 5; Swt. 168, 4"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "I c.",
+          "heading": null,
+          "meaning": "intrans.",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðæt mé ongeán sticaþ,",
+              "latin": null,
+              "english": null,
+              "citations": "Exon. Th. 497, 20; Rä. 87, 3"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "intrans.",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "To stick, remain fixed",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðæs spácan sticaþ óþer ende on ðære felge, óþer on ðære nafe,",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 39, 7; Fox 222, 7"
+            },
+            {
+              "old_english": "Lǽt ða ságlas stician ðǽron . . . Ða ságlas sticiaþ eallne weg inn on ðám hringum . . . Simle ða ofergyldan ságlas sceolden stician on ðǽm gyldnum hringum,",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 22; Swt. 171, 1-22"
+            },
+            {
+              "old_english": "Mé on hreðre heáfod sticade,",
+              "latin": null,
+              "english": null,
+              "citations": "Exon. Th. 479, 10; Rä. 62, 5"
+            },
+            {
+              "old_english": "On ðære róde sticodon mænige arewan,",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1083; Erl. 217, 21"
+            },
+            {
+              "old_english": "Sting ðín seax on ða wyrte, lǽt stician ðǽron,",
+              "latin": null,
+              "english": null,
+              "citations": "Lchdm. ii. 346, 12, 20: Jud. 3, 22"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "fig. to be involved, be prevented from free action, lie encumbered",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On hú ðióstrum hora seáþe þara unþeáwa ða yfelwillendan sticiaþ",
+              "latin": "quanto in coeno probra volvantur,",
+              "english": null,
+              "citations": "37, 2; Fox 188, 2"
+            },
+            {
+              "old_english": "Sticiaþ gehýdde beorhte cræftas",
+              "latin": "latet obscuris condita virtus clara tenebris,",
+              "english": null,
+              "citations": "4; Fox 8, 15"
+            },
+            {
+              "old_english": "Ðæt ða synfullan sáwla sticien helle tómiddes,",
+              "latin": null,
+              "english": null,
+              "citations": "Salm. Kmbl. 344; Sal. 171"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "to be inherent",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Seó godcundnys ðe on ðam men sticode,",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 386, 19"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "to be in possession of (of demoniacal possession), to lurk",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Deófol ðé sticaþ on",
+              "latin": "daemonium habes,",
+              "english": null,
+              "citations": "Jn. Skt. 7, 20"
+            },
+            {
+              "old_english": "'Ðonne gesihst ðú hwæt ðǽron sticaþ' . . . Ðǽr gewende út of ðam fæte án næddre,",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 170, 19"
+            },
+            {
+              "old_english": "Wé bebeódaþ ðám deóflum ðe on ðisum anlícnyssum sticiaþ, ðæt hí út faron,",
+              "latin": null,
+              "english": null,
+              "citations": "496, 8"
+            },
+            {
+              "old_english": "Se apostol cwæð tó ðam áwyrgedan gáste ðe hire on sticode,",
+              "latin": null,
+              "english": null,
+              "citations": "i. 464, 22"
+            },
+            {
+              "old_english": "Ða deóflu ðe on ðám anlícnyssum sticodon,",
+              "latin": null,
+              "english": null,
+              "citations": "ii. 482, 8"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": "[M. H. Ger. Ger. stecken to remain fixed. Cf. O. Sax. stekan; p. stak to pierce, stab: O. Frs. steka: O. H. Ger. stehhan; p. stah pungere.]",
+      "meaning": "of direction, to run, lie (cf. sceótan)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Út æt ðæs croftes heáfod ðæt sticaþ on ðære lace,",
+          "latin": null,
+          "english": null,
+          "citations": "Cod. Dip. Kmbl. iii. 37, 24"
+        },
+        {
+          "old_english": "Andlang weges ðæt hit sticaþ on norðeweardum cynges steorte. . . andlang weges ðæt hit sticaþ æt wíchám,",
+          "latin": null,
+          "english": null,
+          "citations": "48, 8-11"
+        },
+        {
+          "old_english": "Ðonne swá forð ðæt hit sticaþ on miclancumb; and of miclancumbe ðæt hit sticaþ on litlancumb,",
+          "latin": null,
+          "english": null,
+          "citations": "405, 30"
+        },
+        {
+          "old_english": "Ðonne tó ðam wuduwege ðæt hit sticaþ innan Nodre; ðonne andlang Noddre ðæt hit sticaþ on Eatstánes landscare; ðæt hit sticaþ up tó herpoðe,",
+          "latin": null,
+          "english": null,
+          "citations": "446, 8-11"
+        },
+        {
+          "old_english": "Wið súðan ða méde ðæt it sticaþ tóemnes ðam wiðigðyfelum,",
+          "latin": null,
+          "english": null,
+          "citations": "v. 194, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "of-stician",
+    "tó-stician",
+    "þurh-stician"
+  ],
+  "source_text": "stician; p. ode. I. trans. To stick, stab, pierce, prick:--Oxa spæc and cwæð: 'Tó hwon sticast ðú mé,' Shrn. 30, 12. Mé on fæðme sticaþ hygegálan hond, Exon. Th. 394, 1; Rä. 13, 11. Hé(the wounded elephant) ða óþre elpendas sticade, Ors. 4, 1; Swt. 156, 13. Gé hyne (Christ) myd spere sticodon, Nicod. 13; Thw. 6, 35. Sticedon, Cd. Th. 297, 1; Sat. 510. Stycodon, Shrn. 147, 36. Hí ne mihte þorn stician, 66, 17. Stycigende stimulosa, Scint. 104, 6. I a. to kill (to stick is still used of killing pigs. Cf. sticung, II):--Wé oþþe sticode beóþ oþþe on sǽ ádruncene aut jugulamur aut mergimur, Bd. 1, 13; S. 482, 1. Monige fanggene wǽron and heápmǽlum sticode nonnulli comprehensi acervatim jugulabantur, 1, 15; S. 484, 5. I b. to thrust out (cf. stingan):--Sticode him mon ða eágan út efossis oculis, Ors. 4, 5; Swt. 168, 4. I c. intrans.:--Ðæt mé ongeán sticaþ, Exon. Th. 497, 20; Rä. 87, 3. II. intrans. (1) To stick, remain fixed:--Ðæs spácan sticaþ óþer ende on ðære felge, óþer on ðære nafe, Bt. 39, 7; Fox 222, 7. Lǽt ða ságlas stician ðǽron . . . Ða ságlas sticiaþ eallne weg inn on ðám hringum . . . Simle ða ofergyldan ságlas sceolden stician on ðǽm gyldnum hringum, Past. 22; Swt. 171, 1-22. Mé on hreðre heáfod sticade, Exon. Th. 479, 10; Rä. 62, 5. On ðære róde sticodon mænige arewan, Chr. 1083; Erl. 217, 21. Sting ðín seax on ða wyrte, lǽt stician ðǽron, Lchdm. ii. 346, 12, 20: Jud. 3, 22. (2) fig. to be involved, be prevented from free action, lie encumbered:--On hú ðióstrum hora seáþe þara unþeáwa ða yfelwillendan sticiaþ quanto in coeno probra volvantur, 37, 2; Fox 188, 2. Sticiaþ gehýdde beorhte cræftas latet obscuris condita virtus clara tenebris, 4; Fox 8, 15. Ðæt ða synfullan sáwla sticien helle tómiddes, Salm. Kmbl. 344; Sal. 171. (3) to be inherent:--Seó godcundnys ðe on ðam men sticode, Homl. Th. ii. 386, 19. (4) to be in possession of (of demoniacal possession), to lurk:--Deófol ðé sticaþ on daemonium habes, Jn. Skt. 7, 20. 'Ðonne gesihst ðú hwæt ðǽron sticaþ' . . . Ðǽr gewende út of ðam fæte án næddre, Homl. Th. ii. 170, 19. Wé bebeódaþ ðám deóflum ðe on ðisum anlícnyssum sticiaþ, ðæt hí út faron, 496, 8. Se apostol cwæð tó ðam áwyrgedan gáste ðe hire on sticode, i. 464, 22. Ða deóflu ðe on ðám anlícnyssum sticodon, ii. 482, 8. III. of direction, to run, lie (cf. sceótan):--Út æt ðæs croftes heáfod ðæt sticaþ on ðære lace, Cod. Dip. Kmbl. iii. 37, 24. Andlang weges ðæt hit sticaþ on norðeweardum cynges steorte. . . andlang weges ðæt hit sticaþ æt wíchám, 48, 8-11. Ðonne swá forð ðæt hit sticaþ on miclancumb; and of miclancumbe ðæt hit sticaþ on litlancumb, 405, 30. Ðonne tó ðam wuduwege ðæt hit sticaþ innan Nodre; ðonne andlang Noddre ðæt hit sticaþ on Eatstánes landscare; ðæt hit sticaþ up tó herpoðe, 446, 8-11. Wið súðan ða méde ðæt it sticaþ tóemnes ðam wiðigðyfelum, v. 194, 32. [M. H. Ger. Ger. stecken to remain fixed. Cf. O. Sax. stekan; p. stak to pierce, stab: O. Frs. steka: O. H. Ger. stehhan; p. stah pungere.] v. of-, tó-, þurh-stician."
+}

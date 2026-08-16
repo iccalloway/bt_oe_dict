@@ -1,0 +1,36 @@
+{
+  "citation_form": "Datia",
+  "variant_forms": [
+    "Datie"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "Datia",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "gen. ōrum; m. = Δακοί· A celebrated warlike people in Upper Hungary, in Transylvania, Moldavia, Wallachia, and in Bessarabia. They were originally of the same race as the Getæ. Trajan crossed the Danube and conquered the country in A. D. 106, and colonised it with Romans. At a later period Dacia was invaded by the Goths; and as Aurelian considered it more prudent to make the Danube the boundary of the Empire, he resigned Dacia to the barbarians, removed the Roman inhabitants to Mœsia, and gave to the Dacians the name of the Aureliani, who inhabited that part of the province along the Danube in which they were settled",
+      "meaning": "The DACIANS",
+      "latin": "Dāci",
+      "quotations": [
+        {
+          "old_english": "And be eástan ðæm sind Datie [MS. Datia] ða ðe in wǽron Gotan",
+          "latin": null,
+          "english": "and to the east of them [the Wisle] are the Dacians who were formerly Goths",
+          "citations": "Ors. 1, 1, § 12; Bos. 19, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Datia, Ors. 1, 1, § 12; Bos. 19, 3, = Datie; gen. Datia; pl. m. The DACIANS; D&a-long;ci; gen. &o-long;rum; m. = Δακo&iota-tonos; A celebrated warlike people in Upper Hungary, in Transylvania, Moldavia, Wallachia, and in Bessarabia. They were originally of the same race as the Getæ. Trajan crossed the Danube and conquered the country in A. D. 106, and colonised it with Romans. At a later period Dacia was invaded by the Goths; and as Aurelian considered it more prudent to make the Danube the boundary of the Empire, he resigned Dacia to the barbarians, removed the Roman inhabitants to Mœsia, and gave to the Dacians the name of the Aureliani, who inhabited that part of the province along the Danube in which they were settled :-- And be eástan ðæm sind Datie [MS. Datia] ða ðe in wǽron Gotan and to the east of them [the Wisle] are the Dacians who were formerly Goths, Ors. 1, 1, § 12; Bos. 19, 3."
+}

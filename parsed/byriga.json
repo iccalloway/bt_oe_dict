@@ -1,0 +1,36 @@
+{
+  "citation_form": "byriga",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A surety",
+      "latin": "fidejussor",
+      "quotations": [
+        {
+          "old_english": "He him byrigan gesealdne hæbbe",
+          "latin": null,
+          "english": "he has given him surety",
+          "citations": "L. H. E. 10; Th. i. 30, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "byrgea"
+  ],
+  "source_text": "byriga, an; m. A surety; fidejussor :-- He him byrigan gesealdne hæbbe he has given him surety, L. H. E. 10; Th. i. 30, 17. v. byrgea."
+}

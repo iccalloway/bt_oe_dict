@@ -1,0 +1,66 @@
+{
+  "citation_form": "hwistlung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "hissing, whistling",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Leóhtlic hwyslung (sibilus) mæg hors tamcyan",
+          "latin": null,
+          "english": null,
+          "citations": "Chrd. 96, 18"
+        },
+        {
+          "old_english": "lond hleóðrade for þára wyrma [hw]istlunge",
+          "latin": "sibilabat tota regio",
+          "english": null,
+          "citations": "Nar. 13, 22"
+        },
+        {
+          "old_english": "Mislice fugela hwistlunge",
+          "latin": null,
+          "english": null,
+          "citations": "Guth. 48, 5"
+        },
+        {
+          "old_english": "Nædddrena hwistlunge",
+          "latin": "sibilos serpentium",
+          "english": null,
+          "citations": "Gr. D. 185, 3"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": "l. (?) wistlung. v. wistle",
+      "meaning": "piping, playing on a pipe",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Lk. L. 15, 25 (in Dict.)"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hwistlung. Add: I. hissing, whistling :-- Leóhtlic hwyslung (sibilus) mæg hors tamcyan, Chrd. 96, 18. thorn-bar; lond hleó&d-bar;rade for þ&a-long;ra wyrma [hw]istlunge sibilabat tota regio, Nar. 13, 22. Mislice fugela hwistlunge, Guth. 48, 5. Næ-long;ddrena hwistlunge sibilos serpentium, Gr. D. 185, 3. II. piping, playing on a pipe [l. (?) wistlung. v. wistle], Lk. L. 15, 25 (in Dict.)."
+}

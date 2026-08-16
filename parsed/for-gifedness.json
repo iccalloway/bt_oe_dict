@@ -1,0 +1,30 @@
+{
+  "citation_form": "for-gifedness",
+  "variant_forms": [
+    "-gifen-?"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "forgiveness",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Andetnys synne forgyfednysse sylð",
+          "latin": "confessio peccati ueniam donat",
+          "english": null,
+          "citations": "Scint. 40, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-gifedness (-gifen-?) forgiveness:--Andetnys synne forgyfednysse sylð confessio peccati ueniam donat, Scint. 40, 13."
+}

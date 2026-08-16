@@ -1,0 +1,34 @@
+{
+  "citation_form": "ge-neát-scólu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A band of companions",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ða ðegnas seó geneát-scólu",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 75 b; Th. 283, 22; Jul. 684"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-neát-scólu, e; f. A band of companions :-- Ða ðegnas seó geneát-scólu, Exon. 75 b; Th. 283, 22; Jul. 684."
+}

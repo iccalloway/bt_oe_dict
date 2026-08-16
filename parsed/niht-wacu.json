@@ -1,0 +1,32 @@
+{
+  "citation_form": "niht-wacu",
+  "variant_forms": [
+    "o"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A night-watch",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mec oft bigeat nearo nihtwaco æt nacan stefnan",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 306, 13 ; Seef. 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "next word"
+  ],
+  "source_text": "niht-wacu (o); f. A night-watch :-- Mec oft bigeat nearo nihtwaco æt nacan stefnan, Exon. Th. 306, 13 ; Seef. 7. v. next word."
+}

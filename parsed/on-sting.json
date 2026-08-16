@@ -1,0 +1,40 @@
+{
+  "citation_form": "on-sting",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the right to intervene, or thrust oneself into, the affairs of another",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "Ia",
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Icc nelle nâteswhôn geþafian þ-bar; þaer æ-circ;nig man æ-circ;nigne onstyng habbe on æ-circ;nigum þingum",
+              "latin": null,
+              "english": null,
+              "citations": "Cht. E. 303, 10"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "stingan",
+    "in-sting"
+  ],
+  "source_text": "on-sting. Add: the right to intervene, or thrust oneself into, the affairs of another. Cf. stingan; Ia :-- Icc nelle nâteswhôn geþafian þ-bar; þaer æ-circ;nig man æ-circ;nigne onstyng habbe on æ-circ;nigum þingum, Cht. E. 303, 10. v. in-sting."
+}

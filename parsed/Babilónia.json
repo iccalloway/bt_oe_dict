@@ -1,0 +1,30 @@
+{
+  "citation_form": "Babilónia",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Babylon",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Babilónia",
+          "latin": null,
+          "english": "Babylon",
+          "citations": "acc. Grk, Ors. 2, 4; Bos. 44, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Babilón"
+  ],
+  "source_text": "Babilónia Babylon, acc. Grk, Ors. 2, 4; Bos. 44, 17. v. Babilón."
+}

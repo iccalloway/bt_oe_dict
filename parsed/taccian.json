@@ -1,0 +1,27 @@
+{
+  "citation_form": "taccian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": ":-- Getaccodon (-þaccodon? v. þaccian) edomitis, Germ. 402, 63",
+      "meaning": "To tame",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "taccian (?); p. ode To tame [ :-- Getaccodon (-þaccodon? v. þaccian) edomitis, Germ. 402, 63]."
+}

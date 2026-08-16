@@ -1,0 +1,73 @@
+{
+  "citation_form": "þeód-sceaþa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Sax. thiod-skaðo (the devil).",
+      "meaning": "A criminal against the community, a spoiler of the community, a great criminal or spoiler",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wác biþ se hyrde, ðe nele ða heorde bewerian, gyf ðǽr hwylc þeódsceaða sceaðian onginneþ. Nis nán swá yfel sceaða swá is deófol sylf. Ðonne móton ða hyrdas beón swíðe wacore, ðe wið ðone þeódsceaðan folce sceolon scyldan",
+          "latin": null,
+          "english": null,
+          "citations": "L. C. E. 26; Th. i, 374, 22-28: Wulfst. 191, 6-13"
+        },
+        {
+          "old_english": "Þeódsceada, fýrdraca",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 5369; B. 2688: 4545; B. 2278"
+        },
+        {
+          "old_english": "Se þeódsceaða (famine)",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 2232; An. 1117"
+        },
+        {
+          "old_english": "Gyf God ne gescyrte ðæs þeódscaðan (Antichrist) lífdagas",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 86, 17"
+        },
+        {
+          "old_english": "God biddan, ðæt hé ús gescylde wið ðone þeódscaðan (Antichrist)",
+          "latin": null,
+          "english": null,
+          "citations": "80, 6"
+        },
+        {
+          "old_english": "Ðider (to hell) sculon þeófas and deódscaðan",
+          "latin": null,
+          "english": null,
+          "citations": "26, 18: 165, 36: Exon. Th. 98, 20; Cri. 1610"
+        },
+        {
+          "old_english": "Lácende lég láðwende men þreáð, þeódsceaþan",
+          "latin": null,
+          "english": null,
+          "citations": "97, 25; Cri. 1596"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "folc-sceaþa",
+    "leód-sceaþa"
+  ],
+  "source_text": "þeód-sceaþa, an; m. A criminal against the community, a spoiler of the community, a great criminal or spoiler :-- Wác biþ se hyrde, ðe nele ða heorde bewerian, gyf ðǽr hwylc þeódsceaða sceaðian onginneþ. Nis nán swá yfel sceaða swá is deófol sylf. Ðonne móton ða hyrdas beón swíðe wacore, ðe wið ðone þeódsceaðan folce sceolon scyldan, L. C. E. 26; Th. i, 374, 22-28: Wulfst. 191, 6-13. Þeódsceada, fýrdraca, Beo. Th. 5369; B. 2688: 4545; B. 2278. Se þeódsceaða (famine), Andr. Kmbl. 2232; An. 1117. Gyf God ne gescyrte ðæs þeódscaðan (Antichrist) lífdagas, Wulfst. 86, 17. God biddan, ðæt hé ús gescylde wið ðone þeódscaðan (Antichrist), 80, 6. Ðider (to hell) sculon þeófas and deódscaðan, 26, 18: 165, 36: Exon. Th. 98, 20; Cri. 1610. Lácende lég láðwende men þreáð, þeódsceaþan, 97, 25; Cri. 1596. [O. Sax. thiod-skaðo (the devil).] Cf. folc-, leód-sceaþa."
+}

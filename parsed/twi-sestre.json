@@ -1,0 +1,26 @@
+{
+  "citation_form": "twi-sestre",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Containing two sesters",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Éghuælc án wæs twisestre gemet",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. L. 2, 6 marg."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "twi-sestre; adj. Containing two sesters :-- Éghuælc án wæs twisestre gemet, Jn. L. 2, 6 marg."
+}

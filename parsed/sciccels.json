@@ -1,0 +1,34 @@
+{
+  "citation_form": "sciccels",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hacele vel fótsíd sciccel (v. fót-síd)",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 40, 67"
+        },
+        {
+          "old_english": "Áwyrp hyder þínne scyccels þe þú mid bewǽfed eart",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23 b, 210"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sciccels. Add :-- Hacele vel fótsíd sciccel (v. fót-síd), Wrt. Voc. i. 40, 67. Áwyrp hyder þínne scyccels þe þú mid bewǽfed eart, Hml. S. 23 b, 210."
+}

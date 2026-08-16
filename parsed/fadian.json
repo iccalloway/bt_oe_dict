@@ -1,0 +1,88 @@
+{
+  "citation_form": "fadian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "v. N. E. D. fade.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fadode digessit",
+          "latin": "digessit",
+          "english": null,
+          "citations": "An. Ox. 56, 326"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "absolute",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Seofon þing gedafenað rihtwísum cyninge . . . seofoðe, þ-bar; hé be freóndan and be fremdan fadige gelíce on rihtlican dóme",
+              "latin": null,
+              "english": "that in the matter of just judgement his ordering be the same for friends and for strangers",
+              "citations": "Ll. Th. ii. 306, 29"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "with acc.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se práfast þæt fadaþ and gegearewaþ",
+              "latin": "praepositus omnia disponens",
+              "english": null,
+              "citations": "R. Ben. 137, 22"
+            },
+            {
+              "old_english": "Hé wíslíce his líf ne fadað",
+              "latin": null,
+              "english": "he orders not his life wisely",
+              "citations": "Wlfst. 52, 28"
+            },
+            {
+              "old_english": "Fadode",
+              "latin": null,
+              "english": null,
+              "citations": "159, 18"
+            },
+            {
+              "old_english": "Gesette man þæne þe Godes hús wel fadige",
+              "latin": "domui Dei dignum constituant dispensatorem",
+              "english": null,
+              "citations": "R. Ben. 119, 12"
+            },
+            {
+              "old_english": "Gif hé his líf rihtlice fadige",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 346, 18"
+            },
+            {
+              "old_english": "Heora ágene wísan rihtlíce fadian",
+              "latin": null,
+              "english": "to order their conversation aright",
+              "citations": "ii. 318, 13 : Wlfst. 143, 22 : 144, 22"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fadian. Add :-- Fadode digessit, An. Ox. 56, 326. (1) absolute :-- Seofon þing gedafenað rihtwísum cyninge . . . seofoðe, þ-bar; hé be freóndan and be fremdan fadige gelíce on rihtlican dóme (that in the matter of just judgement his ordering be the same for friends and for strangers), Ll. Th. ii. 306, 29. (2) with acc.:-- Se práfast þæt fadaþ and gegearewaþ praepositus omnia disponens, R. Ben. 137, 22. Hé wíslíce his líf ne fadað he orders not his life wisely, Wlfst. 52, 28. Fadode, 159, 18. Gesette man þæne þe Godes hús wel fadige domui Dei dignum constituant dispensatorem, R. Ben. 119, 12. Gif hé his líf rihtlice fadige, Ll. Th. i. 346, 18. Heora ágene wísan rihtlíce fadian to order their conversation aright, ii. 318, 13 : Wlfst. 143, 22 : 144, 22. [v. N. E. D. fade.]"
+}

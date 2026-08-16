@@ -1,0 +1,26 @@
+{
+  "citation_form": "treaflíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": "Cf. (?) Welsh traf stir, strain ; trafu to stir, agitate.",
+      "meaning": "Grievously, painfully",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eallum ðe deópe and ful treaflíce teónan þolian",
+          "latin": "omnibus injuriam patientibus",
+          "english": null,
+          "citations": "Ps. Th. 102, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "treaflíce; adv. Grievously, painfully :-- Eallum ðe deópe and ful treaflíce teónan þolian omnibus injuriam patientibus, Ps. Th. 102, 6. [Cf. (?) Welsh traf stir, strain ; trafu to stir, agitate.]"
+}

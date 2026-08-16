@@ -1,0 +1,36 @@
+{
+  "citation_form": "here-spell",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A story of praise, panegyric, eulogy",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gehýr nú þis herespel (the story of creation)",
+          "latin": null,
+          "english": null,
+          "citations": "Sch. 37"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "here-word"
+  ],
+  "source_text": "here-spel. v. hér. Substitute: here-spell, es; n. A story of praise, panegyric, eulogy :-- Gehýr nú þis herespel (the story of creation), Sch. 37. Cf. here-word."
+}

@@ -1,0 +1,40 @@
+{
+  "citation_form": "hyge-frófor",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Comfort for the mind or heart",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 709; El. 355"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Hy. 9, 13; Hy. Grn. ii. 291, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hyge-frófor, e; f. Comfort for the mind or heart, Elen. Kmbl. 709; El. 355: Hy. 9, 13; Hy. Grn. ii. 291, 13."
+}

@@ -1,0 +1,68 @@
+{
+  "citation_form": "ge-þwǽrnes",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "concord, peace",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Æ-acute;lc ðára ðe hine áscádan wille from ðǽre geðwǽrnesse, hé wile forlǽtan ðǽre lufan grénnisse and forseárian on ðǽre ungeðwǽrnesse",
+          "latin": "omnes, qui per discordiam separantur a viriditate dilectionis, arefiunt",
+          "english": null,
+          "citations": "Past. 359, 14"
+        },
+        {
+          "old_english": "Gesibsumnesse and geþwǽrnesse ús betweónan healdan",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 246, 22"
+        },
+        {
+          "old_english": "Hié him eáþmédo budon and geþuǽrnesse",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 827; P. 60, 34"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "gentleness",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Underfó hé þá geboda his tǽcendes mid ealre geþwǽrnesse and mid micelre eáðmódnesse",
+          "latin": "cum omni mansuetudine et obedientia",
+          "english": null,
+          "citations": "R. Ben. 128, 12"
+        },
+        {
+          "old_english": "Of irsunge wyxt seofung, and of ðǽre geþwǽrnesse lufu",
+          "latin": null,
+          "english": null,
+          "citations": "Prov. K. 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-geþwǽrness"
+  ],
+  "source_text": "ge-þwǽrnes. Add :-- I. concord, peace :-- Æ-acute;lc ðára ðe hine áscádan wille from ðǽre geðwǽrnesse, hé wile forlǽtan ðǽre lufan grénnisse and forseárian on ðǽre ungeðwǽrnesse omnes, qui per discordiam separantur a viriditate dilectionis, arefiunt, Past. 359, 14. Gesibsumnesse and geþwǽrnesse ús betweónan healdan, Ll. Th. i. 246, 22. Hié him eáþmédo budon and geþuǽrnesse, Chr. 827; P. 60, 34. II. gentleness :-- Underfó hé þá geboda his tǽcendes mid ealre geþwǽrnesse and mid micelre eáðmódnesse (cum omni mansuetudine et obedientia), R. Ben. 128, 12. Of irsunge wyxt seofung, and of ðǽre geþwǽrnesse lufu, Prov. K. 23. v. un-geþwǽrness."
+}

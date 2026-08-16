@@ -1,0 +1,40 @@
+{
+  "citation_form": "æt-standend",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A bystander, an attendant",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seó heofenlice cwén cwæð tó hire ætstandendum",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 450, 31"
+        },
+        {
+          "old_english": "Hé þone Hǣlend bodode eallum ætstandendum",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 29, 255"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "æt-standend, es; m. A bystander, an attendant :-- Seó heofenlice cw&e-long;n cwæ&d-bar; t&o-long; hire ætstandendum, Hml. Th. i. 450, 31. H&e-long; þone Hæ-long;lend bodode eallum ætstandendum, Hml. S. 29, 255."
+}

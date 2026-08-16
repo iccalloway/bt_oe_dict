@@ -1,0 +1,28 @@
+{
+  "citation_form": "norþan-eástan-wind",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O. H. Ger. nordóstir-wint aquilo.",
+      "meaning": "a north-east wind",
+      "latin": "eurus, euroauster, circius",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 1, 36, 13, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "norþan-eástan-wind a north-east wind; eurus, euroauster, circius, Wrt. Voc. 1, 36, 13, 17. [Cf. O. H. Ger. nordóstir-wint aquilo.]"
+}

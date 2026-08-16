@@ -1,0 +1,30 @@
+{
+  "citation_form": "Engle",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "gen. dat. acc. of Engel Anglen, q. v.",
+      "meaning": "of Anglen",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Engle of Anglen",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 1, 15; 8. 483, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Engel"
+  ],
+  "source_text": "Engle of Anglen, Bd. 1, 15; 8. 483, 24; gen. dat. acc. of Engel Anglen, q. v."
+}

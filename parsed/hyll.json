@@ -1,0 +1,44 @@
+{
+  "citation_form": "hyll",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "The word occurs as the second element of many local names, v. Midd. Flur.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hyl oððe beorh collis",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 80, 43"
+        },
+        {
+          "old_english": "On ða rūgan hylle",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iii. 454, 1"
+        },
+        {
+          "old_english": "Dena ł hylla colles",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. L. 113, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æmett-hyll",
+    "ciric-hyll",
+    "eág-hyll"
+  ],
+  "source_text": "hyll. Add :-- Hyl o&d-bar;&d-bar;e beorh collis, Wrt. Voc. i. 80, 43. On &d-bar;&a-long; r&u-long;gan hylle, C. D. iii. 454, 1. Dena &l-bar; hylla colles. Ps. L. 113, 4. [The word occurs as the second element of many local names, v. Midd. Flur.] v. æ-long;mett-, ciric-, eág-hyll."
+}

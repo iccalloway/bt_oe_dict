@@ -1,0 +1,27 @@
+{
+  "citation_form": "ge-wæccan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé ðǽm doruorde bebeád þ-bar;te gewæhte",
+          "latin": "ianitori praecipiat ut uigilet",
+          "english": null,
+          "citations": "Mk. L. 13, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-wæccan. Add :-- Hé ðǽm doruorde bebeád þ-bar;te gewæhte ianitori praecipiat ut uigilet, Mk. L. 13, 34."
+}

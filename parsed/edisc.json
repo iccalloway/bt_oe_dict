@@ -1,0 +1,60 @@
+{
+  "citation_form": "edisc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "ed-, Lat. re- again; isc a termination, generally an adj. but also es; n.",
+      "meaning": "EDISH or aftermath, pasture",
+      "latin": "pascua",
+      "quotations": [
+        {
+          "old_english": "Wǽrun we his sceáp, ða he on his edisce afédde",
+          "latin": null,
+          "english": "we were his sheep, which he fed in his pasture",
+          "citations": "Ps. Th. 94, 7: 99, 3"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a park",
+      "latin": "v&i-long;v&a-long;rium",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 207, Lye"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "edisc, es; n. [ed-, Lat. re- again; isc a termination, generally an adj. but also es; n.] I. EDISH or aftermath, pasture; pascua :-- Wǽrun we his sceáp, ða he on his edisce afédde we were his sheep, which he fed in his pasture, Ps. Th. 94, 7: 99, 3. II. a park; v&i-long;v&a-long;rium, Cot. 207, Lye."
+}

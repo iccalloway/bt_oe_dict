@@ -1,0 +1,113 @@
+{
+  "citation_form": "fyrmest",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "marking order in time",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé tó fulluhte heora fyrmest beáh",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 10, 150"
+            },
+            {
+              "old_english": "Seó bóc ys geháten Genesis, . . . for þám þe heó ys firmest bóca",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. Gen. Thw. 2, 34"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "marking order in rank, importance",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "of persons",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Maurus wæs fyrmest muneca tó ðám mǽran Benedicte",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 6, 51"
+            },
+            {
+              "old_english": "Nembroð fyrmest wæs æt þǽre getimbrunge þǽre byrig Babilonian",
+              "latin": "Nemroth condendae Babyloniae auctor exstiterat",
+              "english": null,
+              "citations": "Angl. vii. 40, 380"
+            },
+            {
+              "old_english": "On þám geférscipe wǽran þá fyrmestan Mellitus, . . . Rufianus",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 995; P. 128, 32"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "of things",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On þám fyrmestum stówum ealles his anwealdes",
+              "latin": null,
+              "english": null,
+              "citations": "Lch. iii. 440, 12"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "marking order in merit, excellent",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hú se láreów sceal beón on his weorcum fyrmest (praecipuus). Se láreów sceal bión on his weorcum heálic (praecipuus)",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 81, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fyrmest; adj. In l. 5 for Cot. 153 substitute Wrt. Voc. ii. 67, 7, and add: I. marking order in time:--Hé tó fulluhte heora fyrmest beáh, Hml. S. 10, 150. Seó bóc ys geháten Genesis, . . . for þám þe heó ys firmest bóca, Ælfc. Gen. Thw. 2, 34. II. marking order in rank, importance. (1) of persons:--Maurus wæs fyrmest muneca tó ðám mǽran Benedicte, Hml. S. 6, 51. Nembroð fyrmest wæs æt þǽre getimbrunge þǽre byrig Babilonian Nemroth condendae Babyloniae auctor exstiterat, Angl. vii. 40, 380. On þám geférscipe wǽran þá fyrmestan Mellitus, . . . Rufianus, Chr. 995; P. 128, 32. (2) of things:--On þám fyrmestum stówum ealles his anwealdes, Lch. iii. 440, 12. II. marking order in merit, excellent:--Hú se láreów sceal beón on his weorcum fyrmest (praecipuus). Se láreów sceal bión on his weorcum heálic (praecipuus), Past. 81, 1."
+}

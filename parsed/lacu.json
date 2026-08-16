@@ -1,0 +1,107 @@
+{
+  "citation_form": "lacu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "v. N.E.D. lake, and see Cht. E. 465: Cht. Crw. 54.",
+      "meaning": "A stream, water-course",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": "In australi atque in occidente habens torrentem cuius uocabulum Fiscesburne ... in oriente aquam quae Anglorum lingua Lake nominatur habens, quae est duarum, quae ibi sunt, ulterior ... Insuper memoratam aquam, id est Fiscesburnam ...",
+          "english": null,
+          "citations": "C.D. i. 122, 31"
+        },
+        {
+          "old_english": "On scegbróc oð seó lacu scýt west þanon út on hǽðfeld",
+          "latin": null,
+          "english": null,
+          "citations": "C.D.B. iii. 624, 19"
+        },
+        {
+          "old_english": "Oþ woggawilllacu út scýt; on þá lace oð wocggawilles heáfod",
+          "latin": null,
+          "english": null,
+          "citations": "Cht. E. 266, 24"
+        },
+        {
+          "old_english": "Be healfan stréme intó Sandfordes læce; swá andlang ðǽre lace intó Sandforda; of Sandforda eást andlang ðǽre lace",
+          "latin": null,
+          "english": null,
+          "citations": "C.D. iv. 134, 21-24"
+        },
+        {
+          "old_english": "Oð ðá lace; andlang lace út on Temese",
+          "latin": null,
+          "english": null,
+          "citations": "v. 302, 34: 330, 28: vi. 2, 12: vi. 8, 26"
+        },
+        {
+          "old_english": "On þá fúlan lace",
+          "latin": null,
+          "english": null,
+          "citations": "v. 13, 22"
+        },
+        {
+          "old_english": "On streám oþ þá laca tólicgaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Cht. Crw. 3, 12"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "as second part of a compound",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Út on æsclace ðǽr æsclace fylð út on Wuorf ... of ðǽre ealdan díc on Grindewylles lace ... on Ættanpennes lace",
+              "latin": null,
+              "english": null,
+              "citations": "C.D. vi. 48, 8-14"
+            },
+            {
+              "old_english": "On brómlace; ðonne andlang streámes",
+              "latin": null,
+              "english": null,
+              "citations": "iii. 452, 13"
+            },
+            {
+              "old_english": "On ðá gemǽrlace; andlang lace",
+              "latin": null,
+              "english": null,
+              "citations": "vi. 8, 26"
+            },
+            {
+              "old_english": "On þá mǽrlace",
+              "latin": null,
+              "english": null,
+              "citations": "9, 2"
+            },
+            {
+              "old_english": "On sandlace; andlang sandlice tó ceóles íge",
+              "latin": null,
+              "english": null,
+              "citations": "v. 303, 3"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "fisc-lacu",
+    "mǽd-lacu"
+  ],
+  "source_text": "lacu. For 'A pool ... lake' substitute: A stream, water-course, and add :-- In australi atque in occidente habens torrentem cuius uocabulum Fiscesburne ... in oriente aquam quae Anglorum lingua Lake nominatur habens, quae est duarum, quae ibi sunt, ulterior ... Insuper memoratam aquam, id est Fiscesburnam ..., C.D. i. 122, 31. On scegbróc oð seó lacu scýt west þanon út on hǽðfeld, C.D.B. iii. 624, 19. Oþ woggawilllacu út scýt; on þá lace oð wocggawilles heáfod, Cht. E. 266, 24. Be healfan stréme intó Sandfordes læce; swá andlang ðǽre lace intó Sandforda; of Sandforda eást andlang ðǽre lace, C.D. iv. 134, 21-24. Oð ðá lace; andlang lace út on Temese, v. 302, 34: 330, 28: vi. 2, 12: vi. 8, 26. On þá fúlan lace, v. 13, 22. On streám oþ þá laca tólicgaþ, Cht. Crw. 3, 12. ¶ as second part of a compound :-- Út on æsclace ðǽr æsclace fylð út on Wuorf ... of ðǽre ealdan díc on Grindewylles lace ... on Ættanpennes lace, C.D. vi. 48, 8-14. On brómlace; ðonne andlang streámes, iii. 452, 13. On ðá gemǽrlace; andlang lace, vi. 8, 26. On þá mǽrlace, 9, 2. On sandlace; andlang sandlice tó ceóles íge, v. 303, 3. [v. N.E.D. lake, and see Cht. E. 465: Cht. Crw. 54.] v. fisc-, mǽd-lacu."
+}

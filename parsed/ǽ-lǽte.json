@@ -1,0 +1,61 @@
+{
+  "citation_form": "ǽ-lǽte",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A desert",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Æ-acute;lǽtan (á-, Wrt.) deserta, s. vocata quae mm seruntur",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 139, 14"
+        },
+        {
+          "old_english": "Wéstensetlan ðe feor fram mannum gewítað and wéste stówa and ǽlǽtu lufiaþ",
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. 134, 12"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A desert",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "preceding word"
+  ],
+  "source_text": "ǽ-lǽte, an; f.: es; n. A desert:--Æ-acute;lǽtan (á-, Wrt.) deserta, s. vocata quae mm seruntur, Wrt. Voc. ii. 139, 14. Wéstensetlan ðe feor fram mannum gewítað and wéste stówa and ǽlǽtu lufiaþ, R. Ben. 134, 12. v. preceding word."
+}

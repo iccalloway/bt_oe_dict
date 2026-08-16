@@ -1,0 +1,32 @@
+{
+  "citation_form": "hnesc-líc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Effeminate",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé wæs swíðe hnesclíc man",
+          "latin": null,
+          "english": "he [Sardanapalus] was a very effeminate man",
+          "citations": "Ors. 1, 12; Bos. 35, 15"
+        },
+        {
+          "old_english": "Hi beóþ hneslíce swá forlegene",
+          "latin": "hi sunt delicati ita fornicantes",
+          "english": null,
+          "citations": "L. Ecg. P. iv. 68, 6; Th. ii. 228, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hnesc-líc; adj. Effeminate :-- Hé wæs swíðe hnesclíc man he [Sardanapalus] was a very effeminate man, Ors. 1, 12; Bos. 35, 15. Hi beóþ hneslíce swá forlegene hi sunt delicati ita fornicantes, L. Ecg. P. iv. 68, 6; Th. ii. 228, 18."
+}

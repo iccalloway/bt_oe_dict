@@ -1,0 +1,27 @@
+{
+  "citation_form": "of-slítan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to wound by the bite (of a snake, dog, etc. )",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ða ðe ofslitene wǽron",
+          "latin": null,
+          "english": "the Israelites who were bitten by the serpents",
+          "citations": "Num. 21, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "of-slítan to wound by the bite (of a snake, dog, etc. ) :-- Ða ðe ofslitene wǽron (the Israelites who were bitten by the serpents), Num. 21, 9."
+}

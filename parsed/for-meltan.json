@@ -1,0 +1,60 @@
+{
+  "citation_form": "for-meltan",
+  "variant_forms": [
+    "-myltan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-mealt",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-multon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-molten",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Dut. ver-smelten to melt, dissolve: Ger. ver-schmelzen to melt away.",
+      "meaning": "To melt away, become liquid, liquefy",
+      "latin": "liquescere, liquefieri",
+      "quotations": [
+        {
+          "old_english": "Hét wǽpen eall formeltan",
+          "latin": null,
+          "english": "he commanded the weapons all to melt away",
+          "citations": "Andr. Kmbl. 2294; An. 1148"
+        },
+        {
+          "old_english": "Formealt oððe hnesce geworden is eorþe",
+          "latin": "liquefacta est terra",
+          "english": null,
+          "citations": "Ps. Lamb. 74, 4: Ex. 16, 21"
+        },
+        {
+          "old_english": "Ealle ða scipu formultan",
+          "latin": null,
+          "english": "all the ships were consumed",
+          "citations": "Ors. 5, 4; Bos. 105, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-meltan, -myltan; p. -mealt, pl. -multon; pp. -molten; v. intrans. To melt away, become liquid, liquefy; l&i-short;quesc&e-short;re, l&e-short;qu&e-short;fi&e-short;ri :-- Hét wǽpen eall formeltan he commanded the weapons all to melt away, Andr. Kmbl. 2294; An. 1148. Formealt oððe hnesce geworden is eorþe l&i-short;qu&e-short;facta est terra, Ps. Lamb. 74, 4: Ex. 16, 21. Ealle ða scipu formultan all the ships were consumed, Ors. 5, 4; Bos. 105, 14. [Dut. ver-smelten to melt, dissolve: Ger. ver-schmelzen to melt away.]"
+}

@@ -1,0 +1,43 @@
+{
+  "citation_form": "mæg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "power, might, virtue",
+      "latin": "uirtus",
+      "quotations": [
+        {
+          "old_english": "Mæg (mægen ?) sóðes gebedes ys hýhð sóðre lufe",
+          "latin": "uirtus vere orationis est celsitudo caritatis",
+          "english": null,
+          "citations": "Scint. 4, 19"
+        },
+        {
+          "old_english": "Micel ys mæg (uirtus) gif þú ná dera fram þám þe þú gederod ert",
+          "latin": null,
+          "english": null,
+          "citations": "12, 17"
+        },
+        {
+          "old_english": "Hé Godes ríce . . . eallum mæge (mægene ?) fyrþrode",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. iii. 438, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "maga",
+    "mægen-þrymnes"
+  ],
+  "source_text": "mæg (?) power, might, virtue :-- Mæg (mægen ?) sóðes gebedes ys hýhð sóðre lufe uirtus vere orationis est celsitudo caritatis, Scint. 4, 19. Micel ys mæg (uirtus) gif þú ná dera fram þám þe þú gederod ert, 12, 17. Hé Godes ríce . . . eallum mæge (mægene ?) fyrþrode, Lch. iii. 438, 2. Cf. maga, and (?) v. mægen-þrymnes."
+}

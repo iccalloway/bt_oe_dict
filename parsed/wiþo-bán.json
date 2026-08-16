@@ -1,0 +1,57 @@
+{
+  "citation_form": "wiþo-bán",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "-báne",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Frs. widu-bén: Icel. við-beina; n. a collar-bone.",
+      "meaning": "A collar-bone",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif widobáne gebroced weorðeþ",
+          "latin": null,
+          "english": null,
+          "citations": "L. Ethb. 52; Th. i. 16, 5"
+        },
+        {
+          "old_english": "Ofer ealle ða sídan ástíhþ óþ ðæt wiþobán and óþ ðone swíþran sculdor ðæt sár",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. ii. 198, 18"
+        },
+        {
+          "old_english": "Stingende sár óþ ða wiþobán óð ða eaxle",
+          "latin": null,
+          "english": null,
+          "citations": "204, 26"
+        },
+        {
+          "old_english": "Hwílum ofer ealle ða sídan biþ ðæt sár, hwílum becymð on ða weoþobán, and eft ymb lytel ða gesculdru ðæt sár grét",
+          "latin": null,
+          "english": null,
+          "citations": "258, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "wiþo-bán, es: -báne (? cf. Icel. -beina), an; n. A collar-bone:--Gif widobáne gebroced weorðeþ, L. Ethb. 52; Th. i. 16, 5. Ofer ealle ða sídan ástíhþ óþ ðæt wiþobán and óþ ðone swíþran sculdor ðæt sár, Lchdm. ii. 198, 18. Stingende sár óþ ða wiþobán óð ða eaxle, 204, 26. Hwílum ofer ealle ða sídan biþ ðæt sár, hwílum becymð on ða weoþobán, and eft ymb lytel ða gesculdru ðæt sár grét, 258, 5. [O. Frs. widu-bén: Icel. við-beina; n. a collar-bone.]"
+}

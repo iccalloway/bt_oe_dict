@@ -1,0 +1,236 @@
+{
+  "citation_form": "feorm",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "provisions, stores",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðrítig ombra aláð, and ðreó hund hláfa . . . feówer weðras . . . sex gósfuglas . . . ðrítig leapera . . . sester fulne saltes . . . and hió forgifeð fífténe pund for ðý ðe mon ðás feorme ðý soel gelǽste",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. i. 312, 5-18"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I a.",
+          "heading": "dead stock in contrast with live stock",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þú sweltan scealt mid feó and mid feorme",
+              "latin": "morte morieris tu et omnia quae tua sunt (Gen. 20, 7)",
+              "english": null,
+              "citations": "Gen. 2659"
+            },
+            {
+              "old_english": "Hit (land) becwæð sé þe hit áhte swá swá hit his yldran mid feó and mid feore (feorme?) rihte begeáton",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 184, 2"
+            },
+            {
+              "old_english": "Þ-bar; hé áðer oþþe feó oþþe feorme (freme, v. l.) þá wyrse sý",
+              "latin": null,
+              "english": "that he be injured in respect to anything that is his",
+              "citations": "384, 24"
+            },
+            {
+              "old_english": "Æ-acute;hta lǽdan, feoh and feorme",
+              "latin": null,
+              "english": null,
+              "citations": "Gen. 1650"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "I b.",
+          "heading": "stores furnished to a person as his due",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðá nam hé his feorme on Wuldahám, and on ðám óðran wolde",
+              "latin": null,
+              "english": "he took the provision that was due to him in Wuldaham, and intended to do the same in the other places",
+              "citations": "C. D. vi. 127, 21"
+            },
+            {
+              "old_english": "Þára mynsterháma hwelcne þe cyninges feorm tó belimpe",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 60, 24"
+            },
+            {
+              "old_english": "Fram twám mínra (Athelstan's) feorma ágyfe mon áne ambra meles . . .",
+              "latin": "de duabus meis nihtfirmis",
+              "english": null,
+              "citations": "198, 6"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a feast, an entertainment",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eallum ǽhtemannum gebyreð Midwintres feorm and Eástorfeorm",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 436, 33"
+        },
+        {
+          "old_english": "Feorma (farma, L.) giworden wæs",
+          "latin": "cena facta",
+          "english": null,
+          "citations": "Jn. R. 13, 2"
+        },
+        {
+          "old_english": "Tíd farmes",
+          "latin": "hora caenae",
+          "english": null,
+          "citations": "Lk. L. 14, 17"
+        },
+        {
+          "old_english": "Tó feorme",
+          "latin": "ad agapem",
+          "english": null,
+          "citations": "An. Ox. 4834"
+        },
+        {
+          "old_english": "Æt ánre feorme",
+          "latin": "convivio",
+          "english": null,
+          "citations": "Ors. 237, 4"
+        },
+        {
+          "old_english": "Aman unþances cóm tó þǽre cwéne feorme",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. A. 99, 247"
+        },
+        {
+          "old_english": "Árás from ðǽr farma (feorme, R.)",
+          "latin": "surgit a cena",
+          "english": null,
+          "citations": "Jn. L. 13, 4"
+        },
+        {
+          "old_english": "Færma",
+          "latin": null,
+          "english": null,
+          "citations": "21, 20"
+        },
+        {
+          "old_english": "Ðonne ðú feorme (forme, v. l.) gierwe on ælmessan",
+          "latin": "cum facis convivium",
+          "english": null,
+          "citations": "Past. 323, 22"
+        },
+        {
+          "old_english": "Hié þá miclan feorme þigedon Crístes þonces þe hié ǽr þigedon æt hiora diófolgildum deófla þonces",
+          "latin": "magnificis ludis hic natalis annus a Christiano imperatore celebratus est",
+          "english": null,
+          "citations": "Ors. 6, 21; S. 272, 22"
+        },
+        {
+          "old_english": "Man þǽre sunnan feorme worhte",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 494, 6"
+        },
+        {
+          "old_english": "Feorme",
+          "latin": "prandium",
+          "english": null,
+          "citations": "Mt. 22, 4"
+        },
+        {
+          "old_english": "Fearme",
+          "latin": "cenam",
+          "english": null,
+          "citations": "Mk. R. 6, 21"
+        },
+        {
+          "old_english": "Farma",
+          "latin": "convivium",
+          "english": null,
+          "citations": "Lk. L. 5, 29"
+        },
+        {
+          "old_english": "Ðá færmo",
+          "latin": "nubtiae",
+          "english": null,
+          "citations": "Mt. L. 22, 10"
+        },
+        {
+          "old_english": "Hǽmdo &l-bar; feorme (færmo, L.)",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. R. 2, 1"
+        },
+        {
+          "old_english": "Ðára farmana",
+          "latin": "nubtiarum",
+          "english": null,
+          "citations": "Jn. p. 1, 9"
+        },
+        {
+          "old_english": "Farma",
+          "latin": null,
+          "english": null,
+          "citations": "p. 3, 12"
+        },
+        {
+          "old_english": "Æt feormum (farmum, L.)",
+          "latin": "in cenis",
+          "english": null,
+          "citations": "Mk. R. 12, 39"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "furnishing with food, entertainment",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "flýman feorm",
+    "cum-feorm",
+    "dæg-feorm",
+    "gift-feorm",
+    "niht-feorm"
+  ],
+  "source_text": "feorm. Add: I. provisions, stores:--Ðrítig ombra aláð, and ðreó hund hláfa . . . feówer weðras . . . sex gósfuglas . . . ðrítig leapera . . . sester fulne saltes . . . and hió forgifeð fífténe pund for ðý ðe mon ðás feorme ðý soel gelǽste, C. D. i. 312, 5-18. I a. dead stock in contrast with live stock:--Þú sweltan scealt mid feó and mid feorme morte morieris tu et omnia quae tua sunt (Gen. 20, 7), Gen. 2659. Hit (land) becwæð sé þe hit áhte swá swá hit his yldran mid feó and mid feore (feorme?) rihte begeáton, Ll. Th. i. 184, 2. Þ-bar; hé áðer oþþe feó oþþe feorme (freme, v. l.) þá wyrse sý that he be injured in respect to anything that is his, 384, 24. Æ-acute;hta lǽdan, feoh and feorme, Gen. 1650. I b. stores furnished to a person as his due:--Ðá nam hé his feorme on Wuldahám, and on ðám óðran wolde he took the provision that was due to him in Wuldaham, and intended to do the same in the other places, C. D. vi. 127, 21. ¶ of provision due to the king. Cyninges feorm, cyning-feorm (q. v.):--Þára mynsterháma hwelcne þe cyninges feorm tó belimpe, Ll. Th. i. 60, 24. Fram twám mínra (Athelstan's) feorma (de duabus meis nihtfirmis, Lat. vers.) ágyfe mon áne ambra meles . . ., 198, 6. Cf. trium annorum ad se (Offa) pertinentes pastiones, id est, vi. convivia, C. D. i. 174, 3. Erat in illo monasterio pastus unius noctis regi . . . et pastus novem noctium accipitrariis regis, v. 159, 4. v. Sax. Engl. i. 294 sqq., ii. 58 sqq. II. a feast, an entertainment:--Eallum ǽhtemannum gebyreð Midwintres feorm and Eástorfeorm, Ll. Th. i. 436, 33. Feorma (farma, L.) giworden wæs cena facta, Jn. R. 13, 2. Tíd farmes hora caenae, Lk. L. 14, 17. Tó feorme ad agapem, An. Ox. 4834. Æt ánre feorme convivio, Ors. 237, 4. Aman unþances cóm tó þǽre cwéne feorme, Hml. A. 99, 247. Árás from ðǽr farma (feorme, R.) surgit a cena, Jn. L. 13, 4. Færma, 21, 20. Ðonne ðú feorme (forme, v. l.) gierwe on ælmessan cum facis convivium, Past. 323, 22. Hié þá miclan feorme þigedon Crístes þonces þe hié ǽr þigedon æt hiora diófolgildum deófla þonces magnificis ludis hic natalis annus a Christiano imperatore celebratus est, Ors. 6, 21; S. 272, 22. Man þǽre sunnan feorme worhte, Hml. Th. ii. 494, 6. Feorme prandium, Mt. 22, 4. Fearme cenam, Mk. R. 6, 21. Farma convivium, Lk. L. 5, 29. Ðá færmo nubtiae, Mt. L. 22, 10. Hǽmdo &l-bar; feorme (færmo, L.), Jn. R. 2, 1. Ðára farmana nubtiarum, Jn. p. 1, 9. Farma, p. 3, 12. Æt feormum (farmum, L.) in cenis, Mk. R. 12, 39. III. furnishing with food, entertainment. v. flýman feorm in Dict. v. cum-, dæg-, gift-, niht-feorm."
+}

@@ -1,0 +1,34 @@
+{
+  "citation_form": "án-cenned",
+  "variant_forms": [
+    "se án-cenneda"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": "án unus, cennan gignere",
+      "meaning": "Only-begotten",
+      "latin": "uni-genitus",
+      "quotations": [
+        {
+          "old_english": "Áncenned Sunu",
+          "latin": null,
+          "english": "only-begotten Son",
+          "citations": "Exon. 14b; Th. 29, 18; Cri. 464"
+        },
+        {
+          "old_english": "Se áncenneda Sunu",
+          "latin": null,
+          "english": "the only-begotten Son",
+          "citations": "Jn. Bos. 1, 18: 3, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "án-cenned; def. se án-cenneda; part. [án unus, cennan gignere] Only-begotten; uni-genitus :-- Áncenned Sunu only-begotten Son, Exon. 14b; Th. 29, 18; Cri. 464. Se áncenneda Sunu the only-begotten Son, Jn. Bos. 1, 18: 3, 16."
+}

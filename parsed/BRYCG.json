@@ -1,0 +1,50 @@
+{
+  "citation_form": "BRYCG",
+  "variant_forms": [
+    "bricg"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Chauc. brigge: Piers P. brugg: R,Brun. brigge: R. Glouc. brugg: Plat, brugge, brügge, f: Frs. bregge : O. Frs. bregge, brigge , f: Dut. brug, f: Ger. brÜcke f: M. H. Ger. brucke, brücke, brügge, f: O. H. Ger. brucca, f: Dan. brygge, bro, m. f: Swed. brygga, bro, f: Icel. bryggja, brú, f.",
+      "meaning": "A BRIDGE",
+      "latin": "pons",
+      "quotations": [
+        {
+          "old_english": "Ðeós brycg hic pons",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9, 39; Som. 12, 59"
+        },
+        {
+          "old_english": "Ðæt he ne myhte to ðære brycge cuman",
+          "latin": null,
+          "english": "that he could not come to the bridge",
+          "citations": "Ors. 2, 5; Bos. 48, 14"
+        },
+        {
+          "old_english": "Eádweard cyning hêt gewyrcan ða brycge ofer Treontan",
+          "latin": null,
+          "english": "king Edward commanded the bridge over the Trent to be built",
+          "citations": "Chr. 924; Erl. 110, 10: 887; Erl. 84, 30: 1071; Erl. 210, 17: Ors. 2, 5; Bos. 46, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "stân-bricg"
+  ],
+  "source_text": "BRYCG, bricg, e; f. A BRIDGE ; pons :-- Ðeós brycg hic pons, Ælfc. Gr. 9, 39; Som. 12, 59. Ðæt he ne myhte to ðære brycge cuman that he could not come to the bridge, Ors. 2, 5; Bos. 48, 14. Eádweard cyning hêt gewyrcan ða brycge ofer Treontan king Edward commanded the bridge over the Trent to be built, Chr. 924; Erl. 110, 10: 887; Erl. 84, 30: 1071; Erl. 210, 17: Ors. 2, 5; Bos. 46, 7. [Chauc. brigge: Piers P. brugg: R,Brun. brigge: R. Glouc. brugg: Plat, brugge, brügge, f: Frs. bregge : O. Frs. bregge, brigge , f: Dut. brug, f: Ger. brÜcke f: M. H. Ger. brucke, brücke, brügge, f: O. H. Ger. brucca, f: Dan. brygge, bro, m. f: Swed. brygga, bro, f: Icel. bryggja, brú, f.] DER. stân-bricg."
+}

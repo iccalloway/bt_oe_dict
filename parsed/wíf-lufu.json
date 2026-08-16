@@ -1,0 +1,42 @@
+{
+  "citation_form": "wíf-lufu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Love for a woman",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se hálga wer ðære wíflufan (the love of Herod for Herodias) wordum stýrde, unryhtre ǽ",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 260, 12; Jul. 296"
+        },
+        {
+          "old_english": "Ingelde weallaþ wælníðas, and him wíflufan cólran weorðaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 4137; B. 2065"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wíf-myne"
+  ],
+  "source_text": "wíf-lufu, an ; f. Love for a woman :-- Se hálga wer ðære wíflufan (the love of Herod for Herodias) wordum stýrde, unryhtre ǽ, Exon. Th. 260, 12; Jul. 296. Ingelde weallaþ wælníðas, and him wíflufan cólran weorðaþ, Beo. Th. 4137; B. 2065. Cf. wíf-myne."
+}

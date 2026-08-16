@@ -1,0 +1,46 @@
+{
+  "citation_form": "ge-cyssan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-cyste",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-cyssed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "cyssan to kiss",
+      "meaning": "To kiss",
+      "latin": "osculāri",
+      "quotations": [
+        {
+          "old_english": "Gecyste cyning þegn betstan",
+          "latin": null,
+          "english": "the king kissed the best of thanes",
+          "citations": "Beo. Th. 3744; B. 1870"
+        },
+        {
+          "old_english": "Gecyste foet his",
+          "latin": "osculabatur pedes ejus",
+          "english": null,
+          "citations": "Lk. Skt. Lind. 7, 38"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-cyssan; p. -cyste; pp. -cyssed [cyssan to kiss] To kiss; osc&u-short;l&a-long;ri :-- Gecyste cyning þegn betstan the king kissed the best of thanes, Beo. Th. 3744; B. 1870. Gecyste foet his osculabatur pedes ejus, Lk. Skt. Lind. 7, 38."
+}

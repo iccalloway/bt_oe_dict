@@ -1,0 +1,10 @@
+[project]
+name = "bt-processing"
+version = "0.1.0"
+description = "Parse Bosworth-Toller Anglo-Saxon dictionary entries into structured JSON and Apple Dictionary XML."
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.40.0",
+    "pydantic>=2.0",
+    "tqdm",
+]

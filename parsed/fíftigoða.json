@@ -1,0 +1,41 @@
+{
+  "citation_form": "fíftigoða",
+  "variant_forms": [
+    "fíftigeða",
+    "fífteogoða"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The fiftieth",
+      "latin": "quinquāgēsimus",
+      "quotations": [
+        {
+          "old_english": "Fíftigoða quinquāgēsimus",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. Dial. 2, 2"
+        },
+        {
+          "old_english": "Fíftigeða",
+          "latin": null,
+          "english": null,
+          "citations": "C. R. Ben. 25"
+        },
+        {
+          "old_english": "Ðæt fíftigoðe [MS. fífteóðe] gér biþ hálig",
+          "latin": "sanctificābis annum quinquāgēsimum",
+          "english": "the fiftieth year shall be holy",
+          "citations": "Lev. 25, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fíftigoða, fíftigeða, fífteogoða; m: seó, ðæt fíftigoðe; adj. The fiftieth; quinqu&a-long;g&e-long;s&i-short;mus :-- Fíftigoða quinqu&a-long;g&e-long;s&i-short;mus, Gr. Dial. 2, 2. Fíftigeða, C. R. Ben. 25. Ðæt fíftigoðe [MS. fífteóðe] gér biþ hálig the fiftieth year shall be holy; sanct&i-short;f&i-long;c&a-long;bis annum quinqu&a-long;g&e-long;s&i-short;mum. Lev. 25, 10."
+}
