@@ -1,0 +1,42 @@
+{
+  "citation_form": "sopa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Þer (in hell) is o wateres flod . . . a þusen saulen beoþ bi sore ofþurst . . . ne moten heo biden neuer o sope, Misc. 152, 169. Þyse renkeȝ schul neuer suppe on sope of my seve, Allit. Pms. 41, 108. Icel. sopi a sup, mouthful.",
+      "meaning": "A sup, draught",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On wearmum wætre drince betonican týn sopan",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. ii. 134, 22"
+        },
+        {
+          "old_english": "Súpe cú buteran .viii. morgnas .iii. sopan",
+          "latin": null,
+          "english": null,
+          "citations": "294, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "súpan"
+  ],
+  "source_text": "sopa, an; m. A sup, draught:--On wearmum wætre drince betonican týn sopan, Lchdm. ii. 134, 22. Súpe cú buteran .viii. morgnas .iii. sopan, 294, 1. [Þer (in hell) is o wateres flod . . . a þusen saulen beoþ bi sore ofþurst . . . ne moten heo biden neuer o sope, Misc. 152, 169. Þyse renke&yogh; schul neuer suppe on sope of my seve, Allit. Pms. 41, 108. Icel. sopi a sup, mouthful.] v. súpan."
+}

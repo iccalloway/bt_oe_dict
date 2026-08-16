@@ -1,0 +1,34 @@
+{
+  "citation_form": "cynn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "suitable, fit",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 35, 4; Fox 162, 24"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "L. In. 42; Th. i. 128, 11. MS. H."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "cyn"
+  ],
+  "source_text": "cynn suitable, fit, Bt. 35, 4; Fox 162, 24: L. In. 42; Th. i. 128, 11. MS. H. v. cyn."
+}

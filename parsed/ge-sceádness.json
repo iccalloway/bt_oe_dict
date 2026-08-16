@@ -1,0 +1,34 @@
+{
+  "citation_form": "ge-sceádness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A decree (? cf. ge-sceádan; II. 3), decision (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wé þæs náne bysne nabbað, ne on bóca gesceádnyssum (in auctoritate scripturarum), ne on háligra fædera hǽsum",
+          "latin": "in auctoritate scripturarum",
+          "english": null,
+          "citations": "Nap. 32, l."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-sceádness, e; f. A decree (? cf. ge-sceádan; II. 3), decision (?) :-- Wé þæs náne bysne nabbað, ne on bóca gesceádnyssum (in auctoritate scripturarum), ne on háligra fædera hǽsum, Nap. 32, l."
+}

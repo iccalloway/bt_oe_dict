@@ -1,0 +1,48 @@
+{
+  "citation_form": "cnafa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "v. N. E. D. knave. O. H. Ger. chnabo.",
+      "meaning": "A boy, lad, young man",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gamenian mid cnafan",
+          "latin": "jocari cum parvulo",
+          "english": null,
+          "citations": "Scint. 172, 19"
+        },
+        {
+          "old_english": "Cnafan þínum",
+          "latin": "puero tuo",
+          "english": null,
+          "citations": "Ps. Spl. C. 85, 15"
+        },
+        {
+          "old_english": "Sýn twégen tó þám sylfan gescyfte cnafan (pueri)",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. xiii. 410, 640"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "mǽg-cnafa"
+  ],
+  "source_text": "cnafa, an; m. A boy, lad, young man:--Gamenian mid cnafan jocari cum parvulo, Scint. 172, 19. Cnafan þínum puero tuo, Ps. Spl. C. 85, 15. Sýn twégen tó þám sylfan gescyfte cnafan (pueri), Angl. xiii. 410, 640. [v. N. E. D. knave. O. H. Ger. chnabo.] v. mǽg-cnafa. Cf. next word."
+}

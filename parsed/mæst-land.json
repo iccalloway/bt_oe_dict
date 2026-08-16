@@ -1,0 +1,34 @@
+{
+  "citation_form": "mæst-land",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Land on which mast is produced",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eall ðæt wudu&dash-uncertain;lond ðæt Æþelbald gesealde tó mæstlonde",
+          "latin": null,
+          "english": null,
+          "citations": "Chart. Th. 140, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mæst-land, es; n. Land on which mast is produced :-- Eall ðæt wudu&dash-uncertain;lond ðæt Æþelbald gesealde tó mæstlonde. Chart. Th. 140, 2."
+}

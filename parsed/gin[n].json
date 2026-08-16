@@ -1,0 +1,36 @@
+{
+  "citation_form": "gin[n]",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A wide expanse",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wíddra and síddra þonne befæðman mæge eorðan ymbhwyrft and úprodor, gársecges gin and þeós geómre lyft",
+          "latin": null,
+          "english": null,
+          "citations": "Exod. 430"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ginne"
+  ],
+  "source_text": "gin[n], es; n. A wide expanse:--Wíddra and síddra þonne befæðman mæge eorðan ymbhwyrft and úprodor, gársecges gin and þeós geómre lyft, Exod. 430. v. ginne."
+}

@@ -1,0 +1,34 @@
+{
+  "citation_form": "castel-men",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "manna",
+            "case": "genitive",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Castle-men",
+      "latin": "castellani",
+      "quotations": [
+        {
+          "old_english": "Ða castelmen ðe wǽron on Engla lande him togeánes cómon [MS. comen]",
+          "latin": null,
+          "english": "the castle-men who were in England came against him",
+          "citations": "Chr. 1075; Erl. 213, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "castel-men; gen. -manna; pl. m. Castle-men; castellani :-- Ða castelmen ðe wǽron on Engla lande him togeánes cómon [MS. comen] the castle-men who were in England came against him, Chr. 1075; Erl. 213, 18."
+}

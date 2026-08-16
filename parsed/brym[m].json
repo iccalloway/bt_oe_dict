@@ -1,0 +1,120 @@
+{
+  "citation_form": "brym[m]",
+  "variant_forms": [
+    "brymme"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Sea, waves",
+      "latin": "Sea, waves",
+      "quotations": [
+        {
+          "old_english": "Brym, sǽ æquor",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 53, 50"
+        },
+        {
+          "old_english": "Brym vel holm cataclismus, diluvium",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 129, 42"
+        },
+        {
+          "old_english": "Eorþe, brym (pontus), roderas",
+          "latin": null,
+          "english": null,
+          "citations": "Hy. S. 74, 34"
+        },
+        {
+          "old_english": "Se brym hwoðerode under his fótswaðum",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 388, 19"
+        },
+        {
+          "old_english": "Of grunde brymmes (pelagi)",
+          "latin": null,
+          "english": null,
+          "citations": "Rtl. 61, 33"
+        },
+        {
+          "old_english": "Of brymme aequore",
+          "latin": null,
+          "english": null,
+          "citations": "Hy. S. 70, 31"
+        },
+        {
+          "old_english": "Ígland beworpen mid sealtum brymme",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 142, 29: 138, 4"
+        },
+        {
+          "old_english": "On þám heágan brymme",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 2, 394"
+        },
+        {
+          "old_english": "Háwian tó ðǽre sǽ, gif ǽnig mist árise of ðám mycclum brymme",
+          "latin": null,
+          "english": null,
+          "citations": "18, 146"
+        },
+        {
+          "old_english": "Ofer ðone sealtan brym",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 144, 20"
+        },
+        {
+          "old_english": "Ðone brym the sea of Galilee",
+          "latin": null,
+          "english": "the sea of Galilee",
+          "citations": "378, 23: 384, 19"
+        },
+        {
+          "old_english": "Brymmas aequora",
+          "latin": null,
+          "english": null,
+          "citations": "Hy. S. 38, 23"
+        },
+        {
+          "old_english": "Sǽs brymmas ponti freta",
+          "latin": null,
+          "english": null,
+          "citations": "6, 28"
+        },
+        {
+          "old_english": "Flódes bremmas (brymmas, 2, 90) cataclismi cerula",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 2478"
+        },
+        {
+          "old_english": "Swá ymbclyppaþ cealda brymmas",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1065; P. 193, 35"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "brymme. Substitute: brym[m], es; m. Sea, waves :-- Brym, sǽ æquor, Wrt. Voc. i. 53, 50. Brym vel holm cataclismus, diluvium, ii. 129, 42. Eorþe, brym (pontus), roderas, Hy. S. 74, 34. Se brym hwoðerode under his fótswaðum, Hml. Th. ii. 388, 19, Of grunde brymmes (pelagi), Rtl. 61, 33. Of brymme aequore, Hy. S. 70, 31. Ígland beworpen mid sealtum brymme, Hml. Th. ii. 142, 29: 138, 4. On þám heágan brymme, Hml. S. 2, 394. Háwian tó ðǽre sǽ, gif ǽnig mist árise of ðám mycclum brymme, 18, 146. Ofer ðone sealtan brym, Hml. Th. ii. 144, 20. Ðone brym the sea of Galilee, 378, 23: 384, 19. Brymmas aequora, Hy. S. 38, 23. Sǽs brymmas ponti freta, 6, 28. Flódes bremmas (brymmas, 2, 90) cataclismi cerula, An. Ox. 2478. Swá ymbclyppaþ cealda brymmas, Chr. 1065; P. 193, 35."
+}

@@ -1,0 +1,37 @@
+{
+  "citation_form": "ebba",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On þís ylcan geáre wæs swa mycel ebba ǽghwǽr ánes dæges swá nán man ǽror gemunde, and swá þ-bar; man férde rídende and gangende ofer Tæmese be-eástan þǽre brigge on Lunden",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1114; P. 244, 13"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "iii.",
+          "heading": null,
+          "meaning": "ebban týne he must put three fences to correspond to the heights of spring, middle and neap tides (v. Seebohm Vill. Comm. p. 155)",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ebba. Add:--On þís ylcan geáre wæs swa mycel ebba ǽghwǽr ánes dæges swá nán man ǽror gemunde, and swá þ-bar; man férde rídende and gangende ofer Tæmese be-eástan þǽre brigge on Lunden, Chr. 1114; P. 244, 13. iii. ebban týne he must put three fences to correspond to the heights of spring, middle and neap tides (v. Seebohm Vill. Comm. p. 155), C. D. iii. 451, 2."
+}

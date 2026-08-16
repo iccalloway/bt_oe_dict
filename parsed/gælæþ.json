@@ -1,0 +1,30 @@
+{
+  "citation_form": "gælæþ",
+  "variant_forms": [
+    "gæleþ"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Som. Ben. Lye",
+      "meaning": "A cage to sell or punish bondmen in",
+      "latin": "catasta",
+      "quotations": [
+        {
+          "old_english": "Gæleþ catasta",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 288, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "gælæþ, gæleþ? A cage to sell or punish bondmen in; catasta, Som. Ben. Lye :-- Gæleþ catasta, Wrt. Voc. 288, 24."
+}

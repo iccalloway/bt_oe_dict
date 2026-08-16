@@ -1,0 +1,88 @@
+{
+  "citation_form": "seód",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Icel. sjóðr a money-bag : cf. O. H. Ger. siut sutura.",
+      "meaning": "A money-bag, purse, pouch",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seód marsupium vel marsippa (cf. marsupium a purse, 197, 16)",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 40, 65: 83, 12"
+        },
+        {
+          "old_english": "Kyninga seód fiscus",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 39, 80"
+        },
+        {
+          "old_english": "Ðá ic eów sende bútan seóde (sacculo) and codde . . . Se ðe hæfþ seód gelíce nime codd.",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. 22, 35, 36"
+        },
+        {
+          "old_english": "Seódas marsupia",
+          "latin": null,
+          "english": null,
+          "citations": "Hpt. Gl. 500, 40 : Wrt. Voc. ii. 55, 9"
+        },
+        {
+          "old_english": "Siódas",
+          "latin": null,
+          "english": null,
+          "citations": "84, 37"
+        },
+        {
+          "old_english": "Ðæt feoh ðæt hí hæfdon on heora seódurn",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. i. 23, 262"
+        },
+        {
+          "old_english": "Seódas loculos",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 52, 22 : 74, 18"
+        },
+        {
+          "old_english": "Wyrcaþ seódas (seádas, Rush. : seádo, Lind. sacculos) ða ðe ne forealdigeaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. 12, 33"
+        },
+        {
+          "old_english": "Seádo loculos",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. Skt. Lind. 12, 6"
+        },
+        {
+          "old_english": "Seódas",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 69, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "seód, es; m. A money-bag, purse, pouch:-- Seód marsupium vel marsippa (cf. marsupium a purse, 197, 16), Wrt. Voc. i. 40, 65: 83, 12. Kyninga seód fiscus, ii. 39, 80. Ðá ic eów sende bútan seóde (sacculo) and codde . . . Se ðe hæfþ seód gelíce nime codd. Lk. Skt. 22, 35, 36. Seódas marsupia, Hpt. Gl. 500, 40 : Wrt. Voc. ii. 55, 9. Siódas, 84, 37. Ðæt feoh ðæt hí hæfdon on heora seódurn, Homl. Skt. i. 23, 262. Seódas loculos, Wrt. Voc. ii. 52, 22 : 74, 18. Wyrcaþ seódas (seádas, Rush. : seádo, Lind. sacculos) ða ðe ne forealdigeaþ, Lk. Skt. 12, 33. Seádo loculos, Jn. Skt. Lind. 12, 6. Seódas, Blickl. Homl. 69, 11. [Icel. sjóðr a money-bag : cf. O. H. Ger. siut sutura.]"
+}

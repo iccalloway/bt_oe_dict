@@ -1,0 +1,28 @@
+{
+  "citation_form": "elebeám-stybb",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the stump of an olive tree",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On þone elebeámstyb",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iii. 430, 26"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "elebeám-stybb the stump of an olive tree:--On þone elebeámstyb, C. D. iii. 430, 26."
+}
