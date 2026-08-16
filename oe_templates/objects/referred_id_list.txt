@@ -35,10 +35,12 @@ feōwer-ecge
 six-ecge
 twi-ecge
 TREŌWÞ
+crāwan
 wraxlere
 horu-weg
 hladan
 ge-hēdan
+wæter-ǣdre
 æmett-hyll
 ciric-hyll
 eāg-hyll
@@ -51,16 +53,22 @@ be-sittan
 to-fōran
 un-sōþ
 ealdian
+secg the sea
 slacian
 ge-beorhtnian
 strengþ
 āheardung
 ge-tenge
+grymman
+grymettan
 citere
 wacor
 gesca
 next word
+ge-scirdan
 hwem-dragen
+mis-scrence
+ge-mirce
 ofer-glēsan
 ge-rihtan
 ālimpan
@@ -68,6 +76,7 @@ gearwa in gearo
 ge-scendþ(u)
 ig-dæges
 y-dæges
+ceahhetung
 heal-ærn
 myrgan
 eāgan bryhtm
@@ -96,7 +105,9 @@ fōre-cuman
 æfest
 hēr
 āhebban
+sellan
 Ēste
+prīm-sang
 ge-wilsǣlig
 ellen-mǣrþu
 ǣl
@@ -111,7 +122,10 @@ sam-mǣle
 sceac-dōm
 WORN
 stīpan to exalt
+æfter-fylgendlīce
 māl-sweord
+hege-sugge
+sucga
 bæc-ling
 ears-ling
 hinder-ling
@@ -128,6 +142,7 @@ ge-hlystfull
 Engel
 byrgan
 mægen-strengðu
+samnunga
 ǣrend-fæst
 eorþ-fæst
 sceam-fæst
@@ -140,6 +155,7 @@ six-ben[n]
 onga
 sūþ-eāsterne
 ge-tred
+līhtan
 beorcan
 byrðen
 seāmestre
@@ -147,6 +163,16 @@ wirgan
 weriend
 butse-carl
 ceorl
+hearste-panne
+ge-scipe
+land-scipe
+mægen-scipe
+sin-scipe
+tūn-scipe
+waeter-scipe
+weorold-scipe
+el-leoht
+em-leoht
 ār-weorþe
 -wurþlīce
 -wyrþlīce
@@ -158,6 +184,7 @@ ge-sweoru
 wiþer-weard
 deāg-wyrmede
 GE-REAFIAN
+sigor-tiber
 heān
 cliroc
 feōwer-ecgede
@@ -168,7 +195,9 @@ scearp-ecgede
 twi-ecgede(-ode)
 byled-breōst
 fōre-
+ge-gīman
 ā-lesan
+āteōn
 ge-resta
 cēping
 cȳping
@@ -194,15 +223,18 @@ preceding word
 slæc
 tweōgung
 nīd-
+wudu-fæstenn
 ge-meltan
 fealo
 eā-streām
 ge-hīwendlic
 būgan
+hlīt
 waar
 frum-gāra
 Tīr
 huxlīce
+bǣting
 innan-cund
 inne-cund
 maga
@@ -217,6 +249,7 @@ mōd-staþolness
 āþreōtan
 ǣfen-rǣding
 be-þencan
+mid-sīþegian
 Cantwara burg
 ge-resp
 deāw-driās
@@ -230,8 +263,10 @@ of-sceōtan
 un-sceōtan
 under-sceōtan
 scotian
+ylp
 nǣdl
 ge-þicfyldan
+sæltna
 geat
 fleōn
 æmtian
@@ -241,12 +276,15 @@ ben
 benn
 āfȳrida
 ǣ-brǣce
+lǣtan
 brēr
 on-fōn
 gealg-mōd
 BEYTNIAN
 ābelgan
+rǣswung
 hīw-cūþ
+el-þeōd
 sceacgede
 sprecan
 gristbitian
@@ -290,10 +328,12 @@ un-silt
 lacu
 ābiddan
 bed-reda
+bār-spere
 hȳrnes
 þreāpian
 þreāpung
 eā-risc
+fōr
 æt-ēcan
 ge-ēcan
 to-ēcan
@@ -329,6 +369,7 @@ fōre-eom
 fōre-wesan
 sūtere
 HEALDAN
+mid-eard
 hȳðan
 GE-TRĪWE
 be-scerian
@@ -401,18 +442,27 @@ wed
 wedd
 deāþ-drepe
 sǣmra
+be-rȳfan
+be-reāfian
 ge-irfeweardian
 ge-cyþedness
+SWEOTOLUNG
 frēfrian
 ge-andettan
 fultuman
+-hlīta
 treuteru
 eāster
 forþ-riht
+sciriendlīc
 ā-ðyldigian
 for-ðyldigian
 ge-ðyldigian
 ge-þylgian
+byrþen-mǣte
+pund-mǣte
+ūþ-mǣte
+eāst
 ge-cilcan
 brūcan
 ge-hīrung
@@ -462,6 +512,7 @@ byld
 gehealdan
 hlōwan
 ge-nihtsumlīce
+fyrdian
 Finn
 ge-streōn
 streōnan
@@ -484,11 +535,14 @@ ge-trūwian
 or-trūwian
 ofer-trūwod
 treōwian
+eāhtan
+ōht
 ge-sǣlan
 tō-sǣlan
 þearfende
 in-styrian
 un-styri(g)ende
+ge-hāwian
 be-windan
 FǢRINGA
 weā-dǣd
@@ -497,6 +551,7 @@ scild-hreōða
 HEALM
 heolorian
 gǣsne
+ā-wēstness
 Ing
 eln
 molsnian
@@ -513,10 +568,16 @@ dæg-gehwǣmlic
 mid-hlīt
 hlyte
 ongin
+EFEN-WEORÞ
 full-æðele
+on-hindan
+wiþ-hindan
 ge-rȳman
 hyrstan
+un-ge-hæplic
 word-gebeōt
+of-fillan
+ǣr
 wæfer-g
 þwearm
 ōs
@@ -539,6 +600,7 @@ cwellan
 bēn-tīðe
 tīþ
 tīþian
+andian
 ȲFER
 previous word
 an-sȳn
@@ -559,6 +621,7 @@ un-hȳrsumness
 hlīt
 mirigþ
 nīwan
+sprecan
 ā-wreōn
 be-wreōn
 ge-wreōn
@@ -579,6 +642,7 @@ twādæg-līc
 hwið
 wyndle
 mitta
+hirtan
 leōd-geþincþu
 weorold-geþincþu
 on-weg
@@ -595,8 +659,10 @@ niht-helm
 sceadu-helm
 sund-helm
 wæter-helm
+mynegian
 ǣ-rǣfe
 bræsian
+on-wacan
 hæleþ-helm
 eald-feōnd
 þeōð-
@@ -613,10 +679,12 @@ frēfran
 hleahtor
 betst
 leōdan
+morþ-dǣd
 WER
 middel
 bredan
 þeōf
+cwealmnes
 ān-līpe
 eōw
 fore-frēfrend
@@ -628,7 +696,9 @@ lō
 afaran II
 be-seōn
 āgen, I
+slæcness
 tō-bǣdan
+āsundrian
 hell-waru
 stingan
 in-sting
@@ -657,6 +727,10 @@ nihte-gale
 breden
 cunnian
 fylle-seōcness
+be-lǣfan
+ge-lǣfan
+ofer-lǣfan
+fōster-leān
 dīfan
 ge-irsian
 FOR-GILDAN
@@ -682,6 +756,7 @@ swot-mete
 wist-mete
 efen-līca
 meduma
+ge-gafelod
 aldor-dēma
 ge-irfian
 grīma
@@ -710,6 +785,7 @@ wit-ness
 wyrt-forbor
 full-
 sī
+fala
 an-wlōh
 wlōh
 lustbǣrlīce
@@ -719,9 +795,11 @@ frum-cyrr
 ofer-cyrr
 on-cyrr
 sǣ-cyrr
+gǣst-gemynd
 þæcele
 unriht-hǣmdere
 æcern-spranca
+æt-sacan
 WESTAN
 fisc-lacu
 mǣd-lacu
@@ -734,16 +812,19 @@ wāce
 cete
 cyte
 ge-tȳd
+se
 ge-cēlan
 regnian
 from
 heort-gesīda
 be-sprecan
 be-grīwan
+on-bȳrging
 geagn-cwide
 gegn-cwide
 gesweorf
 sweorfan
+eal-gylden
 fylstan
 ærce-rīce
 ærcebisceop-rīce
@@ -758,6 +839,8 @@ hyngrian
 efe-lāste
 leāf
 wagian
+saluwig
+eall-mihtig
 ge-scendness
 beolone
 henne-belle
@@ -797,19 +880,32 @@ to-berstan
 ūt-berstan
 rēþra
 nīw-hwyrfed
+hlīp-
 cnyttan
 ge-clungen
 un-andergilde
 BURG-WARAN
+leāf-hlystend
 stæppe-scōh
 geleāfhlystend
 tō-līsan
 stæpe
+glengan
 clod-hamer
 nīd-clamm
+geond
+fōþor
+fēþrian
+āhōn
+be-hōn
+bi-hōn
+ge-hōn
+under-plantian
 āhluttrian
+snīðan
 sceanc-forod
 un-forod
+un-ge-feālīce
 ge-þrǣstedness
 un-bȳed
 ǣn-līce
@@ -834,9 +930,11 @@ lādian
 gedreccan
 menniscnes
 ge-þeōdsumness
+salu
 wist-gifende
 Eald-Seaxe
 on-hagian
+tȳnness
 ge-byrd
 ge-girwan
 spannan
@@ -853,6 +951,8 @@ ge-rīfcre
 eāþ-mēd
 FOR-WEORÞAN
 on-sægedness
+bāsniaii
+aasnian
 ginne
 tȳman
 next word
@@ -873,6 +973,8 @@ ge-yrfian
 yfel-onbecweþende
 under-hlystung
 preceding word
+un-eāðelīc
+ǣðe-līc
 heden
 beācnian
 tō-liðian
@@ -882,6 +984,8 @@ un-ālīfed
 āwecgan
 wrecca
 cynd
+word-loga
+ge-sihþ
 græs-molde
 wāg-rift
 efen
@@ -893,8 +997,13 @@ ge-horsian
 SPIC
 flot-man
 nāðer
+and-lōman
+andge-lōman
+ge-lōman
+in-d
 ceosel-stān
 be-brecan
+gimmian
 ge-nyhtsumlīce
 mǣdwe-land
 ā-seowian
@@ -905,8 +1014,14 @@ ge-siwed
 iren-geubma
 eh-heoloþe
 ār-weorþnes
+bēn-rīp
+ge-insettan
+woruld-deād
+neāh-gebȳren
+ge-lustan
 mōd-g
 be-gang
+hlīwung
 gnīþe
 and-leofa
 ge-fildan
@@ -917,7 +1032,10 @@ wealh
 ge-magian
 nebgebraec
 oþ
+æfter-fylgendness
+seōn
 hlinc
+āwecgan
 nīw-gecirred
 un-gecirred
 drǣdan
@@ -930,6 +1048,7 @@ un-gelygen
 ymb-wlātian
 mǣr-sīc
 ofer-f
+un-gebeāten
 æsc-þrote
 gafol-rǣden
 tilung
@@ -962,8 +1081,13 @@ wel-
 wom-
 won-
 yfel-
+ge-stȳran
+twig
 cīte
 þearllīce, II
+ā-wrīhan
+ā-wriōhan
+ge-wyldan
 berie II
 ǣg-hwanon
 ge-hwanon
@@ -999,6 +1123,8 @@ faran
 hwǣr
 lang
 dōr
+next word
+ūt-ryne
 tȳdran
 acan
 ofer-f
@@ -1031,10 +1157,13 @@ camp-wudu
 comp-wǣpen
 comp-weorod
 comp-wīg
+ge-þeōwan
 dīc-sceard
 hær-sceard
+sprecan
 blōd
 hrǣce
+hlēcan
 lencten-eorþe
 seonoþ
 un-hrædsprǣce
@@ -1049,9 +1178,11 @@ gildan
 be-brūcan
 gāst-brūcende
 ān-standende
+ān-eāge
 be
 hlæstan
 dwild
+ge-hȳdan
 morgen
 GE-WIT
 nīd-hǣs
@@ -1061,13 +1192,20 @@ dīgol
 ge-hǣme
 æt-standan
 wirsa
+un-āberendlīc
 cīgan
 þurfan
+ǣgwērn
+wiþer-winnan
+wiþ
 ge-rār
 hyge-fæst
+hīwan-ācenned
 græf
 byrgea
 gāstlīc
+un-rīm
+un-getel
 næder-
 morþ-crundel
 stān-
@@ -1075,12 +1213,17 @@ hrǣcan
 here-þrymm
 slæc
 glenge
+hlīwþ
+ābrecan
+un-willes
 bǣdan
 hōlunga
 wēde
+FLET
 felo-ferþ
 oþ-ferian
 æspe
+Babilōnisc
 ge-sceap
 wille
 will
@@ -1098,11 +1241,15 @@ Andred
 ge-fælsian
 feloferþ
 ātor
+þeōtan
+rǣpan
 searocræft
+healf-nacod
 æt-ȳwan
 BRYNE
 mis-līce
 hlōþian
+fisc
 ge-rihtlǣcan
 regn-
 un-gerȳdelīce
@@ -1113,6 +1260,7 @@ hweorfan
 gang
 Andred
 fȳst-gebeāt
+be-lecgan
 wæfer-sīn
 wlite-sīn
 wundor-sīn
@@ -1123,6 +1271,7 @@ horn-reced
 horn-sele
 eāþ-lǣce
 efen-lǣce
+dǣd-lata
 þunorrād-stefn
 wæter-stefn
 for-gilpan
@@ -1145,9 +1294,11 @@ pull-spere
 scot-spere
 wæl-spere
 wīg-spere
+un-flycge
 īren-byrne
 felofor
 ramm
+sealt
 lyb-lāc
 -ǣra
 tō-helpan
@@ -1159,9 +1310,17 @@ ge-flǣscod
 fyrst
 preceding word
 ā-hwistlian
+miscan
+hrycg-hǣr
+tægl-hǣr
+feax
 eāþ-lǣcne
 setl-hrægl
 ge-tilian
+hild-freca
+scyld-freca
+sweord-freca
+wīg-freca
 ferþ-wērig
 fyrhþ-wērig
 endemes
@@ -1226,6 +1385,8 @@ tō-drǣfness
 in-trahtnung
 -līpig
 Arīus
+þæc-tigele
+hrōf-tigel
 ceorl-boren
 ceorl-folc
 ceorl-ian
@@ -1241,6 +1402,7 @@ nugan
 wudu-
 un-gewlitig
 preceding word
+ge-þeōdan
 gang-pytt
 hor-pytt
 lām-pytt
@@ -1265,6 +1427,10 @@ fore-boda
 be-byrg(e)an
 un-gesceād
 cwellan
+fyrs-rǣw
+stæf-rǣw
+þorn-rǣw
+wīþig-rǣw
 byld
 ge-irgan
 ge-eædleǣnian
@@ -1272,12 +1438,19 @@ edleǣnian
 next word
 ge-girnan
 mǣtan
+bearn-eācen
+feorh-eācen
+mægen-eācen
+īcan
 spind
 in-drincan
+hwicce
+hlǣw
 for-bærnan
 beorþor
 hyse-beorþor
 cearcian
+leāsung
 þurh-scīnendlīc
 girran
 rysc
@@ -1324,9 +1497,12 @@ ge-cennan
 mengan
 þeōw-cnapa
 ātor
+preceding word
 ge-brecan
 mōnaþ-blōd
 frēcne
+ed-leān
+fugel
 selen
 ge-fylstend
 ǣðm
@@ -1346,8 +1522,14 @@ drincan
 ācyrrednes
 ge-cyrrednes
 ǣtren-mōd
+un-wær-scipe
+bytt-fylling
+cyll-fylling
+ge-fylling
 brȳtian
 on-stedefulness
+frǣ-fǣtt
+ofer-fǣtt
 dihtan
 hype-wærc
 þeōh-ece
@@ -1359,6 +1541,7 @@ ylde
 glīw
 ciping
 sittan II
+scirian
 un-āberendlīc
 un-āberendlīc-e
 īwed-ness
@@ -1378,6 +1561,7 @@ blōtan
 self
 hand-clāþ
 un-syn[n]
+firen-lic
 ge-mōd
 meaht-mōd
 þole-mōd
@@ -1421,6 +1605,8 @@ slecg-wyrhta
 sweord-wyrhta
 ge-rȳnelīc
 rūn-līc
+ge-þegnian
+under-þegnian
 under-folgoþ
 gīfernes
 preceding word
@@ -1428,6 +1614,7 @@ fōre-tiohung
 beorc
 clūt
 segnian
+in-drencan
 stīpan to bereave
 frimdig
 be-seōn
@@ -1446,16 +1633,22 @@ hand-brǣd
 gāst
 un-fyrn
 berstan
+ā-swindan
 in-gefeoht
 geongan
 ge-stillan
+sāl IV
 on-þennan
 cneōw-wyrste
 hand-wyrst
 uferor
 yfemest
+ge-cȳþig
+un-andcȳþigness
 fyht-wīte
 un-gebīged
+ge-bȳgan
+erce-hād
 ǣfr-ǣlc
 hama
 ge-flǣschamod
@@ -1500,9 +1693,13 @@ weder-fæst
 wil-fægen
 īþ-
 ge-eādgian
+betwih-licgan
+be-tweoh
 gicce
 gicenes
 gicþa
+fǣran
+ȳþian
 un-forgolden
 ā-geldan
 ge-cennes
@@ -1527,6 +1724,8 @@ ge-mearr
 begen
 ā-hopian
 ge-hopian
+sceþþan
+sceaþian
 bric-bōt
 bricg-bōt
 burh-bōt
@@ -1542,12 +1741,14 @@ bi-þurfan
 be-
 ā-swarnian
 -full
+ge-wynsumlīc
 ge-mād
 tīhan I
 ge-hīwodlīce
 ele-lendisc
 ed-roc
 āþȳstrian
+ālibban
 ecg-hwæs
 hwilc
 pōl
@@ -1573,6 +1774,7 @@ bīgan
 bātwā
 eall-cyn
 rifelede
+feax-feallung
 nīwunga
 preceding word
 sweor-cops
@@ -1589,6 +1791,7 @@ lāþ-leās
 þeōwan
 ēfstan
 be-hȳdan
+un-gesceādlic
 stefn
 gagolisc
 un-gefrǣge
@@ -1596,16 +1799,21 @@ lǣswian
 tunge-þrum
 bealcan
 bealcettan
+gebēd
+beāda
 for-meltan
+ge-hlēþa
 be-stapan
 hand-spora
 hēl-spure
 sporu
 ge-frǣge
 in-trepettan
+āscamian
 hyge-mēþe
 sǣ-mēþe
 eāðelīce
+hlyn
 sūpan
 healf-f
 wēpan
@@ -1627,6 +1835,7 @@ gelōm-lǣcung
 geþrīst-lǣcung
 neā[h]-lǣcung
 riht-lǣcung
+ymb-rene
 ǣrra
 ǣ-springe
 ge-irman
@@ -1670,6 +1879,13 @@ fæst-steall
 stæl
 stede
 Bensingtūn
+ād-fær
+ge-fær
+in-fær
+ofer-fær
+ongeān-fær
+ūt-fær
+þurh-fær
 ge-rǣde
 ganot
 helle-rūne
@@ -1680,6 +1896,8 @@ grētan
 riht-gelīfed
 un-gelīfed
 be-līfed
+æfesn
+æfes-weorc
 on-flyge
 next word
 godcund
@@ -1696,9 +1914,13 @@ hās-swēge
 fyrd-leās
 ge-ortrēwan
 slǣpor
+ge-healdan
 ge-reōnian
 rūnian
+forþ-f
 eornostlīce
+on-birging
+bȳrging
 mear-g
 sib-gemāgas
 ge-mīēgþ
@@ -1720,12 +1942,14 @@ huru
 eāst-rihte
 norþ-rihte
 ðǣr-rihte
+ge-fēra
 eōwu
 next word
 munan
 folc-sceaþa
 leōd-sceaþa
 for-sacan
+next word
 un-geþwǣrness
 welhwǣr
 riht-gesinscipe
@@ -1743,7 +1967,9 @@ ge-hwilcness
 on-wunung
 eall-wihta
 wiht
+Gallias
 un-weōd
+ge-ambehtan
 preceding word
 þanc-metegung
 heonan
@@ -1753,6 +1979,7 @@ wilde-deōr
 wrǣd
 wrǣd-mǣlum
 frimdig
+eāst-weard
 flet-gefeoht
 folc-gefeoht
 in-gefeoht
@@ -1766,10 +1993,12 @@ ge-feaht
 Scottas
 ge-ācolmōdian
 āsecgan
+mōs
 cyrce
 cyrice
 nīd
 ge-hremman
+snȳtan
 ēfstan
 ge-fragian
 leāp

@@ -1,14 +1,53 @@
+import csv
 import glob
 import json
 import os
 import re
 import unicodedata
 import xml.etree.cElementTree as ET
+from pathlib import Path
 
 from phonology import transcribe
 
 
-tree = ET.parse("template.xml")
+# Manual corrections for words whose default transcription contains ambiguous
+# K/G. `find_ambiguous.py` populates this CSV; hand-edit column B to reshape
+# the input to `transcribe` — typically by adding hyphens so the morpheme
+# lookup can resolve palatal /tʃ/ or /j/. Missing file just means no
+# corrections active — the pipeline still works.
+_CORRECTIONS_PATH = Path(__file__).parent / "velar_normalization" / "corrections.csv"
+
+
+def _load_corrections() -> dict[str, str]:
+    if not _CORRECTIONS_PATH.exists():
+        return {}
+    out: dict[str, str] = {}
+    try:
+        with open(_CORRECTIONS_PATH, encoding="utf-8", newline="") as f:
+            reader = csv.reader(f)
+            next(reader, None)  # header
+            for row in reader:
+                if len(row) >= 2 and row[0] and row[1] and row[0] != row[1]:
+                    out[row[0]] = row[1]
+    except OSError:
+        return {}
+    return out
+
+
+_CORRECTIONS: dict[str, str] = _load_corrections()
+
+
+def _apply_corrections(text: str) -> str:
+    """Rewrite each OE word in `text` via the corrections table (no-op if empty)."""
+    if not _CORRECTIONS or not text:
+        return text
+    return _PRON_WORD_RE.sub(
+        lambda m: _CORRECTIONS.get(m.group(0), m.group(0)), text
+    )
+
+
+_ROOT = Path(__file__).parent.parent
+tree = ET.parse(_ROOT / "resources" / "template.xml")
 ET.register_namespace("", "http://www.w3.org/1999/xhtml")
 ET.register_namespace("d", "http://www.apple.com/DTDs/DictionaryService-1.0.rng")
 root = tree.getroot()
@@ -134,8 +173,9 @@ def _pronunciation(citation: str) -> str:
         return ""
     parts: list[str] = []
     for word in _PRON_WORD_RE.findall(citation):
+        src = _CORRECTIONS.get(word, word)
         try:
-            p = transcribe(word)
+            p = transcribe(src)
         except Exception:
             continue
         if not p:
@@ -248,7 +288,8 @@ def create_entry(d, seen_aliases: set[str] | None = None):
     if seen_aliases is None:
         seen_aliases = set()
 
-    citation = normalize(d["citation_form"])
+    raw_citation = normalize(d["citation_form"])
+    citation = _apply_corrections(raw_citation)
     entry = ET.Element("d:entry")
     entry.attrib["id"] = citation
     entry.attrib["d:title"] = citation
@@ -263,6 +304,17 @@ def create_entry(d, seen_aliases: set[str] | None = None):
     # alias too just collides with the compiler-generated key and produces
     # "Duplicate index. Skipped" warnings.
     seen = {citation}
+    # When a correction rewrote the citation (e.g. added a hyphen), register
+    # the original spelling as an alias so searches for the uncorrected form
+    # still resolve to this entry.
+    if raw_citation and raw_citation != citation:
+        key = raw_citation.lower()
+        if key not in seen_aliases:
+            seen.add(raw_citation)
+            seen_aliases.add(key)
+            alias = ET.SubElement(entry, "d:index")
+            alias.attrib["d:value"] = raw_citation
+            alias.attrib["d:title"] = citation
     for v in d.get("variant_forms", []):
         form = normalize(v)
         if not form or form in seen:
@@ -359,13 +411,13 @@ def create_entry(d, seen_aliases: set[str] | None = None):
 
 if __name__ == "__main__":
     seen_aliases: set[str] = set()
-    for file in glob.glob(os.path.join("./parsed/", "*.json")):
+    for file in sorted(glob.glob(str(_ROOT / "parsed" / "*.json"))):
         with open(file, "r", encoding="utf-8") as f:
             d = json.load(f)
             entry = create_entry(d, seen_aliases)
             if entry is not None:
                 root.append(entry)
 
-    with open("./oe_templates/MyDictionary.xml", "wb") as g:
+    with open(_ROOT / "oe_templates" / "MyDictionary.xml", "wb") as g:
         ET.indent(tree, space="\t", level=0)
         tree.write(g, encoding="utf-8")

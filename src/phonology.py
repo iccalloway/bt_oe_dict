@@ -340,14 +340,14 @@ def syllabify(segs: list[str]) -> list[list[str]]:
 
 # ── Morpheme lookup ───────────────────────────────────────────────────────
 
-# Whole-morpheme phoneme overrides live in `morphemes.json` next to this
-# module. The transcription pipeline splits the input on hyphens (editor-
-# supplied morpheme markers) and consults this table before falling back to
-# the generic token → phoneme mapping. This is how unmarked but historically
-# palatal ⟨g⟩/⟨c⟩ get their correct realization, sidestepping the K/G
-# ambiguity flag from `_resolve_c` / `_resolve_g`. Use `find_ambiguous.py` to
-# see which morphemes still need entries.
-_MORPHEME_TABLE_PATH = Path(__file__).with_name("morphemes.json")
+# Whole-morpheme phoneme overrides live in `velar_normalization/morphemes.json`.
+# The transcription pipeline splits the input on hyphens (editor-supplied
+# morpheme markers) and consults this table before falling back to the generic
+# token → phoneme mapping. This is how unmarked but historically palatal
+# ⟨g⟩/⟨c⟩ get their correct realization, sidestepping the K/G ambiguity flag
+# from `_resolve_c` / `_resolve_g`. Use `velar_normalization/find_ambiguous.py`
+# to see which words still need attention.
+_MORPHEME_TABLE_PATH = Path(__file__).parent / "velar_normalization" / "morphemes.json"
 
 
 def _load_morpheme_table() -> dict[str, tuple[str, ...]]:
