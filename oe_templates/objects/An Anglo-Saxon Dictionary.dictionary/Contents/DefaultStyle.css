@@ -17,6 +17,19 @@ h1 {
   margin-bottom: 0.2em;
 }
 
+h1 .pron {
+  /* Match Apple's French-English / Russian-English dictionaries:
+     system serif (ui-serif → Charter/Palatino/Times fallback) for IPA,
+     secondary-label gray, slightly smaller than the headword. */
+  font-family: ui-serif, Charter, Palatino, "Times New Roman", serif;
+  font-size: 80%;
+  font-weight: normal;
+  color: #666;
+  color: -apple-system-secondary-label;
+  margin-left: 0.4em;
+  vertical-align: baseline;
+}
+
 p {
   margin: 0.5em 0;
 }

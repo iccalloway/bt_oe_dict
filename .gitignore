@@ -7,4 +7,5 @@ environment.env
 .venv/
 venv/
 bt_text.txt
+parsed/
 

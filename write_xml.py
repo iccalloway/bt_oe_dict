@@ -5,6 +5,8 @@ import re
 import unicodedata
 import xml.etree.cElementTree as ET
 
+from phonology import transcribe
+
 
 tree = ET.parse("template.xml")
 ET.register_namespace("", "http://www.w3.org/1999/xhtml")
@@ -116,6 +118,40 @@ def searchable_alias(text):
     otherwise skip and warn about.
     """
     return strip_diacritics(text).translate(_LIGATURE_EXPANSION)
+
+
+_PRON_WORD_RE = re.compile(r"[A-Za-zĀāǢǣĒēĪīŌōŪūȲȳÆæÐðÞþŒœȦȧĊċĠġŚś\-]+")
+
+
+def _pronunciation(citation: str) -> str:
+    """Best-effort IPA-flavored transcription of the citation headword.
+
+    Multi-word or comma-separated citations get each word transcribed and
+    joined with `, `. Words with characters `transcribe` can't tokenize (or
+    that raise) are silently dropped so a single odd headword doesn't kill
+    the whole line."""
+    if not citation:
+        return ""
+    parts: list[str] = []
+    for word in _PRON_WORD_RE.findall(citation):
+        try:
+            p = transcribe(word)
+        except Exception:
+            continue
+        if not p:
+            continue
+        # Morpheme boundaries have no place in a pronunciation. Where the
+        # syllabifier already left a syllable break at the hyphen, `-` → `.`
+        # keeps it; where the break would collapse (adjacent to another `.`
+        # or at a word edge), the cleanup below absorbs it so the flanking
+        # segments merge into their natural syllable.
+        p = p.replace("-", ".")
+        while ".." in p:
+            p = p.replace("..", ".")
+        p = p.strip(".")
+        if p:
+            parts.append(p)
+    return ", ".join(parts)
 
 
 def _render_quotations(parent, quotations):
@@ -243,6 +279,11 @@ def create_entry(d, seen_aliases: set[str] | None = None):
     body = ET.SubElement(entry, "body")
     title = ET.SubElement(body, "h1")
     title.text = citation
+    pron = _pronunciation(citation)
+    if pron:
+        pron_span = ET.SubElement(title, "span")
+        pron_span.attrib["class"] = "pron"
+        pron_span.text = f" | {pron} |"
 
     # Group definitions by rendered POS category, preserving first-seen order.
     groups = {}  # cat -> list[definition]
