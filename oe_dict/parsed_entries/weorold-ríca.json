@@ -1,0 +1,50 @@
+{
+  "citation_form": "weorold-ríca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A man of great worldly power or wealth",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif him ǽnig heáfodman hwilces þinges forwyrnde . . . him sóna getíðode his Scyppendes árfæstnys ðæs ðe se woruldríca him forwyrnde on ǽr",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 514, 17"
+        },
+        {
+          "old_english": "Ne cyning ne woruldríca",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 442, 36"
+        },
+        {
+          "old_english": "Unrihtwíse déman and geréfan and ealle ða wóhgeornan woruldrícan mid heora golde and seolfre and godwebbum and eallum ungestreónum",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 183, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "next word"
+  ],
+  "source_text": [
+    "weorold-ríca, an; m. A man of great worldly power or wealth:-- Gif him ǽnig heáfodman hwilces þinges forwyrnde . . . him sóna getíðode his Scyppendes árfæstnys ðæs ðe se woruldríca him forwyrnde on ǽr, Homl. Th. ii. 514, 17. Ne cyning ne woruldríca, Lchdm. iii. 442, 36. Unrihtwíse déman and geréfan and ealle ða wóhgeornan woruldrícan mid heora golde and seolfre and godwebbum and eallum ungestreónum. Wulfst. 183, 8. v. next word."
+  ]
+}

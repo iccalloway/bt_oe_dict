@@ -1,0 +1,42 @@
+{
+  "citation_form": "bécnan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To indicate, denote, signify",
+      "latin": "indicare, significare",
+      "quotations": [
+        {
+          "old_english": "Ðe we mid ðæm bridle bécnan tiliaþ",
+          "latin": null,
+          "english": "which we will denote by the bridle",
+          "citations": "Bt. Met. Fox 11, 158; Met. 11, 79 : Exon. 110 a; Th. 421, 31; Rä. 40, 26 : 106 b ; Th. 407, 5 ; Rä. 25, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "beácnian"
+  ],
+  "source_text": "bécnan; p. ede; pp. ed To indicate, denote, signify; indicare, significare :-- Ðe we mid ðæm bridle bécnan tiliaþ which we will denote by the bridle, Bt. Met. Fox 11, 158; Met. 11, 79 : Exon. 110 a; Th. 421, 31; Rä. 40, 26 : 106 b ; Th. 407, 5 ; Rä. 25, 10. v. beácnian."
+}

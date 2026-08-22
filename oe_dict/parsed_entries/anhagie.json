@@ -1,0 +1,84 @@
+{
+  "citation_form": "anhagie",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "without tó",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "with dat. infin.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Seó racu ðe mé onhagað ðé tó gerihtreccenne",
+              "latin": null,
+              "english": null,
+              "citations": "Solil. H. 26, 7"
+            },
+            {
+              "old_english": "Ne onhagað ús ná swíðor be dám tó sprecenne",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 488, 8"
+            },
+            {
+              "old_english": "Ðæt ðætte hine ne onhagode útane forð tó brenganne mid weorcum, innane hé hit geðafode",
+              "latin": "etsi rerum tarditas foras peccatum distulit, intus hoc consensionis opere voluntas implevit",
+              "english": null,
+              "citations": "Past. 417. 17"
+            },
+            {
+              "old_english": "Hwæt hine anhagige tó sellanne, hwæt hé healdan scyle",
+              "latin": null,
+              "english": "what is proper for him to give, what he is to keep",
+              "citations": "341, 13"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "with infinitive",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Oft ðá monðwǽran weorðað swá besolcne . . . ðæt hié ne anhagað náne wuht nyttwyrðes dón",
+              "latin": "saepe mansueti dissolutionis torpescunt taedio",
+              "english": null,
+              "citations": "Past. 289, 16"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": "with clause",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þá þe heora hláfordas freógean noldon, oþþe hié ne anhagade þæt hié mehten",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 4, 9; S. 190, 34"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "anhagie (sicut poterimus), Ll. Th. i. 236, 4. III. without tó. (1) with dat. infin. :-- Seó racu ðe mé onhagað ðé tó gerihtreccenne, Solil. H. 26, 7. Ne onhagað ús ná swíðor be dám tó sprecenne, Hml. Th. i. 488, 8. Ðæt ðætte hine ne onhagode útane forð tó brenganne mid weorcum, innane hé hit geðafode etsi rerum tarditas foras peccatum distulit, intus hoc consensionis opere voluntas implevit, Past. 417. 17. Hwæt hine anhagige tó sellanne, hwæt hé healdan scyle what is proper for him to give, what he is to keep, 341, 13. (2) with infinitive :-- Oft ðá monðwǽran weorðað swá besolcne . . . ðæt hié ne anhagað náne wuht nyttwyrðes dón saepe mansueti dissolutionis torpescunt taedio, Past. 289, 16. (3) with clause :-- Þá þe heora hláfordas freógean noldon, oþþe hié ne anhagade þæt hié mehten, Ors. 4, 9; S. 190, 34."
+}

@@ -1,0 +1,66 @@
+{
+  "citation_form": "ge-hlid",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "hlidu",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "hlidu",
+            "case": "accusative",
+            "number": "plural"
+          },
+          {
+            "ending": "hleodu",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "hleodu",
+            "case": "accusative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A lid, covering, roof, an inclosure, a vault",
+      "latin": "tectum, clausūra, septum",
+      "quotations": [
+        {
+          "old_english": "Ic cann ealle heáh-heofona gehlidu",
+          "latin": null,
+          "english": "I know all the roofs of the high heavens",
+          "citations": "Cd. 27; Th. 37, 3; Gen. 584"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 15 a; Th. 32, 25; Cri. 518"
+        },
+        {
+          "old_english": "Ðonne bearn Godes þurh heofona gehleodu óþýweþ",
+          "latin": null,
+          "english": "when the son of God shall appear through heaven's vaults",
+          "citations": "21 a; Th. 56, 23; Cri, 905"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-hlid, es; pl. nom. acc. -hlidu, -hleodu; n. A lid, covering, roof, an inclosure, a vault; tectum, claus&u-long;ra, septum :-- Ic cann ealle heáh-heofona gehlidu I know all the roofs of the high heavens, Cd. 27; Th. 37, 3; Gen. 584 : Exon. 15 a; Th. 32, 25; Cri. 518. Ðonne bearn Godes þurh heofona gehleodu óþýweþ when the son of God shall appear through heaven's vaults, 21 a; Th. 56, 23; Cri, 905."
+}

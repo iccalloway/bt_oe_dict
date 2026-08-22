@@ -1,0 +1,46 @@
+{
+  "citation_form": "winter-tíd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. wintar-zít hyemis tempus. Cf. Icel. vetrar-tíð.",
+      "meaning": "Winter-time, winter",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hit is wintertíd nú, and ic wundrie þearle hwanon þes wyrtbrǽð þus wynsumlíce stéme",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. i. 4, 35"
+        },
+        {
+          "old_english": "Swá gelíc swá ðú æt swǽsendum sette mid ðínum ðegnum on wintertíde",
+          "latin": "brumali tempore",
+          "english": null,
+          "citations": "Bd. 2, 13; S. 516, 16"
+        },
+        {
+          "old_english": "Ðás wyrte ðú scealt niman on wintertíde",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 148, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "winter-tíd, e; f. Winter-time, winter:--Hit is wintertíd nú, and ic wundrie þearle hwanon þes wyrtbrǽð þus wynsumlíce stéme, Homl. Skt. i. 4, 35. Swá gelíc swá ðú æt swǽsendum sette mid ðínum ðegnum on wintertíde (brumali tempore), and sý fýr onǽled, Bd. 2, 13; S. 516, 16. Ðás wyrte ðú scealt niman on wintertíde, Lchdm. i. 148, 2. [O. H. Ger. wintar-zít hyemis tempus. Cf. Icel. vetrar-tíð.]"
+}

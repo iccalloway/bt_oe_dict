@@ -1,0 +1,39 @@
+{
+  "citation_form": "wǽpen-geþræc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A weapon",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ofsend uoepengiðræcc (uoepen, giðræcc?) effunde frameam",
+          "latin": null,
+          "english": null,
+          "citations": "Rtl. 168, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Geþrece",
+    "Geþræce"
+  ],
+  "source_text": [
+    "wǽpen-geþræc [?], es; n. A weapon :-- Ofsend uoepengiðræcc (uoepen, giðræcc?) effunde frameam, Rtl. 168, 5. Cf. Geþrece apparatu. Wrt. Voc. ii. 1, 24: 76, 53: Hpt. Gl. 424, 77. Geþræce, 512, 9."
+  ]
+}

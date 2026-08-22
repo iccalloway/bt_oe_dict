@@ -1,0 +1,40 @@
+{
+  "citation_form": "hǽðung",
+  "variant_forms": [
+    "hǽþung"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Parching or drying by heat",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On ðǽre sunnan is hǽtu and beorhtnys; ac seó hǽtu drýgð, and seó beorhtnys onlýht. Óðer ðing déð seó hǽtu, and óðer seó beorhtnys, belimpð seó hǽðung tó ðǽre hǽtan, and seó onlíhting belimpð tó ðǽre beorhtnysse",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 284, 34-286, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hǽþan"
+  ],
+  "source_text": [
+    "hǽðung. Substitute: hǽþung, e; f. Parching or drying by heat :-- On ðǽre sunnan is hǽtu and beorhtnys; ac seó hǽtu drýgð, and seó beorhtnys onlýht. Óðer ðing déð seó hǽtu, and óðer seó beorhtnys, belimpð seó hǽðung tó ðǽre hǽtan, and seó onlíhting belimpð tó ðǽre beorhtnysse, Hml. Th. i. 284, 34-286, 4. v. hǽþan."
+  ]
+}

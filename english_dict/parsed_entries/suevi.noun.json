@@ -1,0 +1,31 @@
+{
+  "english_lemma": "suevi",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "historical_unmapped",
+      "definition": null,
+      "oe_equivalents": [
+        {
+          "oe_lemma": "Swǽfas",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [
+            "Swǽfe"
+          ],
+          "latin_glosses": [
+            "Alamanni Gallias pervagantes"
+          ],
+          "attestations": [
+            "Ors. 6, 24; Swt. 276, 3",
+            "1, 1; Swt. 16, 1-14",
+            "Exon. Th. 321, 10; Wíd. 44",
+            "322, 10; Wíd. 61",
+            "319, 34; Wíd. 22"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

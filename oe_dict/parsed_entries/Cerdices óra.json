@@ -1,0 +1,46 @@
+{
+  "citation_form": "Cerdices óra",
+  "variant_forms": [
+    "Certices óra"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Cerdic's shore, on the south of Dorsetshire",
+      "latin": "Cerdāci lítus",
+      "quotations": [
+        {
+          "old_english": "Ðá Cerdic and Cynríc his sunu cwom up æt Cerdices óran mid v scipum",
+          "latin": null,
+          "english": "then, A. D. 495, Cerdic and Cynric his son came up to Cerdic's shore with five ships",
+          "citations": "Chr. Erl. 2, 3"
+        },
+        {
+          "old_english": "Hér cwómon Cerdic and Cynríc his sunu on Breteue, mid v scipum, in ðone stede ðe is gecweden Cerdices [Certices, 25, 29, col. 1. 2] óra",
+          "latin": null,
+          "english": "here, A. D. 495, Cerdic and Cynric his son came to Britain, with five ships, at the place which is called Cerdic's shore",
+          "citations": "Chr. 495; Th. 24, 31, col. 1, 2, 3: 514; Th. 26, 16, col. 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Cerdices ford"
+  ],
+  "source_text": [
+    "Cerdices óra, Certices óra. an; m. Cerdic's shore, on the south of Dorsetshire, v. Cerdices ford; Cerd&a-short;ci lítus :-- Ðá Cerdic and Cynríc his sunu cwom up æt Cerdices óran mid v scipum then, A. D. 495, Cerdic and Cynric his son came up to Cerdic's shore with five ships, Chr. Erl. 2, 3. Hér cwómon Cerdic and Cynríc his sunu on Breteue, mid v scipum, in ðone stede ðe is gecweden Cerdices [Certices, 25, 29, col. 1. 2] óra here, A. D. 495, Cerdic and Cynric his son came to Britain, with five ships, at the place which is called Cerdic's shore, Chr. 495; Th. 24, 31, col. 1, 2, 3: 514; Th. 26, 16, col. 1."
+  ]
+}

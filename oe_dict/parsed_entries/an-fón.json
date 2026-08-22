@@ -1,0 +1,48 @@
+{
+  "citation_form": "an-fón",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-féng",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-fangen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To take, take to one's self, receive, perceive, comprehend",
+      "latin": "accipere, suscipere, sumere, percipere, recipere",
+      "quotations": [
+        {
+          "old_english": "Ðú sceonde æt me anfénge",
+          "latin": null,
+          "english": "thou shouldest have taken to thyself shame from me",
+          "citations": "Cd. 42; Th. 54, 10; Gen. 875 : Exon. 112 a; Th. 429, 12; Rä. 43, 3: Ps. C. 50, 135; Ps. Grn. ii. 280, 135"
+        },
+        {
+          "old_english": "To anfónne",
+          "latin": null,
+          "english": "to receive",
+          "citations": "Bd. 3, 6; S. 528, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "on-fón"
+  ],
+  "source_text": "an-fón; p. -féng; pp. -fangen To take, take to one's self, receive, perceive, comprehend; accipere, suscipere, sumere, percipere, recipere :-- Ðú sceonde æt me anfénge thou shouldest have taken to thyself shame from me, Cd. 42; Th. 54, 10; Gen. 875 : Exon. 112 a; Th. 429, 12; Rä. 43, 3: Ps. C. 50, 135; Ps. Grn. ii. 280, 135. To anfónne to receive, Bd. 3, 6; S. 528, 4. v. on-fón."
+}

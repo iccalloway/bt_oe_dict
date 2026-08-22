@@ -1,0 +1,28 @@
+{
+  "citation_form": "pocc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wiþ pocce on eágum",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 36, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "pocc. Add :-- Wiþ pocce on eágum, Lch. ii. 36, 23."
+}

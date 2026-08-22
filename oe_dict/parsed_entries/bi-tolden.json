@@ -1,0 +1,30 @@
+{
+  "citation_form": "bi-tolden",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": "pp. of bi-teldan",
+      "meaning": "covered, overwhelmed",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 64 b; Th, 238, 25; Ph. 609"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-teldan"
+  ],
+  "source_text": [
+    "bi-tolden covered, overwhelmed, Exon. 64 b; Th, 238, 25; Ph. 609; pp. of bi-teldan. v. be-teldan."
+  ]
+}

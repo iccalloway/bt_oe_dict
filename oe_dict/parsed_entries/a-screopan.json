@@ -1,0 +1,48 @@
+{
+  "citation_form": "a-screopan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-scræp",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-scrǽpon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-screpen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To scrape off, scrape",
+      "latin": "radere",
+      "quotations": [
+        {
+          "old_english": "Ascræp ðone wyrms of his líce",
+          "latin": "testa saniem radebat",
+          "english": null,
+          "citations": "Job 2, 8; Thw. 166, 33"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "screopan"
+  ],
+  "source_text": "a-screopan; p. -scræp, pl. -scrǽpon; pp. -screpen To scrape off, scrape; radere :-- Ascræp ðone wyrms of his líce testa saniem radebat, Job 2, 8; Thw. 166, 33. v. screopan."
+}

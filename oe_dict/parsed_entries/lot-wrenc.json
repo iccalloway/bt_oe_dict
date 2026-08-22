@@ -1,0 +1,82 @@
+{
+  "citation_form": "lot-wrenc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Deceit, deception, cunning, fraud, device, wile, craft",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Lotwrænc deceptio, fraus",
+          "latin": "deceptio, fraus",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 138, 13"
+        },
+        {
+          "old_english": "Mid hwelcum lotwrence hit deófla dýdon",
+          "latin": null,
+          "english": "with what deception devils did it",
+          "citations": "Ors. 3, 3; Swt. 102, 18"
+        },
+        {
+          "old_english": "Philippus mid his lotwrence áliéfde ðæt heora anwaldas móston standan swá hié ǽr dydon",
+          "latin": null,
+          "english": "Philip, with his craftiness, allowed their powers to stand as they did before",
+          "citations": "3, 7; Swt. 118, 9"
+        },
+        {
+          "old_english": "Gif hwá mid his lotwrencum óðres mannes folgere fram him ápǽce",
+          "latin": "si quis versutiis suis alius hominis pedisequam ab eo allexerit",
+          "english": null,
+          "citations": "L. Ecg. P. ii. 14; Th. ii. 186, 22"
+        },
+        {
+          "old_english": "Ðá wearþ se mann mid deófles lotwrencum bepǽht",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 192, 11: 376, 9: Wulfst. 84, 19"
+        },
+        {
+          "old_english": "For his lotwrencium",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 30, 1; Swt. 203, 19"
+        },
+        {
+          "old_english": "Þurh ðara scuccena mislíce lotwrencas",
+          "latin": "daemonum varia solertia",
+          "english": null,
+          "citations": "Bt. 36, 6; Fox 220, 14"
+        },
+        {
+          "old_english": "Hé heora lotwrencas [-wrencceas, MS. B.] wiste",
+          "latin": "sciens versutiam eorum",
+          "english": null,
+          "citations": "Mk. Skt. 12, 15"
+        },
+        {
+          "old_english": "Ða ðe ðisse worulde lotwrenceas cunnon",
+          "latin": "sapientes hujus seculi",
+          "english": null,
+          "citations": "Past. 30, 1; Swt. 203, 5: Swt. 205, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "lot-wrenc, es; m. Deceit, deception, cunning, fraud, device, wile, craft :-- Lotwrænc deceptio, fraus, Wrt. Voc. ii. 138, 13. Mid hwelcum lotwrence hit deófla dýdon with what deception devils did it, Ors. 3, 3; Swt. 102, 18. Philippus mid his lotwrence áliéfde ðæt heora anwaldas móston standan swá hié ǽr dydon Philip, with his craftiness, allowed their powers to stand as they did before, 3, 7; Swt. 118, 9. Gif hwá mid his lotwrencum óðres mannes folgere fram him ápǽce si quis versutiis suis alius hominis pedisequam ab eo allexerit, L. Ecg. P. ii. 14; Th. ii. 186, 22. Ðá wearþ se mann mid deófles lotwrencum bepǽht, Homl. Th. i. 192, 11: 376, 9: Wulfst. 84, 19. For his lotwrencium, Past. 30, 1; Swt. 203, 19. Þurh ðara scuccena mislíce lotwrencas daemonum varia solertia, Bt. 36, 6; Fox 220, 14. Hé heora lotwrencas [-wrencceas, MS. B.] wiste sciens versutiam eorum, Mk. Skt. 12, 15. Ða ðe ðisse worulde lotwrenceas cunnon sapientes hujus seculi, Past. 30, 1; Swt. 203, 5: Swt. 205, 17."
+}

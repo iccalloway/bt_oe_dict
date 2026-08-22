@@ -1,0 +1,28 @@
+{
+  "citation_form": "þífe-þorn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Slít mid þefoþorne (cf. þorn, 106, 5)",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 52, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "þífe-þorn Add :-- Slít mid þefoþorne (cf. þorn, 106, 5), Lch. ii. 52, 8."
+}

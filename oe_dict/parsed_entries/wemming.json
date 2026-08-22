@@ -1,0 +1,43 @@
+{
+  "citation_form": "wemming",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Wiðute wemmunge, H. M. 13, 24.",
+      "meaning": "Pollution, defilement",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wemmincge (wémincge? v. wéman)",
+          "latin": "lenocinii, seductionis",
+          "english": null,
+          "citations": "Hpt. Gl. 507, 20"
+        },
+        {
+          "old_english": "Wiðute wemmunge",
+          "latin": null,
+          "english": null,
+          "citations": "H. M. 13, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-wemming",
+    "un-wemming"
+  ],
+  "source_text": "wemming, e; f. Pollution, defilement:--Wemmincge (wémincge? v. wéman) lenocinii, seductionis, Hpt. Gl. 507, 20. [Wiðute wemmunge, H. M. 13, 24.] v. ge-, un-wemming."
+}

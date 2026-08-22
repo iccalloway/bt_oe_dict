@@ -1,0 +1,62 @@
+{
+  "citation_form": "un-sǽlþ",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "He fleh mid muchele unsælðe, Laym. 4748. Al for hire onselþe (wickedness), 2nd MS. 2545. To þolenn illc unnsellþe, Orm. 1561. Unnseollþe, 4811. Sum unselþe heom is ihende, O. and N. 1263. Ðo wex unselðe on hem ... dolc, sor, and blein, Gen. and Ex. 3026. O. H. Ger. un-sálida infelicitas, dementia.",
+      "meaning": "Unhappiness, misfortune, misery",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt is seó mǽste unsǽlð on ðís andweardan lífe, ðæt mon ǽrest weorþe gesǽlig and æfter ðam ungesǽlig",
+          "latin": "in omni adversitate fortunae infelicissimum genus est infortunii, fuisse felicem",
+          "english": null,
+          "citations": "Bt. 10; Fox 26, 30"
+        },
+        {
+          "old_english": "Him wǽre ealra mǽst unsǽlþ ðæt, ðæt se fyrst wǽre óþ dómes dæg",
+          "latin": "licentiam infelicissimam, si esset eterna",
+          "english": null,
+          "citations": "38, 4; Fox 204, 16"
+        },
+        {
+          "old_english": "Hwelc mug him máre unsǽlð becuman",
+          "latin": "quid eorum mente infelicius?",
+          "english": null,
+          "citations": "Past. 45; Swt. 340, 4"
+        },
+        {
+          "old_english": "Hié wilniaþ óþera manna unsǽlþa and him cymð sylfum ðæt ylce",
+          "latin": "infelicitas in viis eorum",
+          "english": null,
+          "citations": "Ps. Th. 13, 7"
+        },
+        {
+          "old_english": "Hé hwílum selþ ða gesǽlþa ðǽm gódum and ðǽm yflum unsǽlþa ... hwílum hé eft geþafaþ ðæt ða gódan habbaþ unsǽlþa and ungelimp and ða yfelan habbaþ gesǽlþa",
+          "latin": "qui saepe bonis jucunda, malis aspera, contraque bonis dura tribuat, malis optata concedat",
+          "english": null,
+          "citations": "Bt. 39, 2; Fox 214, 1-5: 10; Bt. 28, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-gesǽlþ"
+  ],
+  "source_text": [
+    "un-sǽlþ, e; f. Unhappiness, misfortune, misery :-- Ðæt is seó mǽste unsǽlð on ðís andweardan lífe, ðæt mon ǽrest weorþe gesǽlig and æfter ðam ungesǽlig in omni adversitate fortunae infelicissimum genus est infortunii, fuisse felicem, Bt. 10; Fox 26, 30. Him wǽre ealra mǽst unsǽlþ ðæt, ðæt se fyrst wǽre óþ dómes dæg licentiam infelicissimam, si esset eterna, 38, 4; Fox 204, 16. Hwelc mug him máre unsǽlð becuman quid eorum mente infelicius? Past. 45; Swt. 340, 4. Hié wilniaþ óþera manna unsǽlþa and him cymð sylfum ðæt ylce infelicitas in viis eorum, Ps. Th. 13, 7. Hé hwílum selþ ða gesǽlþa ðǽm gódum and ðǽm yflum unsǽlþa ... hwílum hé eft geþafaþ ðæt ða gódan habbaþ unsǽlþa and ungelimp and ða yfelan habbaþ gesǽlþa qui saepe bonis jucunda, malis aspera, contraque bonis dura tribuat, malis optata concedat, Bt. 39, 2; Fox 214, 1-5: 10; Bt. 28, 8. [He fleh mid muchele unsælðe, Laym. 4748. Al for hire onselþe (wickedness), 2nd MS. 2545. To þolenn illc unnsellþe, Orm. 1561. Unnseollþe, 4811. Sum unselþe heom is ihende, O. and N. 1263. Ðo wex unselðe on hem ... dolc, sor, and blein, Gen. and Ex. 3026. O. H. Ger. un-sálida infelicitas, dementia.] v. un-gesǽlþ."
+  ]
+}

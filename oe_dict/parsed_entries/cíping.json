@@ -1,0 +1,143 @@
+{
+  "citation_form": "cíping",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "trading, marketing",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se smið gemétte on cýpincge þæs Eádzies mann",
+          "latin": null,
+          "english": "the smith met this Eadsige's man a-marketing",
+          "citations": "Hml. S. 21, 75"
+        },
+        {
+          "old_english": "Þám dǽdbétan nis álýfed nǽnige cýpinge tó drífenne",
+          "latin": "mercaturam exercere",
+          "english": null,
+          "citations": "Ll. Th. ii. 170, 11"
+        },
+        {
+          "old_english": "On ceápstówe cýpinge begán",
+          "latin": "in mercatu mercaturam exercere",
+          "english": null,
+          "citations": "174, 19"
+        },
+        {
+          "old_english": "Cýpinge wyrcan",
+          "latin": null,
+          "english": null,
+          "citations": "Cht. E. 231, 21"
+        },
+        {
+          "old_english": "Cípinge anginnan",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. iii. 178, 2"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I a.",
+          "heading": null,
+          "meaning": "dues paid for trading, market-dues",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Uillae mercimonium, quod Anglice ðæs túnes cýping appellatur, censusque omnis ciuilis aecclesiae, cum omnibus commodis, deseruiat",
+              "latin": null,
+              "english": null,
+              "citations": "C. D. v. 158, 37"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "merchandise",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Céping",
+          "latin": "mercimonium (or under I, if a gloss on Ald. 56, 15:--Spirituale exercetur mercimonium. Cf. An. Ox. 4807)",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 57, 18"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "a market, market-place",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Céping mercatum, scipmanna myrt þe céping teloneum",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 37, 9, 10"
+        },
+        {
+          "old_english": "Hé cóm intó þǽre cýpinge þǽr gehwilce men heora ceáp be[ceápod]an",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23, 527"
+        },
+        {
+          "old_english": "Hí hine átugan tómiddes þǽre cýpinge",
+          "latin": null,
+          "english": null,
+          "citations": "609"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "céping",
+    "cýping",
+    "ceápung",
+    "flǽsc-cíping"
+  ],
+  "source_text": "cíping, e; f. I. trading, marketing:--Se smið gemétte on cýpincge þæs Eádzies mann the smith met this Eadsige's man a-marketing, Hml. S. 21, 75. Þám dǽdbétan nis álýfed nǽnige cýpinge tó drífenne mercaturam exercere, Ll. Th. ii. 170, 11. On ceápstówe cýpinge begán in mercatu mercaturam exercere, 174, 19. Cýpinge wyrcan, Cht. E. 231, 21. Cípinge anginnan, Lch. iii. 178, 2. I a. dues paid for trading, market-dues:--Uillae mercimonium, quod Anglice ðæs túnes cýping appellatur, censusque omnis ciuilis aecclesiae, cum omnibus commodis, deseruiat, C. D. v. 158, 37. II. merchandise:--Céping mercimonium (or under I, if a gloss on Ald. 56, 15:--Spirituale exercetur mercimonium. Cf. An. Ox. 4807), Wrt. Voc. ii. 57, 18. III. a market, market-place:--Céping mercatum, scipmanna myrt þe céping teloneum, Wrt. Voc. i. 37, 9, 10. Hé cóm intó þǽre cýpinge þǽr gehwilce men heora ceáp be[ceápod]an, Hml. S. 23, 527. Hí hine átugan tómiddes þǽre cýpinge, 609. v. céping, cýping in Dict. and ceápung: flǽsc-cíping."
+}

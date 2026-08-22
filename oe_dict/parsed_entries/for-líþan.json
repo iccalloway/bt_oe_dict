@@ -1,0 +1,60 @@
+{
+  "citation_form": "for-líþan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-láþ",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-liton",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-liþon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-liden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "-liþen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To suffer shipwreck",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Forliþan naufragaverant",
+          "latin": "naufragaverant",
+          "english": null,
+          "citations": "An. Ox. 4490: 4621"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "for-liden"
+  ],
+  "source_text": "for-líþan; p. -láþ, pl. -liton, -liþon; pp. -liden, -liþen To suffer shipwreck :-- Forliþan naufragaverant, An. Ox. 4490: 4621. v. for-liden in Dict."
+}

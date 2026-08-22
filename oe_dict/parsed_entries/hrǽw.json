@@ -1,0 +1,60 @@
+{
+  "citation_form": "hrǽw",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "A living body",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sceal þín hrá dǽlan . . . Hié þín feorh ne magon deáðe gedǽlan",
+          "latin": null,
+          "english": null,
+          "citations": "An. 954: 1033"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a dead body, corpse",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eálá þú earma líchama, nú þú scealt gewurðan tó fúlan hrǽwe and wyrmum tó mete",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 141, 1"
+        },
+        {
+          "old_english": "Rǽwe (reáwe, Hpt. Gl. 441, 14)",
+          "latin": "cadaueri",
+          "english": null,
+          "citations": "An. Ox. 1480"
+        },
+        {
+          "old_english": "[Geed]cuced rǽw (reáw, Hpt. Gl. 458, 45)",
+          "latin": null,
+          "english": null,
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hrǽw. Add: I. A living body:--Sceal þín hrá dǽlan . . . Hié þín feorh ne magon deáðe gedǽlan, An. 954: 1033. II. a dead body, corpse:--Eálá þú earma líchama, nú þú scealt gewurðan tó fúlan hrǽwe and wyrmum tó mete, Wlfst. 141, 1. Rǽwe (reáwe, Hpt. Gl. 441, 14) cadaueri, An. Ox. 1480. [Geed]cuced rǽw (reáw, Hpt. Gl. 458, 45)"
+}

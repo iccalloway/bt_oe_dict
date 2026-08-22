@@ -1,0 +1,40 @@
+{
+  "citation_form": "under-geréfa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An under-officer",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geréfa consul, undergeréfa proconsul",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc, i. 18, 5"
+        },
+        {
+          "old_english": "Se undergeréfa",
+          "latin": null,
+          "english": "the pro-prefect",
+          "citations": "Homl. Skt. i. 4, 332: 7, 216"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "under-geréfa, an; m. An under-officer :-- Geréfa consul, undergeréfa proconsul, Wrt. Voc, i. 18, 5. Se undergeréfa the pro-prefect, Homl. Skt. i. 4, 332: 7, 216."
+}

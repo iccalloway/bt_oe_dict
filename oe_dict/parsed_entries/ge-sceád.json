@@ -1,0 +1,52 @@
+{
+  "citation_form": "ge-sceád",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": "[Ger. ge-scheit.]",
+      "meaning": "reasonable, discreet, prudent",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hí setton him ǽnne wícnere getreówne and swíðe gesceádne",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23, 217"
+        },
+        {
+          "old_english": "Þá ne beóð ná wíse ne gescáde þe Godé nellað hýran",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 334, 5"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "calculated, fixed (? cf. ge-sceád ; XI. 2)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gesceád ratum",
+          "latin": "ratum",
+          "english": null,
+          "citations": "Kent. Gl. 1164"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-gesceád"
+  ],
+  "source_text": "ge-sceád; adj. I. reasonable, discreet, prudent :-- Hí setton him ǽnne wícnere getreówne and swíðe gesceádne, Hml. S. 23, 217. Þá ne beóð ná wíse ne gescáde þe Godé nellað hýran, Ll. Th. i. 334, 5. [Ger. ge-scheit.] v. un-gesceád. II. calculated, fixed (? cf. ge-sceád ; XI. 2) :-- Gesceád ratum, Kent. Gl. 1164."
+}

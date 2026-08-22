@@ -1,0 +1,30 @@
+{
+  "citation_form": "telge",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Cockayne refers the word to telg and translates dyeing; but the passage at 190, 21, in which the same date is said to be 'eallum gód þingum gód' suggests a different meaning. The forms of the whole piece are corrupt.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On xiiii nihte mónan is gód ǽlc telge tó anginnanne",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdnr, iii. 178, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "telge (?) :-- On xiiii nihte mónan is gód ǽlc telge tó anginnanne, Lchdnr, iii. 178, 31. Cockayne refers the word to telg and translates dyeing; but the passage at 190, 21, in which the same date is said to be 'eallum gód þingum gód' suggests a different meaning. The forms of the whole piece are corrupt."
+  ]
+}

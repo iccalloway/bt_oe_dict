@@ -1,0 +1,30 @@
+{
+  "citation_form": "blód-hrǽce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A spitting of blood",
+      "latin": "sanguinis excreatio",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "blód",
+    "hrǽce"
+  ],
+  "source_text": "blód-hrǽce, es; m. A spitting of blood; sanguinis excreatio. v. blód, hrǽce."
+}

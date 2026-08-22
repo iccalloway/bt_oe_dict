@@ -1,0 +1,407 @@
+{
+  "citation_form": "wirsa",
+  "variant_forms": [
+    "wirra"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "Goth. wairsiza; cpve.: O. Sax. wirsa; cpve.; wirsista; spve.: O. Frs. wirra; cpve.: O. H. Ger. wirsiro; cpve.; wirsisto; spve.: Icel. verri; cpve.; verstr; spve.",
+      "meaning": "Worse, worst",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "in a moral sense",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "For hwam lifaþ se wyrsa leng?",
+              "latin": null,
+              "english": null,
+              "citations": "Salm. Kmbl. 716; Sal. 357"
+            },
+            {
+              "old_english": "Ne wearð nán wærsa dǽd gedón ðonne ðeós wæs",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 979; Erl. 129, 4"
+            },
+            {
+              "old_english": "Gif wé ðæt ne dóþ, ðonne wyrce wé ús myccle synne; and ús is get wyrse ðæt wé úrne ceáp teóþian, gif wé willaþ syllan ðæt wyrste Gode",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 41, 7"
+            },
+            {
+              "old_english": "Hí for nánum ermþum ne byóð nó ðý betran, ac ðý wyrsan",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 39, 11; Fox 230, 17"
+            },
+            {
+              "old_english": "Ðá gǽð hé and him tó genymð seofun óðre gástas wyrsan (nequiores) ðonne hé . . . and wurðaþ ðæs mannes ýtemestan wyrsan (pejora) ðonne ða ǽrran",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. Kmbl. 12, 45: Wrt. Voc. ii. 72, 59"
+            },
+            {
+              "old_english": "Ðes wyrresta cyning Neron",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. i. 384, 3"
+            },
+            {
+              "old_english": "Se wyresta sceaþa (Judas)",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 69, 10"
+            },
+            {
+              "old_english": "Ðis is manna se wyrresta",
+              "latin": null,
+              "english": null,
+              "citations": "185, 2"
+            },
+            {
+              "old_english": "Se eallra wyrresta mon",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 14, 3; Fox 46, 20"
+            },
+            {
+              "old_english": "Ðé þúhte ðæt eallra ðinga wyrrest",
+              "latin": null,
+              "english": null,
+              "citations": "38, 4; Fox 204, 9"
+            },
+            {
+              "old_english": "Ðæs wyrrestan eorðcyninga",
+              "latin": null,
+              "english": null,
+              "citations": "Cd. Th. 235, 13; Dan. 305"
+            },
+            {
+              "old_english": "On werrestre dǽde",
+              "latin": "in actione pessima",
+              "english": null,
+              "citations": "Confess. Peccat."
+            },
+            {
+              "old_english": "Swá byð ðisse wyrrestan (wyrsesta, Lind., pessimae) cneórysse",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. Kmbl. 12, 45"
+            },
+            {
+              "old_english": "Wirestan",
+              "latin": null,
+              "english": null,
+              "citations": "Deut. 1, 35"
+            },
+            {
+              "old_english": "Ða wyrstan (pessimam) ingewitnesse mé ic geseó",
+              "latin": null,
+              "english": null,
+              "citations": "Bd. 5, 13; S. 632, 32"
+            },
+            {
+              "old_english": "Ða wyrrestan, fá folcsceaðan",
+              "latin": null,
+              "english": null,
+              "citations": "Andr. Kmbl. 3183; An. 1594"
+            },
+            {
+              "old_english": "Ðám wyrrestum wítes þegnum",
+              "latin": null,
+              "english": null,
+              "citations": "Exon. Th. 251, 28; Jul. 152"
+            },
+            {
+              "old_english": "On werstum ðingum",
+              "latin": "in rebus pessimis",
+              "english": null,
+              "citations": "Kent. Gl. 23"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(1 a)",
+              "heading": null,
+              "meaning": "of an unfitting condition of things",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "And ðæt git wyrse is, ðæt wé witon manige foremǽre weras forþgewitene ðe swiþe feáwa manna á ongit",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 19; Fox 70, 11: Met. 10, 57"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "of the physical condition of persons or things",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé tóbrycð hys stede on ðam reáfe, and se slite byð ðe wyrsa",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. Kmbl. 9, 16"
+            },
+            {
+              "old_english": "Sió wund bið ðæs ðe wierse",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 17; Swt. 123, 18"
+            },
+            {
+              "old_english": "Heó wæs ðe wyrse",
+              "latin": "deterius habebat",
+              "english": null,
+              "citations": "Mk. Skt. 5, 26"
+            },
+            {
+              "old_english": "Seó frecednes dæghwamlíce wæs wyrse and wyrse",
+              "latin": null,
+              "english": null,
+              "citations": "Bd. 4, 32; S. 611, 24"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(2 a)",
+              "heading": null,
+              "meaning": "where injury is done to a person in respect to his well-being",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Se ðe óðerne mid wó forsecgan wille, ðæt hé áðer oþþe feó oþþe freme ðá wyrse sý",
+                  "latin": null,
+                  "english": null,
+                  "citations": "L. C. S. 16; Th. i. 384, 24"
+                },
+                {
+                  "old_english": "Hí dydan mycelne hearm ábútan Hámtúne . . . swá ðæt seó scír and ða óðra scíra, ðæ ðǽr neáh sindon, wurdon fela wintra ðe wyrsan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Chr. 1065; Erl. 197, 11"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "of the condition of affairs, of an (unfavourable) circumstance or event",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Mé ðǽr wyrse gelamp, ðonne ic tó hyhte ágan móste",
+              "latin": null,
+              "english": null,
+              "citations": "Cd. Th. 275, 22; Sat. 175"
+            },
+            {
+              "old_english": "Hit him wyrse gelomp",
+              "latin": null,
+              "english": null,
+              "citations": "272, 26; Sat. 125"
+            },
+            {
+              "old_english": "Wæs ǽfre heora æftra sýð wyrse ðonne se ǽrra",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1001; Erl. 137, 14"
+            },
+            {
+              "old_english": "Swá wearð hit fram dæge tó dæge lætre and wyrre",
+              "latin": null,
+              "english": null,
+              "citations": "1066; Erl. 202, 17"
+            },
+            {
+              "old_english": "Ne wearð wyrse dǽd (more disastrous act) monnum gemearcod",
+              "latin": null,
+              "english": null,
+              "citations": "Cd. Th. 37, 24; Gen. 594"
+            },
+            {
+              "old_english": "Hé áwende hit him tó wyrsan þinge",
+              "latin": null,
+              "english": null,
+              "citations": "17, 13; Gen. 259"
+            },
+            {
+              "old_english": "Hé tǽhte Absalone óðerne rǽd wyrsan tó his willan",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Skt. i. 19, 206"
+            },
+            {
+              "old_english": "Wéne ic tó ðé wyrsan þinga, gif ðú Grendles dearst bídan",
+              "latin": null,
+              "english": null,
+              "citations": "Beo. Th. 1055; B. 525"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "of that which is harmful, painful, etc.",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hí nǽfre wyrsan handplegan on Angelcynne ne gemitton",
+              "latin": null,
+              "english": "they never met with harder fighting in England",
+              "citations": "Chr. 1004; Erl. 138, note 7"
+            },
+            {
+              "old_english": "Ðý læs God ús sende on wyrsan tintrego",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 243, 20"
+            },
+            {
+              "old_english": "Ðæra synfullena deáþ byð se wyrsta (wyrresta, Ps. Surt.: wyrst, Ps. Spl., pessima)",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 33, 21"
+            },
+            {
+              "old_english": "Wilddeóra ðæt wyrreste (grimmeste, Exon. Th. 371, 29) . . . wyrmcynna ðæt grimmeste (wyrreste, Exon. Th. 371, 32)",
+              "latin": null,
+              "english": null,
+              "citations": "Soul Kmbl. 164-167; Seel. 82-84"
+            },
+            {
+              "old_english": "Se deófol slóh lób mid ðære wyrstan wunde (with the most grievous disorder)",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 452, 26"
+            },
+            {
+              "old_english": "Mid ðý werrestan áttre",
+              "latin": null,
+              "english": "with the most virulent poison",
+              "citations": "Shrn. 84, 28"
+            },
+            {
+              "old_english": "On ðone wyrrestan deáð",
+              "latin": null,
+              "english": "to the most cruel death",
+              "citations": "Andr. Kmbl. 172; An. 86"
+            },
+            {
+              "old_english": "We[r]stum gedrecenyssum",
+              "latin": "saevissimis afflictionibus",
+              "english": null,
+              "citations": "Hpt. Gl. 409, 59"
+            },
+            {
+              "old_english": "Getogen tó ðǽm wyrstan tintregum",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 245, 1"
+            },
+            {
+              "old_english": "Ða werrestan tintrega",
+              "latin": null,
+              "english": null,
+              "citations": "229, 25"
+            },
+            {
+              "old_english": "Wyrrestan",
+              "latin": null,
+              "english": null,
+              "citations": "Exon. Th. 257, 20; Jul. 250: Elen. Kmbl. 1860; El. 932"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(5)",
+          "heading": null,
+          "meaning": "marking inferiority",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé bið swíðe gelíc sumum ðara gumena ðe him þringaþ ymbe útan; gif hé wyrsa ne bið, ne wéne ic his ná beteran",
+              "latin": null,
+              "english": null,
+              "citations": "Met. 25, 20"
+            },
+            {
+              "old_english": "Æ-acute;lc man sylþ ǽrest gód wín, and ðonne hig druncene beóð ðæt ðe wyrse (wyrest, Rush.: wurresta, Lind., deterius) byð",
+              "latin": null,
+              "english": null,
+              "citations": "Jn. Skt. 2, 10"
+            },
+            {
+              "old_english": "Hé ðæt betere geceás, and ðam wyrsan wiðsóc",
+              "latin": null,
+              "english": null,
+              "citations": "Elen. Kmbl. 2078; El. 1040"
+            },
+            {
+              "old_english": "On ðone wyrsan dǽl scyrede",
+              "latin": null,
+              "english": null,
+              "citations": "Exon. Th. 75, 24; Cri. 1226"
+            },
+            {
+              "old_english": "On ða wyrsan hand",
+              "latin": null,
+              "english": null,
+              "citations": "Salm. Kmbl. 998; Sal. 500"
+            },
+            {
+              "old_english": "Onwendan heora wuldor on ðæne wyrsan hád styrces",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 105, 17"
+            },
+            {
+              "old_english": "Wyrsan wígfrecan",
+              "latin": null,
+              "english": null,
+              "citations": "Beo. Th. 4985; B. 2496"
+            },
+            {
+              "old_english": "Buccena flǽsc is wyrrest",
+              "latin": null,
+              "english": null,
+              "citations": "Lchdm. ii. 196, 17"
+            },
+            {
+              "old_english": "Gif wé willaþ syllan úre ðæt wyrste Gode",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 41, 8"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "weorr"
+  ],
+  "source_text": "wirsa (wirra occurs once in the Chronicle); cpve.; wirrest, wirst; spve. adj. Worse, worst, (1) in a moral sense:--For hwam lifaþ se wyrsa leng? Salm. Kmbl. 716; Sal. 357. Ne wearð nán wærsa dǽd gedón ðonne ðeós wæs, Chr. 979; Erl. 129, 4. Gif wé ðæt ne dóþ, ðonne wyrce wé ús myccle synne; and ús is get wyrse ðæt wé úrne ceáp teóþian, gif wé willaþ syllan ðæt wyrste Gode, Blickl. Homl. 41, 7. Hí for nánum ermþum ne byóð nó ðý betran, ac ðý wyrsan, Bt. 39, 11; Fox 230, 17. Ðá gǽð hé and him tó genymð seofun óðre gástas wyrsan (nequiores) ðonne hé . . . and wurðaþ ðæs mannes ýtemestan wyrsan (pejora) ðonne ða ǽrran, Mt. Kmbl. 12, 45: Wrt. Voc. ii. 72, 59. Ðes wyrresta cyning Neron, Homl. Th. i. 384, 3. Se wyresta sceaþa (Judas), Blickl. Homl. 69, 10. Ðis is manna se wyrresta, 185, 2. Se eallra wyrresta mon, Bt. 14, 3; Fox 46, 20. Ðé þúhte ðæt eallra ðinga wyrrest, 38, 4; Fox 204, 9. Ðæs wyrrestan eorðcyninga, Cd. Th. 235, 13; Dan. 305. On werrestre dǽde in actione pessima, Confess. Peccat. Swá byð ðisse wyrrestan (wyrsesta, Lind., pessimae) cneórysse, Mt. Kmbl. 12, 45. Wirestan, Deut. 1, 35. Ða wyrstan (pessimam) ingewitnesse mé ic geseó, Bd. 5, 13; S. 632, 32. Ða wyrrestan, fá folcsceaðan, Andr. Kmbl. 3183; An. 1594. Ðám wyrrestum wítes þegnum, Exon. Th. 251, 28; Jul. 152. On werstum ðingum in rebus pessimis, Kent. Gl. 23. (1 a) of an unfitting condition of things:--And ðæt git wyrse is, ðæt wé witon manige foremǽre weras forþgewitene ðe swiþe feáwa manna á ongit, Bt. 19; Fox 70, 11: Met. 10, 57. (2) of the physical condition of persons or things:--Hé tóbrycð hys stede on ðam reáfe, and se slite byð ðe wyrsa, Mt. Kmbl. 9, 16. Sió wund bið ðæs ðe wierse, Past. 17; Swt. 123, 18. Heó wæs ðe wyrse deterius habebat, Mk. Skt. 5, 26. Seó frecednes dæghwamlíce wæs wyrse and wyrse, Bd. 4, 32; S. 611, 24. (2 a) where injury is done to a person in respect to his well-being:--Se ðe óðerne mid wó forsecgan wille, ðæt hé áðer oþþe feó oþþe freme ðá wyrse sý, L. C. S. 16; Th. i. 384, 24. Hí dydan mycelne hearm ábútan Hámtúne . . . swá ðæt seó scír and ða óðra scíra, ðæ ðǽr neáh sindon, wurdon fela wintra ðe wyrsan, Chr. 1065; Erl. 197, 11. (3) of the condition of affairs, of an (unfavourable) circumstance or event:--Mé ðǽr wyrse gelamp, ðonne ic tó hyhte ágan móste, Cd. Th. 275, 22; Sat. 175. Hit him wyrse gelomp, 272, 26; Sat. 125. Wæs ǽfre heora æftra sýð wyrse ðonne se ǽrra, Chr. 1001; Erl. 137, 14. Swá wearð hit fram dæge tó dæge lætre and wyrre, 1066; Erl. 202, 17. Ne wearð wyrse dǽd (more disastrous act) monnum gemearcod, Cd. Th. 37, 24; Gen. 594. Hé áwende hit him tó wyrsan þinge, 17, 13; Gen. 259. Hé tǽhte Absalone óðerne rǽd wyrsan tó his willan, Homl. Skt. i. 19, 206. Wéne ic tó ðé wyrsan þinga, gif ðú Grendles dearst bídan, Beo. Th. 1055; B. 525. (4) of that which is harmful, painful, etc.:--Hí nǽfre wyrsan handplegan on Angelcynne ne gemitton they never met with harder fighting in England, Chr. 1004; Erl. 138, note 7. Ðý læs God ús sende on wyrsan tintrego, Blickl. Homl. 243, 20. Ðæra synfullena deáþ byð se wyrsta (wyrresta, Ps. Surt.: wyrst, Ps. Spl., pessima), Ps. Th. 33, 21. Wilddeóra ðæt wyrreste (grimmeste, Exon. Th. 371, 29) . . . wyrmcynna ðæt grimmeste (wyrreste, Exon. Th. 371, 32), Soul Kmbl. 164-167; Seel. 82-84. Se deófol slóh lób mid ðære wyrstan wunde (with the most grievous disorder), Homl. Th. ii. 452, 26. Mid ðý werrestan áttre with the most virulent poison, Shrn. 84, 28. On ðone wyrrestan deáð to the most cruel death, Andr. Kmbl. 172; An. 86. We[r]stum gedrecenyssum saevissimis afflictionibus, Hpt. Gl. 409, 59. Getogen tó ðǽm wyrstan tintregum, Blickl. Homl. 245, 1. Ða werrestan tintrega, 229, 25. Wyrrestan, Exon. Th. 257, 20; Jul. 250: Elen. Kmbl. 1860; El. 932. (5) marking inferiority:--Hé bið swíðe gelíc sumum ðara gumena ðe him þringaþ ymbe útan; gif hé wyrsa ne bið, ne wéne ic his ná beteran, Met. 25, 20. Æ-acute;lc man sylþ ǽrest gód wín, and ðonne hig druncene beóð ðæt ðe wyrse (wyrest, Rush.: wurresta, Lind., deterius) byð, Jn. Skt. 2, 10. Hé ðæt betere geceás, and ðam wyrsan wiðsóc, Elen. Kmbl. 2078; El. 1040. On ðone wyrsan dǽl scyrede, Exon. Th. 75, 24; Cri. 1226. On ða wyrsan hand, Salm. Kmbl. 998; Sal. 500. Onwendan heora wuldor on ðæne wyrsan hád styrces, Ps. Th. 105, 17. Wyrsan wígfrecan, Beo. Th. 4985; B. 2496. Buccena flǽsc is wyrrest, Lchdm. ii. 196, 17. Gif wé willaþ syllan úre ðæt wyrste Gode, Blickl. Homl. 41, 8. [Goth. wairsiza; cpve.: O. Sax. wirsa; cpve.; wirsista; spve.: O. Frs. wirra; cpve.: O. H. Ger. wirsiro; cpve.; wirsisto; spve.: Icel. verri; cpve.; verstr; spve.] v. weorr."
+}

@@ -1,0 +1,45 @@
+{
+  "citation_form": "ge-þryscan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt geswinc hiera ágenra welora hié geðryscð (-ðrycð, v. l.)",
+          "latin": null,
+          "english": null,
+          "citations": null
+        },
+        {
+          "old_english": "Se feónd ðæt mód mid grimmum edleáne geðryscð",
+          "latin": "premit",
+          "english": null,
+          "citations": "Past. 238, 15-17"
+        },
+        {
+          "old_english": "Ðætte sió unliéfde byrðen ðissa eorðlicena sorga hí ne geðrysce",
+          "latin": "premat",
+          "english": null,
+          "citations": "401, 6"
+        },
+        {
+          "old_english": "Geðrysced (-ðryced, v. l.) mid ðǽre hefignesse his synna",
+          "latin": null,
+          "english": null,
+          "citations": "269, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-þryscan. Add :-- 'Ðæt geswinc hiera ágenra welora hié geðryscð (-ðrycð, v. l.)' ... Se feónd ðæt mód mid grimmum edleáne geðryscð (premit), Past. 238, 15-17. Ðætte sió unliéfde byrðen ðissa eorðlicena sorga hí ne geðrysce (premat), 401, 6. Geðrysced (-ðryced, v. l.) mid ðǽre hefignesse his synna, 269, 9."
+}

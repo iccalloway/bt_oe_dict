@@ -1,0 +1,42 @@
+{
+  "citation_form": "marmor-stán",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Marble",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gehíwod swylce marmorstán",
+          "latin": null,
+          "english": null,
+          "citations": "E. S. viii. 478, 59"
+        },
+        {
+          "old_english": "Heora líc biþ on marmorstánes hwítnysse",
+          "latin": null,
+          "english": null,
+          "citations": "Nar. 38, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "marmor-stán, es; m. Marble :-- Gehíwod swylce marmorstán, E. S. viii. 478, 59. Heora líc biþ on marmorstánes hwítnysse, Nar. 38, 9."
+  ]
+}

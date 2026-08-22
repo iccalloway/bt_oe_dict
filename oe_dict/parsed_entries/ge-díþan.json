@@ -1,0 +1,75 @@
+{
+  "citation_form": "ge-díþan",
+  "variant_forms": [
+    "-déþan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "v. deáþ.",
+      "meaning": "to put to death, kill",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mið deáðe gedéðed sé",
+          "latin": "morte moriatur",
+          "english": null,
+          "citations": "Mk. L. R. 7, 10"
+        },
+        {
+          "old_english": "Of huælcum deáðe uére sweltende &l-bar; gedéðet",
+          "latin": "qua morte esset moriturus",
+          "english": null,
+          "citations": "Jn. L. 12, 33"
+        },
+        {
+          "old_english": "Þte UNCERTAIN hiá woere gedéðed &l-bar; gecuelledo",
+          "latin": "ut interfaerentur",
+          "english": null,
+          "citations": "Lk. L. R. 23, 32"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": "O. H. Ger. ge-tóden.",
+      "meaning": "to mortify (in the theological sense)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þte UNCERTAIN úsig ágéfe Gode gidéðed líchome",
+          "latin": "mortificatos carne",
+          "english": null,
+          "citations": "Rtl. 21, 32"
+        },
+        {
+          "old_english": "Gidéðod",
+          "latin": null,
+          "english": null,
+          "citations": "25, 43"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "dídan"
+  ],
+  "source_text": "ge-díþan, -déþan; pp. ed. [v. deáþ.] I. to put to death, kill :-- Mið deáðe gedéðed sé morte moriatur, Mk. L. R. 7, 10. Of huælcum deáðe uére sweltende &l-bar; gedéðet qua morte esset moriturus, Jn. L. 12, 33. Þte UNCERTAIN hiá woere gedéðed &l-bar; gecuelledo ut interfaerentur, Lk. L. R. 23, 32. II. to mortify (in the theological sense) :-- Þte UNCERTAIN úsig ágéfe Gode gidéðed líchome (mortificatos carne), Rtl. 21, 32. Gidéðod, 25, 43. [O. H. Ger. ge-tóden.] Cf. dídan."
+}

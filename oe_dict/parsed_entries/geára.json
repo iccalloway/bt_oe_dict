@@ -1,0 +1,50 @@
+{
+  "citation_form": "geára",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": "[gen. pl. of geár a year] [Laym. ȝære, ȝare : Chauc. yore.]",
+      "meaning": "YORE, formerly, of old, long since, once",
+      "latin": "ōlim, antīquitus, quondam",
+      "quotations": [
+        {
+          "old_english": "Se geára hider fram ðam eádigan Gregorie sended wæs",
+          "latin": "qui olim huc a beato Gregorio directus fuit",
+          "english": null,
+          "citations": "Bd. 2, 3; S. 504, 44"
+        },
+        {
+          "old_english": "Ic þeódenmádmas geára forgeáfe",
+          "latin": null,
+          "english": "I princely treasures gave of old",
+          "citations": "Cd. 22; Th. 26, 21; Gen. 410"
+        },
+        {
+          "old_english": "Ðú on geóguþfeore geára gecwǽde",
+          "latin": null,
+          "english": "thou in youthful life long since didst say",
+          "citations": "Beo. Th. 5322; B. 2664 : Ps. Th. 73, 12 : 80, 10 : 104, 6 : 118, 152"
+        },
+        {
+          "old_english": "Geára iú",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 76 b; Th. 287, 30; Wand. 22 : 84 a; Th. 316, 31; Mód. 57 : Bt. Met. Fox 1, 1; Met. 1, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ǽr-geára",
+    "fyrn-",
+    "geó-",
+    "iú-",
+    "un-"
+  ],
+  "source_text": "geára; adv. [gen. pl. of geár a year] YORE, formerly, of old, long since, once; &o-long;lim, ant&i-long;qu&i-short;tus, quondam :-- Se geára hider fram ðam eádigan Gregorie sended wæs qui olim huc a beato Gregorio directus fuit, Bd. 2, 3; S. 504, 44. Ic þeódenmádmas geára forgeáfe I princely treasures gave of old, Cd. 22; Th. 26, 21; Gen. 410. Ðú on geóguþfeore geára gecwǽde thou in youthful life long since didst say, Beo. Th. 5322; B. 2664 : Ps. Th. 73, 12 : 80, 10 : 104, 6 : 118, 152. Geára iú, Exon. 76 b; Th. 287, 30; Wand. 22 : 84 a; Th. 316, 31; Mód. 57 : Bt. Met. Fox 1, 1; Met. 1, 1. [Laym. &yogh;ære, &yogh;are : Chauc. yore.] DER. ǽr-geára, fyrn-, geó-, iú-, un-."
+}

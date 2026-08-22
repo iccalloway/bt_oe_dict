@@ -1,0 +1,35 @@
+{
+  "citation_form": "efenwyrþe",
+  "variant_forms": [
+    "-weorðum",
+    "efenwyrðe"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "very worthy",
+      "latin": "condignus",
+      "quotations": [
+        {
+          "old_english": "Hé þone hád mid efenwyrþum (-weorðum, v. l.) dǽdum frætwade",
+          "latin": "gradum condignis ornans actibus",
+          "english": null,
+          "citations": "Bd. 3, 27; Sch. 331, 23"
+        },
+        {
+          "old_english": "Hé þ-bar; bysceopsetl efenwyrðum (efenwyrðe, v. l.) dǽdum his hádes heóld",
+          "latin": "episcopalem cathedram condignis gradu actibus seruat",
+          "english": null,
+          "citations": "5, 12; Sch. 632, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "very worthy; condignus:--Hé þone hád mid efenwyrþum (-weorðum, v. l.) dǽdum frætwade gradum condignis ornans actibus, Bd. 3, 27; Sch. 331, 23. Hé þ-bar; bysceopsetl efenwyrðum (efenwyrðe, v. l.) dǽdum his hádes heóld episcopalem cathedram condignis gradu actibus seruat, 5, 12; Sch. 632, 3."
+}

@@ -1,0 +1,44 @@
+{
+  "citation_form": "be-ládiendlic",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Apologetic",
+      "latin": "apologeticus, excusabilis",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox 2299"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "2793"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "2957"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "4233"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "be-ládiendlic; adj. Apologetic; apologeticus, excusabilis, An. Ox 2299: 2793: 2957: 4233."
+}

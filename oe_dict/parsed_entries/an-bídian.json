@@ -1,0 +1,60 @@
+{
+  "citation_form": "an-bídian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ude",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To abide, wait, wait for, expect",
+      "latin": "morari, commorari, expectare",
+      "quotations": [
+        {
+          "old_english": "Wolde ðǽr on ælþeódignisse anbídian",
+          "latin": "ut pertgrinaritur ibi",
+          "english": null,
+          "citations": "Gen. 12, 10"
+        },
+        {
+          "old_english": "Me anbídiaþ rihtwíse óþ-ðæt ðú afyldest me",
+          "latin": "me expectant justi donec retribuas mihi",
+          "english": null,
+          "citations": "Ps. Spl. 141, 10"
+        },
+        {
+          "old_english": "Ic anbídude hine",
+          "latin": "expectabam eum",
+          "english": null,
+          "citations": "54, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "an-bídian; p. ode, ude; pp. od To abide, wait, wait for, expect; morari, commorari, expectare :-- Wolde ðǽr on ælþeódignisse anbídian ut pertgrinaritur ibi, Gen. 12, 10. Me anbídiaþ rihtwíse óþ-ðæt ðú afyldest me me expectant justi donec retribuas mihi, Ps. Spl. 141, 10. Ic anbídude hine expectabam eum, 54, 8."
+  ]
+}

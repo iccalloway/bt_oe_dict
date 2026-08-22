@@ -1,0 +1,52 @@
+{
+  "english_lemma": "sword",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "sword.n.01",
+      "definition": "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BIL",
+          "pos": "noun",
+          "gender": "n",
+          "variants": [
+            "bill"
+          ],
+          "latin_glosses": [
+            "falx, marra, falcastrum, ensis curvus"
+          ],
+          "attestations": [
+            "Beo. Th. 4963; B. 2485",
+            "Beo. Th. 3119; B. 1557",
+            "Cd. 142; Th. 177, 17; Gen. 2931",
+            "Cd. 210; Th. 260, 14; Dan. 709",
+            "Cd. 153; Th. 190, 14; Exod. 199"
+          ],
+          "quotations": [
+            {
+              "old_english": "Geseah ðá sige-eádig bil, eald sweord eótenisc",
+              "english": "then he saw a victorious bill, an old giant sword",
+              "citations": "Beo. Th. 3119; B. 1557"
+            },
+            {
+              "old_english": "Abrægd mid ðý bille",
+              "english": "he brandished with his sword",
+              "citations": "Cd. 142; Th. 177, 17; Gen. 2931"
+            },
+            {
+              "old_english": "Billa ecgum",
+              "english": "with the edges of swords",
+              "citations": "Cd. 210; Th. 260, 14; Dan. 709"
+            },
+            {
+              "old_english": "Billum abreótan",
+              "english": "to destroy with swords",
+              "citations": "Cd. 153; Th. 190, 14; Exod. 199"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

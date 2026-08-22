@@ -1,0 +1,36 @@
+{
+  "citation_form": "ofer-swíðestre",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A conqueror",
+      "latin": "victrix",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 141, 68"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ofer-swíðestre, an; f. A conqueror; victrix, Wrt. Voc. ii. 141, 68."
+  ]
+}

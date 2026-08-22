@@ -1,0 +1,32 @@
+{
+  "citation_form": "biscop-dóm",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the province of a bishop, a bishopric",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 3, 7; S. 530, note 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bisceop-dóm"
+  ],
+  "source_text": [
+    "biscop-dóm the province of a bishop, a bishopric, Bd. 3, 7; S. 530, note 10. v. bisceop-dóm II."
+  ]
+}

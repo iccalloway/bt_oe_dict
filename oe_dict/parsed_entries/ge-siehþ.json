@@ -1,0 +1,32 @@
+{
+  "citation_form": "ge-siehþ",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "sight",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 5, 3; Fox 14, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-sihþ"
+  ],
+  "source_text": [
+    "ge-siehþ sight, Bt. 5, 3; Fox 14, 18. v. ge-sihþ."
+  ]
+}

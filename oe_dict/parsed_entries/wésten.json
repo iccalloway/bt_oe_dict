@@ -1,0 +1,30 @@
+{
+  "citation_form": "wésten",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "God lǽdde hine ðurh ðæt wésten",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 304, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "feld-wésten"
+  ],
+  "source_text": "wésten. Add :-- God lǽdde hine ðurh ðæt wésten, Past. 304, 7. v. feld-wésten."
+}

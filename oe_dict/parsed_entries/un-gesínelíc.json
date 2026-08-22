@@ -1,0 +1,40 @@
+{
+  "citation_form": "un-gesínelíc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Invisible",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seó ungesýnelíce sáwl",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 21, 25"
+        },
+        {
+          "old_english": "Ungesýnelícne God",
+          "latin": null,
+          "english": null,
+          "citations": "185, 31"
+        },
+        {
+          "old_english": "Flǽsclíce men ða ungesýnelícan ne magon angytan",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 2, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "un-gesínelíc; adj. Invisible :-- Seó ungesýnelíce sáwl, Blickl. Homl. 21, 25. Ungesýnelícne God, 185, 31. Flǽsclíce men ða ungesýnelícan ne magon angytan, Wulfst. 2, 4."
+  ]
+}

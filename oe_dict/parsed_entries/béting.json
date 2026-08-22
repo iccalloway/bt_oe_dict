@@ -1,0 +1,32 @@
+{
+  "citation_form": "béting",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a cable",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 41, 3; Fox 250, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bǽting"
+  ],
+  "source_text": [
+    "béting a cable, Bt. 41, 3; Fox 250, 15. v. bǽting."
+  ]
+}

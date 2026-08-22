@@ -1,0 +1,38 @@
+{
+  "citation_form": "aldornes",
+  "variant_forms": [
+    "ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Authority",
+      "latin": "auctoritas",
+      "quotations": [
+        {
+          "old_english": "Se bisceop mid biscoplícre aldornesse [ealdorlicnysse, S. 553, 35] wæs cýðende",
+          "latin": "episcopus pontificali auctoritate protestatus",
+          "english": null,
+          "citations": "Bd. 3, 22; Whel. 224, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "aldornes, ness, e ; f. Authority; auctoritas :-- Se bisceop mid biscoplícre aldornesse [ealdorlicnysse, S. 553, 35] wæs cýðende episcopus pontificali auctoritate protestatus, Bd. 3, 22; Whel. 224, 22."
+  ]
+}

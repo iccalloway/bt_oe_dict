@@ -1,0 +1,64 @@
+{
+  "citation_form": "bróþor-sunu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "a",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A nephew",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Bróðorsunu",
+          "latin": "frat[r]uelis",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 109, 17"
+        },
+        {
+          "old_english": "Bróðersune",
+          "latin": "nepos",
+          "english": null,
+          "citations": "i. 51, 71"
+        },
+        {
+          "old_english": "Cynegils, Ceólwulfes bróþursunu",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. P. 2, 14"
+        },
+        {
+          "old_english": "Bróþursunu (bróðor-, v.l.)",
+          "latin": null,
+          "english": null,
+          "citations": "887 ; P. 80, 17"
+        },
+        {
+          "old_english": "Griffines bróðersunu",
+          "latin": null,
+          "english": null,
+          "citations": "1097; P. 233, 22"
+        },
+        {
+          "old_english": "Mid bróðorsuna",
+          "latin": "cum fratrueli",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 87, 12: 19, 13: 34, 57"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "bróþor-sunu, a ; m. A nephew :-- Bróðorsunu frat[r]uelis, Wrt. Voc. ii. 109, 17. Bróðersune nepos, i. 51, 71. Cynegils, Ceólwulfes bróþursunu, Chr. P. 2, 14. Bróþursunu (bróðor-, v.l.), 887 ; P. 80, 17. Griffines bróðersunu, 1097; P. 233, 22. Mid bróðorsuna cum fratrueli, Wrt. Voc. ii. 87, 12: 19, 13: 34, 57."
+}

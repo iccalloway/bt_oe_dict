@@ -7,4 +7,6 @@ dependencies = [
     "anthropic>=0.40.0",
     "pydantic>=2.0",
     "tqdm",
+    "nltk>=3.9",
+    "eng-to-ipa>=0.0.2",
 ]

@@ -1,0 +1,30 @@
+{
+  "citation_form": "á-strengd",
+  "variant_forms": [
+    "-strenged"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": "Cf. astrengdet productiles malleo, Grff. vi. 757.",
+      "meaning": "ductili, i. levi, fusili",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ástrenged ductili, i. levi, fusili",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 142, II."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "á-strengd. Add: , -strenged :--Ástrenged ductili, i. levi, fusili. Wrt. Voc. ii. 142, II. [Cf. astrengdet productiles malleo, Grff. vi. 757.]"
+  ]
+}

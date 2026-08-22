@@ -1,0 +1,98 @@
+{
+  "citation_form": "mann-sliht",
+  "variant_forms": [
+    "-slieht",
+    "-slæht",
+    "sleht"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Laym. monslæht: A. R. mon-sleiht: Gen. and Ex. man-slagt: O. Sax. man-slahta: O. Frs. mon-slachta: O. H. Ger. man-slaht.",
+      "meaning": "Manslaughter, homicide, murder",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ða heáfodleahtras sind, mansliht ...",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 592, 4"
+        },
+        {
+          "old_english": "Ðonne mæg hé beón orsorg ðæs monnslihtes (monnsliehtes. Hatt. MS.)",
+          "latin": "reus perpetrati homicidii non tenetur",
+          "english": null,
+          "citations": "Past. 21, 7; Swt. 166, 20"
+        },
+        {
+          "old_english": "Manslehtes beteón",
+          "latin": null,
+          "english": null,
+          "citations": "L. A. G. 3; Th. i. 154, 5"
+        },
+        {
+          "old_english": "Be monslihte (monnslyhte, MS. H.)",
+          "latin": null,
+          "english": null,
+          "citations": "L. In. 34; Th. i. 122, 15: L. Edm. E. 3; Th. i. 246, 1: L. Edm. S. 1; Th. i. 248, 1"
+        },
+        {
+          "old_english": "Be ðám monnum ðe heora wǽpna tó monslyhte lǽnaþ. Gif hwá his wǽpnes óðrum onlǽne ðæt hé mon mid ofsleá",
+          "latin": null,
+          "english": null,
+          "citations": "L. Alf. pol. 19; Th. i. 74, 1-4"
+        },
+        {
+          "old_english": "Manslyht gewyrcan",
+          "latin": null,
+          "english": "to commit murder",
+          "citations": "Mk. Skt. 15, 7"
+        },
+        {
+          "old_english": "Héðenra manna hergung ádiligode Godes cyrican þurh reáflác and mansleht.",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 793; Erl. 59, 12"
+        },
+        {
+          "old_english": "Manslæht",
+          "latin": null,
+          "english": null,
+          "citations": "Confess. Peccat."
+        },
+        {
+          "old_english": "Ðis synt ða ídelnyssa ðisse worlde ... manslehtas (homicidia)",
+          "latin": null,
+          "english": null,
+          "citations": "L. Ecg. P. i. 8; Th. ii. 174, 34: Wulfst. 164, 4"
+        },
+        {
+          "old_english": "Ðǽr wǽron swá micle monslihtas on ǽgðere healfe ðæt hié mon bebyrgan ne mehte",
+          "latin": "inhumatas strages reliquit",
+          "english": null,
+          "citations": "Ors. 4, 6; Swt. 176, 30"
+        },
+        {
+          "old_english": "Ungetíma ǽgder ge on monslehtum ge on hungre",
+          "latin": null,
+          "english": null,
+          "citations": "1, 11; Swt. 50, 19: Chr. 994; Erl. 133, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mann-sliht, -slieht, -slæht, sleht, es; m. Manslaughter, homicide, murder :-- Ða heáfodleahtras sind, mansliht ..., Homl. Th. ii. 592, 4. Ðonne mæg hé beón orsorg ðæs monnslihtes (monnsliehtes. Hatt. MS.) reus perpetrati homicidii non tenetur, Past. 21, 7; Swt. 166, 20. Manslehtes beteón, L. A. G. 3; Th. i. 154, 5. Be monslihte (monnslyhte, MS. H.), L. In. 34; Th. i. 122, 15: L. Edm. E. 3; Th. i. 246, 1: L. Edm. S. 1; Th. i. 248, 1. Be ðám monnum ðe heora wǽpna tó monslyhte lǽnaþ. Gif hwá his wǽpnes óðrum onlǽne ðæt hé mon mid ofsleá, L. Alf. pol. 19; Th. i. 74, 1-4. Manslyht gewyrcan to commit murder, Mk. Skt. 15, 7. Héðenra manna hergung ádiligode Godes cyrican þurh reáflác and mansleht. Chr. 793; Erl. 59, 12. Manslæht, Confess. Peccat. Ðis synt ða ídelnyssa ðisse worlde ... manslehtas (homicidia), L. Ecg. P. i. 8; Th. ii. 174, 34: Wulfst. 164, 4. Ðǽr wǽron swá micle monslihtas on ǽgðere healfe ðæt hié mon bebyrgan ne mehte inhumatas strages reliquit, Ors. 4, 6; Swt. 176, 30. Ungetíma ǽgder ge on monslehtum ge on hungre, 1, 11; Swt. 50, 19: Chr. 994; Erl. 133, 18. [Laym. monslæht: A. R. mon-sleiht: Gen. and Ex. man-slagt: O. Sax. man-slahta: O. Frs. mon-slachta: O. H. Ger. man-slaht.]"
+}

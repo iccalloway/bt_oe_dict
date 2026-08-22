@@ -1,0 +1,21 @@
+{
+  "english_lemma": "town",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "town.n.01",
+      "definition": "an urban area with a fixed boundary that is smaller than a city",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "G",
+          "pos": "noun",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

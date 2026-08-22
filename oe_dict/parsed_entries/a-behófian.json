@@ -1,0 +1,36 @@
+{
+  "citation_form": "a-behófian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To behove, concern",
+      "latin": "decere",
+      "quotations": [
+        {
+          "old_english": "Mid máran unrǽde ðone him abehófode",
+          "latin": null,
+          "english": "with more animosity than it behoved him",
+          "citations": "Chr. 1093; Th. 360, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-hófian"
+  ],
+  "source_text": "a-behófian; p. ode To behove, concern; decere :-- Mid máran unrǽde ðone him abehófode with more animosity than it behoved him, Chr. 1093; Th. 360, 4. v. be-hófian."
+}

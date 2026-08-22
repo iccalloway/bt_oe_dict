@@ -1,0 +1,248 @@
+{
+  "citation_form": "weá",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "woe, misery, evil, affliction, trouble",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Genóh dæge weá his",
+          "latin": "stifficit diei malitia sua",
+          "english": null,
+          "citations": "Mt. Kmbl. Rush. 6, 34"
+        },
+        {
+          "old_english": "Weá wæs árǽred, tregena tuddor",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 68, 26; Gen. 987"
+        },
+        {
+          "old_english": "Mec ðín weá æt heortan gehreáw",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 91, 18; Cri. 1493"
+        },
+        {
+          "old_english": "Weá biþ wundrum clibbor",
+          "latin": null,
+          "english": null,
+          "citations": "Menol. Fox 485 ; Gn. C. 13"
+        },
+        {
+          "old_english": "Weán on wénum",
+          "latin": null,
+          "english": "in expectation of evil",
+          "citations": "Cd. Th. 63, 4; Gen. 1027: 191, 11; Exod. 213 : Exon. Th. 378, 32; Deór. 25: Cd. Th. 146, 6; Gen. 2418"
+        },
+        {
+          "old_english": "Ne ic ðé weán úðe",
+          "latin": null,
+          "english": "nor did I wish you ill",
+          "citations": "163, 3; Gen. 2692"
+        },
+        {
+          "old_english": "Nysses ðú weán ǽnigne dǽl",
+          "latin": null,
+          "english": "you knew nothing of misery",
+          "citations": "Exon. Th. 85, 3; Cri. 1385"
+        },
+        {
+          "old_english": "Ne lǽd ðú ús tó wíte in weán sorge",
+          "latin": null,
+          "english": null,
+          "citations": "Hy. 6, 27"
+        },
+        {
+          "old_english": "Hé þearfende of wǽdle weán álýsde",
+          "latin": "adjuvabit pauperem de inopia",
+          "english": null,
+          "citations": "Ps. Th. 106, 40"
+        },
+        {
+          "old_english": "Gif ðé ǽnig mid weán gréteþ",
+          "latin": null,
+          "english": "if any man afflict thee",
+          "citations": "Cd. Th. 105, 18 ; Gen. 1755"
+        },
+        {
+          "old_english": "Hé heóld his ǽhta him tó weán",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 53, 9"
+        },
+        {
+          "old_english": "Biþ hé on écne weán be&dash-uncertain;drifen",
+          "latin": null,
+          "english": null,
+          "citations": "95, 5"
+        },
+        {
+          "old_english": "Ðæt ða yfelan bióþ micle gesǽligran ðe on ðisse worulde habbaþ micelne weán and manigfeald wíte for hyra yfelum, ðonne ða sién ðe náne wræce nabbaþ",
+          "latin": "feliciores esse improbos supplicia luentes, quam si eos nulla justitiae poena coerceat",
+          "english": null,
+          "citations": "Bt. 38, 3 ; Fox 200, 3"
+        },
+        {
+          "old_english": "Hí mé weán [íhton, cf. 77, 31] mínra wunda sár",
+          "latin": "super dolorem vulnerum meorum addiderunt",
+          "english": null,
+          "citations": "Ps. Th. 68, 27"
+        },
+        {
+          "old_english": "Weán, sár and sorge",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 5, 20; Gen. 74; 267, 22; Sat. 42"
+        },
+        {
+          "old_english": "Ic fleáh weán wana wilna gehwilces",
+          "latin": null,
+          "english": null,
+          "citations": "137, 11; Gen. 2272 : 109, 7; Gen. 1819"
+        },
+        {
+          "old_english": "For hwon wást ðú weán, gesyhst sorge",
+          "latin": null,
+          "english": null,
+          "citations": "54, 12; Gen. 876"
+        },
+        {
+          "old_english": "Gedígan weán and wræcsíð",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 4573; B. 2292"
+        },
+        {
+          "old_english": "Gesamna ús of wídwegum, ðǽr wé weán dreógaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 105, 36: Cd. Th. 276, 7; Sat. 185"
+        },
+        {
+          "old_english": "Hé for wlenco weán áhsode",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 2417; B. 1206: 851; B. 423"
+        },
+        {
+          "old_english": "Wyrd wóp wecceþ, heó weán hladeþ",
+          "latin": null,
+          "english": null,
+          "citations": "Salm. Kmbl. 874; Sal. 436"
+        },
+        {
+          "old_english": "Eal sár and sace, hungor and þurst, wóp and hreám, and weána má ðonne ǽniges mannes gemet sý ðæt hié áríman mæge",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 61, 36"
+        },
+        {
+          "old_english": "Fela ic weána gebád, heardra hilda",
+          "latin": null,
+          "english": null,
+          "citations": "Fins. Th. 51; Fin. 25"
+        },
+        {
+          "old_english": "Wén ne brúceþ, ðe can weána lyt, sáres and sorge",
+          "latin": null,
+          "english": null,
+          "citations": "Runic pm. Kmbl. 340, 30 ; Rún.8"
+        },
+        {
+          "old_english": "Weána dǽl",
+          "latin": null,
+          "english": "a deal of trouble",
+          "citations": "Exon. Th. 379, 17; Deór. 34: Beo. Th. 2304; B. 1150"
+        },
+        {
+          "old_english": "Ic ðé wið weána gehwam wreó",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 131, 2 ; Gen. 2170: Beo. Th. 2796; B. 1396"
+        },
+        {
+          "old_english": "Ic ǽnigra mé weána ne wénde bóte gebídan",
+          "latin": null,
+          "english": null,
+          "citations": "1870; B. 933"
+        },
+        {
+          "old_english": "Hié ealle worlde weán oforhogodan",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 119, 15"
+        },
+        {
+          "old_english": "Weallende weán",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 139, 2 ; Gú. 587"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "evil, wickedness, malice",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nǽfre on his weorþige weá áspronge, mearce má scyle mán inwides",
+          "latin": "non defecit de plateis ejus usura et dolus",
+          "english": null,
+          "citations": "Ps. Th. 54, 10"
+        },
+        {
+          "old_english": "Weá bið in móde, siofa synnum fáh, gefylled mid fácne",
+          "latin": null,
+          "english": null,
+          "citations": "Fragm. Kmbl. 27; Leás. 15"
+        },
+        {
+          "old_english": "Ðæt gelamp for weán and for yfelnesse ðara eardiendra",
+          "latin": "a malitia inhabitantium",
+          "english": null,
+          "citations": "Bd. 4, 25 ; S. 599, 22"
+        },
+        {
+          "old_english": "Hý magon weána tó fela geseón on",
+          "latin": null,
+          "english": null,
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "weá-dǽd"
+  ],
+  "source_text": "weá, an; m. I. woe, misery, evil, affliction, trouble: -- Genóh dæge weá his stifficit diei malitia sua, Mt. Kmbl. Rush. 6, 34. Weá wæs árǽred, tregena tuddor, Cd. Th. 68, 26; Gen. 987. Mec ðín weá æt heortan gehreáw, Exon. Th. 91, 18; Cri. 1493. Weá biþ wundrum clibbor, Menol. Fox 485 ; Gn. C. 13. Weán on wénum in expectation of evil, Cd. Th. 63, 4; Gen. 1027: 191, 11; Exod. 213 : Exon. Th. 378, 32; Deór. 25: Cd. Th. 146, 6; Gen. 2418. Ne ic ðé weán úðe nor did I wish you ill, 163, 3; Gen. 2692. Nysses ðú weán ǽnigne dǽl you knew nothing of misery, Exon. Th. 85, 3; Cri. 1385. Ne lǽd ðú ús tó wíte in weán sorge, Hy. 6, 27. Hé þearfende of wǽdle weán álýsde adjuvabit pauperem de inopia, Ps. Th. 106, 40. Gif ðé ǽnig mid weán gréteþ if any man afflict thee, Cd. Th. 105, 18 ; Gen. 1755. Hé heóld his ǽhta him tó weán, Blickl. Homl. 53, 9. Biþ hé on écne weán be&dash-uncertain;drifen, 95, 5. Ðæt ða yfelan bióþ micle gesǽligran ðe on ðisse worulde habbaþ micelne weán and manigfeald wíte for hyra yfelum, ðonne ða sién ðe náne wræce nabbaþ feliciores esse improbos supplicia luentes, quam si eos nulla justitiae poena coerceat, Bt. 38, 3 ; Fox 200, 3. Hí mé weán [íhton, cf. 77, 31] mínra wunda sár super dolorem vulnerum meorum addiderunt, Ps. Th. 68, 27. Weán, sár and sorge, Cd. Th. 5, 20; Gen. 74; 267, 22; Sat. 42. Ic fleáh weán wana wilna gehwilces, 137, 11; Gen. 2272 : 109, 7; Gen. 1819. For hwon wást ðú weán, gesyhst sorge, 54, 12; Gen. 876. Gedígan weán and wræcsíð, Beo. Th. 4573; B. 2292. Gesamna ús of wídwegum, ðǽr wé weán dreógaþ, Ps. Th. 105, 36: Cd. Th. 276, 7; Sat. 185. Hé for wlenco weán áhsode, Beo. Th. 2417; B. 1206: 851; B. 423. Wyrd wóp wecceþ, heó weán hladeþ, Salm. Kmbl. 874; Sal. 436. Eal sár and sace, hungor and þurst, wóp and hreám, and weána má ðonne ǽniges mannes gemet sý ðæt hié áríman mæge, Blickl. Homl. 61, 36. Fela ic weána gebád, heardra hilda, Fins. Th. 51; Fin. 25. Wén ne brúceþ, ðe can weána lyt, sáres and sorge, Runic pm. Kmbl. 340, 30 ; Rún.8. Weána dǽl a deal of trouble, Exon. Th. 379, 17; Deór. 34: Beo. Th. 2304; B. 1150. Ic ðé wið weána gehwam wreó, Cd. Th. 131, 2 ; Gen. 2170: Beo. Th. 2796; B. 1396. Ic ǽnigra mé weána ne wénde bóte gebídan, 1870; B. 933. Hié ealle worlde weán oforhogodan, Blickl. Homl. 119, 15. Weallende weán, Exon. Th. 139, 2 ; Gú. 587. II. evil, wickedness, malice, v. weá&dash-uncertain;dǽd :-- Nǽfre on his weorþige weá áspronge, mearce má scyle mán inwides non defecit de plateis ejus usura et dolus, Ps. Th. 54, 10. Weá bið in móde, siofa synnum fáh, gefylled mid fácne, Fragm. Kmbl. 27; Leás. 15. Ðæt gelamp for weán and for yfelnesse ðara eardiendra (a malitia inhabitantium), Bd. 4, 25 ; S. 599, 22. Hý magon weána tó fela geseón on"
+}

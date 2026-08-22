@@ -1,0 +1,40 @@
+{
+  "citation_form": "gewit-seóc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "possessed",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þǽre gewitseócan inerguminum",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 45, 7"
+        },
+        {
+          "old_english": "Gif þú wilt lácnian gewitseócne man",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 334, 19"
+        },
+        {
+          "old_english": "Forhtodon þá deófla on gewitseócum mannum, for ðan ðe hí wiston his tócyme, and þá deófolseócan sóna forhtigende wǽron",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 31, 1201"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "gewit-seóc. Add: possessed:--Þǽre gewitseócan inerguminum, Wrt. Voc. ii. 45, 7. Gif þú wilt lácnian gewitseócne man, Lch. ii. 334, 19. Forhtodon þá deófla on gewitseócum mannum, for ðan ðe hí wiston his tócyme, and þá deófolseócan sóna forhtigende wǽron, Hml. S. 31, 1201."
+  ]
+}

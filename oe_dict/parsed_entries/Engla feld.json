@@ -1,0 +1,44 @@
+{
+  "citation_form": "Engla feld",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "feldes",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "felda",
+            "case": "dative",
+            "number": "singular"
+          },
+          {
+            "ending": "felde",
+            "case": "dative",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Hovd. Englefeld: Brom. Englefelde: Matt. West. Anglefeld: Angles' field, the field of the English",
+      "meaning": "ENGLEFIELD or INGLEFIELD, near Reading, Berkshire",
+      "latin": "loci nomen in agro Berkeriensi",
+      "quotations": [
+        {
+          "old_english": "Her cwom se here to Reádingum on West-Seaxe, and dæs ymb iii niht ridon ii eorlas up: ðá gemétte hie Æðelwulf aldorman on Engla felda, and him ðǽr wið gefeaht, and sige nam",
+          "latin": null,
+          "english": "in this year [A. D. 871] the army came to Reading in Wessex, and three nights after two earls rode up: then alderman Æthelwulf met them at Inglefield, and there fought against them, and gained the victory.",
+          "citations": "Chr. 871; Erl. 74, 5-8."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Engla feld; gen. feldes; dat. felda, felde; m. [Hovd. Englefeld: Brom. Englefelde: Matt. West. Anglefeld: Angles' field, the field of the English] ENGLEFIELD or INGLEFIELD, near Reading, Berkshire; l&o-short;ci n&o-long;men in agro Berkeriensi :-- Her cwom se here to Reádingum on West-Seaxe, and dæs ymb iii niht ridon ii eorlas up: ðá gemétte hie Æðelwulf aldorman on Engla felda, and him ðǽr wið gefeaht, and sige nam in this year [A. D. 871] the army came to Reading in Wessex, and three nights after two earls rode up: then alderman Æthelwulf met them at Inglefield, and there fought against them, and gained the victory. Chr. 871; Erl. 74, 5-8."
+}

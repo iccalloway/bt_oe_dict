@@ -1,0 +1,21 @@
+{
+  "english_lemma": "heed",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "attentiveness.n.01",
+      "definition": "paying particular notice (as to children or helpless people)",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "GÝME",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

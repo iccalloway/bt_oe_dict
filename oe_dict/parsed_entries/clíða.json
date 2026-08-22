@@ -1,0 +1,66 @@
+{
+  "citation_form": "clíða",
+  "variant_forms": [
+    "clýða"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A plaster, salve, poultice",
+      "latin": "emplastrum, malagma",
+      "quotations": [
+        {
+          "old_english": "Se wítega Isaias worhte ðam cyninge Ezechie clíðan to his dolge",
+          "latin": null,
+          "english": "the prophet Isaiah made for king Hezekiah a plaster for his sore",
+          "citations": "Homl. Th. i. 476, 1"
+        },
+        {
+          "old_english": "Clíða malagma",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 74, 9: Ælfc. Gr. 9, 1; Som. 8, 22"
+        },
+        {
+          "old_english": "Man sceal him wyrcean clíðan tofóran his heáfde",
+          "latin": null,
+          "english": "one must make him a poultice for his forehead",
+          "citations": "Lchdm. iii. 8, 13, 16"
+        },
+        {
+          "old_english": "Swylce ðǽr clýða togelǽd wǽre",
+          "latin": null,
+          "english": "as if a poultice were laid there",
+          "citations": "Herb. 51, 2; Lchdm. i. 154, 18"
+        },
+        {
+          "old_english": "Ðyssa wyrta genim ða læssan, wyrc to clýðan",
+          "latin": null,
+          "english": "take the lesser of these herbs, make it into a poultice",
+          "citations": "143, 5; Lchdm. i. 266, 15: 173, 4; Lchdm. i. 304, 15"
+        },
+        {
+          "old_english": "Genim ðyssa wyrta wyrtruman, gecnucude mid ele, and mid hwǽtenan meluwe, and mid sápan, ðam gemete ðe ðú clýðan wyrce",
+          "latin": null,
+          "english": "take roots of these herbs, pounded with oil, and with wheaten meal, and with soap, in the manner in which thou wouldst make a poultice",
+          "citations": "184, 4; Lchdm. i. 322, 14: 130, 1; Lchdm. i. 240, 21: 125; Lchdm. i. 236, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "clíða, clýða, an; m. A plaster, salve, poultice; emplastrum, malagma = GREEK :-- Se wítega Isaias worhte ðam cyninge Ezechie clíðan to his dolge the prophet Isaiah made for king Hezekiah a plaster for his sore, Homl. Th. i. 476, 1. Clíða malagma, Wrt. Voc. 74, 9: Ælfc. Gr. 9, 1; Som. 8, 22. Man sceal him wyrcean clíðan tofóran his heáfde one must make him a poultice for his forehead, Lchdm. iii. 8, 13, 16. Swylce ðǽr clýða togelǽd wǽre as if a poultice were laid there, Herb. 51, 2; Lchdm. i. 154, 18. Ðyssa wyrta genim ða læssan, wyrc to clýðan take the lesser of these herbs, make it into a poultice, 143, 5; Lchdm. i. 266, 15: 173, 4; Lchdm. i. 304, 15. Genim ðyssa wyrta wyrtruman, gecnucude mid ele, and mid hwǽtenan meluwe, and mid sápan, ðam gemete ðe ðú clýðan wyrce take roots of these herbs, pounded with oil, and with wheaten meal, and with soap, in the manner in which thou wouldst make a poultice, 184, 4; Lchdm. i. 322, 14: 130, 1; Lchdm. i. 240, 21: 125; Lchdm. i. 236, 21."
+}

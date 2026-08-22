@@ -1,0 +1,48 @@
+{
+  "citation_form": "drinc-fæt",
+  "variant_forms": [
+    "drince-fæt",
+    "drync-fæt",
+    "drenc-fæt"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "fætes",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "fatu",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "fatu",
+            "case": "accusative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "fæt a vessel",
+      "meaning": "A drinking-vessel, cup",
+      "latin": "póculum, calix",
+      "quotations": [
+        {
+          "old_english": "Beóþ heora drincfatu gefyldu",
+          "latin": null,
+          "english": "their drinking-vessels shall be filled",
+          "citations": "Ps. Th. 10, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "drinc-fæt, drince-fæt, drync-fæt, drenc-fæt; gen. -fætes; pl. nom. acc. -fatu; n. [fæt a vessel] A drinking-vessel, cup; p&o-long;c&u-short;lum, calix = κ&upsilon-tonos;λιξ :-- Beóþ heora drincfatu gefyldu their drinking-vessels shall be filled, Ps. Th. 10, 7."
+}

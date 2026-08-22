@@ -1,0 +1,38 @@
+{
+  "citation_form": "leásing",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "cf. earming",
+      "meaning": "A false person",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nǽfre ðú gelǽrest ðæt ic leásingum dumbum and deáfum deófolgieldum gaful onháte",
+          "latin": null,
+          "english": "never shall thou persuade me to promise tribute to false creatures, to dumb and deaf idols [or is leásingum = with lies, falsely. v. leásung]",
+          "citations": "Exon. 68 a; Th. 251, 23; Jul. 149"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "leásung"
+  ],
+  "source_text": [
+    "leásing, es; m. A false person [cf. earming] :-- Nǽfre ðú gelǽrest ðæt ic leásingum dumbum and deáfum deófolgieldum gaful onháte never shall thou persuade me to promise tribute to false creatures, to dumb and deaf idols [or is leásingum = with lies, falsely. v. leásung], Exon. 68 a; Th. 251, 23; Jul. 149."
+  ]
+}

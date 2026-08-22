@@ -1,0 +1,64 @@
+{
+  "citation_form": "bi-gang",
+  "variant_forms": [
+    "-gong"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a course, way, passage, circuit",
+      "latin": "cursus, via, tenor, circuitus",
+      "quotations": [
+        {
+          "old_english": "Tída bigong",
+          "latin": null,
+          "english": "the course of seasons",
+          "citations": "Exon. 11 a; Th. 15, 13; Cri. 235"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "an undertaking, business, exercise, religious worship",
+      "latin": "negotium, exercitatio, cultus",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 5, 1; S. 613, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-gang"
+  ],
+  "source_text": "bi-gang, -gong, es; m. I. a course, way, passage, circuit; cursus, via, tenor, circuitus :-- Tída bigong the course of seasons, Exon. 11 a; Th. 15, 13; Cri. 235. II. an undertaking, business, exercise, religious worship; negotium, exercitatio, cultus, Bd. 5, 1; S. 613, 9. v. be-gang."
+}

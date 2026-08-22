@@ -1,0 +1,36 @@
+{
+  "citation_form": "scóh-wyrhta",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "M. H. Ger. schuoch-wurhte.",
+      "meaning": "A shoemaker. From the description of his work given by the sceówyrhta (sutor) in Ælfric's Colloquy, Thorpe, p. 27, he seems to have been a general worker-in leather. Besides boots and shoes he makes harness, leather bags and bottles",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": "Facio calceamenta diversi generis, subtalares et ficones, caligas et utres, frenos et phaleras et flascones et calidilia, calcaria et chamos, peras et marsupia.",
+          "english": null,
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "sútere"
+  ],
+  "source_text": "scóh-wyrhta, an; m. A shoemaker. From the description of his work given by the sceówyrhta (sutor) in Ælfric's Colloquy, Thorpe, p. 27, he seems to have been a general worker-in leather. Besides boots and shoes he makes harness, leather bags and bottles :-- Facio calceamenta diversi generis, subtalares et ficones, caligas et utres, frenos et phaleras et flascones et calidilia, calcaria et chamos, peras et marsupia. [M. H. Ger. schuoch-wurhte.] v. sútere."
+}

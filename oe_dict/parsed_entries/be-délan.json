@@ -1,0 +1,44 @@
+{
+  "citation_form": "be-délan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-délde",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-déled",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To deprive",
+      "latin": "privare",
+      "quotations": [
+        {
+          "old_english": "Duguðum be-déled",
+          "latin": null,
+          "english": "deprived of dignity",
+          "citations": "Cd. 215; Th. 272, 19; Sat. 122"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-dǽlan"
+  ],
+  "source_text": [
+    "be-délan; p. -délde; pp. -déled To deprive; privare :-- Duguðum be-&dash-uncertain;déled deprived of dignity, Cd. 215; Th. 272, 19; Sat. 122. v. be-dǽlan."
+  ]
+}

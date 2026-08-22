@@ -1,0 +1,56 @@
+{
+  "citation_form": "á-lísend",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A saviour, redeemer",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Oð þæt se Álýsend com þe ðone ealdan deófol gewylde",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 94, 7"
+        },
+        {
+          "old_english": "Se Áliésend monna cynnes",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 129, 17"
+        },
+        {
+          "old_english": "Álýsend",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 65, 30"
+        },
+        {
+          "old_english": "Middangeardes Álýsend",
+          "latin": null,
+          "english": null,
+          "citations": "87, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "á-lysend"
+  ],
+  "source_text": [
+    "á-lísend, es; m. A saviour, redeemer :-- Oð þæt se Á;lýsend com þe ðone ealdan deófol gewylde, Hml. Th. i. 94, 7. Se Áliésend monna cynnes, Past. 129, 17. Álýsend, Bl. H. 65, 30. Middangeardes Álýsend, 87, 9. v. á-lysend in Dict."
+  ]
+}

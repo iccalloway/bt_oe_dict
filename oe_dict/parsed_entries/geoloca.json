@@ -1,0 +1,38 @@
+{
+  "citation_form": "geoloca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A yolk",
+      "latin": "ovi vitellus",
+      "quotations": [
+        {
+          "old_english": "Genim hænne æges geolocan",
+          "latin": null,
+          "english": "take the yolk of a hen's egg",
+          "citations": "L. M. 1, 2; Lchdm. ii. 38, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "geolca"
+  ],
+  "source_text": [
+    "geoloca, an; m. A yolk; ovi vitellus :-- Genim hænne æges geolocan take the yolk of a hen's egg, L. M. 1, 2; Lchdm. ii. 38, 7. v. geolca."
+  ]
+}

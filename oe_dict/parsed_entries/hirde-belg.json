@@ -1,0 +1,38 @@
+{
+  "citation_form": "hirde-belg",
+  "variant_forms": [
+    "-belig"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A shepherd's bag",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá nam he fif stánas on his herdebelig",
+          "latin": null,
+          "english": "then he took five stones in his shepherd's bag",
+          "citations": "Blickl. Homl. 31, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hirde-belg, -belig, es; m. A shepherd's bag :-- Ðá nam he fif stánas on his herdebelig then he took five stones in his shepherd's bag, Blickl. Homl. 31, 17."
+  ]
+}

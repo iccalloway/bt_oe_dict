@@ -1,0 +1,64 @@
+{
+  "citation_form": "on-grislíc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Horrible, dreadful",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ða becwom sum ongrislíc wíse (horrenda res) on hié",
+          "latin": "horrenda res",
+          "english": null,
+          "citations": "Nar. 10, 32"
+        },
+        {
+          "old_english": "Ðæt ongris. íce gemót the last day",
+          "latin": null,
+          "english": "the last day",
+          "citations": "Wulfst. 186, 15"
+        },
+        {
+          "old_english": "Angryslíc",
+          "latin": null,
+          "english": null,
+          "citations": "Dóm. L. 14, 225"
+        },
+        {
+          "old_english": "Ongrislíces andwlitan",
+          "latin": "horrido vultu . . . ongrislícre ansíne horrendae visionis",
+          "english": null,
+          "citations": "Bd. 5, 13 ; S. 633, 1-5"
+        },
+        {
+          "old_english": "On ðære angrislícan gesihþe",
+          "latin": "horridae visionis",
+          "english": null,
+          "citations": "5, 12 ; S. 628, 19"
+        },
+        {
+          "old_english": "Ongrislíco hǽr",
+          "latin": "horridi crines",
+          "english": null,
+          "citations": "5, 2; S. 615, 1"
+        },
+        {
+          "old_english": "Ongristlíce on stefne",
+          "latin": null,
+          "english": null,
+          "citations": "Guthl. 5 ; Gdwin. 34, 26"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "on-grislíc; adj. Horrible, dreadful :-- Ða becwom sum ongrislíc wíse (horrenda res) on hié, Nar. 10, 32. Ðæt ongris. íce gemót the last day, Wulfst. 186, 15. Angryslíc, Dóm. L. 14, 225. Ongrislíces andwlitan horrido vultu . . . ongrislícre ansíne horrendae visionis, Bd. 5, 13 ; S. 633, 1-5. On ðære angrislícan gesihþe horridae visionis;, 5, 12 ; S. 628, 19. Ongrislíco hǽr horridi crines, 5, 2; S. 615, 1. Ongristlíce on stefne, Guthl. 5 ; Gdwin. 34, 26."
+  ]
+}

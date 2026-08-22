@@ -1,0 +1,33 @@
+{
+  "citation_form": "mis-túcian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé beót Liberlinum on þ-bar; heáfod and on þá ansýne, oð þ-bar; eall his andwlita wearð tóswollen and áwannod. Ðá þá hé swá swíðe mid geþersce mistúcod wæs (vehementer caesus)",
+          "latin": "vehementer caesus",
+          "english": null,
+          "citations": "Gr. D. 20, 33"
+        },
+        {
+          "old_english": "Þá hors mid þám spurum mistúcode (geblódgode, v.l.) equi calcaribus cruentati",
+          "latin": "equi calcaribus cruentati",
+          "english": null,
+          "citations": "15, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mis-tucian. l. -túcian, and add :-- Hé beót Liberlinum on þ-bar; heáfod and on þá ansýne, oð þ-bar; eall his andwlita wearð tóswollen and áwannod. Ðá þá hé swá swíðe mid geþersce mistúcod wæs (vehementer caesus), Gr. D. 20, 33. Þá hors mid þám spurum mistúcode (geblódgode, v.l.) equi calcaribus cruentati, 15, 5."
+}

@@ -1,0 +1,26 @@
+{
+  "english_lemma": "purify",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "purify.v.02",
+      "definition": "make pure or free from sin or guilt",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-clǽnsian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "mundare",
+            "nemo eorum mundatus est, nisi Naaman Syrus"
+          ],
+          "attestations": [
+            "Lk. Bos. 4, 27"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

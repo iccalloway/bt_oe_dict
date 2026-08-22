@@ -1,0 +1,36 @@
+{
+  "citation_form": "bán-loca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A bone inclosure, the skin, body",
+      "latin": "ossium clausura, caro",
+      "quotations": [
+        {
+          "old_english": "Ðý-læs se ord ingebuge under bánlocan",
+          "latin": null,
+          "english": "lest the point enter in under the skin",
+          "citations": "Exon. 19a; Th. 48, 10; Cri. 769"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "bán-loca, an; m. A bone inclosure, the skin, body; ossium clausura, caro :-- Ðý-læs se ord ingebuge under bánlocan lest the point enter in under the skin, Exon. 19a; Th. 48, 10; Cri. 769."
+  ]
+}

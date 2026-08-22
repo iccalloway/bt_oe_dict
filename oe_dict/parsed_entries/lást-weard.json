@@ -1,0 +1,30 @@
+{
+  "citation_form": "lást-weard",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a follower",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Lástðwerdas",
+          "latin": "sequipedas",
+          "english": null,
+          "citations": "Angl. xiii. 31, 97"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "lást-weard. Add: a follower :-- Lástðwerdas sequipedas, Angl. xiii. 31, 97."
+  ]
+}

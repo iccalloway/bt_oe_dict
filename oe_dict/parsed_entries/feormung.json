@@ -1,0 +1,63 @@
+{
+  "citation_form": "feormung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a harbouring, an entertaining",
+      "latin": "susceptio, hospitium",
+      "quotations": [
+        {
+          "old_english": "Þurh wreccena feormunge",
+          "latin": null,
+          "english": "by the harbouring of exiles",
+          "citations": "L. Alf. Pol. 4; Th. i, 62, 16"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a cleansing, polishing",
+      "latin": "purgatio, politio",
+      "quotations": [
+        {
+          "old_english": "Gif sweordhwíta óðres monnes wǽpn to feormunge onfó",
+          "latin": null,
+          "english": "if a sword polisher receive another man's weapon for polishing",
+          "citations": "L. Alf. pol. 19; Th. i. 74, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-feormung",
+    "niht-"
+  ],
+  "source_text": "feormung, e; f. I. a harbouring, an entertaining; susceptio,, hosp&i-short;tium :-- Þurh wreccena feormunge by the harbouring of exiles, L. Alf. Pol. 4; Th. i, 62, 16. II. a cleansing, polishing; purg&a-long;tio, p&o-short;l&i-long;tio :-- Gif sweordhwíta óðres monnes wǽpn to feormunge onfó if a sword polisher receive another man's weapon for polishing, L. Alf. pol. 19; Th. i. 74, 9. DER. a-feormung, niht-."
+}

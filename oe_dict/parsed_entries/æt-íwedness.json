@@ -1,0 +1,36 @@
+{
+  "citation_form": "æt-íwedness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A shewing, manifestation",
+      "latin": "ostensio",
+      "quotations": [
+        {
+          "old_english": "Wæs on wéstenum óþ ðone dæg hys ætíwednessum on Israhel",
+          "latin": "erat in desertis usque in diem ostensionis suæ ad Israel",
+          "english": null,
+          "citations": "Lk. Bos. 1, 80"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æt-ýwnys"
+  ],
+  "source_text": "æt-íwedness, e; f. A shewing, manifestation; ostensio :-- Wæs on wéstenum óþ ðone dæg hys ætíwednessum on Israhel erat in desertis usque in diem ostensionis suæ ad Israel, Lk. Bos. 1, 80. v. æt-ýwnys."
+}

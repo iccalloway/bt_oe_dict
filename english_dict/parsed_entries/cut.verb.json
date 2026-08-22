@@ -1,0 +1,23 @@
+{
+  "english_lemma": "cut",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "cut.v.01",
+      "definition": "separate with or as if with an instrument",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-sniðan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "amputare"
+          ],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

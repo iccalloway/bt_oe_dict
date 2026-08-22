@@ -1,0 +1,34 @@
+{
+  "citation_form": "swíg-dæg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "The three days referred to are the last three days of Passion Week. 'Besides the general injunction of silence in the ordinary business of life, and in various ritual matters, even the bells were to remain silent from the Thursday evening, which commemorated our Lord's betrayal, to the following Sunday morning. Nothing more, probably, was at first meant by this, than to impress a character of unusual solemnity upon the season, but it was eventually said that men were thus to be reminded of the time when the preaching of the Gospel wholly ceased; Jesus Himself being actually dead during most of it, and His disciples all along being dispersed panic-stricken.' Durand, quoted in Soames' Anglo-Saxon Church, p. 263. Cf. the injunction in the Ancren Riwle: Holdeð silence al þe swiðwike (swihende wike, MS. T.: swiwike, MS. C.) uort non of Ester euen, 70, 5-8. In German Good Friday is der stille Freitag.",
+      "meaning": "A day on which silence was to be observed",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Circlíce þeáwas forbeódaþ tó secgenne ǽnig spel on ðám þrým swígdagum",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 218, 31: ii. 362, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "swíg-dæg, es; m. A day on which silence was to be observed:--Circlíce þeáwas forbeódaþ tó secgenne ǽnig spel on ðám þrým swígdagum, Homl. Th. i. 218, 31: ii. 362, 16. [The three days referred to are the last three days of Passion Week. 'Besides the general injunction of silence in the ordinary business of life, and in various ritual matters, even the bells were to remain silent from the Thursday evening, which commemorated our Lord's betrayal, to the following Sunday morning. Nothing more, probably, was at first meant by this, than to impress a character of unusual solemnity upon the season, but it was eventually said that men were thus to be reminded of the time when the preaching of the Gospel wholly ceased; Jesus Himself being actually dead during most of it, and His disciples all along being dispersed panic-stricken.' Durand, quoted in Soames' Anglo-Saxon Church, p. 263. Cf. the injunction in the Ancren Riwle: Holdeð silence al þe swiðwike (swihende wike, MS. T.: swiwike, MS. C.) uort non of Ester euen, 70, 5-8. In German Good Friday is der stille Freitag.]"
+}

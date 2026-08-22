@@ -1,0 +1,28 @@
+{
+  "citation_form": "hyse-cild",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hēofslōh ealle þā hysecild",
+          "latin": "occidit omnes pueros",
+          "english": null,
+          "citations": "Hml. Th. i. 80, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hyse-cild. Add :-- H&e-long; ofsl&o-long;h ealle &d-bar;&a-long; hysecild occidit omnes pueros, Hml. Th. i. 80, 15."
+}

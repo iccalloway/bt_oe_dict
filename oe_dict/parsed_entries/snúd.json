@@ -1,0 +1,28 @@
+{
+  "citation_form": "snúd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "swiftness, quickness",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ús bær naca, snellíc sǽmearh, snúde bewunden (possessed by swiftness)",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 534; An. 267"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "snúd swiftness, quickness:--Ús bær naca, snellíc sǽmearh, snúde bewunden (possessed by swiftness), Andr. Kmbl. 534; An. 267."
+}

@@ -1,0 +1,43 @@
+{
+  "citation_form": "a-sniðan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-snáp",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-snidon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-sniden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To cut off",
+      "latin": "amputare",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "sníðan"
+  ],
+  "source_text": [
+    "a-sniðan; p. -snáp, pl. -snidon ; pp. -sniden ; v. trans. To cut off; amputare. v. sníðan to cut."
+  ]
+}

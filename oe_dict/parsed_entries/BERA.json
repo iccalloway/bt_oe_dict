@@ -1,0 +1,48 @@
+{
+  "citation_form": "BERA",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Laym. beore : Plat. baar, m : Dut. beer, m : Ger. bär, m : M. H. Ger. ber : O. H. Ger. pero : Dan. biörn, c : Swed. biörn, m : O. Nrs. björn, m.",
+      "meaning": "A BEAR",
+      "latin": "ursus",
+      "quotations": [
+        {
+          "old_english": "Dauid gewylde ðone wíldan beran",
+          "latin": null,
+          "english": "David subdued the wild bear",
+          "citations": "Ælfc. T. 13, 26"
+        },
+        {
+          "old_english": "Eofor oððe beran onginnan",
+          "latin": null,
+          "english": "to attack a boar or bear",
+          "citations": "Exon. 92 a; Th. 344, 21; Gn. Ex. 177"
+        },
+        {
+          "old_english": "Sceall gyldan án beran fel",
+          "latin": null,
+          "english": "shall pay one bear's skin",
+          "citations": "Ors. 1, 1; Bos. 20, 37"
+        },
+        {
+          "old_english": "Bera",
+          "latin": "ursus",
+          "english": null,
+          "citations": "Ælfc. Gl. 21; Som. 59, 69 : L. Ecg. P. iv. 28; Th. ii. 212, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "BERA, an; m. A BEAR; ursus :-- Dauid gewylde ðone wíldan beran David subdued the wild bear, Ælfc. T. 13, 26. Eofor oððe beran onginnan to attack a boar or bear, Exon. 92 a; Th. 344, 21; Gn. Ex. 177. Sceall gyldan án beran fel shall pay one bear's skin, Ors. 1, 1; Bos. 20, 37. Bera ursus, Ælfc. Gl. 21; Som. 59, 69 : L. Ecg. P. iv. 28; Th. ii. 212, 22. [Laym. beore : Plat. baar, m : Dut. beer, m : Ger. bär, m : M. H. Ger. ber : O. H. Ger. pero : Dan. biörn, c : Swed. biörn, m : O. Nrs. björn, m.]"
+  ]
+}

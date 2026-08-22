@@ -1,0 +1,26 @@
+{
+  "citation_form": "án-leger",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "án one, leger jacens",
+      "meaning": "lying with one person",
+      "latin": "unicubus",
+      "quotations": [
+        {
+          "old_english": "Ánlegere wifman a woman with one husband",
+          "latin": "unicuba",
+          "english": "a woman with one husband",
+          "citations": "R. 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "án-leger; adj. [án one, leger jacens] lying with one person; unicubus :-- Ánlegere wifman a woman with one husband; unicuba, R. 8."
+}

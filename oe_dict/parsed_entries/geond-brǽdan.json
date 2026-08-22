@@ -1,0 +1,40 @@
+{
+  "citation_form": "geond-brǽdan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-brǽdde",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-brǽded",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "geond over, brǽdan to spread",
+      "meaning": "To overspread",
+      "latin": "supersternĕre",
+      "quotations": [
+        {
+          "old_english": "Hit geondbrǽded wearþ beddum and bolstrum",
+          "latin": null,
+          "english": "it was overspread with beds and bolsters",
+          "citations": "Beo. Th. 2483; B. 1239"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "geond-brǽdan; p. -brǽdde; pp. -brǽded [geond over, brǽdan to spread] To overspread; superstern&e-short;re :-- Hit geondbrǽded wearþ beddum and bolstrum it was overspread with beds and bolsters, Beo. Th. 2483; B. 1239."
+}

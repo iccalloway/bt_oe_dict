@@ -1,0 +1,42 @@
+{
+  "citation_form": "hleahtrian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To laugh to scorn, deride",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ealle geseónde mé hlehtredon l̄ tǣldun [mé]",
+          "latin": "omnes uidentes me deriserunt me",
+          "english": null,
+          "citations": "Ps. L. 21, 8"
+        },
+        {
+          "old_english": "Gif þū mid þan þeáwe tǣlendra mé hleahtrige",
+          "latin": null,
+          "english": null,
+          "citations": "Guth. Gr. 101, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hleahtor"
+  ],
+  "source_text": "hleahtrian; p. ode To laugh to scorn, deride :-- Ealle geseónde m&e-long; hlehtredon &l-bar; tæ-long;ldun [m&e-long;] omnes uidentes me deriserunt me, Ps. L. 21, 8. Gif þ&u-long; mid þan þeáwe tæ-long;lendra m&e-long; hleahtrige, Guth. Gr. 101, 23. (v. hleahtor ; I. 2.)"
+}

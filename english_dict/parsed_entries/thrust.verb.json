@@ -1,0 +1,25 @@
+{
+  "english_lemma": "thrust",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "thrust.v.02",
+      "definition": "press or force",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-nýdan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "repellere, extorquere"
+          ],
+          "attestations": [
+            "Chr. 823; Th. 111, 34"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

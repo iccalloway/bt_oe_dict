@@ -1,0 +1,54 @@
+{
+  "citation_form": "an-æðelian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ade",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "ad",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "an = un not, æðelian to ennoble",
+      "meaning": "To dishonour, degrade",
+      "latin": "ignobilem reddere",
+      "quotations": [
+        {
+          "old_english": "And ðonan wyrþ anæðelad óþ-ðæt he wyrþ unæðele",
+          "latin": null,
+          "english": "and thence becomes degraded till he is unnoble",
+          "citations": "Bt. 30, 2; Fox 110, 22: Bt. Met. Fox 17, 53; Met. 17, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-æðelian"
+  ],
+  "source_text": "an-æðelian; p. ode, ade; pp. od, ad; v. trans. [an = un not, æðelian to ennoble] To dishonour, degrade; ignobilem reddere :-- And ðonan wyrþ anæðelad óþ-ðæt he wyrþ unæðele and thence becomes degraded till he is unnoble, Bt. 30, 2; Fox 110, 22: Bt. Met. Fox 17, 53; Met. 17, 27. v. un-æðelian."
+}

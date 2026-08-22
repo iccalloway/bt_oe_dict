@@ -1,0 +1,28 @@
+{
+  "citation_form": "incge",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "appears to be a proper name. Ing occurs in stanza 22 of the Runic poem, and Ing-winas is a name of the Danes in Beowulf.",
+      "meaning": "in the phrase incge láfe [a sword]",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "incge láfe",
+          "latin": null,
+          "english": "a sword",
+          "citations": "Beo. Th. 5747; 13. 2577"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "incge, in the phrase incge láfe [a sword], Beo. Th. 5747; 13. 2577, appears to be a proper name. Ing occurs in stanza 22 of the Runic poem, and Ing-winas is a name of the Danes in Beowulf."
+}

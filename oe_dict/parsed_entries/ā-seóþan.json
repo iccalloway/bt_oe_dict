@@ -1,0 +1,91 @@
+{
+  "citation_form": "ā-seóþan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. ar-siudan excoquere, examinare; ar-sotan gold obrizum.",
+      "meaning": null,
+      "latin": "decoqui",
+      "quotations": [
+        {
+          "old_english": "Āseóþan decoqui",
+          "latin": "decoqui",
+          "english": null,
+          "citations": "Germ. 396, 196"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "to clear from impurity",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Āsoden weax obrisum metallum",
+              "latin": "obrisum metallum",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 65, 14"
+            },
+            {
+              "old_english": "Āsoden wīn carenum",
+              "latin": "carenum",
+              "english": null,
+              "citations": "An. Ox. 4, 5"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "to clear impurity from something",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Leahtras āsēð ādl uitia exquoquit languor",
+              "latin": "uitia exquoquit languor",
+              "english": null,
+              "citations": "Scint. 165, 6"
+            },
+            {
+              "old_english": "Þæt eall þ-bar; se ofen þǣre costunge of āsude (excogueret)",
+              "latin": "excogueret",
+              "english": null,
+              "citations": "Bd. 4, 9; Sch. 393, 16"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "III.",
+          "heading": null,
+          "meaning": "to try, examine",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Āsude examinasti, probasti",
+              "latin": "examinasti, probasti",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 144, 57"
+            },
+            {
+              "old_english": "Tō āseódenne expendere (see ā-seódan above, d sometimes-= ð in this glossary)",
+              "latin": "expendere",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 108, 2"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "&a-long;-seóþan. Add :-- &A-long;seóþan decoqui, Germ. 396, 196. I. to clear from impurity :-- &A-long;soden weax obrisum metallum, Wrt. Voc. ii. 65, 14. &A-long;soden w&i-long;n carenum, An. Ox. 4, 5. II. to clear impurity from something :-- Leahtras &a-long;s&e-long;&d-bar; &a-long;dl uitia exquoquit languor, Scint. 165, 6. Þæt eall þ-bar; se ofen þæ-long;re costunge of &a-long;sude (excogueret), Bd. 4, 9; Sch. 393, 16. III. to try, examine :-- &A-long;sude examinasti, probasti, Wrt. Voc. ii. 144, 57. T&o-long; &a-long;seódenne expendere (see &a-long;-seódan above, d sometimes-= &d-bar; in this glossary), Wrt. Voc. ii. 108, 2. [O. H. Ger. ar-siudan excoquere, examinare; ar-sotan gold obrizum.]"
+}

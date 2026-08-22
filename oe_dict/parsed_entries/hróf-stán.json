@@ -1,0 +1,28 @@
+{
+  "citation_form": "hróf-stán",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "yrnð dropmǽlum swíðe hluttor wæter (cf. wæs of þǽm ilcan stáne þǽre ciricean hrófes swíðe hluttor wǽta út flówende (cf. þ-bar; ilce hús (the church) on scræfes onlícnesse wæs æteówed, 207, 19)",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 209, 1."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hróf-stán. Add after hrófstáne: yrnð dropmǽlum swíðe hluttor wæter (cf. wæs of þǽm ilcan stáne þǽre ciricean hrófes swíðe hluttor wǽta út flówende (cf. þ-bar; ilce hús (the church) on scræfes onlícnesse wæs æteówed, 207, 19), Bl. H. 209, 1.)"
+}

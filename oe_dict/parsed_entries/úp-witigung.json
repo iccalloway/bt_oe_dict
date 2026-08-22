@@ -1,0 +1,30 @@
+{
+  "citation_form": "úp-witigung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wæs sum mǽden . . . wlitig on wæstme and on úðwitegunge snoter",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 35, 83"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "úp-witigung. Add :-- Wæs sum mǽden . . . wlitig on wæstme and on úðwitegunge snoter, Hml. S. 35, 83."
+  ]
+}

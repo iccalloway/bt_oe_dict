@@ -1,0 +1,29 @@
+{
+  "citation_form": "for-myltan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to melt",
+      "latin": "līquor",
+      "quotations": [
+        {
+          "old_english": "Ic formylte",
+          "latin": "līquor",
+          "english": null,
+          "citations": "Ælfc. Gr. 29; Som. 33, 44"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "for-meltan"
+  ],
+  "source_text": "for-myltan to melt :-- Ic formylte l&i-long;quor, Ælfc. Gr. 29; Som. 33, 44. v. for-meltan."
+}

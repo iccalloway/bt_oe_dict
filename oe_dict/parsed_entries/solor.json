@@ -1,0 +1,42 @@
+{
+  "citation_form": "solor",
+  "variant_forms": [
+    "soler[e?]"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Soler solarium, Wrt. Voc. i. 178, 12. Solere, 273, col. 2. Solere or lofte solarium, hectheca, Prompt. Parv. 464 (see note). Garytte, hey solere specula, 187. Wicklif (Jos. 2, 6) uses the word for the flat roof of a house. O. Sax. soleri an upper room (Mk. 14, 14). O. H. Ger. soleri, solær solarium, coenaculum: Ger. söller. From Lat. solarium.",
+      "meaning": "An upper chamber, a soler",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic wilnige ðætte ðeós sprǽc stigge on ðæt ingeþonc ðæs leorneres suǽ suǽ on sume hlǽdre óððæt hió fæstlíce gestonde on ðæm solore ðæs módes",
+          "latin": null,
+          "english": "until it stand firmly in the upper chamber of the mind",
+          "citations": "Past. proem.; Swt. 23, 18"
+        },
+        {
+          "old_english": "Se fugel ofer heánne beám hús getimbreþ, and gewícaþ ðǽr sylf in ðam solere",
+          "latin": null,
+          "english": "in that upper chamber (its nest)",
+          "citations": "Exon. Th. 212, 2; Ph. 204"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "solor, soler[e?], es; m. An upper chamber, a soler. v. Halliwell's Dict.:--Ic wilnige ðætte ðeós sprǽc stigge on ðæt ingeþonc ðæs leorneres suǽ suǽ on sume hlǽdre óððæt hió fæstlíce gestonde on ðæm solore ðæs módes until it stand firmly in the upper chamber of the mind, Past. proem.; Swt. 23, 18. Se fugel ofer heánne beám hús getimbreþ, and gewícaþ ðǽr sylf in ðam solere in that upper chamber (its nest), Exon. Th. 212, 2; Ph. 204. [Soler solarium, Wrt. Voc. i. 178, 12. Solere, 273, col. 2. Solere or lofte solarium, hectheca, Prompt. Parv. 464 (see note). Garytte, hey solere specula, 187. Wicklif (Jos. 2, 6) uses the word for the flat roof of a house. O. Sax. soleri an upper room (Mk. 14, 14). O. H. Ger. soleri, solær solarium, coenaculum: Ger. söller. From Lat. solarium.]"
+}

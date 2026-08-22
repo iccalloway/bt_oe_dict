@@ -1,0 +1,86 @@
+{
+  "citation_form": "deóre",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Dearly",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "in reference to payment",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Deóre bebohte",
+              "latin": "care vendidit",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 129, 16"
+            },
+            {
+              "old_english": "His ceáp þe hé deóre gebohte",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 304, 22"
+            },
+            {
+              "old_english": "Hí sculon deóre ágildan eal",
+              "latin": null,
+              "english": null,
+              "citations": "Wlfst. 190, 22"
+            },
+            {
+              "old_english": "Hygeteónan seolfre deóre bétan",
+              "latin": null,
+              "english": null,
+              "citations": "Gen. 2732"
+            },
+            {
+              "old_english": "Æ-acute;lce misdǽda deór-ar ágyldan",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 328, 15"
+            },
+            {
+              "old_english": "Se cyng sealde his land tó male swá hé deórost mihte",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1086; P. 218, 12"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "with kindness, as holding a person dear",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Dém þú þín folc deóre mid sóðe",
+              "latin": "judica populum tuum in tua justitia",
+              "english": null,
+              "citations": "Ps. Th. 71, 2 : 117, 24"
+            },
+            {
+              "old_english": "Drihten, mín gebed deóre gehýre, and onfóh georne mine hálsunge",
+              "latin": null,
+              "english": null,
+              "citations": "142, 1: 118, 154"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "deóre; adv. Dearly. Add: I. in reference to payment :-- Deóre bebohte care vendidit, Wrt. Voc. ii. 129, 16. His ceáp þe hé deóre gebohte, Ll. Th. i. 304, 22. Hí sculon deóre ágildan eal, Wlfst. 190, 22. Hygeteónan seolfre deóre bétan, Gen. 2732. Æ-acute;lce misdǽda deór-ar ágyldan, Ll. Th. i. 328, 15. Se cyng sealde his land tó male swá hé deórost mihte. Chr. 1086; P. 218, 12. II. with kindness, as holding a person dear :-- Dém þú þín folc deóre mid sóðe judica populum tuum in tua justitia, Ps. Th. 71, 2 : 117, 24. Drihten, mín gebed deóre gehýre, and onfóh georne mine hálsunge, 142, 1: 118, 154. [v. N. E. D. dear ; adv. O. H. Ger."
+}

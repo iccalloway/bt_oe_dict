@@ -1,0 +1,25 @@
+{
+  "english_lemma": "keep",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "keep.v.21",
+      "definition": "hold and prevent from leaving",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-nýdan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "repellere, extorquere"
+          ],
+          "attestations": [
+            "Chr. 823; Th. 111, 34"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

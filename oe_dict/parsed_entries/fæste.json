@@ -1,0 +1,384 @@
+{
+  "citation_form": "fæste",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "so as not to be moved or shaken, firmly, fast (in to stand fast) (lit. and fig.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þæt treów fæste stód",
+          "latin": null,
+          "english": null,
+          "citations": "Dan. 557"
+        },
+        {
+          "old_english": "Nánwuht nis fæste stondendes weorces on worulde",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 9; F. 26, 21"
+        },
+        {
+          "old_english": "Ic fæste stande for þínre campunga",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 225, 34"
+        },
+        {
+          "old_english": "Him þá férend on fæste wuniað",
+          "latin": null,
+          "english": "the travellers fix their abode on him",
+          "citations": "Wal. 25 : 36"
+        },
+        {
+          "old_english": "Oþ þæt þín fót weorðe fæste on blóde",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 67, 22"
+        },
+        {
+          "old_english": "Þ-bar; man Godes cyricean fæste tremede",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 43, 6 : 111, 4: An. 1673"
+        },
+        {
+          "old_english": "Þ-bar; se stemn móte þý fæstor standon",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 34, 10; F. 148, 34"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I a.",
+          "heading": "of sleeping",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On middre nihte þá men fæstost slépon",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 31, 857"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "I b.",
+          "heading": "expressing fixity of intention, attention or purpose",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Geréfa mín fæste mynteð þæt mé æfter sié eaforan síne yrfeweardas",
+              "latin": null,
+              "english": "my steward quite means his children to be heirs after me",
+              "citations": "Gen. 2182"
+            },
+            {
+              "old_english": "Hwæþer þú ǽnig þing swá fæste getiohhod hæbbe þ-bar; hit nǽfre þínum willum onwended weorþe",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 41, 3 ; F. 250, 6"
+            },
+            {
+              "old_english": "Þá þing þe wé handledon UNCERTAIN and fæste ymbe wǽron",
+              "latin": null,
+              "english": "the matters that we handled and with which we were diligently engaged",
+              "citations": "Angl. viii. 304, 24"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "I c.",
+          "heading": "expressing vigorous action or thoroughness of condition",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hí fæste tógedere féngon",
+              "latin": null,
+              "english": "they attacked each other vigorously",
+              "citations": "Chr. 999; P. 131, 21: Cri. 980: Ps. Th. 70, 6, 4"
+            },
+            {
+              "old_english": "Hí mé georne ǽr fæste feódan",
+              "latin": null,
+              "english": "they hated me fiercely and violently",
+              "citations": "85, 16"
+            },
+            {
+              "old_english": "Fæste wiðhycgan",
+              "latin": null,
+              "english": null,
+              "citations": "Jul. 42"
+            },
+            {
+              "old_english": "Fæste wiðsacan",
+              "latin": null,
+              "english": null,
+              "citations": "El. 933"
+            },
+            {
+              "old_english": "Swíðe fæste gesoden ǽgra",
+              "latin": null,
+              "english": "very hard-boiled eggs",
+              "citations": "Lch. ii. 194, 5"
+            },
+            {
+              "old_english": "Fæste geþúf luxoriante (prosperitate)",
+              "latin": null,
+              "english": null,
+              "citations": "Wrt. Voc. ii. 77, 76: 52, 28"
+            },
+            {
+              "old_english": "Beóð Godes streámas góde wætere fæste gefylde",
+              "latin": "flumen Dei repletum est aqua",
+              "english": null,
+              "citations": "Ps. Th. 64, 10"
+            },
+            {
+              "old_english": "Gif geliórade fæst",
+              "latin": "si jam obisset",
+              "english": "if he were quite dead",
+              "citations": "Mk. L. 15, 44"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "with firm grasp or attachment, fast (in to bind, hold fast) (lit. and fig.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Dó on þ-bar; dolg and bind fæste",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 132, 18 : Sat. 324"
+        },
+        {
+          "old_english": "Oft þrǽl þegen cnyt swýðe fæste",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 163, 2 : Gen. 374"
+        },
+        {
+          "old_english": "Hé þone cniht genam fæste mid folmum",
+          "latin": null,
+          "english": null,
+          "citations": "Exod. 407: B. 554"
+        },
+        {
+          "old_english": "Sié fæste genæglad on róde",
+          "latin": "crucifigatur",
+          "english": null,
+          "citations": "Mt. L. 27, 22"
+        },
+        {
+          "old_english": "Gefég fæste",
+          "latin": null,
+          "english": null,
+          "citations": "Gen. 1310 : Crä. 66"
+        },
+        {
+          "old_english": "Nim þé fæste þ-bar; ic sprece",
+          "latin": "fixum tene quod loquor",
+          "english": null,
+          "citations": "Gr. D. 172, 33"
+        },
+        {
+          "old_english": "Hé nam of hire eall þ-bar; áhte, for ðám heó hit heóld ǽr tó fæste wið hine",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1043; P. 162, 26"
+        },
+        {
+          "old_english": "Fæste bewunden",
+          "latin": null,
+          "english": null,
+          "citations": "An. 58 : El. 937"
+        },
+        {
+          "old_english": "Fæste genearwod",
+          "latin": null,
+          "english": null,
+          "citations": "Gen. 2603"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": "of command, promise, urgently, strictly, solemnly",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðá ilca lufu suíðe fæst bebeád",
+              "latin": "eandem dilectionem instantius commendans",
+              "english": null,
+              "citations": "Jn. p. 7, 11"
+            },
+            {
+              "old_english": "Þá senatus him hæfden þá dǽd fæste forboden",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 4, 10; S. 196, 8: Gen. 895"
+            },
+            {
+              "old_english": "Hé him fæste gehét þ-bar; . . .",
+              "latin": null,
+              "english": null,
+              "citations": "Met. 1, 35"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II b.",
+          "heading": "of concealment, securely",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þéh þe hé hit fæste wið þá senatus hǽle",
+              "latin": null,
+              "english": "though he succeeded in keeping it secret from the senate",
+              "citations": "Ors. 4, 10; S. 196, 16"
+            },
+            {
+              "old_english": "Þú him fæste hel sóðan sprǽce",
+              "latin": null,
+              "english": "be sure to keep the truth from them",
+              "citations": "Gen. 1836"
+            },
+            {
+              "old_english": "Þú heora fyrene fæste hǽle",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 84, 2"
+            },
+            {
+              "old_english": "Wǽron hié þý swýðor áfyrhte and hié fæstor hýddan",
+              "latin": "tanto magis cunctis propter timorem abditis, diu apparente nemine",
+              "english": null,
+              "citations": "Nar. 10, 26"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II c.",
+          "heading": "fast (as in to stick fast), so as to be unable to move",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé þæs þeófes fót onlýsde of þám gærde þe hé ǽr fæste on clyfode",
+              "latin": "pedem furis a sepe in qua inhaererat solvit",
+              "english": null,
+              "citations": "Gr. D. 25, 11"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "fast (as in to shut fast)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Stód on merigen þæt cweartern fæste belocen",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 230, 22"
+        },
+        {
+          "old_english": "Hé þá grimman góman bihlemmeð fæste tógædre",
+          "latin": null,
+          "english": null,
+          "citations": "Wal. 77"
+        },
+        {
+          "old_english": "Wearð sé hálga wong þurh feóndes searo fæste bitýned",
+          "latin": null,
+          "english": null,
+          "citations": "Ph. 419"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "IV.",
+      "supplemental": "Cf. fæst; IV",
+      "meaning": "so as to make secure",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seó burg wæs ungemettan fæste mid clúdum ymbweaxen",
+          "latin": "saxum mirae asperitatis et altitudinis",
+          "english": "the town was so surrounded by rocks that it was exceedingly strong",
+          "citations": "Ors. 3, 9; S. 132, 10"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "V.",
+      "supplemental": null,
+      "meaning": "speedily, at once",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ricene weorðe his feónda gehwylc, fæste tóworpen",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 67, 1"
+        },
+        {
+          "old_english": "Ic mé helpe fand þæt ic fæste ne feóll",
+          "latin": null,
+          "english": "that I did not straightway fall",
+          "citations": "117, 13"
+        },
+        {
+          "old_english": "Þæt þone mándrinc geceápað wer fæste feóre síne",
+          "latin": null,
+          "english": null,
+          "citations": "Rä. 24, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fæstlíce"
+  ],
+  "source_text": "fæste. Dele II, and add: I. so as not to be moved or shaken, firmly, fast (in to stand fast) (lit. and fig.) :-- Þæt treów fæste stód, Dan. 557. Nánwuht nis fæste stondendes weorces on worulde, Bt. 9; F. 26, 21. Ic fæste stande for þínre campunga, Bl. H. 225, 34. Him þá férend on fæste wuniað the travellers fix their abode on him, Wal. 25 : 36. Oþ þæt þín fót weorðe fæste on blóde, Ps. Th. 67, 22. Þ-bar; man Godes cyricean fæste tremede, Bl. H. 43, 6 : 111, 4: An. 1673. Þ-bar; se stemn móte þý fæstor standon, Bt. 34, 10; F. 148, 34. I a. of sleeping :-- On middre nihte þá men fæstost slépon, Hml. S. 31, 857. I b. expressing fixity of intention, attention or purpose :-- Geréfa mín fæste mynteð þæt mé æfter sié eaforan síne yrfeweardas my steward quite means his children to be heirs after me, Gen. 2182. Hwæþer þú ǽnig þing swá fæste getiohhod hæbbe þ-bar; hit nǽfre þínum willum onwended weorþe, Bt. 41, 3 ; F. 250, 6. Þá þing þe wé handledon UNCERTAIN and fæste ymbe wǽron the matters that we handled and with which we were diligently engaged, Angl. viii. 304, 24. I c. expressing vigorous action or thoroughness of condition :-- Hí fæste tógedere féngon they attacked each other vigorously, Chr. 999; P. 131, 21: Cri. 980: Ps. Th. 70, 6, 4. Hí mé georne ǽr fæste feódan they hated me fiercely and violently, 85, 16. Fæste wiðhycgan, Jul. 42. Fæste wiðsacan, El. 933. Swíðe fæste gesoden ǽgra very hard-boiled eggs, Lch. ii. 194, 5. Fæste geþúf luxoriante (prosperitate), Wrt. Voc. ii. 77, 76: 52, 28. Beóð Godes streámas góde wætere fæste gefylde flumen Dei repletum est aqua, Ps. Th. 64, 10. Gif geliórade fæst if he were quite dead; si jam obisset, Mk. L. 15, 44. II. with firm grasp or attachment, fast (in to bind, hold fast) (lit. and fig.) :-- Dó on þ-bar; dolg and bind fæste, Lch. ii. 132, 18 : Sat. 324. Oft þrǽl þegen cnyt swýðe fæste, Wlfst. 163, 2 : Gen. 374. Hé þone cniht genam fæste mid folmum, Exod. 407: B. 554. Sié fæste genæglad on róde crucifigatur, Mt. L. 27, 22. Gefég fæste, Gen. 1310 : Crä. 66. Nim þé fæste þ-bar; ic sprece fixum tene quod loquor, Gr. D. 172, 33. Hé nam of hire eall þ-bar; áhte, for ðám heó hit heóld ǽr tó fæste wið hine, Chr. 1043; P. 162, 26. Fæste bewunden, An. 58 : El. 937. Fæste genearwod, Gen. 2603. II a. of command, promise, urgently, strictly, solemnly :-- Ðá ilca lufu suíðe fæst bebeád eandem dilectionem instantius commendans, Jn. p. 7, 11. Þá senatus him hæfden þá dǽd fæste forboden, Ors. 4, 10; S. 196, 8: Gen. 895. Hé him fæste gehét þ-bar; . . . , Met. 1, 35. II b. of concealment, securely :-- Þéh þe hé hit fæste wið þá senatus hǽle though he succeeded in keeping it secret from the senate, Ors. 4, 10; S. 196, 16. Þú him fæste hel sóðan sprǽce be sure to keep the truth from them, Gen. 1836. Þú heora fyrene fæste hǽle, Ps. Th. 84, 2. Wǽron hié þý swýðor áfyrhte and hié fæstor hýddan tanto magis cunctis propter timorem abditis, diu apparente nemine, Nar. 10, 26. II c. fast (as in to stick fast), so as to be unable to move :-- Hé þæs þeófes fót onlýsde of þám gærde þe hé ǽr fæste on clyfode pedem furis a sepe in qua inhaererat solvit, Gr. D. 25, 11. III. fast (as in to shut fast) :-- Stód on merigen þæt cweartern fæste belocen, Hml. Th. i. 230, 22. Hé þá grimman góman bihlemmeð fæste tógædre, Wal. 77. . Wearð sé hálga wong þurh feóndes searo fæste bitýned, Ph. 419. IV. so as to make secure. Cf. fæst; IV :-- Seó burg wæs ungemettan fæste mid clúdum ymbweaxen the town was so surrounded by rocks that it was exceedingly strong; saxum mirae asperitatis et altitudinis, Ors. 3, 9; S. 132, 10. V. speedily, at once :-- Ricene weorðe his feónda gehwylc, fæste tóworpen, Ps. Th. 67, 1. Ic mé helpe fand þæt ic fæste ne feóll (that I did not straightway fall), 117, 13. Þæt þone mándrinc geceápað wer fæste feóre síne, Rä. 24, 14. v. fæstlíce."
+}

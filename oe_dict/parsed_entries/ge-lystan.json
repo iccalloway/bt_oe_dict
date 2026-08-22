@@ -1,0 +1,131 @@
+{
+  "citation_form": "ge-lystan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "with acc. of person",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "gen. of thing desired",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hý gelyst ǽlces ýdeles",
+              "latin": null,
+              "english": null,
+              "citations": "R. Ben. 136, 22"
+            },
+            {
+              "old_english": "Þa mé gelyste þǽre deóglan stówe þe ic ǽr on wæs in mynstre; seó is þǽre gnornunge freónd",
+              "latin": "secretum locum petii amicum moeroris",
+              "english": null,
+              "citations": "Gr. D. 3, 10"
+            },
+            {
+              "old_english": "Geseah heó ǽnne leahtric and hý gelyste þæs",
+              "latin": "lactucam conspiciens concupivit",
+              "english": null,
+              "citations": "30, 33"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "with infin. of action a person desires to do",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hwílum hié wel gelyst út gangan and him þá byrþenne fram áweorpan",
+              "latin": null,
+              "english": null,
+              "citations": "Lch. ii. 230, 23"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "with dat. of person (and infin.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé hæfde hí þá hwíle þe him geliste",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1046 ; P. 164, 30"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-lyste",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-lysted",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "-lyst",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Sax. gelustean : O. H. Ger. gi-lusten (with the same government) : Ger. gelüsten.",
+      "meaning": "To please, cause a desire for anything",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðegnas ðearle gelyste gárgewinnes",
+          "latin": null,
+          "english": "the thanes were very eager for the struggle",
+          "citations": "Judth. 12; Thw. 26, 3; Jud. 307 : Exon. 97 a; Th. 361, 22; Wal. 23"
+        },
+        {
+          "old_english": "Gúðe gelysted",
+          "latin": null,
+          "english": "desirous for war",
+          "citations": "Bt. Met. Fox 1, 18 ; Met. 1, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-lustan"
+  ],
+  "source_text": [
+    "ge-lystan. Add: I. with acc. of person, and (1) gen. of thing desired :-- Hý gelyst ǽlces ýdeles, R. Ben. 136, 22. Þa mé gelyste þǽre deóglan stówe þe ic ǽr on wæs in mynstre; seó is þǽre gnornunge freónd secretum locum petii amicum moeroris, Gr. D. 3, 10. Geseah heó ǽnne leahtric and hý gelyste þæs lactucam conspiciens concupivit, 30, 33. (2) with infin. of action a person desires to do :-- Hwílum hié wel gelyst út gangan and him þá byrþenne fram áweorpan, Lch. ii. 230, 23. II. with dat. of person (and infin.) :-- Hé hæfde hí þá hwíle þe him geliste, Chr. 1046 ; P. 164, 30. v. ge-lustan.",
+    "ge-lystan; p. -lyste; pp. -lysted, -lyst; v. impers. with acc. of pers., gen. of thing; To please, cause a desire for anything :-- Ðegnas ðearle gelyste gárgewinnes the thanes were very eager for the struggle, Judth. 12; Thw. 26, 3; Jud. 307 : Exon. 97 a; Th. 361, 22; Wal. 23. Gúðe gelysted desirous for war, Bt. Met. Fox 1, 18 ; Met. 1, 9. [O. Sax. gelustean : O. H. Ger. gi-lusten (with the same government) : Ger. gelüsten.]"
+  ]
+}

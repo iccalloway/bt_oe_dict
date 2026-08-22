@@ -1,0 +1,34 @@
+{
+  "citation_form": "á-blǽcung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Pallor",
+      "latin": "palloribus",
+      "quotations": [
+        {
+          "old_english": "Áblǽcungum (ǽ-, An. Ox. 4897, q. v.)",
+          "latin": "palloribus",
+          "english": null,
+          "citations": "Hpt. Gl. 518, 62"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "á-blǽcung, e; f. Pallor :-- Áblǽcungum (ǽ-, An. Ox. 4897, q. v.) palloribus, Hpt. Gl. 518, 62."
+}

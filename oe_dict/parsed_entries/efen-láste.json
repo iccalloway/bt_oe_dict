@@ -1,0 +1,36 @@
+{
+  "citation_form": "efen-láste",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The everlasting",
+      "latin": "gnaph&a-short;lium",
+      "quotations": [
+        {
+          "old_english": "Genim efenlástan nyðowearde",
+          "latin": null,
+          "english": "take the netherward [part] of everlasting",
+          "citations": "Lchdm. iii. 2, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "efe-láste"
+  ],
+  "source_text": "efen-láste, an; f. The everlasting; gnaph&a-short;lium :-- Genim efenlástan nyðowearde take the netherward [part] of everlasting. Lchdm. iii. 2, 2. v. efe-láste."
+}

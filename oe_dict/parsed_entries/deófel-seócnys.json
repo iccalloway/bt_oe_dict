@@ -1,0 +1,32 @@
+{
+  "citation_form": "deófel-seócnys",
+  "variant_forms": [
+    "-nyss"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "devil-sickness",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Bos. 4, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "deófolseócnes"
+  ],
+  "source_text": "deófel-seócnys, -nyss devil-sickness, Mt. Bos. 4, 24. v. deófolseócnes."
+}

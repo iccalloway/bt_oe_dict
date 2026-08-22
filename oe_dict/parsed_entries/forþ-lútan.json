@@ -1,0 +1,54 @@
+{
+  "citation_form": "forþ-lútan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-leát",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-luton",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-loten",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To fall forwards, fall down",
+      "latin": "procidere",
+      "quotations": [
+        {
+          "old_english": "He forþleat on his andwlitan",
+          "latin": "procideret in faciem",
+          "english": null,
+          "citations": "Bd. 4, 3; S. 569, 11"
+        },
+        {
+          "old_english": "Forþloten",
+          "latin": "prónus, proclívis",
+          "english": null,
+          "citations": "Scint. 6: Prov. 29"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "forþ-lútan; p. -leát, pl. -luton; pp. -loten To fall forwards, fall down; proc&i-short;d&e-short;re :-- He forþleat on his andwlitan proc&i-short;d&e-short;ret in f&a-short;ciem, Bd. 4, 3; S. 569, 11. Forþloten pr&o-long;nus, procl&i-long;vis, Scint. 6: Prov. 29."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "citation_form": "feaxede",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "v. N. E. D. faxed.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "having hair",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðeós wyrt is greáton bógum and swýþe smælon leáfon swylce heó má fexede gesewen sý",
+              "latin": null,
+              "english": "this plant is with thick boughs and very narrow leaves, it looks rather as if furnished with hair",
+              "citations": "Lch. i. 250, 20"
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "bushy, full of foliage (?), cf. feax ; ¶",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Of ácynnendlicum &l-bar; fexedum (wexendum? The gloss to the passage in An. Ox. 2420 is: Of ácennendlicum, wexendum) þyrnetum",
+              "latin": "de spinetis nascentibus",
+              "english": null,
+              "citations": "Hpt. Gl. 463, 35"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "sceacgede"
+  ],
+  "source_text": "feaxede. Add: (1) having hair :-- Ðeós wyrt is greáton bógum and swýþe smælon leáfon swylce heó má fexede gesewen sý this plant is with thick boughs and very narrow leaves, it looks rather as if furnished with hair, Lch. i. 250, 20. (2) bushy, full of foliage (?), cf. feax ; ¶ :-- Of ácynnendlicum &l-bar; fexedum (wexendum? The gloss to the passage in An. Ox. 2420 is: Of ácennendlicum, wexendum) þyrnetum de spinetis nascentibus, Hpt. Gl. 463, 35. [v. N. E. D. faxed.] Cf. sceacgede."
+}

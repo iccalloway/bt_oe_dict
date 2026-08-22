@@ -1,0 +1,38 @@
+{
+  "citation_form": "creów",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "creówon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "p. of cráwan",
+      "meaning": "crew",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Jn. Bos. 18, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "cráwan"
+  ],
+  "source_text": [
+    "creów, pl. creówon crew. Jn. Bos. 18, 27; p. of cráwan."
+  ]
+}

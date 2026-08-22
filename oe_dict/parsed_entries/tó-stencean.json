@@ -1,0 +1,176 @@
+{
+  "citation_form": "tó-stencean",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to scatter, disperse",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðú tóstenctest feónd ðíne",
+          "latin": "dispersisti inimicos tuos",
+          "english": null,
+          "citations": "Ps. Spl. 88, 11 : 43, 13"
+        },
+        {
+          "old_english": "Gif wind tó cóme, ðonne tóstencte hé ða lác",
+          "latin": "sacrificium superveniens aura dispergeret",
+          "english": null,
+          "citations": "Past. 33; Swt. 217, 22"
+        },
+        {
+          "old_english": "Se god-cunda anweald hí (the builders of Babel) tóstencte",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 35, 4; Fox 162, 24: Homl. Th. i. 318, 18"
+        },
+        {
+          "old_english": "Tósteng (dissipa) þeóda ðe gefeoht willaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 67, 34"
+        },
+        {
+          "old_english": "Ða lác tóstencean (dispergere)",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 33; Swt. 219, 5"
+        },
+        {
+          "old_english": "Tóstencud biþ ðæt éde",
+          "latin": null,
+          "english": null,
+          "citations": "Mk. Skt. Rush. 14, 27"
+        },
+        {
+          "old_english": "Tóstenced",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 16, 21 ; Cri. 256"
+        },
+        {
+          "old_english": "Tóstencte",
+          "latin": "dispersae",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 140, 71"
+        },
+        {
+          "old_english": "Ðá wǽron tóstencte (dispersi sunt) ealle ða wiðerweardan gástas",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 5, 12; S. 629, 7: l, 16; S. 484, 14: Bt. 39, 13; Fox 234, 27: Homl. Th. ii. 244, 34"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to destroy the integrity of a whole, dissipate, bring to nought, overthrow",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tóstencþ (disperdat) Drihten ealle weleras fácnfulle",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 11, 3"
+        },
+        {
+          "old_english": "Drihten tóstenceþ (dissipat) geþeaht ðeóda",
+          "latin": null,
+          "english": null,
+          "citations": "32, 10"
+        },
+        {
+          "old_english": "Tóstencþ gold&dash-uncertain;hord",
+          "latin": "dissipabit thesaurum (Prov. 21, 20)",
+          "english": null,
+          "citations": "Kent. Gl. 793"
+        },
+        {
+          "old_english": "Se (Edwy) þurh his cildhádes nytenesse his ríce tóstencte and his ánnesse tódǽlde",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 434, 36"
+        },
+        {
+          "old_english": "Tóstencton (dissipaverunt) unrihtwíse ǽ ðíne",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 118. 126"
+        },
+        {
+          "old_english": "Hí munucregol myrdon and mynstra tóstæncton",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 975'; Erl. 127. 21"
+        },
+        {
+          "old_english": "Ofermódignyss seó ðe englas cúþe beswícan, micele má menn tóstencean (dissipare)",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 83, 13"
+        },
+        {
+          "old_english": "Gif ys of mannum géþeaht ðis oððe weorc, sí tostenct (dissoluetur, dissipabitur); gif hit of Gode ys, gé ne mágon tóstencean (dissoluere) (Acts 5, 38, 39)",
+          "latin": null,
+          "english": null,
+          "citations": "199, 2-4"
+        },
+        {
+          "old_english": "Tóstencendes",
+          "latin": "dissipantis (sua opera, Prov. 18, 9)",
+          "english": null,
+          "citations": "Kent. Gl. 639"
+        },
+        {
+          "old_english": "Ne biþ flód tóstencende, (-sencende, MS. ) ða eorðan",
+          "latin": "neque erit diluvium dissipans terram",
+          "english": null,
+          "citations": "Gen. 9, 11"
+        },
+        {
+          "old_english": "Se yfela willa biþ tóstenced, swá récels beforan fýre, gif mon ðæt weorc þurhtión ne mæg (potuisse miserius est)",
+          "latin": "sine quo voluntatis miserae langueret effectus",
+          "english": null,
+          "citations": "Bt. 38, 2; Fox 196, 31"
+        },
+        {
+          "old_english": "Sint tóstente",
+          "latin": "dissipantur (cogitationes, Prov. 15, 22)",
+          "english": null,
+          "citations": "Kent. Gl. 530"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": null,
+          "meaning": "intrans. To perish",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hí tostencton on ende",
+              "latin": "disperierunt in Endor",
+              "english": null,
+              "citations": "Ps. Spl. 82, 9"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Homl. 237, 5. Ðú tóstenctest feónd ðíne dispersisti inimicos tuos, Ps. Spl. 88, 11 : 43, 13. Gif wind tó cóme, ðonne tóstencte hé ða lác sácri-ficium superveniens aura dispergeret, Past. 33; Swt. 217, 22. Se god-cunda anweald hí (the builders of Babel) tóstencte, Bt. 35, 4; Fox 162, 24: Homl. Th. i. 318, 18. Tósteng (dissipa) þeóda ðe gefeoht willaþ, Ps. Spl. 67, 34. Ða lác tóstencean (dispergere). Past. 33; Swt. 219, 5. Tóstencud biþ ðæt éde, Mk. Skt. Rush. 14, 27. Tóstenced, Exon. Th. 16, 21 ; Cri. 256. Tóstencte dispersae, Wrt. Voc. ii. 140, 71. Ðá wǽron tóstencte (dispersi sunt) ealle ða wiðerweardan gástas, Bd. 5, 12; S. 629, 7: l, 16; S. 484, 14: Bt. 39, 13; Fox 234, 27: Homl. Th. ii. 244, 34. II.to destroy the integrity of a whole, dissipate, bring to nought, overthrow :-- Tóstencþ (disperdat) Drihten ealle weleras fácnfulle, Ps. Spl. 11, 3. Drihten tóstenceþ (dissipat) geþeaht ðeóda, 32, 10. Tóstencþ gold&dash-uncertain;hord dissipabit thesaurum (Prov. 21, 20), Kent. Gl. 793. Se (Edwy) þurh his cildhádes nytenesse his ríce tóstencte and his ánnesse tódǽlde, Lchdm. iii. 434, 36. Tóstencton (dissipaverunt) unrihtwíse ǽ ðíne. Ps. Spl. 118. 126. Hí munucregol myrdon and mynstra tóstæncton, . Chr. 975'; Erl. 127. 21. Ofermódignyss seó ðe englas cúþe beswícan, micele má menn tóstencean (dissipare), Scint. 83, 13. Gif ys of mannum géþeaht ðis oððe weorc, sí tostenct (dissoluetur, dissipabitur); gif hit of Gode ys, gé ne mágon tóstencean (dissoluere) (Acts 5, 38, 39), 199, 2-4. Tóstencendes dissipantis (sua opera, Prov. 18, 9), Kent. Gl. 639. Ne biþ flód tóstencende, (-sencende, MS. ) ða eorðan neque erit diluvium dissipans terram, Gen. 9, 11. Se yfela willa biþ tóstenced, swá récels beforan fýre, gif mon ðæt weorc þurhtión ne mæg (potuisse miserius est) sine quo voluntatis miserae langueret effectus, Bt. 38, 2; Fox 196, 31. Sint tóstente dissipantur (cogitationes, Prov. 15, 22), Kent. Gl. 530. II a. intrans. To perish :-- Hí tostencton on ende disperierunt in Endor, Ps. Spl. 82, 9. v. next three words."
+}

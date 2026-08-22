@@ -1,0 +1,34 @@
+{
+  "citation_form": "heáh-sceáwere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A chief overlooker, overseer",
+      "latin": "pontifex",
+      "quotations": [
+        {
+          "old_english": "Héhsceáware",
+          "latin": "pontifex",
+          "english": null,
+          "citations": "Rtl. 21, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "heáh-sceáwere, es; m. A chief overlooker, overseer :-- Héhsceáware pontifex, Rtl. 21, 1."
+}

@@ -1,0 +1,112 @@
+{
+  "citation_form": "swól",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Du. zwoel sultry.",
+      "meaning": "Heat, burning",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Suól chaumos",
+          "latin": "chaumos",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 103, 75"
+        },
+        {
+          "old_english": "Swól camos",
+          "latin": "camos",
+          "english": null,
+          "citations": "17, 8: i. 288, 41"
+        },
+        {
+          "old_english": "Suóle caumati",
+          "latin": "caumati",
+          "english": null,
+          "citations": "ii. 103, 31"
+        },
+        {
+          "old_english": "Swóle caumate",
+          "latin": "caumate",
+          "english": null,
+          "citations": "22, 21"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": "of the heat of fire",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé (the phenix) somnaþ swóles láfe, gegædraþ bán gebrosnad æfter bǽlþræce",
+              "latin": null,
+              "english": null,
+              "citations": "Exon. Th. 216, 16; Ph. 269"
+            },
+            {
+              "old_english": "Oa swóle byrneþ þurh fýres feng fugel mid neste",
+              "latin": null,
+              "english": null,
+              "citations": "212, 23; Ph. 214"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": "of the sun's heat",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé swá swíþe swǽtte swá hé in swóle (caumate) middes sumeres wǽre",
+              "latin": "caumate",
+              "english": null,
+              "citations": "Bd. 3, 19; S. 549, 30 MS. T."
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "III.",
+          "heading": "of feverish heat",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sió ungemetlíce hǽto ðæs miltes cymþ of feferes swólle",
+              "latin": null,
+              "english": null,
+              "citations": "Lchdm. ii. 244, 6"
+            },
+            {
+              "old_english": "Hú se háta maga swól þrowaþ",
+              "latin": null,
+              "english": null,
+              "citations": "160, 5: 194, 12"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "swólig"
+  ],
+  "source_text": "swól, es; m. (?), n. (?) Heat, burning:--Suól chaumos, Wrt. Voc. ii. 103, 75. Swól camos, 17, 8: i. 288, 41. Suóle caumati, ii. 103, 31. Swóle caumate, 22, 21. I. of the heat of fire:--Hé (the phenix) somnaþ swóles láfe, gegædraþ bán gebrosnad æfter bǽlþræce, Exon. Th. 216, 16; Ph. 269. Oa swóle byrneþ þurh fýres feng fugel mid neste, 212, 23; Ph. 214. II. of the sun's heat:--Hé swá swíþe swǽtte swá hé in swóle (caumate) middes sumeres wǽre, Bd. 3, 19; S. 549, 30 MS. T. III. of feverish heat:--Sió ungemetlíce hǽto ðæs miltes cymþ of feferes swólle, Lchdm. ii. 244, 6. Hú se háta maga swól þrowaþ, 160, 5: 194, 12. [Cf. Du. zwoel sultry.] v. swólig."
+}

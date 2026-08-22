@@ -1,0 +1,31 @@
+{
+  "english_lemma": "force",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "coerce.v.01",
+      "definition": "to cause to do through pressure or necessity, by physical, moral or intellectual means :",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-nýdan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "repellere, extorquere"
+          ],
+          "attestations": [
+            "Chr. 823; Th. 111, 34"
+          ],
+          "quotations": [
+            {
+              "old_english": "Hí fram his mágum ǽr mid unrihte anýdde wǽron",
+              "english": "they had formerly been unjustly forced from his kinsmen",
+              "citations": "Chr. 823; Th. 111, 34"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

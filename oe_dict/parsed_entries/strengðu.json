@@ -1,0 +1,277 @@
+{
+  "citation_form": "strengðu",
+  "variant_forms": [
+    "strengð"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Strength",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Strengð acha",
+          "latin": "i. virtus",
+          "english": null,
+          "citations": "Wrt. Voc. i. 17, 27"
+        },
+        {
+          "old_english": "Seó strengð",
+          "latin": "vis",
+          "english": null,
+          "citations": "Gl. Prud. 71"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": "referring to living beings",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "strength, power to do, fortitude, power to bear, firmness, vigour",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Strengþu heáfdes mínes",
+                  "latin": "fortitudo capitis mei",
+                  "english": null,
+                  "citations": "Ps. Th. 59, 6 : 117, 14"
+                },
+                {
+                  "old_english": "Mægnes strengðu",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Exon. Th. 239, 23; Ph. 625"
+                },
+                {
+                  "old_english": "Módes strengð",
+                  "latin": "fortitudo",
+                  "english": null,
+                  "citations": "Wulfst. 51, 7"
+                },
+                {
+                  "old_english": "Fortitudo, ðæt is strængð oððe ánrédnyss, þurh ða sceal seó sáwul forbæran earfoðnysse mid ánrǽdum móde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Homl. Skt. i. 1, 165"
+                },
+                {
+                  "old_english": "Strængþ",
+                  "latin": "vigor",
+                  "english": null,
+                  "citations": "Hymn. Surt. 10, 10"
+                },
+                {
+                  "old_english": "Strengcþ. mín",
+                  "latin": "fortitudo mea",
+                  "english": null,
+                  "citations": "Ps. Spl. 17, 1"
+                },
+                {
+                  "old_english": "Strenð",
+                  "latin": "robur",
+                  "english": null,
+                  "citations": "Kent. Gl. 795"
+                },
+                {
+                  "old_english": "Ic eów healde strengðu staþolfæstre",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Exon. Th. 31, 3; Cri. 490"
+                },
+                {
+                  "old_english": "In ðære gǽstes strengðu",
+                  "latin": null,
+                  "english": null,
+                  "citations": "40, 14; Cri. 638"
+                },
+                {
+                  "old_english": "Beón wiðmeten ðinre strengðe",
+                  "latin": "comparari fortitudini tuae",
+                  "english": null,
+                  "citations": "Deut. 3, 24: Ps. Spl. 38, 14"
+                },
+                {
+                  "old_english": "On strengðe horses",
+                  "latin": null,
+                  "english": null,
+                  "citations": "146, 11"
+                },
+                {
+                  "old_english": "Mid strencgðe",
+                  "latin": "cum potentia",
+                  "english": null,
+                  "citations": "Ps. Th. 88, 11"
+                },
+                {
+                  "old_english": "Mid micelre strencðe áfylled hé worhte micele tácna",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Homl. Th. i. 44, 23"
+                },
+                {
+                  "old_english": "Swá se fulfremeda wæstm biþ on fulre strencðe þeónde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "ii. 76, 19"
+                },
+                {
+                  "old_english": "Se weard (the angel at the gate of Eden) hafaþ miht and strengðo",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Cd. Th. 58, 22; Gen. 950"
+                },
+                {
+                  "old_english": "Ic ðíne strengþu (virtutem) singe",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ps. Th. 58, 16"
+                },
+                {
+                  "old_english": "Strengðe",
+                  "latin": "fortitudinem",
+                  "english": null,
+                  "citations": "Ps. Spl. 58, 18"
+                },
+                {
+                  "old_english": "Hí lǽrdon ðæt hí módes strengþo náman",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bd. 1, 12 ; S. 481, 5"
+                }
+              ],
+              "sub_senses": [
+                {
+                  "label": "(1 a)",
+                  "heading": null,
+                  "meaning": "the time when a man is strong, mature years",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "On mínum cildháde oððe on mínre geógoðe oððe on mínre strengðe oððe on mínre ylde",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Anglia xi. 102, 2"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "violence, force",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé ða ongeánwinnendan fǽmnan mid micelre strengðe earfoðlíce ofercom",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ap. Th. 2, 5"
+                },
+                {
+                  "old_english": "Strenðe",
+                  "latin": "violentiam",
+                  "english": null,
+                  "citations": "Kent. Gl. 842"
+                },
+                {
+                  "old_english": "Hié ongunnon mid sweordum and mid strengþum þyder gán; þohton ðæt hié woldan ofsleán ða apostolas",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Blickl. Homl. 151, 1"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "II.",
+          "heading": "referring to things",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "strength, efficacy, virtue, beneficial power",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hæfþ hit ða strængðe hyne tó gewyrmenne",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lchdm. i. 116, 1"
+                },
+                {
+                  "old_english": "Ðás sylfan strengþe heó hafaþ gewylled wið ðæs migþan earfoðlícnyssa",
+                  "latin": null,
+                  "english": null,
+                  "citations": "284, 3"
+                },
+                {
+                  "old_english": "Hæfþ ðeós wyrt ealle heora strengða",
+                  "latin": null,
+                  "english": null,
+                  "citations": "244, 1"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2)",
+              "heading": "of that which is hard to bear",
+              "meaning": "strength, violence, severity, force",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðí laes seó strengð ðære wyrte ða góman bærne",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lchdm. i. 316, 20"
+                },
+                {
+                  "old_english": "Wið áttres strenðe (strengðe, MS. B. ), genim ðás wyrte . . . heó oferswið ealle strenðe ðæs áttres",
+                  "latin": null,
+                  "english": null,
+                  "citations": "114, 13-15"
+                },
+                {
+                  "old_english": "Ne mæg man ǽfre for his strengðe ðysne wyrttrnman syllan þicgean on sundrum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "260, 18"
+                },
+                {
+                  "old_english": "Hé sceal upweard licgean, ðý læs hé ða strengþe ðyssæ lácnunge ongite",
+                  "latin": null,
+                  "english": null,
+                  "citations": "300, 21"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "mægen-strengðu"
+  ],
+  "source_text": "strengðu (o); indecl. : strengð, e; f. Strength :-- Strengð acha, i. virtus, Wrt. Voc. i. 17, 27. Seó strengð vis, Gl. Prud. 71. I. referring to living beings, (l) strength, power ta do, fortitude, power to bear, firmness, vigour :-- Strengþu heáfdes mínes fortitudo capitis mei, Ps. Th. 59, 6 : 117, 14. Mægnes strengðu, Exon. Th. 239, 23; Ph. 625. Módes strengð fortitudo, Wulfst. 51, 7. Fortitudo, ðæt is strængð oððe ánrédnyss, þurh ða sceal seó sáwul forbæran earfoðnysse mid ánrǽdum móde, Homl. Skt. i. 1, 165. Strængþ vigor, Hymn. Surt. 10, 10. Strengcþ. mín fortitudo mea. Ps. Spl. 17, 1. Strenð robur, Kent. Gl. 795. Ic eów healde strengðu staþolfæstre, Exon. Th. 31, 3; Cri. 490. In ðære gǽstes strengðu, 40, 14; Cri. 638. Beón wiðmeten ðinre strengðe comparari fortitudini tuae, Deut. 3, 24: Ps. Spl. 38, 14. On strengðe horses, 146, 11. Mid strencgðe cum potentia, Ps. Th. 88, 11. Mid micelre strencðe áfylled hé worhte micele tácna, Homl. Th. i. 44, 23. Swá se fulfremeda wæstm biþ on fulre strencðe þeónde, ii. 76, 19. Se weard (the angel at the gate of Eden) hafaþ miht and strengðo, Cd. Th. 58, 22; Gen. 950. Ic ðíne strengþu (virtutem) singe, Ps. Th. 58, 16. Strengðe fortitudinem, Ps. Spl. 58, 18. Hí lǽrdon ðæt hí módes strengþo náman, Bd. 1, 12 ; S. 481, 5. (1 a) the time when a man is strong, mature years :-- On mínum cildháde oððe on mínre geógoðe oððe on mínre strengðe oððe on mínre ylde, Anglia xi. 102, 2. (2) violence, force:-- Hé ða ongeánwinnendan fǽmnan mid micelre strengðe earfoðlíce ofercom, Ap. Th. 2, 5. Strenðe violentiam, Kent. Gl. 842. Hié ongunnon mid sweordum and mid strengþum þyder gán; þohton ðæt hié woldan ofsleán ða apostolas, Blickl. Homl. 151, 1. II. referring to things, (1) strength, efficacy, virtue, beneficial power :-- Hæfþ hit ða strængðe hyne tó gewyrmenne Lchdm. i. 116, 1. Ðás sylfan strengþe heó hafaþ gewylled wið ðæs migþan earfoðlícnyssa, 284, 3. Hæfþ ðeós wyrt ealle heora strengða, 244, 1. (2) of that which is hard to bear, strength, violence, severity, force :-- Ðí laes seó strengð ðære wyrte ða góman bærne, Lchdm. i. 316, 20. Wið áttres strenðe (strengðe, MS. B. ), genim ðás wyrte . . . heó oferswið ealle strenðe ðæs áttres, 114, 13-15. Ne mæg man ǽfre for his strengðe ðysne wyrttrnman syllan þicgean on sundrum, 260, 18. Hé sceal upweard licgean, ðý læs hé ða strengþe ðyssæ lácnunge ongite, 300, 21. v. mægen-strengðu."
+}

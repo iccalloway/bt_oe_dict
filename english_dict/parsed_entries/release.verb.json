@@ -1,0 +1,33 @@
+{
+  "english_lemma": "release",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "free.v.01",
+      "definition": "grant freedom to; free from confinement",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-lynnan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [
+            "-linnan"
+          ],
+          "latin_glosses": [
+            "liberare, evellere"
+          ],
+          "attestations": [
+            "Cd. 95; Th. 123, 19; Gen. 2048"
+          ],
+          "quotations": [
+            {
+              "old_english": "He wolde hine alynnan of láþscipe",
+              "english": "he would release him from calamity",
+              "citations": "Cd. 95; Th. 123, 19; Gen. 2048"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

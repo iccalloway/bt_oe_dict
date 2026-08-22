@@ -1,0 +1,28 @@
+{
+  "citation_form": "hell-bend",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A hell-bond",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hellbendum fæst",
+          "latin": null,
+          "english": "fast in the chains of hell",
+          "citations": "Beo. Th. 6137; B. 3072"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hell-bend; m. f. A hell-bond :-- Hellbendum fæst fast in the chains of hell, Beo. Th. 6137; B. 3072."
+}

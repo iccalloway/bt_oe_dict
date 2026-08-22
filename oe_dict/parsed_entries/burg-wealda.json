@@ -1,0 +1,32 @@
+{
+  "citation_form": "burg-wealda",
+  "variant_forms": [
+    "burh-"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Aaron and lulius wǽron burhwarumen (burhwaru, burhwealdan) on Ligeceastre",
+          "latin": "Aaron et Iulius Legionum urbis ciues",
+          "english": null,
+          "citations": "Bd. 1. 7; Sch. 27, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "burgwaru-mann, burg-wealda (burh-). Add :-- Aaron and lulius wǽron burhwarumen (burhwaru, burhwealdan) on Ligeceastre Aaron et Iulius Legionum urbis ciues, Bd. 1. 7; Sch. 27, 17."
+  ]
+}

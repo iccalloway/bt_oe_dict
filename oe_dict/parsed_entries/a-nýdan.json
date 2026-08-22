@@ -1,0 +1,64 @@
+{
+  "citation_form": "a-nýdan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-nýdde",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-nýded",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "-nýdede",
+            "person": null,
+            "number": "plural",
+            "tense": "past participle"
+          },
+          {
+            "form": "-nýdde",
+            "person": null,
+            "number": "plural",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "a from, nýdan to compel",
+      "meaning": "to repel, thrust or beat back, keep from, restrain, constrain, force",
+      "latin": "repellere, extorquere",
+      "quotations": [
+        {
+          "old_english": "Hí fram his mágum ǽr mid unrihte anýdde wǽron",
+          "latin": null,
+          "english": "they had formerly been unjustly forced from his kinsmen",
+          "citations": "Chr. 823; Th. 111, 34"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "with út to expel, to drive",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "a-nýdan; p. -nýdde; pp. -nýded, pl. -nýdede = -nýdde [a from, nýdan to compel]. I. to repel, thrust or beat back, keep from, restrain, constrain, force; repellere, extorquere:--Hí fram his mágum ǽr mid unrihte anýdde wǽron they had formerly been unjustly forced from his kinsmen, Chr. 823; Th. 111, 34. II. with út to expel, to drive"
+}

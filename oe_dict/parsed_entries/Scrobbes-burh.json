@@ -1,0 +1,28 @@
+{
+  "citation_form": "Scrobbes-burh",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Civitas Scrobbensis, Cod. Dip. Kmbl. ii. 137, 24",
+      "meaning": "Shrewsbury",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá férdon hí intó Stæffordscíre and intó Scrobbesbyrig",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1016; Erl. 154, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Scrobbes-burh; f. Shrewsbury :-- Ðá férdon hí intó Stæffordscíre and intó Scrobbesbyrig, Chr. 1016; Erl. 154, 4. Cf. Civitas Scrobbensis, Cod. Dip. Kmbl. ii. 137, 24."
+}

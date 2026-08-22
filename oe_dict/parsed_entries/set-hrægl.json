@@ -1,0 +1,48 @@
+{
+  "citation_form": "set-hrægl",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Icel. set-klæði.",
+      "meaning": "A cloth for covering a seat",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Setrægl tapeta",
+          "latin": "tapeta",
+          "english": null,
+          "citations": "Wrt. Voc. i. 82, 19"
+        },
+        {
+          "old_english": "Ic gean tó Cristes weofede ánre lytlere goldenre róde and ánes sethrægles [an altar-cloth?]",
+          "latin": null,
+          "english": null,
+          "citations": "Chart. Th. 564, 10, 18"
+        },
+        {
+          "old_english": "Án lang healwáhrift and þríó sethrægl",
+          "latin": null,
+          "english": null,
+          "citations": "538, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "setl-hrægl"
+  ],
+  "source_text": "set-hrægl, es; n. A cloth for covering a seat:-- Setrægl tapeta, Wrt. Voc. i. 82, 19. Ic gean tó Cristes weofede ánre lytlere goldenre róde and ánes sethrægles (an altar-cloth?], Chart. Th. 564, 10, 18. Án lang healwáhrift and þríó sethrægl, 538, 4. [Cf. Icel. set-klæði.] v. setl-hrægl."
+}

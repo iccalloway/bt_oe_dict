@@ -1,0 +1,64 @@
+{
+  "citation_form": "ge-þofta",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "of equals, a fellow, an associate, ally; of inferiors, a follower, client",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geþofta (gidopta, Ep., gidogta, Erf.) contubernalis",
+          "latin": "contubernalis",
+          "english": null,
+          "citations": "Txts. 51, 503"
+        },
+        {
+          "old_english": "Geþofta colifeste ( = collibertus)",
+          "latin": "colifeste ( = collibertus)",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 98, 3: cliens, 17, 41: contubernalis, i. domesticus, comes, conviva, assecla, 135, 20"
+        },
+        {
+          "old_english": "God hine (Abraham) geceás him tó geþoftan (cf. Abraham amicus Dei appellatus est, James 2, 23)",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 46, 12"
+        },
+        {
+          "old_english": "Cassander sende his fultum tó Lisimache his geþoftan (the Latin is: Cassander Lysimachum cum ingenti manu pro se sociis in auxilium misit)",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 3, 11; S. 150, 15"
+        },
+        {
+          "old_english": "Hé áspón DC monna tó him his geþoftena (the Latin is: Quingentos societate invitatos)",
+          "latin": null,
+          "english": null,
+          "citations": "5, 2; S. 218, 11"
+        },
+        {
+          "old_english": "Manege geþoftan ic hæbbe, gyf hí mé hwæt secgað þæt hí selfe geséwen oððe gehýrdon, ic hys gelýfe eall swá wel swá ic hit self geséwe oððe gehýrde",
+          "latin": null,
+          "english": null,
+          "citations": "Solil. H. 60, 33"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "treów-geþofta",
+    "wil-geþofta",
+    "þoft"
+  ],
+  "source_text": [
+    "ge-þofta. Add: of equals, a fellow, an associate, ally; of inferiors, a follower, client :-- Geþofta (gidopta, Ep., gidogta, Erf.) contubernalis, Txts. 51, 503. Geþofta colifeste ( = collibertus), Wrt. Voc. ii. 98, 3: cliens, 17, 41: contubernalis, i. domesticus, comes, conviva, assecla, 135, 20. God hine (Abraham) geceás him tó geþoftan (cf. Abraham amicus Dei appellatus est, James 2, 23), Hml. Th. i. 46, 12. Cassander sende his fultum tó Lisimache his geþoftan (the Latin is: Cassander Lysimachum cum ingenti manu pro se sociis in auxilium misit), Ors. 3, 11; S. 150, 15. Hé áspón DC monna tó him his geþoftena (the Latin is: Quingentos societate invitatos), 5, 2; S. 218, 11. Manege geþoftan ic hæbbe, gyf hí mé hwæt secgað þæt hí selfe geséwen oððe gehýrdon, ic hys gelýfe eall swá wel swá ic hit self geséwe oððe gehýrde, Solil. H. 60, 33. v. treów-, wil-geþofta; þoft."
+  ]
+}

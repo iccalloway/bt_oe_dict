@@ -1,0 +1,36 @@
+{
+  "citation_form": "hálig-wæter",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gá man mid háligdóme út and mid háligwætere",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 173, 13"
+        },
+        {
+          "old_english": "Sprænge se mæssepreóst háligwæter ofer hig ealle",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 226, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hálig-wæter. Add :-- Gá man mid háligdóme út and mid háligwætere, Wlfst. 173, 13. Sprænge se mæssepreóst háligwæter ofer hig ealle, Ll. Th. i. 226, 23."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "citation_form": "fen-ýce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "ýce a frog",
+      "meaning": "A fen-frog",
+      "latin": "paludis rana",
+      "quotations": [
+        {
+          "old_english": "Me is fenýce fóre hreþre",
+          "latin": null,
+          "english": "a fen-frog is more rapid than I in its course",
+          "citations": "Exon. 111 a; Th. 426, 9; Rä. 41, 71"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fen-ýce, an; f. [ýce a frog] A fen-frog; p&a-short;l&u-long;dis r&a-long;na :-- Me is fenýce fóre hreþre a fen-frog is more rapid than I in its course, Exon. 111 a; Th. 426, 9; Rä. 41, 71."
+  ]
+}

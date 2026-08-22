@@ -1,0 +1,53 @@
+{
+  "citation_form": "á-pinsian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Dryhten heorte and ná spéde ápinsað (pensat)",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 60, 6"
+        },
+        {
+          "old_english": "Bóceras ǽrest ápinsiað wærlicum mode þá naman and heora declínunga, and gýmað hwylce naman geendað on a.",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 313, 4"
+        },
+        {
+          "old_english": "Hit geríst þ-bar; wé þisra epacta gerýnu ápinsiun",
+          "latin": null,
+          "english": null,
+          "citations": "300, 48: 305, 47: 322, 23"
+        },
+        {
+          "old_english": "Ðæt getæl is tó ápinsianne, hwæt hit getácnað",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 245, 9"
+        },
+        {
+          "old_english": "Mid willan sýfernysse bót byð ápinsud (pensatur)",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 42, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "á-pinsian. Add: -- Dryhten heorte and ná spéde ápinsað (pensat), Scint. 60, 6. Bóceras ǽrest ápinsiað wærlicum mode þá naman and heora declínunga, and gýmað hwylce naman geendað on a. Angl. viii. 313, 4. Hit geríst þ-bar; wé þisra epacta gerýnu ápinsiun, 300, 48: 305, 47: 322, 23. Ðæt getæl is tó ápinsianne, hwæt hit getácnað, Wlfst. 245, 9. Mid willan sýfernysse bót byð ápinsud (pensatur), Scint. 42, 17."
+  ]
+}

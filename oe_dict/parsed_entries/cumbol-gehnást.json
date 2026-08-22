@@ -1,0 +1,36 @@
+{
+  "citation_form": "cumbol-gehnást",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "cumbol I. an ensign, banner; gehnást a conflict",
+      "meaning": "A conflict of ensigns or banners, a battle",
+      "latin": "signorum conflictio, bellum",
+      "quotations": [
+        {
+          "old_english": "Ðæt hie beadoweorca beteran wurdon on campstede, cumbolgehnástes",
+          "latin": null,
+          "english": "that they were better in works of war on the battle-field, at the conflict of banners",
+          "citations": "Chr. 937; Th. 206, 2, col. 2; 207, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "cumbol-gehnást, es; n. [cumbol I. an ensign, banner; gehnást a conflict] A conflict of ensigns or banners, a battle; signorum conflictio, bellum :-- Ðæt hie beadoweorca beteran wurdon on campstede, cumbolgehnástes that they were better in works of war on the battle-field, at the conflict of banners, Chr. 937; Th. 206, 2, col. 2; 207, 2."
+  ]
+}

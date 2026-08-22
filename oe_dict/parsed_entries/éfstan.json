@@ -1,0 +1,146 @@
+{
+  "citation_form": "éfstan",
+  "variant_forms": [
+    "éfestan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "éfstte",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "éfste",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "éfston",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "éfstun",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "éfst",
+            "person": null,
+            "number": "singular",
+            "tense": "imperative"
+          },
+          {
+            "form": "éfste",
+            "person": null,
+            "number": "singular",
+            "tense": "imperative"
+          },
+          {
+            "form": "éfstaþ",
+            "person": null,
+            "number": "plural",
+            "tense": "imperative"
+          },
+          {
+            "form": "éfsted",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "éfst",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "ófest, ófost, ófst haste",
+      "meaning": "To hasten, draw near, approach, make haste, be quick",
+      "latin": "festīnāre, properāre, concurrere, appropinquāre, accelerāre",
+      "quotations": [
+        {
+          "old_english": "Uton nú éfstan seón wundur",
+          "latin": null,
+          "english": "let us now hasten to see the wonders",
+          "citations": "Beo. Th. 6193; B. 3101: Rood Kmbl. 67; Kr. 34"
+        },
+        {
+          "old_english": "He éfste [éfstte, Th. 278, 23, col. 2] norþweard",
+          "latin": null,
+          "english": "he hastened northward",
+          "citations": "Chr. 1016; Th. 278, 22, col. 1"
+        },
+        {
+          "old_english": "Abraham éfste in to ðam getelde",
+          "latin": "festīnāvit Abraham in tabernāculum",
+          "english": null,
+          "citations": "Gen. 18, 6: Lk. Bos. 19, 6; Beo. Th. 2990; B. 1493: Cd. 139; Th. 174, 2; Gen. 2872"
+        },
+        {
+          "old_english": "Hí éfston óþ to gatum deáþes",
+          "latin": "appropinquāvērunt usque ad portas mortis",
+          "english": null,
+          "citations": "Ps. Spl. 106, 18: Byrht. Th. 137, 55; By. 206"
+        },
+        {
+          "old_english": "Hí geneálǽhton oððe éfstun [éfston, Ps. Spl. 15, 3]",
+          "latin": "accelerāvērunt",
+          "english": null,
+          "citations": "Ps. Lamb. 15, 4"
+        },
+        {
+          "old_english": "Éfst ardlíce ðyder",
+          "latin": "festīna ibi",
+          "english": null,
+          "citations": "Gen. 19, 22: Lk. Bos. 19, 5"
+        },
+        {
+          "old_english": "Éfst [Th. éfste] oððe neálǽce ðæt ðú generige me",
+          "latin": "accelera ut ēruas me",
+          "english": null,
+          "citations": "Ps. Spl. 30, 2"
+        },
+        {
+          "old_english": "Éfstaþ and lǽdaþ hine to me",
+          "latin": "festīnāte et addūcite eum ad me",
+          "english": null,
+          "citations": "Gen. 45, 13: Boutr. Scrd. 22, 42: Homl. Th. ii. 88, 32"
+        },
+        {
+          "old_english": "Éfstaþ ðæt ge gangon þurh ðæt nearwe geat",
+          "latin": null,
+          "english": "hasten that ye go through the narrow gate",
+          "citations": "Lk. Bos. 13, 24"
+        },
+        {
+          "old_english": "Ðæt we to ðé mid ealre heortan éfston",
+          "latin": null,
+          "english": "that we may hasten to thee with all our heart",
+          "citations": "Homl. Th. ii. 600, 3"
+        },
+        {
+          "old_english": "To ðam ðe hit éfst wæs",
+          "latin": "ad quam festīnātum erat",
+          "english": null,
+          "citations": "Prov. 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-éfstan"
+  ],
+  "source_text": "éfstan, éfestan; p. éfstte, éfste, pl. éfston, éfstun; impert. éfst, éfste, pl. éfstaþ; pp. éfsted, éfst; v. intrans. [ófest, ófost, ófst haste] To hasten, draw near, approach, make haste, be quick; fest&i-long;n&a-long;re, prop&e-short;r&a-long;re, concurr&e-short;re, appropinqu&a-long;re, accel&e-short;r&a-long;re :-- Uton nú éfstan seón wundur let us now hasten to see the wonders. Beo. Th. 6193; B. 3101: Rood Kmbl. 67; Kr. 34. He éfste [éfstte, Th. 278, 23, col. 2] norþweard he hastened northward, Chr. 1016; Th. 278, 22, col. 1. Abraham éfste in to ðam getelde fest&i-long;n&a-long;vit Abraham in tabern&a-long;c&u-short;lum, Gen. 18, 6: Lk. Bos. 19, 6; Beo. Th. 2990; B. 1493: Cd. 139; Th. 174, 2; Gen. 2872. Hí éfston óþ to gatum deáþes appropinqu&a-long;v&e-long;runt usque ad portas mortis, Ps. Spl. 106, 18: Byrht. Th. 137, 55; By. 206. Hí geneálǽhton oððe éfstun [éfston, Ps. Spl. 15, 3] accel&e-short;r&a-long;v&e-long;runt, Ps. Lamb. 15, 4. Éfst ardlíce ðyder fest&i-long;na &i-short;bi, Gen. 19, 22: Lk. Bos. 19, 5. Éfst [Th. éfste] oððe neálǽce ðæt ðú generige me acc&e-short;l&e-short;ra ut &e-long;ruas me, Ps. Spl. 30, 2. Éfstaþ and lǽdaþ hine to me fest&i-long;n&a-long;te et add&u-long;c&i-short;te eum ad me, Gen. 45, 13: Boutr. Scrd. 22, 42: Homl. Th. ii. 88, 32. Éfstaþ ðæt ge gangon þurh ðæt nearwe geat hasten that ye go through the narrow gate, Lk. Bos. 13, 24. Ðæt we to ðé mid ealre heortan éfston that we may hasten to thee with all our heart, Homl. Th. ii. 600, 3. To ðam ðe hit éfst wæs ad quam fest&i-long;n&a-long;tum erat, Prov. 20. DER. ge-éfstan."
+}

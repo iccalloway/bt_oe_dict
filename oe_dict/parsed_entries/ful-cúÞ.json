@@ -1,0 +1,36 @@
+{
+  "citation_form": "ful-cúÞ",
+  "variant_forms": [
+    "full-cúþ"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Full known, well known, famous, public",
+      "latin": "bene notus, insignis, publicus",
+      "quotations": [
+        {
+          "old_english": "On fulcúþum gemynde",
+          "latin": null,
+          "english": "in famous memory",
+          "citations": "Ælfc. T. 21, 1"
+        },
+        {
+          "old_english": "Bí fulcúþum strǽtum",
+          "latin": "juxta publicos viarum transitus",
+          "english": null,
+          "citations": "Bd. 2, 16; S. 520, 4, note, MS. T: Nar. 2, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ful-cúÞ, full-cúþ; adj. Full known, well known, famous, public; b&e-short;ne n&o-long;tus, insignis, publ&i-short;cus :-- On fulcúþum gemynde in famous memory, Ælfc. T. 21, 1. Bí fulcúþum strǽtum juxta publ&i-short;cos vi&a-long;rum trans&i-short;tus, Bd. 2, 16; S. 520, 4, note, MS. T: Nar. 2, 15."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "citation_form": "seofonteópa",
+  "variant_forms": [
+    "-teogoþa"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "seventeenth",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se wæs seofonteogeþa fram Agusto",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 1. 5; S. 476, 6"
+        },
+        {
+          "old_english": "Ðý seofonteóþan dæge",
+          "latin": null,
+          "english": null,
+          "citations": "3, 24; S. 557, 12"
+        },
+        {
+          "old_english": "On ðone seofenteóþan dæge ðæs mónþes",
+          "latin": null,
+          "english": null,
+          "citations": "Gen. 7, 11"
+        },
+        {
+          "old_english": "Seofontegðan",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 91, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "seofonteópa, -teogoþa seventeenth:-- Se wæs seofonteogeþa fram Agusto, Bd. 1. 5; S. 476, 6. Ðý seofonteóþan dæge, 3, 24; S. 557, 12. On ðone seofenteóþan dæge ðæs mónþes, Gen. 7, 11. Seofontegðan, Shrn. 91, 32."
+  ]
+}

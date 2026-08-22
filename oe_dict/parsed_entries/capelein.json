@@ -1,0 +1,32 @@
+{
+  "citation_form": "capelein",
+  "variant_forms": [
+    "capellan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A chaplain",
+      "latin": "capellanus",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1099; Ing. 318, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "capelein, capellan A chaplain; capellanus, Chr. 1099; Ing. 318, 14."
+  ]
+}

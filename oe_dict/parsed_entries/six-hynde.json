@@ -1,0 +1,79 @@
+{
+  "citation_form": "six-hynde",
+  "variant_forms": [
+    "sixhynde",
+    "syxhynde",
+    "syxhyndu",
+    "syxhyndum"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "v. twelf-hynde, and see Stubbs' Const. Hist. i. 161, note 3",
+      "meaning": "Of a class whose wergild is six hundred shillings",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif wealh hafaþ fíf hýda hé biþ sixhynde",
+          "latin": null,
+          "english": null,
+          "citations": "L. In. 24; Th. i. 118. 10"
+        },
+        {
+          "old_english": "Be syxhyndum men. Gif hit sié syxhynde mon, [gielde] ǽlc mon . lx. scil̄l̄. ,",
+          "latin": null,
+          "english": null,
+          "citations": "L. Alf. pol. 30; Th. i. 80, 11"
+        },
+        {
+          "old_english": "Gif hió sié syxhyndu,",
+          "latin": null,
+          "english": null,
+          "citations": "18; Th. i. 72, 14"
+        },
+        {
+          "old_english": "Syxhyndes monnes burhbryce . xv. scil̄l̄.,",
+          "latin": null,
+          "english": null,
+          "citations": "40; Th. i. 88, 10"
+        },
+        {
+          "old_english": "Gif syxhyndum ðissa hwæðer gelimpe, gebéte be ðæs syxhyndan bóte,",
+          "latin": null,
+          "english": null,
+          "citations": "39; Th. I. 88, 2-5"
+        },
+        {
+          "old_english": "Syxhyndum men . c. scil̄l̄. gebéte,",
+          "latin": null,
+          "english": null,
+          "citations": "10; Th. i. 68, 10"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "applied to the wergild",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Æt twýhyndum were mon sceal sellan tó monbóte .xxx. scil̄l̄. , æt syxhyndum . lxxx. scil̄l̄. ,",
+              "latin": null,
+              "english": null,
+              "citations": "L. In. 70; Th. i. 146, 14"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "twelf-hynde"
+  ],
+  "source_text": "six-hynde; adj. Of a class whose wergild is six hundred shillings :-- Gif wealh hafaþ fíf hýda hé biþ sixhynde, L. In. 24; Th. i. 118. 10. Be syxhyndum men. Gif hit sié syxhynde mon, [gielde] ǽlc mon . lx. sci&l-bar; &l-bar;. , L. Alf. pol. 30; Th. i. 80, 11. Gif hió sié syxhyndu, 18; Th. i. 72, 14. Syxhyndes monnes burhbryce . xv. sci&l-bar; &l-bar;., 40; Th. i. 88, 10. Gif syxhyndum ðissa hwæðer gelimpe, gebéte be ðæs syxhyndan bóte, 39; Th. I. 88, 2-5. Syxhyndum men . c. sci&l-bar; &l-bar;. gebéte, 10; Th. i. 68, 10. ¶ applied to the wergild :-- Æt twýhyndum were mon sceal sellan tó monbóte .xxx. sci&l-bar; &l-bar;. , æt syxhyndum . lxxx. sci&l-bar; &l-bar;. , L. In. 70; Th. i. 146, 14. v. twelf-hynde, and see Stubbs' Const. Hist. i. 161, note 3."
+}

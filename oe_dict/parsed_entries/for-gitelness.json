@@ -1,0 +1,30 @@
+{
+  "citation_form": "for-gitelness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "v. N. E. D. forgetelness.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Foregytelnysse",
+          "latin": "oblivionem",
+          "english": null,
+          "citations": "R. Ben. I. 28, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "for-gitelness. Add:--Foregytelnysse oblivionem, R. Ben. I. 28, 15. [v. N. E. D. forgetelness.]"
+  ]
+}

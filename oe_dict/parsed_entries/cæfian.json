@@ -1,0 +1,35 @@
+{
+  "citation_form": "cæfian",
+  "variant_forms": [
+    "cefian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "DER. be-cæfian, UNCERTAIN ymb-.",
+      "meaning": "To embroider",
+      "latin": "acu pingere",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "cæfian, cefian; p. ede; pp. ed To embroider; acu pingere. DER. be-cæfian, UNCERTAIN ymb-."
+}

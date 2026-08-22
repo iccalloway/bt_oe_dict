@@ -1,0 +1,42 @@
+{
+  "citation_form": "fǽr-steorfa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Murrain",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif sceáp sý ábrocen, and wið fǽrsteorfan",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. iii. 56, 15"
+        },
+        {
+          "old_english": "Wið swína fǽrsteorfan",
+          "latin": null,
+          "english": null,
+          "citations": "25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fæ-acute;r-steorfa, an ; m. Murrain :-- Gif sceáp sý ábrocen, and wið fǽrsteorfan, Lch. iii. 56, 15. Wið swína fǽrsteorfan, 25."
+  ]
+}

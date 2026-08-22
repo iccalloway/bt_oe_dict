@@ -1,0 +1,52 @@
+{
+  "citation_form": "irfe-láf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An hereditary relic, heirloom, what is left of an inheritance, inheritance, heir",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé fédeþ folc Iacobes and Israhéla yrfeláfe",
+          "latin": "pascere Jacob servum suum, et Israel hæreditatem suam",
+          "english": null,
+          "citations": "Ps. Th. 77, 70"
+        },
+        {
+          "old_english": "Æ-acute;ghwylcum máððum gesealde yrfeláfe",
+          "latin": null,
+          "english": "to each he gave a gift, an heirloom",
+          "citations": "Beo.Th. 2110; B. 1053"
+        },
+        {
+          "old_english": "Hé bátwearde swurd gesealde, ðæt hé syððan wæs mádme ðý weorðra, yrfeláfe",
+          "latin": null,
+          "english": null,
+          "citations": "3810; B. 1903"
+        },
+        {
+          "old_english": "Wolde líge gesyllan his swǽsne sunu ángan ofer eorþan yrfeláfe",
+          "latin": null,
+          "english": "he [Abraham] was ready to give to the flame, his dear son, the only heir that was left him on earth",
+          "citations": "Cd. 162; Th. 203, 14 ; Exod. 403"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "irfe-láf, e; f. An hereditary relic, heirloom, what is left of an inheritance, inheritance, heir :-- Hé fédeþ folc Iacobes and Israhéla yrfeláfe pascere Jacob servum suum, et Israel hæreditatem suam, Ps. Th. 77, 70. Æ-acute;ghwylcum máððum gesealde yrfeláfe to each he gave a gift, an heirloom, Beo.Th. 2110; B. 1053. Hé bátwearde swurd gesealde, ðæt hé syððan wæs mádme ðý weorðra, yrfeláfe, 3810; B. 1903. Wolde líge gesyllan his swǽsne sunu ángan ofer eorþan yrfeláfe he [Abraham] was ready to give to the flame, his dear son, the only heir that was left him on earth, Cd. 162; Th. 203, 14 ; Exod. 403."
+}

@@ -1,0 +1,136 @@
+{
+  "citation_form": "scyndan",
+  "variant_forms": [
+    "scendan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "intrans. To hurry, hasten",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Swá ðeós woruld fareþ, scúrum scyndeþ",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 469, 24; Hy. 11, 7"
+        },
+        {
+          "old_english": "Brimwudu scynde",
+          "latin": null,
+          "english": null,
+          "citations": "182, 5; Gú. 1305"
+        },
+        {
+          "old_english": "Scynde Gregorius in Godes wære",
+          "latin": null,
+          "english": null,
+          "citations": "Menol. Fox 77; Men. 38"
+        },
+        {
+          "old_english": "Scynde beaduþreáta mǽst tó hilde",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 60; El. 30"
+        },
+        {
+          "old_english": "Fǽge scyndan (of death by violence)",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 271, 29; Jul. 489"
+        },
+        {
+          "old_english": "Hí ǽghwonon tó him éfston and scyndon",
+          "latin": null,
+          "english": null,
+          "citations": "Guthl. 15; Gdwin. 66, 10: Bd. 4, 27; S. 604, 8"
+        },
+        {
+          "old_english": "Ðá ongunnan monige éfstan and scyndan tó gehýranne Godes word",
+          "latin": "coepere plures ad audiendum verbum confluere",
+          "english": null,
+          "citations": "1, 26; S. 488, 11: Guthl. 2; Gdwin. 14, 25"
+        },
+        {
+          "old_english": "Hé gewát scríðan, tó gesceape scyndan",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 5133; B. 2570"
+        },
+        {
+          "old_english": "Manna freóndscipe biþ swíðe hwílwendlíc and swíðe scendende (cf. gnornscendende)",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 195, 26"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": "O. Sax. far-skundian to incite, egg on: O. H. Ger. scuntan sollicitare, suggerere, urgere: Icel. skynda to hasten: Dan. skynde.",
+      "meaning": "trans.",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "To cause to hasten, to hurry",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðá wæs morgenleóht scofen and scynded",
+              "latin": null,
+              "english": null,
+              "citations": "Beo. Th. 1840; B. 918"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to urge, incite, exhort",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se feónd his (Judas) heortan tó ðan lǽrde and scynde, ðæt hé Drihten tó deáðe belǽwde",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. As. 153, 55"
+            },
+            {
+              "old_english": "Hú mon monige scyndan scyle (de exhortatione multis exhibenda) tó ðæm ðætte his gódan dǽda ne weorðen tó yflum dǽdum",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 60; Swt. 453, 6"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "á-scyndan",
+    "ge-scyndan"
+  ],
+  "source_text": "scyndan, scendan; p. de. I. intrans. To hurry, hasten:--Swá ðeós woruld fareþ, scúrum scyndeþ, Exon. Th. 469, 24; Hy. 11, 7. Brimwudu scynde, 182, 5; Gú. 1305. Scynde Gregorius in Godes wære, Menol. Fox 77; Men. 38. Scynde beaduþreáta mǽst tó hilde, Elen. Kmbl. 60; El. 30. Fǽge scyndan (of death by violence), Exon. Th. 271, 29; Jul. 489. Hí ǽghwonon tó him éfston and scyndon, Guthl. 15; Gdwin. 66, 10: Bd. 4, 27; S. 604, 8. Ðá ongunnan monige éfstan and scyndan tó gehýranne Godes word coepere plures ad audiendum verbum confluere, 1, 26; S. 488, 11: Guthl. 2; Gdwin. 14, 25. Hé gewát scríðan, tó gesceape scyndan, Beo. Th. 5133; B. 2570. Manna freóndscipe biþ swíðe hwílwendlíc and swíðe scendende (cf. gnornscendende), Blickl. Homl. 195, 26. II. trans. (1) To cause to hasten, to hurry:--Ðá wæs morgenleóht scofen and scynded, Beo. Th. 1840; B. 918. (2) to urge, incite, exhort:--Se feónd his (Judas) heortan tó ðan lǽrde and scynde, ðæt hé Drihten tó deáðe belǽwde, Homl. As. 153, 55. Hú mon monige scyndan scyle (de exhortatione multis exhibenda) tó ðæm ðætte his gódan dǽda ne weorðen tó yflum dǽdum, Past. 60; Swt. 453, 6. [O. Sax. far-skundian to incite, egg on: O. H. Ger. scuntan sollicitare, suggerere, urgere: Icel. skynda to hasten: Dan. skynde.] v. á-, ge-scyndan."
+}

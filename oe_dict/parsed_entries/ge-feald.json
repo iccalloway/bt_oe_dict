@@ -1,0 +1,34 @@
+{
+  "citation_form": "ge-feald",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A fold, inclosure, field",
+      "latin": "septum, āger",
+      "quotations": [
+        {
+          "old_english": "Þurh fífela gefeald forþonette",
+          "latin": null,
+          "english": "he hastened forth through the field of the monsters",
+          "citations": "Wald. 76; Vald. 2, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-feald, es; n. A fold, inclosure, field; septum, &a-short;ger :-- Þurh fífela gefeald forþonette he hastened forth through the field of the monsters, Wald. 76; Vald. 2, 10."
+}

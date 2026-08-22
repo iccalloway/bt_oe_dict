@@ -1,0 +1,26 @@
+{
+  "citation_form": "ge-fæd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "ge-fadian to set in order",
+      "meaning": "Orderly",
+      "latin": "dispositus",
+      "quotations": [
+        {
+          "old_english": "Ðæt preósta gehwilc to sinoþe hæbbe gefædne man to cnihte",
+          "latin": null,
+          "english": "that every priest at the synod have an orderly man for servant",
+          "citations": "L. Edg. C. 4; Th. ii. 244, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-fæd; adj. [ge-fadian to set in order] Orderly; disp&o-short;s&i-short;tus :-- Ðæt preósta gehwilc to sinoþe hæbbe gefædne man to cnihte that every priest at the synod have an orderly man for servant, L. Edg. C. 4; Th. ii. 244, 14."
+}

@@ -1,0 +1,48 @@
+{
+  "citation_form": "ge-hwilcness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Quality",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "For gehwilcnysse leahtres",
+          "latin": "pro gualilate criminis",
+          "english": null,
+          "citations": "Hy. S. 36, 28"
+        },
+        {
+          "old_english": "Æfter stōwa gehwylcnysse",
+          "latin": "secundum locorum qualitatem",
+          "english": null,
+          "citations": "R. Ben. I. 91, 10"
+        },
+        {
+          "old_english": "Būtan þissum þingum . . . synt geswutelunga and gehwylcnyssa",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 299, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hwilc-ness"
+  ],
+  "source_text": "ge-hwilcness, e; f. Quality :-- For gehwilcnysse leahtres pro gualilate criminis, Hy. S. 36, 28. Æfter st&o-long;wa gehwylcnysse secundum locorum qualitatem, R. Ben. I. 91, 10. B&u-long;tan þissum þingum . . . synt geswutelunga and gehwylcnyssa, Angl. viii. 299, 23. v. hwilc-ness."
+}

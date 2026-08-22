@@ -1,0 +1,36 @@
+{
+  "citation_form": "friþ-gedál",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A life or spirit-separation, death",
+      "latin": "pāce divortium, ŏbĭtus",
+      "quotations": [
+        {
+          "old_english": "He friþgedál fremman sceolde",
+          "latin": null,
+          "english": "he should effect separation front life",
+          "citations": "Cd. 56; Th. 69, 27; Gen. 1142"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ferþ vita"
+  ],
+  "source_text": "friþ-gedál, es; n. A life or spirit-separation, death; a p&a-long;ce divortium, &o-short;b&i-short;tus :-- He friþgedál fremman sceolde he should effect separation front life, Cd. 56; Th. 69, 27; Gen. 1142. v. ferþ vita?"
+}

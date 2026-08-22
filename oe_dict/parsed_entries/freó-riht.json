@@ -1,0 +1,36 @@
+{
+  "citation_form": "freó-riht",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A free right, common right, right of a freeman",
+      "latin": "liberōrum et ingenuōrum jus",
+      "quotations": [
+        {
+          "old_english": "He ne beó syððan ǽniges freórihtes wyrðe",
+          "latin": null,
+          "english": "he shall not afterwards deserve any free right",
+          "citations": "L. C. S. 20; Th. i. 386, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "freó-riht, es; n. A free right, common right, right of a freeman; lib&e-short;r&o-long;rum et ingenu&o-long;rum jus:-- He ne beó syððan ǽniges freórihtes wyrðe he shall not afterwards deserve any free right, L. C. S. 20; Th. i. 386, 22."
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "citation_form": "gedofen",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(ββ)",
+          "heading": "with gen. of peril from which one is saved",
+          "meaning": "with gen. of peril from which one is saved. Cf. II. 3 b",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé lifigende cwóm heaðoláces hál tó hofe gongan",
+              "latin": null,
+              "english": null,
+              "citations": "B. 1974"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "saved from spiritual danger",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sé ðe þurhwunað oð ende, sé byð hál (salvus)",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. 24, 13 : 10, 22"
+            },
+            {
+              "old_english": "Hwá mæg hál beon ?",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. R. L. 19, 25"
+            },
+            {
+              "old_english": "Sé þe gelýfð and gefullod biþ, sé biþ hál",
+              "latin": null,
+              "english": null,
+              "citations": "Mk. 16, 16"
+            },
+            {
+              "old_english": "Hé hys folc hál gedéð fram hyra synnum",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. 1, 21"
+            },
+            {
+              "old_english": "God wile þ-bar; ealle menn hále beón",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 30, 92: Lk. 8, 12"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "VI.",
+      "supplemental": null,
+      "meaning": "in forms of greeting",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "with verb",
+          "meaning": "with verb",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hál westú, Maria",
+              "latin": "ave, Maria",
+              "english": null,
+              "citations": "Bl. H. 143, 17: Lch. iii. 54, 18"
+            },
+            {
+              "old_english": "Wes þú, Hróðgár, hál",
+              "latin": null,
+              "english": null,
+              "citations": "B. 407"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "alone",
+          "meaning": "alone",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hál (hál beó þú, W. S.), láruwa",
+              "latin": "have, Rabbi",
+              "english": null,
+              "citations": "Mt. L. R. 26, 49"
+            },
+            {
+              "old_english": "Hál (hál wæs þú, W. S. ), cynig Júdéana",
+              "latin": null,
+              "english": null,
+              "citations": "27, 29 : Mk. L. R. 15, 18 : Lk. L. R. 1, 28"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "hæg-hál",
+    "sám-hál",
+    "wan-hál"
+  ],
+  "source_text": [
+    "gedofen hé cwæð, 'Drihten, gedó mé hálne,' Mt. 14, 30. Óðero hálo dyde, hine seolfne ne mæge hálne dóa, Mt. L. 27, 42. Hé hyne hálne geféng, Lk. 15, 27. (ββ) with gen. of peril from which one is saved. Cf. II. 3 b :-- Hé lifigende cwóm heaðoláces hál tó hofe gongan, B. 1974. (2) saved from spiritual danger :-- Sé ðe þurhwunað oð ende, sé byð hál (salvus), Mt. 24, 13 : 10, 22. Hwá mæg hál beon ?, Mt. R. L. 19, 25. Sé þe gelýfð and gefullod biþ, sé biþ hál, Mk. 16, 16. Hé hys folc hál gedéð fram hyra synnum, Mt. 1, 21. God wile þ-bar; ealle menn hále beón, Hml. S. 30, 92: Lk. 8, 12. VI. in forms of greeting. (1) with verb :-- Hál westú, Maria ave, Maria, Bl. H. 143, 17: Lch. iii. 54, 18. Wes þú, Hróðgár, hál, B. 407. (2) alone :-- Hál (hál beó þú, W. S.), láruwa have, Rabbi, Mt. L. R. 26, 49. Hál (hál wæs þú, W. S. ), cynig Júdéana, 27, 29 : Mk. L. R. 15, 18 : Lk. L. R. 1, 28. v. hæg-, sám-, wan-hál."
+  ]
+}

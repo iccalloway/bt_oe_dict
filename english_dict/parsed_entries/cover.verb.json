@@ -1,0 +1,23 @@
+{
+  "english_lemma": "cover",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "cover.v.01",
+      "definition": "provide with a covering or cause to be covered",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hwelfan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Ps. Lamb. 58, 12"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

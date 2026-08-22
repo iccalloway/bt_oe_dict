@@ -1,0 +1,54 @@
+{
+  "citation_form": "grund-sopa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. grurzapa cartilago, Gall. 121.",
+      "meaning": "The word translates cartilago in the following glosses",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Grundsopa (-suopa) cartilago",
+          "latin": null,
+          "english": null,
+          "citations": "Txts. 49, 402: Wrt. Voc. ii. 13, 50"
+        },
+        {
+          "old_english": "Cartilago grundsopa, coriza, sternutatio fnora",
+          "latin": null,
+          "english": null,
+          "citations": "128, 79, 80"
+        },
+        {
+          "old_english": "coriza, i. sternutatio, cartilagines nebgebraec vel fnora",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 135, 77"
+        },
+        {
+          "old_english": "Cortex bark; liber, interior pars corticis; suber, intima pars corticis; abdomen grundsope",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 229, 24-27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "nebgebraec"
+  ],
+  "source_text": "grundsópa. Substitute: grund-sopa, an; m. The word translates cartilago in the following glosses :-- Grundsopa (-suopa) cartilago, Txts. 49, 402: Wrt. Voc. ii. 13, 50. Cartilago grundsopa, coriza, sternutatio fnora, 128, 79, 80. In the glossary from which the last instance is taken the Latin words are arranged alphabetically, so that probably coriza, ... fnora is not an independent entry but should be taken with cartilago. This supposition is made still more probable by a later gloss, where coriza occurs correctly among co- words -- coriza, i. sternutatio, cartilagines nebgebraec vel fnora, Wrt. Voc; ii. 135, 77. According to these two glosses cartilago should have much the same meaning as coriza (v. nebgebraec), and so too should grundsopa. This meaning would not be far from that given for the word in Prompt. Parv. -- growndesope (growndsope, grounsop) of any lycoure fex, sedimen, a meaning belonging also to Dutch grondsop. Apparently a different meaning is given to the word in another M. E. vocabulary. In a list 'Nomina arborum et earum fructuum' are these consecutive items -- Cortex bark; liber, interior pars corticis; suber, intima pars corticis; abdomen grundsope, Wrt. Voc. i. 229, 24-27. Elsewhere (Wrt. Voc. i. 200, 46) abdomen is explained by pinguedo porci: could abdomen in the previous case refer to exudation on the bark of a tree? [Cf. grurzapa cartilago, Gall. 121.]"
+}

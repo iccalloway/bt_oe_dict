@@ -1,0 +1,35 @@
+{
+  "citation_form": "ǽ-fest",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "ǽ law, fæst fast, fixed",
+      "meaning": "Fast or firm in the law, religious, devout",
+      "latin": "religiosus",
+      "quotations": [
+        {
+          "old_english": "Wæs se mon swýðe ǽfest",
+          "latin": "erat vir multum religiosus",
+          "english": null,
+          "citations": "Bd. 4, 24; S. 598, 20"
+        },
+        {
+          "old_english": "Ongunnon ǽfeste leóþ wyrcean",
+          "latin": "religiosa poemata facere tentabant",
+          "english": null,
+          "citations": "id; S. 596, 38"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ǽ-fæst",
+    "ǽw-fæst"
+  ],
+  "source_text": "ǽ-fest; adj. [ǽ law, fæst fast, fixed] Fast or firm in the law, religious, devout ; religiosus :-- Wæs se mon swýðe ǽfest erat vir multum religiosus, Bd. 4, 24; S. 598, 20. Ongunnon ǽfeste leóþ wyrcean religiosa poemata facere tentabant, id; S. 596, 38. v. ǽ-fæst, ǽw-fæst."
+}

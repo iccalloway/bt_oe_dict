@@ -1,0 +1,36 @@
+{
+  "citation_form": "hlemman",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Sax. hlamon: Icel. hlamma: O. H. Ger. hlamon crepitare.",
+      "meaning": "To cause to sound, to clash",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé ymbe ða herehúþe hlemmeþ tógædre grimme góman",
+          "latin": null,
+          "english": "about the prey he clashes his fierce jaws together",
+          "citations": "Exon. 97 b; Th. 363, 30; Wal. 61"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hlimman"
+  ],
+  "source_text": "hlemman; p. de To cause to sound, to clash :-- Hé ymbe ða herehúþe hlemmeþ tógædre grimme góman about the prey he clashes his fierce jaws together, Exon. 97 b; Th. 363, 30; Wal. 61. [O. Sax. hlamon: Icel. hlamma: O. H. Ger. hlamon crepitare.] v. hlimman."
+}

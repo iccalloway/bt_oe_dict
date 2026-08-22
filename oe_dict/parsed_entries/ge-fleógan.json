@@ -1,0 +1,33 @@
+{
+  "citation_form": "ge-fleógan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "His gást sceolde gefleógan tó heofena heáhnysse",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 112, ii"
+        },
+        {
+          "old_english": "Se earn on ðám ófre gesæt, mid fisce geflogen, þone hé ðǽrrihte geféng",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 140, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-fleógan. Add :-- His gást sceolde gefleógan tó heofena heáhnysse, Shrn. 112, ii. Se earn on ðám ófre gesæt, mid fisce geflogen, þone hé ðǽrrihte geféng, Hml. Th. ii. 140, 3."
+}

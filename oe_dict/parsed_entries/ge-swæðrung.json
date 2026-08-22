@@ -1,0 +1,38 @@
+{
+  "citation_form": "ge-swæðrung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A failing, a want",
+      "latin": "deliquium",
+      "quotations": [
+        {
+          "old_english": "Se mon geswógunga þrówaþ and módes geswæðrunga",
+          "latin": null,
+          "english": "the man suffers swoonings and failings of the mind",
+          "citations": "L. M. 2, 21; Lchdm. ii. 206, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-sweðerian"
+  ],
+  "source_text": [
+    "ge-swæðrung, e; f. A failing, a want; del&i-short;quium :-- Se mon geswógunga þrówaþ and módes geswæðrunga the man suffers swoonings and failings of the mind, L. M. 2, 21; Lchdm. ii. 206, 9. v. ge-sweðerian."
+  ]
+}

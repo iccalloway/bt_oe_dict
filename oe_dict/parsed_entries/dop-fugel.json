@@ -1,0 +1,40 @@
+{
+  "citation_form": "dop-fugel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A dipping-fowl, a water-fowl, a moorhen",
+      "latin": "mergus, mergŭlus",
+      "quotations": [
+        {
+          "old_english": "Dop-fugel mergus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 280, 12"
+        },
+        {
+          "old_english": "Dop-fugel mergŭlus",
+          "latin": null,
+          "english": null,
+          "citations": "Glos. Brux. Recd. 36, 6; Wrt. Voc. 62, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "dop-fugel, es; m. A dipping-fowl, a water-fowl, a moorhen; mergus, merg&u-short;lus :-- Dop-fugel mergus, Wrt. Voc. 280, 12. Dop-fugel merg&u-short;lus, Glos. Brux. Recd. 36, 6; Wrt. Voc. 62, 6."
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "swǽp",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "enticement, deceit",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Syþþan þonne ǽnig yfel geþóht þurh deófles swǽp (suadente diabolo) on úre heortan cume",
+          "latin": "suadente diabolo",
+          "english": null,
+          "citations": "Chrd. 38, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "swǽp enticement, deceit :-- Syþþan þonne ǽnig yfel geþóht þurh deófles swǽp (suadente diabolo) on úre heortan cume, Chrd. 38, 15."
+}

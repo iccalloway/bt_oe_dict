@@ -1,0 +1,43 @@
+{
+  "citation_form": "billere",
+  "variant_forms": [
+    "bil-here",
+    "bil-hergas"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "v. N. E. D., D. D. bilders",
+      "meaning": "a plant name",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Billere bibulta",
+          "latin": null,
+          "english": "(in a list of plant names)",
+          "citations": "Wrt. Voc. i. 286, 29: ii. 11, 58"
+        },
+        {
+          "old_english": "Billeru",
+          "latin": null,
+          "english": null,
+          "citations": "102, 4"
+        },
+        {
+          "old_english": "Bilhergas bibultum",
+          "latin": null,
+          "english": null,
+          "citations": "126, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "billere (, bil-here ?; pl. bil-hergas) a plant name (v. N. E. D., D. D. bilders) :-- Billere bibulta (in a list of plant names), Wrt. Voc. i. 286, 29: ii. 11, 58. Billeru, 102, 4. Bilhergas bibultum, 126, 7."
+}

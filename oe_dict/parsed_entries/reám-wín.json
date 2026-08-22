@@ -1,0 +1,40 @@
+{
+  "citation_form": "reám-wín",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Thick wine, wine with a froth on it (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Reámwín dulcisapa",
+          "latin": "quantum distal dulcisapa a merulento temeto, Ald. 81, 1",
+          "english": null,
+          "citations": "An. Ox. 8, 417: 8 b, 12"
+        },
+        {
+          "old_english": "Merum hlúttor wín, dulcisapa áwilled wín",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 290, 55-56"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "reám-wín, es; n. Thick wine, wine with a froth on it (?) :-- Reámwín dulcisapa (quantum distal dulcisapa a merulento temeto, Ald. 81, 1), An. Ox. 8, 417: 8 b, 12. Cf. Merum hlúttor wín, dulcisapa áwilled wín, Wrt. Voc. i. 290, 55-56."
+}

@@ -1,0 +1,29 @@
+{
+  "citation_form": "gristbátian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to rage",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fremit, i. perstrepit, furit, indignabatur gristbátaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 150, 58"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gristbitian"
+  ],
+  "source_text": "gristbátian. Add: to rage :-- Fremit, i. perstrepit, furit, indignabatur gristbátaþ, Wrt. Voc. ii. 150, 58. v. gristbitian."
+}

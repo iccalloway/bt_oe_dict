@@ -1,0 +1,34 @@
+{
+  "citation_form": "mæsse-gierela",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Vestment used at the celebration of the mass",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Past. 14, 6; Swt. 87, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mæsse-gierela, an; m. Vestment used at the celebration of the mass, Past. 14, 6; Swt. 87, 19."
+}

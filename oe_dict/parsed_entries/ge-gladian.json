@@ -1,0 +1,225 @@
+{
+  "citation_form": "ge-gladian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "trans.",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to make glad, gladden",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": null,
+              "meaning": "of a physical effect",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": [
+                {
+                  "label": "(α)",
+                  "heading": null,
+                  "meaning": "of cheerful appearance",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Gegladað",
+                      "latin": "exilaret (cor gaudens exhilarat faciem)",
+                      "english": null,
+                      "citations": "Kent. Gl. 516"
+                    }
+                  ],
+                  "sub_senses": []
+                },
+                {
+                  "label": "(β)",
+                  "heading": null,
+                  "meaning": "of the reviving effects of a medicine",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Hyt þone innoð wið þæs geallan tógotennysse gegladað",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Lch. i. 270, 5"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "of a mental effect",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðú úsig gigladas",
+              "latin": "nos laetificas",
+              "english": null,
+              "citations": "Rtl. 31, 32"
+            },
+            {
+              "old_english": "Giglædas",
+              "latin": null,
+              "english": null,
+              "citations": "21"
+            },
+            {
+              "old_english": "Ne þǽr árfæstnes sib ne hopa ne swige gegladað",
+              "latin": "nec pax nec pietas immo spes nulla quietis flentibus arrident",
+              "english": null,
+              "citations": "Dóm. L. 220"
+            },
+            {
+              "old_english": "Hé his folc gegladode",
+              "latin": "dedit requiem universis provinciis",
+              "english": null,
+              "citations": "Hml. A. 95, 107"
+            },
+            {
+              "old_english": "Gegladiga",
+              "latin": "laetificet",
+              "english": null,
+              "citations": "Rtl. 18, 15"
+            },
+            {
+              "old_english": "Ic beó gegladod",
+              "latin": "exhilaror",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 145, 3"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to please",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sé sé þe þæt déð þæt his þearfa beóð, sé gegladað God; and sé þe déð ǽnig unnyt, . . . hé ábelhð his Drihtne",
+              "latin": null,
+              "english": null,
+              "citations": "Wlfst. 279, 1"
+            },
+            {
+              "old_english": "Gif hí mid gódum weorcum hine gegladiað",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. T. Grn. 6, 16"
+            },
+            {
+              "old_english": "Þ-bar; hig God gegladian",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. ii. 256, 8"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "to make propitious, propitiate",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se cásere . . . offrigende his lác his árleásum godum wolde hí gegladian . . . þ-bar; hí him fylstan sceoldon",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 28, 38"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "to appease, reconcile, make gentle what is hard",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": null,
+              "meaning": "the object a person",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé mid gebedum gegladað God",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 3, 562"
+                },
+                {
+                  "old_english": "Gegladode",
+                  "latin": "demulcet",
+                  "english": null,
+                  "citations": "An. Ox. 2, 137"
+                },
+                {
+                  "old_english": "Þ-bar; hí þone réðan cásere mid sceattum gegladodon",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 3, 231"
+                },
+                {
+                  "old_english": "Gegladedon",
+                  "latin": "repropitiarent, i. mitigarent",
+                  "english": null,
+                  "citations": "An. Ox. 4724: 2, 374"
+                },
+                {
+                  "old_english": "Gegladudon",
+                  "latin": "reconciliarent",
+                  "english": null,
+                  "citations": "7, 328"
+                },
+                {
+                  "old_english": "Þæt hé him God gegladode",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. ii. 30, 33"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": null,
+              "meaning": "the object a feeling (anger, &c.)",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gegladað",
+                  "latin": "placabit (indignationem)",
+                  "english": null,
+                  "citations": null
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-gladian. Add: I. trans. (1) to make glad, gladden. (a) of a physical effect, (α) of cheerful appearance:--Gegladað exilaret (cor gaudens exhilarat faciem), Kent. Gl. 516. (β) of the reviving effects of a medicine:--Hyt þone innoð wið þæs geallan tógotennysse gegladað, Lch. i. 270, 5. (2) of a mental effect:--Ðú úsig gigladas nos laetificas, Rtl. 31, 32. Giglædas, 21. Ne þǽr árfæstnes sib ne hopa ne swige gegladað nec pax nec pietas immo spes nulla quietis flentibus arrident, Dóm. L. 220. Hé his folc gegladode dedit requiem universis provinciis, Hml. A. 95, 107. Gegladiga laetificet, Rtl. 18, 15. Ic beó gegladod exhilaror, Wrt. Voc. ii. 145, 3. (2) to please:--Sé sé þe þæt déð þæt his þearfa beóð, sé gegladað God; and sé þe déð ǽnig unnyt, . . . hé ábelhð his Drihtne, Wlfst. 279, 1. Gif hí mid gódum weorcum hine gegladiað, Ælfc. T. Grn. 6, 16. Þ-bar; hig God gegladian, Ll. Th. ii. 256, 8. (3) to make propitious, propitiate:--Se cásere . . . offrigende his lác his árleásum godum wolde hí gegladian . . . þ-bar; hí him fylstan sceoldon, Hml. S. 28, 38. (4) to appease, reconcile, make gentle what is hard. (a) the object a person:--Hé mid gebedum gegladað God, Hml. S. 3, 562. Gegladode demulcet, An. Ox. 2, 137. Þ-bar; hí þone réðan cásere mid sceattum gegladodon, Hml. S. 3, 231. Gegladedon repropitiarent, i. mitigarent, An. Ox. 4724: 2, 374. Gegladudon reconciliarent, 7, 328. ¶ to reconcile to (dat.):--Þæt hé him God gegladode, Hml. Th. ii. 30, 33. (b) the object a feeling (anger, &c.):--Gegladað placabit (indignationem),"
+}

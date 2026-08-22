@@ -1,0 +1,48 @@
+{
+  "citation_form": "sadian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "O. H. Ger. satón saturare. Cf. Icel. seðja to satisfy.",
+      "meaning": "to satisfy, satiate",
+      "latin": "saturare",
+      "quotations": [],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to become satisfied, to get satiated or tired",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mé þincþ ðæt ðú sadige hwæt hwegnunges and ðé þincen tó ǽlenge ðás langan spell",
+          "latin": null,
+          "english": "methinks thou art getting somewhat wearied and these long discourses seem to thee too protracted",
+          "citations": "Bt. 39, 4; Fox 218, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-sadian"
+  ],
+  "source_text": "sadian; p. ode. I. to satisfy, satiate. [O. H. Ger. satón saturare. Cf. Icel. seðja to satisfy.] v. ge-sadian. II. to become satisfied, to get satiated or tired :-- Mé þincþ ðæt ðú sadige hwæt hwegnunges and ðé þincen tó ǽlenge ðás langan spell methinks thou art getting somewhat wearied and these long discourses seem to thee too protracted, Bt. 39, 4; Fox 218, 5."
+}

@@ -1,0 +1,34 @@
+{
+  "citation_form": "giþ-corn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Spurgia spurge, guþcorn (? printed guweorn), 140, 32 (middle of 13th cent.). Cf. O. H. Ger. getto lolium. For giþ cf. Lat. git(i), gith(i) name of a plant. v. N. E. D. gith. See also Lch. ii. 248, 2: Gitte hátte súþerne wyrt.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Giðcorn herba munda",
+          "latin": "herba munda",
+          "english": null,
+          "citations": "Wrt. Voc. i. 30, 60"
+        },
+        {
+          "old_english": "Giþcorn citocacia",
+          "latin": "citocacia",
+          "english": null,
+          "citations": "31, 45"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "giþ-corn. Add:--Giðcorn herba munda, Wrt. Voc. i. 30, 60. Giþcorn citocacia, 31, 45. [Spurgia spurge, guþcorn (? printed guweorn), 140, 32 (middle of 13th cent.). Cf. O. H. Ger. getto lolium. For giþ cf. Lat. git(i), gith(i) name of a plant. v. N. E. D. gith. See also Lch. ii. 248, 2: Gitte hátte súþerne wyrt.]"
+}

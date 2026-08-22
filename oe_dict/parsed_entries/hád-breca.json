@@ -1,0 +1,36 @@
+{
+  "citation_form": "hád-breca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A violator of holy orders",
+      "latin": "sacri ordinis violator",
+      "quotations": [
+        {
+          "old_english": "Hád-brécan violators of holy orders",
+          "latin": null,
+          "english": null,
+          "citations": "L. C. S. 6; Th. i. 380, 2 : Lupi Serin. i. 19; Hick. Thes. ii. 105, 3; Swt. A. S. Rdr. 110, 178"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hád-breca, an; m. A violator of holy orders; sacri ordinis violator :-- Hád-brécan violators of holy orders, L. C. S. 6; Th. i. 380, 2 : Lupi Serin. i. 19; Hick. Thes. ii. 105, 3; Swt. A. S. Rdr. 110, 178."
+  ]
+}

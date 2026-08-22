@@ -1,0 +1,39 @@
+{
+  "citation_form": "þyldigian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To endure",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wel þyldigende hí beóð",
+          "latin": "bene patientes erunt",
+          "english": null,
+          "citations": "Ps. Spl. 91, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "á-ðyldigian",
+    "for-ðyldigian",
+    "ge-ðyldigian",
+    "ge-þylgian"
+  ],
+  "source_text": "þyldigian; p. ode To endure :-- Wel þyldigende hí beóð bene patientes erunt, Ps. Spl. 91, 14. v. á-, for-, ge-ðyldigian (-þylgian)."
+}

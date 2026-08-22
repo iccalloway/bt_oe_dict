@@ -1,0 +1,29 @@
+{
+  "citation_form": "film",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Som. Ben. Lye",
+      "meaning": "A FILM, skin, husk",
+      "latin": "cuticula",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fylmen"
+  ],
+  "source_text": "film, es; m. A FILM, skin, husk; c&u-short;t&i-short;c&u-short;la, Som. Ben. Lye. v. fylmen."
+}

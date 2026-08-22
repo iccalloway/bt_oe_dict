@@ -1,0 +1,25 @@
+{
+  "english_lemma": "protect",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "protect.v.01",
+      "definition": "shield from danger, injury, destruction, or damage",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-weardian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "defendere, protegere"
+          ],
+          "attestations": [
+            "Ors. 5, 3; Bar. 182, 19"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

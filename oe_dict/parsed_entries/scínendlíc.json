@@ -1,0 +1,28 @@
+{
+  "citation_form": "scínendlíc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Clear, bright",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Beorht &l-bar; scínendlíc &l-bar; leóht lucidum",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Lamb. 18, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "þurh-scínendlíc"
+  ],
+  "source_text": "scínendlíc; adj. Clear, bright:-- Beorht &l-bar; scínendlíc &l-bar; leóht lucidum, Ps. Lamb. 18, 9. v. þurh-scínendlíc."
+}

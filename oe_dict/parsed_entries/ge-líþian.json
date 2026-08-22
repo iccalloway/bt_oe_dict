@@ -1,0 +1,35 @@
+{
+  "citation_form": "ge-líþian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þæt yrre wédendra gelíþige",
+          "latin": "ut iram saeuientium mitiget",
+          "english": null,
+          "citations": "Scint. 121, I"
+        },
+        {
+          "old_english": "Ðæt hé ryhtlíce and stíðlíce wrecan sceolde, ðæt hé ðæt ne forielde . . . ðætte tó ungemetlíce ne sié gelíðod ðǽm scyldgan",
+          "latin": "ne hoc, quod agi recte ac graviter potuit, immature praeveniens laeviget",
+          "english": null,
+          "citations": "Past. 151, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-líþian. Take here Shrn. 130, 5 and Past. 159, 3 in Dict., and add :-- Þæt yrre wédendra gelíþige ut iram saeuientium mitiget, Scint. 121, I. Ðæt hé ryhtlíce and stíðlíce wrecan sceolde, ðæt hé ðæt ne forielde . . . ðætte tó ungemetlíce ne sié gelíðod ðǽm scyldgan ne hoc, quod agi recte ac graviter potuit, immature praeveniens laeviget, Past. 151, 2."
+  ]
+}

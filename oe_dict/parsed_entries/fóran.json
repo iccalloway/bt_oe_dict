@@ -1,0 +1,102 @@
+{
+  "citation_form": "fóran",
+  "variant_forms": [
+    "foran",
+    "foro"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "preposition",
+        "governs": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "Before",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eádsige foran eallum folce hine lǽrde",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1043 ; P. 163, 20"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "alone",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "marking position, in front",
+              "meaning": "marking position, in front",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hié fortendun þæt swíðre breóst foran",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ors. i. 10; S. 46, 12: Rü. 45, 2"
+                },
+                {
+                  "old_english": "Sé þe foran lǽdeð brídels",
+                  "latin": null,
+                  "english": "he that in front guides the bridle",
+                  "citations": "El. 1184"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "in front of that which is defended",
+              "meaning": "in front of that which is defended",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé hiene foran forstód",
+                  "latin": null,
+                  "english": "he stood in front and defended him",
+                  "citations": "Ors. 4, 8; S. 186, 25"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(c)",
+              "heading": "in front of that which is obstructed or interfered with",
+              "meaning": "in front of that which is obstructed or interfered with",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hí þá men ofslógon þe hié foran forrídan mehton bútan geweorce",
+                  "latin": null,
+                  "english": "they slew the men whose retreat they could cut",
+                  "citations": null
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fóran; prep. adv. Substitute: foran, foro. I. prep. Before :-- Eádsige foran eallum folce hine lǽrde, Chr. 1043 ; P. 163, 20. II. adv. (1) alone, (a) marking position, in front :-- Hié fortendun þæt swíðre breóst foran, Ors. i. 10; S. 46, 12: Rü. 45, 2. Sé þe foran lǽdeð brídels he that in front guides the bridle, El. 1184. (b) in front of that which is defended :-- Hé hiene foran forstód he stood in front and defended him, Ors. 4, 8; S. 186, 25. (c) in front of that which is i obstructed or interfered with :-- Hí þá men ofslógon þe hié foran forrídan , mehton bútan geweorce they slew the men whose retreat they could cut"
+}

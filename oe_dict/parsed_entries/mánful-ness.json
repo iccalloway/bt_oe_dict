@@ -1,0 +1,40 @@
+{
+  "citation_form": "mánful-ness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Wickedness",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Git Martianus for his mánfulnysse nolde on God gelýfan",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. 4, 389"
+        },
+        {
+          "old_english": "Hé leornode ǽfre máran and máran on his mánfulnysse and ne lét nánne his gelícan on yfele",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. T. Grn. 17, 28"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mánful-ness, e; f. Wickedness :-- Git Martianus for his mánfulnysse nolde on God gelýfan, Homl. Skt. 4, 389. Hé leornode ǽfre máran and máran on his mánfulnysse and ne lét nánne his gelícan on yfele, Ælfc. T. Grn. 17, 28."
+}

@@ -1,0 +1,23 @@
+{
+  "english_lemma": "corrupt",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "historical_unmapped",
+      "definition": null,
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-molsnian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "putrefacere"
+          ],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

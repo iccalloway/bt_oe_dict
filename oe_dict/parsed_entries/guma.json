@@ -1,0 +1,243 @@
+{
+  "citation_form": "guma",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þǽr læg secg mænig, guma norðerna",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 937; P. 106, 26"
+        },
+        {
+          "old_english": "Rinc mænig, gúðfrec guma",
+          "latin": null,
+          "english": null,
+          "citations": "An. 1119"
+        },
+        {
+          "old_english": "Guman út scufon, weras . . .",
+          "latin": null,
+          "english": null,
+          "citations": "B. 215"
+        },
+        {
+          "old_english": "Módige magoþegnas, mágas síne, godfyrhte guman",
+          "latin": null,
+          "english": null,
+          "citations": "An. 1518"
+        },
+        {
+          "old_english": "Wítgan, gásthálige guman",
+          "latin": null,
+          "english": null,
+          "citations": "El. 562"
+        },
+        {
+          "old_english": "Guman ríce and heáne",
+          "latin": null,
+          "english": null,
+          "citations": "Rä. 33, 12"
+        },
+        {
+          "old_english": "Ðá foremǽran bisna þára gódena gumena and þǽra weorþgeornena wera",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 40, 4 ; F. 238, 29"
+        },
+        {
+          "old_english": "Gumena maenigeo, hæleð in healle",
+          "latin": null,
+          "english": null,
+          "citations": "Dan. 728"
+        },
+        {
+          "old_english": "Folcstede gumena, hæleða éðel",
+          "latin": null,
+          "english": null,
+          "citations": "An. 20"
+        },
+        {
+          "old_english": "Gúðsearo gumena . . . sǽmanna searo",
+          "latin": null,
+          "english": null,
+          "citations": "B. 328"
+        },
+        {
+          "old_english": "Tó secganne gumena ǽngum",
+          "latin": null,
+          "english": null,
+          "citations": "474"
+        },
+        {
+          "old_english": "Gumena sum",
+          "latin": null,
+          "english": null,
+          "citations": "1499"
+        },
+        {
+          "old_english": "Gumena náthwylc",
+          "latin": null,
+          "english": null,
+          "citations": "2233"
+        },
+        {
+          "old_english": "Him God sealde gumena ríce, worlde tó gewealde in wera lífe",
+          "latin": null,
+          "english": null,
+          "citations": "Dan. 607: Víd. 133"
+        },
+        {
+          "old_english": "Hé weóld ealles þisses middangeardes, swá swá . . . gársecg embegyrt gumena ríce, secga sitlu",
+          "latin": null,
+          "english": null,
+          "citations": "Met. 9, 41"
+        },
+        {
+          "old_english": "Metod weóld gumena cynnes",
+          "latin": null,
+          "english": null,
+          "citations": "B. 1058: An. 582"
+        },
+        {
+          "old_english": "Hæleða leófost gumena cynnes",
+          "latin": null,
+          "english": null,
+          "citations": "Gú. 1177"
+        },
+        {
+          "old_english": "Þá heó séleste mid lúdéum gumena wiste hæleða cynnes",
+          "latin": null,
+          "english": null,
+          "citations": "El. 1203"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "in epithets",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(l)",
+              "heading": "of the Deity",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gumena Dryhten",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 515 : An. 621: Hy. 6, 14"
+                },
+                {
+                  "old_english": "Gumena weard",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Crä. 59: Hy. 6, 19"
+                },
+                {
+                  "old_english": "Gumena brego",
+                  "latin": null,
+                  "english": null,
+                  "citations": "An. 61"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2)",
+              "heading": "of earthly princes",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gumena baldor",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 2693 : Jud. 9"
+                },
+                {
+                  "old_english": "Gumena aldor",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Dan. 549"
+                },
+                {
+                  "old_english": "Gumena drihten",
+                  "latin": null,
+                  "english": null,
+                  "citations": "613; B. 1824"
+                },
+                {
+                  "old_english": "Gumena weard",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Dan. 636"
+                },
+                {
+                  "old_english": "Sigecyning . . . gúðweard gumena",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Exod. 174"
+                },
+                {
+                  "old_english": "Hé wæs riht cyning, gúðweard gumena",
+                  "latin": null,
+                  "english": null,
+                  "citations": "El. 14"
+                },
+                {
+                  "old_english": "Sinces brytta . . . goldwine gumena",
+                  "latin": null,
+                  "english": null,
+                  "citations": "B. 1171: 1476: El. 201: Jud. 22"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": null,
+              "heading": "of other than mere men",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Feásceaft guma (Grendel)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "B. 973"
+                },
+                {
+                  "old_english": "Ic wæs mid blóde bestémed begoten of þæs guman (Christ's) sídan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Kr. 49"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "seld-guma"
+  ],
+  "source_text": [
+    "guma. Add :-- Þǽr læg secg mænig, guma norðerna, Chr. 937; P. 106, 26. Rinc mænig, gúðfrec guma, An. 1119. Guman út scufon, weras . . . , B. 215. Módige magoþegnas, mágas síne, godfyrhte guman, An. 1518. Wítgan, gásthálige guman, El. 562. Guman ríce and heáne, Rä. 33, 12. Ðá foremǽran bisna þára gódena gumena and þǽra weorþgeornena wera, Bt. 40, 4 ; F. 238, 29. Gumena maenigeo, hæleð in healle, Dan. 728. Folcstede gumena, hæleða éðel, An. 20. Gúðsearo gumena . . . sǽmanna searo, B. 328. Tó secganne gumena ǽngum, 474. Gumena sum, 1499. Gumena náthwylc, 2233. Him God sealde gumena ríce, worlde tó gewealde in wera lífe, Dan. 607: Víd. 133. Hé weóld ealles þisses middangeardes, swá swá . . . gársecg embegyrt gumena ríce, secga sitlu, Met. 9, 41. Metod weóld gumena cynnes, B. 1058: An. 582. Hæleða leófost gumena cynnes, Gú. 1177. Þá heó séleste mid lúdéum gumena wiste hæleða cynnes, El. 1203. ¶ in epithets, (l) of the Deity :-- Gumena Dryhten, Gen. 515 : An. 621: Hy. 6, 14. Gumena weard, Crä. 59: Hy. 6, 19. Gumena brego, An. 61. (2) of earthly princes :-- Gumena baldor, Gen. 2693 : Jud. 9. Gumena aldor, Dan. 549. Gumena drihten, 613; B. 1824. Gumena weard, Dan. 636. Sigecyning . . . gúðweard gumena, Exod. 174. Hé wæs riht cyning, gúðweard gumena, El. 14. Sinces brytta . . . goldwine gumena, B. 1171: 1476: El. 201: Jud. 22. ¶ of other than mere men :-- Feásceaft guma (Grendel), B. 973. Ic wæs mid blóde bestémed begoten of þæs guman (Christ's) sídan, Kr. 49. v. seld-guma."
+  ]
+}

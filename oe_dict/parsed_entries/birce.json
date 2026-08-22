@@ -1,0 +1,66 @@
+{
+  "citation_form": "birce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Birciae, birce populus",
+          "latin": null,
+          "english": null,
+          "citations": "Txts. 88, 792"
+        },
+        {
+          "old_english": "Birce",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 285, 22"
+        },
+        {
+          "old_english": "Byrce",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 68, 25"
+        },
+        {
+          "old_english": "Birce beta",
+          "latin": null,
+          "english": null,
+          "citations": "i. 285, 38: ii. 11, 57"
+        },
+        {
+          "old_english": "Byrce betulus",
+          "latin": null,
+          "english": null,
+          "citations": "12, 65"
+        },
+        {
+          "old_english": "Beeástan ðá bircan",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iii. 213, 3"
+        },
+        {
+          "old_english": "In ðá twislihtran biricean",
+          "latin": null,
+          "english": null,
+          "citations": "391, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "beorc"
+  ],
+  "source_text": "birce. Add :-- Birciae, birce populus, Txts. 88, 792. Birce, Wrt. Voc. i. 285, 22. Byrce, ii. 68, 25. Birce beta, i. 285, 38: ii. 11, 57. Byrce betulus, 12, 65. Beeástan ðá bircan, C. D. iii. 213, 3. In ðá twislihtran biricean, 391, 21. v. beorc."
+}

@@ -1,0 +1,21 @@
+{
+  "english_lemma": "year",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "year.n.01",
+      "definition": "a period of time containing 365 (or 366) days",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "G",
+          "pos": "noun",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

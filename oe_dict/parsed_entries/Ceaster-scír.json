@@ -1,0 +1,36 @@
+{
+  "citation_form": "Ceaster-scír",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "ceaster III. Chester, scír a shire",
+      "meaning": "Cheshire",
+      "latin": "ager Cestrensis",
+      "quotations": [
+        {
+          "old_english": "Rodbeard wæs gecoren to bisceope to Ceasterscíre",
+          "latin": null,
+          "english": "Robert was chosen bishop of Cheshire",
+          "citations": "Chr. 1085; Erl. 218, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "Ceaster-scír, e; f. [ceaster III. Chester, scír a shire] Cheshire; ager Cestrensis :-- Rodbeard wæs gecoren to bisceope to Ceasterscíre Robert was chosen bishop of Cheshire, Chr. 1085; Erl. 218, 21."
+  ]
+}

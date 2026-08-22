@@ -1,0 +1,31 @@
+{
+  "english_lemma": "excite",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "excite.v.01",
+      "definition": "arouse or elicit a feeling",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hwettan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "excitare, accendere"
+          ],
+          "attestations": [
+            "Andr. Kmbl. 606; An. 303"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ðæt ic ðé mǽge lust ahwettan",
+              "english": "that I may excite thy desire",
+              "citations": "Andr. Kmbl. 606; An. 303"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

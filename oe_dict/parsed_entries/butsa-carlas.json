@@ -1,0 +1,28 @@
+{
+  "citation_form": "butsa-carlas",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "bátes carlas, i. e. bát-sǽ carlas",
+      "meaning": "Seamen, sailors",
+      "latin": "nautæ",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1066; Ing. 259, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "butsa-carlas [bátes carlas, i. e. bát-sǽ carlas] Seamen, sailors; nautæ, Chr. 1066; Ing. 259, 4."
+}

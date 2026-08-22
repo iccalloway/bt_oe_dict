@@ -1,0 +1,38 @@
+{
+  "citation_form": "elm-boga",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An elbow",
+      "latin": "cubitum",
+      "quotations": [
+        {
+          "old_english": "Gif se earm biþ forad búfan elmbogan if the arm be broken above the elbow",
+          "latin": null,
+          "english": "if the arm be broken above the elbow",
+          "citations": "L. Alf. pol. 54; Th. i. 94, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "el-boga"
+  ],
+  "source_text": [
+    "elm-boga, an; m. An elbow; c&u-short;b&i-short;tum :-- Gif se earm biþ forad búfan elmbogan if the arm be broken above the elbow, L. Alf. pol. 54; Th. i. 94, 24. v. el-boga."
+  ]
+}

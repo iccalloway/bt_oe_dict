@@ -1,0 +1,46 @@
+{
+  "citation_form": "steóp-fæder",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "O. Frs. stiap-fader: O. H. Ger. stiuf-fater vitricus: Icel. stjúp-faðir.",
+      "meaning": "A step-father",
+      "latin": "vitricus",
+      "quotations": [
+        {
+          "old_english": "Steópfaeder bitricius",
+          "latin": null,
+          "english": null,
+          "citations": "Txts. 45, 300"
+        },
+        {
+          "old_english": "Steópfaeder, steúpfaedaer, staupfotar, steúffeder vitricius",
+          "latin": null,
+          "english": null,
+          "citations": "107, 2124"
+        },
+        {
+          "old_english": "Steóp-fæder vitricus vel patraster",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. i. 52, 11: 72, 31: 284, 75: ii. 11, 10"
+        },
+        {
+          "old_english": "Hé ofslóh ge his ágenne fæder ge his steópfæder (vitricum suum)",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 1, 8; Swt. 42, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "steóp-fæder; m. A step-father :-- Steópfaeder bitricius, Txts. 45, 300. Steópfaeder, steúpfaedaer, staupfotar, steúffeder vitricius, 107, 2124. Steóp-fæder vitricus vel patraster, Wrt. i. 52, 11: 72, 31: 284, 75: ii. 11, 10. Hé ofslóh ge his ágenne fæder ge his steópfæder (vitricum suum), Ors. 1, 8; Swt. 42, 22. [O. Frs. stiap-fader: O. H. Ger. stiuf-fater vitricus: Icel. stjúp-faðir.]"
+}

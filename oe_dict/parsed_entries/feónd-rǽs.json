@@ -1,0 +1,28 @@
+{
+  "citation_form": "feónd-rǽs",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Frolle him to fusden mid his feondræse (reasde mid his feondreases, 2nd MS.), Laym. 23960.",
+      "meaning": "A hostile attack, an onslaught, assault",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic fracoðlíce feóndrǽs gefremede . . . and reáfode beám on bearwe",
+          "latin": null,
+          "english": "I (Eve) wickedly made onslaught and despoiled the tree in the garden",
+          "citations": "Gen. 900"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "feónd-rǽs. Substitute: A hostile attack, an onslaught, assault:--Ic fracoðlíce feóndrǽs gefremede . . . and reáfode beám on bearwe I (Eve) wickedly made onslaught and despoiled the tree in the garden, Gen. 900. [Frolle him to fusden mid his feondræse (reasde mid his feondreases, 2nd MS.), Laym. 23960.]"
+}

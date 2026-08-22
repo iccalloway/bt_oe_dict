@@ -1,0 +1,81 @@
+{
+  "citation_form": "wiþ-winnan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-wann",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wunnon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To strive against, resist",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Went hé mid ealle cræfte ongén ðæs óðres geðyld, ðe him ðonne giet wiðwind",
+          "latin": "eum obsistentem fortiter",
+          "english": null,
+          "citations": "Past. 33; Swt. 227, 7"
+        },
+        {
+          "old_english": "Eallum his wordum hí wiðcwǽdon and wiþwunnan",
+          "latin": "cunctis quae dicebat contradicere laborabant",
+          "english": null,
+          "citations": "Bd. 2, 2; S. 503, 17"
+        },
+        {
+          "old_english": "'Nis nán wuht ðe mæge swá heágum góde wiþcweþan.' Ðá cwæþ ic: 'Né wéne ic ðæt ǽnig wuht sié ðe wiþwinne'",
+          "latin": "non est igitur aliquid, quod summo huic bono possit obsistere. Non, inquam, arbitror",
+          "english": null,
+          "citations": "Bt. 35, 4; Fox 160, 31"
+        },
+        {
+          "old_english": "Hwæt wilt ðú cweþan, gif hwá nylle wiþwinnan",
+          "latin": null,
+          "english": null,
+          "citations": "36, 6; Fox 182, 6"
+        },
+        {
+          "old_english": "Ðone anwald maeg wel reccan se ðe ǽgðer ge hine habban cann ge wiðwinnan",
+          "latin": "potentiam bene regit qui et tenere illam noverit et impugnare",
+          "english": null,
+          "citations": "Past. 17; Swt. 113, 21"
+        },
+        {
+          "old_english": "Ðeáh ðe hé swýþe wiþwinnende wǽre",
+          "latin": "quamvis multum renitens",
+          "english": null,
+          "citations": "Bd. 4, 28; S. 606, 17"
+        },
+        {
+          "old_english": "Ða biscepas sǽdon ðæt ealle godas him irre wǽren and wiðwinnende",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 3, 7; Swt. 114, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wiþer-winnan",
+    "wiþ"
+  ],
+  "source_text": [
+    "wiþ-winnan; p. -wann, pl. -wunnon To strivi. against, resist:--Went hé mid ealle cræfte ongén ðæs óðres geðyld, ðe him ðonne giet wiðwind (eum obsistentem fortiter), Past. 33; Swt. 227, 7. Eallum his wordum hí wiðcwǽdon and wiþwunnan cunctis quae dicebat contradicere laborabant, Bd. 2, 2; S. 503, 17. 'Nis nán wuht ðe mæge swá heágum góde wiþcweþan.' Ðá cwæþ ic: 'Né wéne ic ðæt ǽnig wuht sié ðe wiþwinne' non est igitur aliquid, quod summo huic bono possit obsistere. Non, inquam, arbitror, Bt. 35, 4; Fox 160, 31. Hwæt wilt ðú cweþan, gif hwá nylle wiþwinnan, 36, 6; Fox 182, 6. Ðone anwald maeg wel reccan se ðe ǽgðer ge hine habban cann ge wiðwinnan potentiam bene regit qui et tenere illam noverit et impugnare, Past. 17; Swt. 113, 21. Ðeáh ðe hé swýþe wiþwinnende wǽre quamvis multum renitens, Bd. 4, 28; S. 606, 17. Ða biscepas sǽdon ðæt ealle godas him irre wǽren and wiðwinnende, Ors. 3, 7; Swt. 114, 4. V. wiþer-winnan, wiþ, II. 10."
+  ]
+}

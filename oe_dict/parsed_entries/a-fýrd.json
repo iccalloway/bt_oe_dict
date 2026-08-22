@@ -1,0 +1,36 @@
+{
+  "citation_form": "a-fýrd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A eunuch",
+      "latin": "spado",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 189"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-fýrida"
+  ],
+  "source_text": "a-fýrd, es; m. A eunuch; spado, Cot. 189. v. a-fýrida."
+}

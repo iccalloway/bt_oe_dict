@@ -1,0 +1,31 @@
+{
+  "citation_form": "for-beád",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "forbade; 1st and 3rd sing. p. of for-beódan",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cd. 30; Th. 40, 11; Gen. 637"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "for-beódan"
+  ],
+  "source_text": [
+    "for-beád forbade, Cd. 30; Th. 40, 11; Gen. 637; 1st and 3rd sing. p. of for-beódan."
+  ]
+}

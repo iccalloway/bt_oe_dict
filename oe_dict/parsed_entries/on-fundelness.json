@@ -1,0 +1,40 @@
+{
+  "citation_form": "on-fundelness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Experience, proof",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðysse wyrte onfundelnysse manega ealdras geséðaþ",
+          "latin": null,
+          "english": "many authorities testify to the efficacy of this plant from experience",
+          "citations": "Lchdm. i. 140, 9"
+        },
+        {
+          "old_english": "Hyt déþ onfundelnysse ðæs sylfan þinges",
+          "latin": null,
+          "english": "it will give proof of the same thing, the second method will prove as efficacious as the first",
+          "citations": "162, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "on-fundelness, e; f. Experience, proof:--Ðysse wyrte onfundelnysse manega ealdras geséðaþ many authorities testify to the efficacy of this plant from experience, Lchdm. i. 140, 9. Hyt déþ onfundelnysse ðæs sylfan þinges it will give proof of the same thing, the second method will prove as efficacious as the first, 162, 1."
+}

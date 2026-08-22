@@ -1,0 +1,89 @@
+{
+  "citation_form": "fellan",
+  "variant_forms": [
+    "fyllan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "felle",
+            "person": "1",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "felest",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "felst",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "feleþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "felþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "fellaþ",
+            "person": null,
+            "number": "plural",
+            "tense": "present"
+          },
+          {
+            "form": "felde",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "feldon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "felled",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To cause to fall, to fell, cut or throw down, strip off, destroy",
+      "latin": "cædĕre, sternĕre, projĭcĕre, abjĭcĕre, dejĭcĕre, destruĕre",
+      "quotations": [
+        {
+          "old_english": "Gefered ðǽr hit felde",
+          "latin": null,
+          "english": "borne where it was thrown down",
+          "citations": "Exon. 109 b; Th. 419, 11; Rä. 38, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-fellan",
+    "be-fellan",
+    "fyllan",
+    "feallan"
+  ],
+  "source_text": "fellan, fyllan; ic felle, ðú felest, felst, he feleþ, felþ, pl. fellaþ; p. felde, pl. feldon; pp. felled; v. trans. To cause to fall, to fell, cut or throw down, strip off, destroy; cæd&e-short;re, stern&e-short;re, proj&i-short;c&e-short;re, abj&i-short;c&e-short;re, dej&i-short;c&e-short;re, destru&e-short;re :-- Gefered ðǽr hit felde borne where it was thrown down, Exon. 109 b; Th. 419, 11; Rä. 38, 4. DER. a-fellan, be-. v. fyllan, feallan."
+}

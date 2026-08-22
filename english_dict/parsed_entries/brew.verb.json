@@ -1,0 +1,37 @@
+{
+  "english_lemma": "brew",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "brew.v.01",
+      "definition": "prepare by brewing",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BREÓWAN",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "cerevisiam coquere"
+          ],
+          "attestations": [
+            "Ors. 1. 1; Bos. 22, 17",
+            "Homl. Th. i. 352, 7"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ne biþ ðǽr nǽnig ealo gebrowen mid Estum",
+              "english": "there is no ale brewed by the Esthonians",
+              "citations": "Ors. 1. 1; Bos. 22, 17"
+            },
+            {
+              "old_english": "Ne dranc he nánes gemencgedes wǽtan, ne gebrowenes",
+              "english": "he drank not of any mixed or brewed fluid",
+              "citations": "Homl. Th. i. 352, 7"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

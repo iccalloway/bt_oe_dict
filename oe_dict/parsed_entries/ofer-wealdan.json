@@ -1,0 +1,29 @@
+{
+  "citation_form": "ofer-wealdan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to rule over, control",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ne lǽte hé nǽfre his hýrmen hyne oferwealdan",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. ix. 260, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wealdan"
+  ],
+  "source_text": "ofer-wealdan to rule over, control :-- Ne lǽte hé nǽfre his hýrmen hyne oferwealdan, Angl. ix. 260, 27. Cf. wealdan; III d."
+}

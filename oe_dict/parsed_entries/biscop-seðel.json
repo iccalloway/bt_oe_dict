@@ -1,0 +1,36 @@
+{
+  "citation_form": "biscop-seðel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "seðles",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "seðel a seat",
+      "meaning": "A bishop's seat or residence",
+      "latin": "sedes episcopalis",
+      "quotations": [
+        {
+          "old_english": "Mellitus féng to ðam biscopseðle Contwara burge cirican",
+          "latin": "Mellitus sedem Doruvernensis ecclesiæ suscepit",
+          "english": "Mellitus succeeded to the episcopal residence of Canterbury church",
+          "citations": "Bd. 2, 7; S. 509, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "biscop-seðel; g. -seðles; n. [seðel a seat] A bishop's seat or residence; sedes episcopalis :-- Mellitus féng to ðam biscopseðle Contwara burge cirican Mellitus succeeded to the episcopal residence of Canterbury church; Mellitus sedem Doruvernensis ecclesiæ suscepit, Bd. 2, 7; S. 509, 8."
+  ]
+}

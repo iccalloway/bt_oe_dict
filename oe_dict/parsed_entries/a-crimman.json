@@ -1,0 +1,46 @@
+{
+  "citation_form": "a-crimman",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-cramm",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-crummon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-crummen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To crumble",
+      "latin": "friare",
+      "quotations": [
+        {
+          "old_english": "Acrummen in micas fractus",
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 88: 179: 193"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "a-crimman; p. -cramm, pl. -crummon; pp. -crummen To crumble; friare :-- Acrummen in micas fractus, Cot. 88: 179: 193."
+}

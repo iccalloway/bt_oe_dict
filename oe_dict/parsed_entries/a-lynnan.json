@@ -1,0 +1,50 @@
+{
+  "citation_form": "a-lynnan",
+  "variant_forms": [
+    "-linnan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-lann",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-lunnon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-lunnen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To deliver, free from, release",
+      "latin": "liberare, evellere",
+      "quotations": [
+        {
+          "old_english": "He wolde hine alynnan of láþscipe",
+          "latin": null,
+          "english": "he would release him from calamity",
+          "citations": "Cd. 95; Th. 123, 19; Gen. 2048"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "a-lynnan, -linnan; p. -lann, pl. -lunnon; pp. -lunnen To deliver, free from, release; liberare, evellere :-- He wolde hine alynnan of láþscipe he would release him from calamity, Cd. 95; Th. 123, 19; Gen. 2048."
+  ]
+}

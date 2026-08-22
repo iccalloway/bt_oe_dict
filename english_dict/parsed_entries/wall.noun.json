@@ -1,0 +1,21 @@
+{
+  "english_lemma": "wall",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "rampart.n.01",
+      "definition": "an embankment built around a space for defensive purposes",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "G",
+          "pos": "noun",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

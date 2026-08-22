@@ -1,0 +1,30 @@
+{
+  "citation_form": "hǽþ-cole",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Cassis, galea",
+      "latin": "Cassis, galea",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 32, 36, Lye."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hǽþ-cole Cassis, galea, Cot. 32, 36, Lye."
+  ]
+}

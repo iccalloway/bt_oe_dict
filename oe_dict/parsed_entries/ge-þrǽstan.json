@@ -1,0 +1,162 @@
+{
+  "citation_form": "ge-þrǽstan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geþrǽste attrivit",
+          "latin": "attrivit",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 6, 11"
+        },
+        {
+          "old_english": null,
+          "latin": "contrivit",
+          "english": null,
+          "citations": "134, 80"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "to crush material, break to pieces, smash",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Mid þy fylle ðæs wáges forþryccende hé geþrǽste (tócwýsde, v. l.) ǽnne þára muneca",
+              "latin": "parietem evertit, atque unum monachum opprimens ruina contrivit",
+              "english": null,
+              "citations": "Gr. D. 125, 6"
+            },
+            {
+              "old_english": "Geðrǽste geatu ðá ǽrenan",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Vos. 106, 16"
+            },
+            {
+              "old_english": "Ðá heán muntas beóð genehhe mid heofenfýre geþrǽste",
+              "latin": null,
+              "english": null,
+              "citations": "Wlfst. 262, 15"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "to destroy",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ealle trymenesse hláfes geðræste",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Vos. 104, 16"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "III.",
+          "heading": null,
+          "meaning": "to vex, distress, afflict",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "the body",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þá ásweóll him se líchama ... sárlíce hé wæs mid þám sáre geswenced ... þá sǽde hé him þone intingan þurh hwæt hé ǽrest swá geþrǽst wǽre",
+                  "latin": "causam vexationis suae narrabat",
+                  "english": null,
+                  "citations": "Guth. Gr. 153, 18"
+                },
+                {
+                  "old_english": "Ic wæs swíðe geþrést for þyses wéstenes wæter wǽdlnesse",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 23 b, 537"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "the mind",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gif þú gesihst éhtere þínne þearle wédende, wite þú þæt fram átendendum his deófle byþ geþrǽst",
+                  "latin": "ab accensore suo demone (p)urguetur",
+                  "english": null,
+                  "citations": "Scint. 208, 4"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "IV.",
+          "heading": null,
+          "meaning": "to constrain, bind, confine",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Geþrǽst artatur, i. constringitur",
+              "latin": "artatur, i. constringitur",
+              "english": null,
+              "citations": "An. Ox. 2121"
+            },
+            {
+              "old_english": "Sí geþrǽst, gehæft mancipatur, i. retinetur",
+              "latin": "mancipatur, i. retinetur",
+              "english": null,
+              "citations": "1164"
+            },
+            {
+              "old_english": null,
+              "latin": "mancipatur, i. commendetur",
+              "english": null,
+              "citations": "2352"
+            },
+            {
+              "old_english": "Gescriuene, geþrǽste addicti (geþrésde adducti, Hpt. Gl. 440, 37)",
+              "latin": "addicti",
+              "english": null,
+              "citations": "1452"
+            },
+            {
+              "old_english": "Geþrǽste artabantur",
+              "latin": "artabantur",
+              "english": null,
+              "citations": "4876"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ge-þrǽstedness"
+  ],
+  "source_text": "ge-þrǽstan. Add; -- Geþrǽste attrivit, Wrt. Voc. ii. 6, 11: contrivit, 134, 80. I. to crush material, break to pieces, smash. v. ge-þrǽstedness: I :-- Mid þy fylle ðæs wáges forþryccende hé geþrǽste (tócwýsde, v. l.) ǽnne þára muneca parietem evertit, atque unum monachum opprimens ruina contrivit, Gr. D. 125, 6. Geðrǽste geatu ðá ǽrenan, Ps. Vos. 106, 16. Ðá heán muntas beóð genehhe mid heofenfýre geþrǽste, Wlfst. 262, 15. II. to destroy :-- Ealle trymenesse hláfes geðræste, Ps. Vos. 104, 16. III. to vex, distress, afflict. (1) the body :-- Þá ásweóll him se líchama ... sárlíce hé wæs mid þám sáre geswenced ... þá sǽde hé him þone intingan þurh hwæt hé ǽrest swá geþrǽst wǽre (causam vexationis suae narrabat), Guth. Gr. 153, 18. Ic wæs swíðe geþrést for þyses wéstenes wæter wǽdlnesse, Hml. S. 23 b, 537. (2) the mind :-- Gif þú gesihst éhtere þínne þearle wédende, wite þú þæt fram átendendum his deófle byþ geþrǽst (ab accensore suo demone (p)urguetur), Scint. 208, 4. IV. to constrain, bind, confine :-- Geþrǽst artatur, i. constringitur, An. Ox. 2121. Sí geþrǽst, gehæft mancipatur, i. retinetur, 1164; mancipatur, i. commendetur, 2352. Gescriuene, geþrǽste addicti (geþrésde adducti, Hpt. Gl. 440, 37), 1452. Geþrǽste artabantur, 4876."
+}

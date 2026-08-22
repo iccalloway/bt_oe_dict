@@ -1,0 +1,28 @@
+{
+  "english_lemma": "appear",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "appear.v.02",
+      "definition": "come into sight or view",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-blican",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "dealbari, micare",
+            "ego autem in justitia apparebo [micabo]",
+            "super nivem dealbabor"
+          ],
+          "attestations": [
+            "Ps. Spl. T. 16, 17",
+            "Ps. Spl. 50, 8"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

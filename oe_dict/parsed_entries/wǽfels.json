@@ -1,0 +1,96 @@
+{
+  "citation_form": "wǽfels",
+  "variant_forms": [
+    "wéfels"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A covering, wrap, cloak, veil",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wǽfels tegmen",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9, 12; Zup. 41, 1"
+        },
+        {
+          "old_english": "Wǽfelses &l-bar; scýtan sindonis",
+          "latin": null,
+          "english": null,
+          "citations": "Hpt. Gl. 494, 13"
+        },
+        {
+          "old_english": "Wǽfel(se), basincge chlamide",
+          "latin": null,
+          "english": null,
+          "citations": "456, 46"
+        },
+        {
+          "old_english": "Under wǽfelse velamento, indumento",
+          "latin": null,
+          "english": null,
+          "citations": "457, 24"
+        },
+        {
+          "old_english": "Mid gewefenum wǽfelsa consuta plectra",
+          "latin": null,
+          "english": null,
+          "citations": "462, 63"
+        },
+        {
+          "old_english": "Hí wǽdligende on ánum wáclícum wǽfelse férdon",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 62, 29"
+        },
+        {
+          "old_english": "On wǽfelse (tegmine) fyþera ðínra",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 35, 8"
+        },
+        {
+          "old_english": "Oferbrǽdels &l-bar; wǽfels opertorium",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Lamb. 101, 27"
+        },
+        {
+          "old_english": "Ðam ðe wylle niman ðíne tunecan, lǽt him tó ðínne wǽfels (pallium)",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Kmbl. 5, 40: Gen. 39, 12: 24, 65: Ap. Th. 11, 27"
+        },
+        {
+          "old_english": "Ælmesgedál dǽle man gelóme, mete ðám ofhingredum, wǽfels ðám nacedum",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 74, 4"
+        },
+        {
+          "old_english": "Wéfels pallium",
+          "latin": null,
+          "english": null,
+          "citations": "Kent. Gl. 968"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "wǽfels, es; m. A covering, wrap, cloak, veil :-- Wǽfels tegmen, Ælfc. Gr. 9, 12; Zup. 41, 1. Wǽfelses &l-bar; scýtan sindonis, Hpt. Gl. 494, 13. Wǽfel(se), basincge chlamide, 456, 46. Under wǽfelse velamento, indumento, 457, 24. Mid gewefenum wǽfelsa consuta plectra, 462, 63. Hí wǽdligende on ánum wáclícum wǽfelse férdon, Homl. Th. i. 62, 29. On wǽfelse (tegmine) fyþera ðínra, Ps. Spl. 35, 8. Oferbrǽdels &l-bar; wǽfels opertorium, Ps. Lamb. 101, 27. Ðam ðe wylle niman ðíne tunecan, lǽt him tó ðínne wǽfels (pallium), Mt. Kmbl. 5, 40: Gen. 39, 12: 24, 65: Ap. Th. 11, 27. Ælmesgedál dǽle man gelóme, mete ðám ofhingredum, wǽfels ðám nacedum, Wulfst. 74, 4. Wéfels pallium, Kent. Gl. 968."
+}

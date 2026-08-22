@@ -1,0 +1,38 @@
+{
+  "citation_form": "swefen-reccere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O.H. Ger. troum-rechare conjector.",
+      "meaning": "An interpreter of dreams, a diviner, soothsayer",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Swefnreccere conjectorem",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 15, 40"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "preceding word"
+  ],
+  "source_text": [
+    "swefen-reccere, es; m. An interpreter of dreams, a diviner, soothsayer :-- Swefnreccere conjectorem, Wrt. Voc. ii. 15, 40. [Cf. O.H. Ger. troum-rechare conjector.] v. preceding word."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "citation_form": "hálsian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(b)",
+          "heading": null,
+          "meaning": "with acc. and clause",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ic þé healsige þ-bar; ðú gesceádwíslíce þ-bar; ongite",
+              "latin": "quaeso te, vide quam id sancte probes",
+              "english": null,
+              "citations": "Bt. 34, 3; F. 136, 18"
+            },
+            {
+              "old_english": "Ic eów hálsige þ-bar; gé gongan tó byrgenne weligra manna",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 99, 12"
+            },
+            {
+              "old_english": "Hé hý hálsode (the accent is in the MS.) þæt hý nánuht þǽra ǽrenda ne underféngon",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 4, 6; Bos 86, 25"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(b α)",
+              "heading": "emphasized",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ic eów healsige for ðǽm tócyme Dryhtnes ðæt gé nó tó hrædlíce ne sién ástyrede",
+                  "latin": "rogamus vos per adventvm UNCERTAIN Domini, ut non cito moveamini",
+                  "english": null,
+                  "citations": "Past. 213, 14"
+                },
+                {
+                  "old_english": "Ic eów hálsige on ðone Drihten . . . þæt gé forlǽtan . . .",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Wlfst. 232, 12"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(3)",
+          "heading": "of solemn appeal made in legal proceedings",
+          "meaning": "to adjure",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ic eów hálsige on Fæder noman . . . and fer ðaere hálgen faemnan naman, þ-bar; gé tó ðǽm ordále ne gangen, gif gé scyld on eów witen",
+              "latin": null,
+              "english": null,
+              "citations": "Rtl. 114, 14-22"
+            },
+            {
+              "old_english": "Ic hálsige þé þurh þæne ælmihtigan God",
+              "latin": "adiuro te per omnipotentem Deum",
+              "english": null,
+              "citations": "Ll. Lbmn. 413, 1"
+            },
+            {
+              "old_english": "Ic hálsige",
+              "latin": "obsecro, 12: obtestor, 19",
+              "english": null,
+              "citations": null
+            },
+            {
+              "old_english": "Hálsie man ðone man hér. Ic eów hálsie",
+              "latin": null,
+              "english": null,
+              "citations": "415, 1"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "to exorcize",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Exorcismus aquae. Ic hálsigo ðec",
+              "latin": "exorcizo te, creatura aque",
+              "english": null,
+              "citations": "Rtl. 100, 27"
+            },
+            {
+              "old_english": "Salthálgcincg. Ic l UNCERTAIN álsigo ðec, giscæft saltes",
+              "latin": null,
+              "english": null,
+              "citations": "117, 34"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(5)",
+          "heading": null,
+          "meaning": "to imprecate",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Háls[ode]",
+              "latin": "inprecabatur",
+              "english": null,
+              "citations": "An. Ox. 4, 45"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to augur, divine",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On wígbedde tó hálsienne",
+          "latin": "ariolandi",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 9, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "á-hálsian",
+    "eofulsian"
+  ],
+  "source_text": [
+    "Lǽre hié and healsa (obsecra), Past. 291, 16. (b) with acc. and clause :-- Ic þé healsige þ-bar; ðú gesceádwíslíce þ-bar; ongite quaeso te, vide quam id sancte probes, Bt. 34, 3; F. 136, 18. Ic eów hálsige þ-bar; gé gongan tó byrgenne weligra manna, Bl. H. 99, 12. Hé hý hálsode (the accent is in the MS.) þæt hý nánuht þǽra ǽrenda ne underféngon, Ors. 4, 6; Bos 86, 25. (b α) emphasized. v. (1 b α) :-- Ic eów healsige for ðǽm tócyme Dryhtnes ðæt gé nó tó hrædlíce ne sién ástyrede rogamus vos per adventvm UNCERTAIN Domini, ut non cito moveamini, Past. 213, 14. Ic eów hálsige on ðone Drihten . . . þæt gé forlǽtan . . . , Wlfst. 232, 12. (3) of solemn appeal made in legal proceedings, to adjure :-- Ic eów hálsige on Fæder noman . . . and fer ðaere hálgen faemnan naman, þ-bar; gé tó ðǽm ordále ne gangen, gif gé scyld on eów witen, Rtl. 114, 14-22. Ic hálsige þé þurh þæne ælmihtigan God adiuro te per omnipotentem Deum, Ll. Lbmn. 413, 1. Ic hálsige obsecro, 12: obtestor, 19. Hálsie man ðone man hér. Ic eów hálsie, 415, 1. (4) to exorcize :-- Exorcismus aquae. Ic hálsigo ðec exorcizo te, creatura aque, Rtl. 100, 27. Salthálgcincg. Ic l UNCERTAIN álsigo ðec, giscæft saltes, 117, 34. (5) to imprecate :-- Háls[ode] inprecabatur, An. Ox. 4, 45. II. to augur, divine. v. hálsung; II. On wígbedde tó hálsienne ariolandi, Wrt. Voc. ii. 9, 15. v. á-hálsian ; eofulsian."
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "citation_form": "hón",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "héng",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "hangen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Laym. hon; p. heng: Orm. Chauc. Piers P. heng, p: Goth. hahan; p. haihah: Icel. hanga; p. hékk pendere: O. Frs. hua; p. heng; pp. huen: O. H. Ger. hahan; p. hieng figere, crucifigere, suspendere.",
+      "meaning": "To hang, suspend, crucify",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gé hig hóþ",
+          "latin": "crucifigetis",
+          "english": null,
+          "citations": "Mt. Kmbl. 23, 34"
+        },
+        {
+          "old_english": "Hine man héng",
+          "latin": "ille suspensus est in cruce",
+          "english": null,
+          "citations": "Gen. 41, 13"
+        },
+        {
+          "old_english": "Hig hine héngon",
+          "latin": "crucifixerunt eum",
+          "english": null,
+          "citations": "Lk. Skt. 23, 33"
+        },
+        {
+          "old_english": "Ðóne héngon on heáne beám fæderas ússe",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 847; El. 424"
+        },
+        {
+          "old_english": "Hóh hine",
+          "latin": "crucifige eum",
+          "english": null,
+          "citations": "Mk. Skt. 15, 13"
+        },
+        {
+          "old_english": "Hóh hyne hóh hyne: Ðá cwæþ pilatus tó him Nime gé hine and hóþ",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. Skt. 19, 6"
+        },
+        {
+          "old_english": "Hóh on earm",
+          "latin": null,
+          "english": "hang it on to the arm",
+          "citations": "Med. ex Quadr. 9, 12; Lchdm, i. 362, 27"
+        },
+        {
+          "old_english": "Ðone óðerne hé hét hón on gealgan",
+          "latin": "alterum suspendit in crucem",
+          "english": null,
+          "citations": "Gen. 40, 22"
+        },
+        {
+          "old_english": "Hét se wælhreówa hine hón on heardre hengene",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 308, 29"
+        },
+        {
+          "old_english": "Ðǽr wǽron gelǽdde twegen sceaþan for heora synnum tó hónne",
+          "latin": null,
+          "english": "there were brought two thieves to be crucified for their sins",
+          "citations": "254, 22"
+        },
+        {
+          "old_english": "Tó hóanne",
+          "latin": "ad crucifigendum",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 20, 19"
+        },
+        {
+          "old_english": "Ic hæbbe mihte ðé tó hónne",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. Skt. 19, 10"
+        },
+        {
+          "old_english": "Ðǽm hóendum",
+          "latin": "crucifigentibus",
+          "english": null,
+          "citations": "Lk. Skt. 11, 7"
+        },
+        {
+          "old_english": "Frignan ongan on hwylcum ðara beáma bearn wealdendes hangen wǽre",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 1701; El. 851"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-hón",
+    "be-hón",
+    "bi-hón",
+    "ge-hón"
+  ],
+  "source_text": [
+    "hón; p. héng; pp. hangen To hang, suspend, crucify :-- Gé hig hóþ crucifigetis, Mt. Kmbl. 23, 34. Hine man héng ille suspensus est in cruce, Gen. 41, 13. Hig hine héngon crucifixerunt eum, Lk. Skt. 23, 33. Ðóne héngon on heáne beám fæderas ússe, Elen. Kmbl. 847; El. 424. Hóh hine crucifige eum, Mk. Skt. 15, 13. Hóh hyne hóh hyne: Ðá cwæþ pilatus tó him Nime gé hine and hóþ, Jn. Skt. 19, 6. Hóh on earm hang it on to the arm, Med. ex Quadr. 9, 12; Lchdm, i. 362, 27. Ðone óðerne hé hét hón on gealgan alterum suspendit in crucem, Gen. 40, 22. Hét se wælhreówa hine hón on heardre hengene, Homl. Th. ii. 308, 29. Ðǽr wǽron gelǽdde twegen sceaþan for heora synnum tó hónne there were brought two thieves to be crucified for their sins, 254, 22. Tó hóanne ad crucifigendum, Mt. Kmbl. Lind. 20, 19. Ic hæbbe mihte ðé tó hónne, Jn. Skt. 19, 10. Ðǽm hóendum crucifigentibus, Lk. Skt. 11, 7. Frignan ongan on hwylcum ðara beáma bearn wealdendes hangen wǽre. Elen. Kmbl. 1701; El. 851. [Laym. hon; p. heng: Orm. Chauc. Piers P. heng, p: Goth. hahan; p. haihah: Icel. hanga; p. hékk pendere: O. Frs. hua; p. heng; pp. huen: O. H. Ger. hahan; p. hieng figere, crucifigere, suspendere.] DER. a-, be-, bi-, ge-hón."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "citation_form": "deór-wyrþnes",
+  "variant_forms": [
+    "-wurþnes",
+    "-ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Preciousness, a precious thing, treasure",
+      "latin": "res pretiosa",
+      "quotations": [
+        {
+          "old_english": "Mid eallum deórwyrþnessum",
+          "latin": null,
+          "english": "with all precious things",
+          "citations": "Bt. 7, 4; Fox 22, 31"
+        },
+        {
+          "old_english": "Ðe ða frécnan deórwurþnessa funde",
+          "latin": null,
+          "english": "who found the dangerous treasures",
+          "citations": "15; Fox 48, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "deór-wyrþnes, -wurþnes, -ness, e; f. Preciousness, a precious thing, treasure; res pr&e-short;ti&o-long;sa :-- Mid eallum deórwyrþnessum with all precious things, Bt. 7, 4; Fox 22, 31. Ðe ða frécnan deórwurþnessa funde who found the dangerous treasures, 15; Fox 48, 24."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "citation_form": "scip-gebroc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Petrus se apostol eóde mid drígum fótum ofer þone sǽ, and Paulus geþrowode scipgebroc in þám sǽ",
+          "latin": "ibi Paulus ire cum navi non potuit, ubi Petrus pedibus iter fecit",
+          "english": null,
+          "citations": "Gr. D. 91, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "scip-gebroc. Add :-- Petrus se apostol eóde mid drígum fótum ofer þone sǽ, and Paulus geþrowode scipgebroc in þám sǽibi Paulus ire cum navi non potuit, ubi Petrus pedibus iter fecit, Gr. D. 91, 10."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "citation_form": "Galleas",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Gauls, the French",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 5, 11; S. 626, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Gallias"
+  ],
+  "source_text": [
+    "Galleas Gauls, the French, Bd. 5, 11; S. 626, 27. v. Gallias."
+  ]
+}

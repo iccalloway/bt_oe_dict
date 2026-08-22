@@ -1,0 +1,156 @@
+{
+  "citation_form": "CLÁ",
+  "variant_forms": [
+    "cleó",
+    "clawu"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "clawe",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "clawe",
+            "case": "dative",
+            "number": "singular"
+          },
+          {
+            "ending": "clawe",
+            "case": "accusative",
+            "number": "singular"
+          },
+          {
+            "ending": "cleó",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "clawa",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "clawu",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "clawe",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "cleó",
+            "case": "accusative",
+            "number": "plural"
+          },
+          {
+            "ending": "clawa",
+            "case": "accusative",
+            "number": "plural"
+          },
+          {
+            "ending": "clawu",
+            "case": "accusative",
+            "number": "plural"
+          },
+          {
+            "ending": "clawe",
+            "case": "accusative",
+            "number": "plural"
+          },
+          {
+            "ending": "clawena",
+            "case": "genitive",
+            "number": "plural"
+          },
+          {
+            "ending": "clám",
+            "case": "dative",
+            "number": "plural"
+          },
+          {
+            "ending": "clawum",
+            "case": "dative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Wyc. cle, clee a hoof: Wrt. Gl. 12th cent. p. 87, 26 clau ungula: O. Sax. cláuua, f. a claw, hoof: Frs. klauwe: O. Frs. klewe a claw: Dut. klaauw, m: Ger. klaue, f. unguis, ungula: M. H. Ger. klá, f: O. H. Ger. klawa, kloa, f. unguis, ungula: Dan. klo, m. f: Swed. klo, m: Icel. kló, f.",
+      "meaning": "A nail, CLAW, hoof",
+      "latin": "unguis, ungula",
+      "quotations": [
+        {
+          "old_english": "Fénix fýres láfe clám biclyppeþ",
+          "latin": null,
+          "english": "the Phænix seizes the relics of the fire with its claws",
+          "citations": "Exon. 59b; Th. 217, 8; Ph. 277"
+        },
+        {
+          "old_english": "Nægl oððe clawu unguis",
+          "latin": "unguis",
+          "english": null,
+          "citations": "Ælfc. Gr. 9, 28; Som. 11, 46"
+        },
+        {
+          "old_english": "Wurdon forþaborene ísene clawa",
+          "latin": null,
+          "english": "iron claws were brought forth",
+          "citations": "Homl. Th. i. 424, 19"
+        },
+        {
+          "old_english": "Sume wǽron mid ísenum clawum totorene",
+          "latin": null,
+          "english": "some were torn with iron claws",
+          "citations": "Homl. Th. i. 542, 30"
+        },
+        {
+          "old_english": "Hóf oððe clawu ungula",
+          "latin": "ungula",
+          "english": null,
+          "citations": "Wrt. Voc. 71, 66"
+        },
+        {
+          "old_english": "Ðe clawe ne todǽlaþ",
+          "latin": "qui ungulam non dividunt",
+          "english": null,
+          "citations": "Lev. 11, 4"
+        },
+        {
+          "old_english": "Hearde cleó",
+          "latin": null,
+          "english": "hard hoofs",
+          "citations": "Ps. Th. 68, 32"
+        },
+        {
+          "old_english": "Hira clawe todǽlede beóþ",
+          "latin": null,
+          "english": "their hoofs are divided",
+          "citations": "Lev. 11, 3"
+        },
+        {
+          "old_english": "Gelícaþ Gode ofer cealf iungne forþbringende clawu [clawa, Spl.]",
+          "latin": "placebit Deo super vitulum novellum producentem ungulas",
+          "english": null,
+          "citations": "Ps. Lamb. 68, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "clawan",
+    "clawung",
+    "cleweða"
+  ],
+  "source_text": [
+    "CLÁ, cleó, clawu; gen. dot. acc. clawe; pl. nom. acc. cleó, clawa, clawu, clawe; gen. clawena; dat. clám, clawum; f. A nail, CLAW, hoof; unguis, ungula :-- Fénix fýres láfe clám biclyppeþ the Phænix seizes the relics of the fire with its claws, Exon. 59b; Th. 217, 8; Ph. 277. Nægl oððe clawu unguis, Ælfc. Gr. 9, 28; Som. 11, 46. Wurdon forþaborene ísene clawa iron claws were brought forth, Homl. Th. i. 424, 19. Sume wǽron mid ísenum clawum totorene some were torn with iron claws, Homl. Th. i. 542, 30. Hóf oððe clawu ungula, Wrt. Voc. 71, 66. Ðe clawe ne todǽlaþ qui ungulam non dividunt, Lev. 11, 4. Hearde cleó hard hoofs, Ps. Th. 68, 32. Hira clawe todǽlede beóþ their hoofs are divided, Lev. 11, 3. Gelícaþ Gode ofer cealf iungne forþbringende clawu [clawa, Spl.] placebit Deo super vitulum novellum producentem ungulas, Ps. Lamb. 68, 32. [Wyc. cle, clee a hoof: Wrt. Gl. 12th cent. p. 87, 26 clau ungula: O. Sax. cláuua, f. a claw, hoof: Frs. klauwe: O. Frs. klewe a claw: Dut. klaauw, m: Ger. klaue, f. unguis, ungula: M. H. Ger. klá, f: O. H. Ger. klawa, kloa, f. unguis, ungula: Dan. klo, m. f: Swed. klo, m: Icel. kló, f.] DER. clawan, clawung, cleweða."
+  ]
+}

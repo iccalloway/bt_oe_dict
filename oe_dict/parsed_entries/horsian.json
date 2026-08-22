@@ -1,0 +1,43 @@
+{
+  "citation_form": "horsian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To horse, provide with horses",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "West Seaxe horsodon ðone here",
+          "latin": null,
+          "english": "the people of Wessex provided the Danes with horses",
+          "citations": "Chr. 1015; Erl. 153, 1"
+        },
+        {
+          "old_english": "Hé beád ðæt man sceolde his here metian and horsian",
+          "latin": null,
+          "english": null,
+          "citations": "1013; Erl. 148. 3: 1014; Erl. 151, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-horsian",
+    "ge-horsian"
+  ],
+  "source_text": "horsian; p. ode To horse, provide with horses :-- West Seaxe horsodon ðone here the people of Wessex provided the Danes with horses, Chr. 1015; Erl. 153, 1. Hé beád ðæt man sceolde his here metian and horsian, 1013; Erl. 148. 3: 1014; Erl. 151, 2. DER. be-, ge-horsian."
+}

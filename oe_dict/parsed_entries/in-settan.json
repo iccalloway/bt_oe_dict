@@ -1,0 +1,39 @@
+{
+  "citation_form": "in-settan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To appoint, institute",
+      "latin": "instituit",
+      "quotations": [
+        {
+          "old_english": "Insette",
+          "latin": "instituit",
+          "english": null,
+          "citations": "Bd. 4, 23; S. 593, 38"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-insettan"
+  ],
+  "source_text": [
+    "in-settan; p. te To appoint, institute :-- Insette instituit, Bd. 4, 23; S. 593, 38.",
+    "in-settan. Add: v. ge-insettan."
+  ]
+}

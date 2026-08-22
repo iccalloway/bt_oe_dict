@@ -1,0 +1,23 @@
+{
+  "english_lemma": "vice",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "frailty.n.02",
+      "definition": "moral weakness",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "LEAHTER",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "vitium"
+          ],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

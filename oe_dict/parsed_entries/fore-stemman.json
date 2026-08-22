@@ -1,0 +1,36 @@
+{
+  "citation_form": "fore-stemman",
+  "variant_forms": [
+    "for-stemman"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To hinder, prohibit",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá ðá ðe infoerdon forestemdon (for-, R.) gié",
+          "latin": "eos qui introiebant prohibuistis",
+          "english": null,
+          "citations": "Lk. L. 11, 52"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fore-stemman (for-); p. de To hinder, prohibit:--Ðá ðá ðe infoerdon forestemdon (for-, R.) gié eos qui introiebant prohibuistis, Lk. L. 11, 52."
+}

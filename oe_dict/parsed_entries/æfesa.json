@@ -1,0 +1,41 @@
+{
+  "citation_form": "æfesa",
+  "variant_forms": [
+    "-e"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "In the Domesday of St. Paul's of the year 1222 (Camden Society, 1858) is this entry: ' Debent dare de singulis animalibus . iij. ob' UNCERTAIN annum si ad pasturam dm venerint similiter de equis et de singulis porcis .j. þ. UNCERTAIN Garsavese, ' p. 51. See also note p. lxviii on garsavese, where another instance of its use is given as well as an instance of a verb avesare (avesabit porcos).",
+      "meaning": "Produce of woods on which swine might be fed",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mid mæste and mid æuesan . . . and ic ann þæt þridde swun (?) of æuesan þæs nēxtan wudes þe līþ tō kyngesbyrig",
+          "latin": "cum porcorum esca et cum fructibus . . . quoaue dono tertiam sarcinam iumentariam fructuum qui nascuntur in sylua proxime ad kyngesbyrig sita",
+          "english": null,
+          "citations": "C. D. iv. 202, 2-12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æfesn",
+    "æfes-weorc"
+  ],
+  "source_text": [
+    "æfesa (-e; f, f), an; m. Produce of woods on which swine might be fed :-- Mid mæste and mid æuesan . . . and ic ann &d-bar;æt &d-bar;ridde swun (?) of æuesan &d-bar;æs n&e-long;xtan wudes &d-bar;e l&i-long;þ t&o-long; kyngesbyrig cum porcorum esca et cum fructibus . . . quoaue dono tertiam sarcinam iumentariam fructuum qui nascuntur in sylua proxime ad kyngesbyrig sita, C. D. iv. 202, 2-12. [In the Domesday of St. Paul's of the year 1222 (Camden Society, 1858) is this entry: ' Debent dare de singulis animalibus . iij. ob' UNCERTAIN annum si ad pasturam dm venerint similiter de equis et de singulis porcis .j. &d-bar;. UNCERTAIN Garsavese, ' p. 51. See also note p. lxviii on garsavese, where another instance of its use is given as well as an instance of a verb avesare (avesabit porcos).] v. æfesn, æfes-weorc."
+  ]
+}

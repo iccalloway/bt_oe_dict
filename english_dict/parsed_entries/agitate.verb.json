@@ -1,0 +1,25 @@
+{
+  "english_lemma": "agitate",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "agitate.v.02",
+      "definition": "cause to be agitated, excited, or roused",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-sterian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "commovere, movere"
+          ],
+          "attestations": [
+            "Bt. 39, 8; Fox 224, 6, note"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

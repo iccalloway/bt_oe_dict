@@ -1,0 +1,45 @@
+{
+  "citation_form": "be-leógan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "O. Frs. bi-liaga: O. H. Ger. pi-liogan: Ger. be-lügen to deceive.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wé, ðe men syndon, beóþ ful oft belogene fram óþrum mannum",
+          "latin": "fallimur qui homines sumus",
+          "english": null,
+          "citations": "Gr. 0. 40, 23"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "used impersonally, to be mistaken",
+          "meaning": "used impersonally, to be mistaken",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif þú wilt geþencean hú mycel hine beleáh",
+              "latin": null,
+              "english": "how much he was mistaken",
+              "citations": "Bl. H. 189, 24"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "be-leógan. Add:--Wé, ðe men syndon, beóþ ful oft belogene fram óþrum mannum fallimur qui homines sumus, Gr. 0. 40, 23. ¶ used impersonally, to be mistaken:--Gif þú wilt geþencean hú mycel hine beleáh (hole much he was mistaken), Bl. H. 189, 24. [O. Frs. bi-liaga: O. H. Ger. pi-liogan: Ger. be-lügen to deceive.]"
+  ]
+}

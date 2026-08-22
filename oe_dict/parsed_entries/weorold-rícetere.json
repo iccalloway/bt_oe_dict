@@ -1,0 +1,34 @@
+{
+  "citation_form": "weorold-rícetere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Worldly power",
+      "latin": "dignitatem aliquam mundanam",
+      "quotations": [
+        {
+          "old_english": "Wé gesetton þ-bar; þá þe ǽne beóð tó preóstháde gedón . . . þ-bar; hig ná siððan tó nánon worold-rícetere (dignitatem aliquam mundanam) ne geþrístlácen tó becumenne",
+          "latin": null,
+          "english": null,
+          "citations": "Chrd. 68. 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "weorold-rícetere, es; n. Worldly power :-- Wé gesetton þ-bar; þá þe ǽne beóð tó preóstháde gedón . . . þ-bar; hig ná siððan tó nánon worold-rícetere (dignitatem aliquam mundanam) ne geþrístlácen tó becumenne, Chrd. 68. 34."
+}

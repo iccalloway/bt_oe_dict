@@ -1,0 +1,36 @@
+{
+  "citation_form": "wullian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To wipe with wool",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wið scurfum; rammes smeoru; and meng ðǽrtó sót and sealt and sand, and hyt wulla on weg",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 356, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "wullian; p. ode To wipe with wool :-- Wið scurfum; rammes smeoru; and meng ðǽrtó sót and sealt and sand, and hyt wulla on weg, Lchdm. i. 356, 24."
+  ]
+}

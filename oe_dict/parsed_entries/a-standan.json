@@ -1,0 +1,104 @@
+{
+  "citation_form": "a-standan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-stód",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-stódon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-standen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to stand up, get up, rise up, rise",
+      "latin": "exsurgere, resurgere, surgere",
+      "quotations": [
+        {
+          "old_english": "Ðá astód he semninga",
+          "latin": "exsurrexit repente",
+          "english": null,
+          "citations": "Bd. 2, 9 ; S. 511, 20"
+        },
+        {
+          "old_english": "He up astandeþ of slǽpe",
+          "latin": null,
+          "english": "he rises up from sleep",
+          "citations": "Exon. 96 a ; Th. 358, 4 ; Pa, 40"
+        },
+        {
+          "old_english": "Eft lífgende up astódon",
+          "latin": null,
+          "english": "they stood up living again",
+          "citations": "24 b; Th. 71, 18; Cri. 1157"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-stód",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-stódon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-standen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to insist, persist, continue",
+      "latin": "persistere, instare",
+      "quotations": [
+        {
+          "old_english": "Ðæt hi on ðam geleáfan sóþfæstnysse symle fæstlice astódon and awunedon",
+          "latin": "ut in fide veritatis persisterent semper ac proficerent",
+          "english": null,
+          "citations": "Bd. 2, 17; S. 520, 21, note: 4, 25; S. 599, 31"
+        },
+        {
+          "old_english": "Hig astódon",
+          "latin": "illi instabant",
+          "english": null,
+          "citations": "Lk. Bos. 23, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "a-standan; p. -stód, pl. -stódon; pp. -standen. I. to stand up, get up, rise up, rise; exsurgere, resurgere, surgere :-- Ðá astód he semninga exsurrexit repente, Bd. 2, 9 ; S. 511, 20. He up astandeþ of slǽpe he rises up from sleep, Exon. 96 a ; Th. 358, 4 ; Pa, 40. Eft lífgende up astódon they stood up living again, 24 b; Th. 71, 18; Cri. 1157. II. to insist, persist, continue; persistere, instare :-- Ðæt hi on ðam geleáfan sóþfæstnysse symle fæstlice astódon and awunedon ut in fide veritatis persisterent semper ac proficerent, Bd. 2, 17; S. 520, 21, note: 4, 25; S. 599, 31. Hig astódon illi instabant, Lk. Bos. 23, 23."
+  ]
+}

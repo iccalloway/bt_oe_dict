@@ -1,0 +1,64 @@
+{
+  "citation_form": "Swíþ-hún",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "For an account of him see Earle's Gloucester Fragments, and for the complete homily of which a fragment is given in that work, see Homl. Skt. vol. i. No. 21",
+      "meaning": "St. Swithin, bishop of Winchester, in which see he succeeded Helmstan, who died 852. In one MS. of the A. S. Chronicle, under the year 861, is the entry:--Hér forðférde S. Swíðún biscop, Erl. 71, 20; but in a charter of 863, Swíðhún episcopus is given as one of the witnesses, v. Cod. Dip. Kmbl. v. 117, 22. The name occurs often in the same connection in previous years",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðes Swýðún wæs bisceop on Winceastre",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. i. 21, 14"
+        },
+        {
+          "old_english": "Se árwurða Swýðún (Swíðhún, Gloucester Frg.), 23",
+          "latin": null,
+          "english": null,
+          "citations": null
+        },
+        {
+          "old_english": "Æt Swýðúnes (Swíðhúnes, G. F.) byrgene, 98",
+          "latin": null,
+          "english": null,
+          "citations": null
+        },
+        {
+          "old_english": "Se smið andwyrde ðam árwurðan Swýðúne (Swíðhúne, G. F), 29",
+          "latin": null,
+          "english": null,
+          "citations": null
+        },
+        {
+          "old_english": "ðæt suíðhúnincglond",
+          "latin": null,
+          "english": null,
+          "citations": "Cod. Dip. Kmbl. i. 243, 10"
+        },
+        {
+          "old_english": "Ab aquilone habens terminum suuealuue fluminis, a plaga oriente suíðhúninglond, a parte occidentali ealhfleót, ab austro sighearding méduue ond eac suíth-húninglond",
+          "latin": null,
+          "english": null,
+          "citations": "250, 9-12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Swíþ-hún, es; m. St. Swithin, bishop of Winchester, in which see he succeeded Helmstan, who died 852. In one MS. of the A. S. Chronicle, under the year 861, is the entry:--Hér forðférde S. Swíðún biscop, Erl. 71, 20; but in a charter of 863, Swíðhún episcopus is given as one of the witnesses, v. Cod. Dip. Kmbl. v. 117, 22. The name occurs often in the same connection in previous years [For an account of him see Earle's Gloucester Fragments, and for the complete homily of which a fragment is given in that work, see Homl. Skt. vol. i. No. 21]:--Ðes Swýðún wæs bisceop on Winceastre, Homl. Skt. i. 21, 14. Se árwurða Swýðún (Swíðhún, Gloucester Frg.), 23. Æt Swýðúnes (Swíðhúnes, G. F.) byrgene, 98. Se smið andwyrde ðam árwurðan Swýðúne (Swíðhúne, G. F), 29. ¶ For the name where there is no reference to the saint, cf. ðæt suíðhúnincglond, Cod. Dip. Kmbl. i. 243, 10. Ab aquilone habens terminum suuealuue fluminis, a plaga oriente suíðhúninglond, a parte occidentali ealhfleót, ab austro sighearding méduue ond eac suíth-húninglond, 250, 9-12."
+}

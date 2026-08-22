@@ -1,0 +1,44 @@
+{
+  "citation_form": "Baroc-scír",
+  "variant_forms": [
+    "Barruc",
+    "Bearruc",
+    "Bearwucscíre"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The bare oak shire or BERKSHIRE, so called from a polled oak in Windsor forest, where public meetings were held",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Brompt. p. 801"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 860; Th. 130, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Baroc-scír, e; f. The bare oak shire or BERKSHIRE, so called from a polled oak in Windsor forest, where public meetings were held, Brompt. p. 801. It was most commonly written by the Anglo-Saxons-Barruc, Bearruc, and Bearwucscíre, Chr. 860; Th. 130, 3."
+}

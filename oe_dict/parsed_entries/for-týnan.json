@@ -1,0 +1,40 @@
+{
+  "citation_form": "for-týnan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To shut in, stop, hinder",
+      "latin": "interclūdere",
+      "quotations": [
+        {
+          "old_english": "Hí mid gelomlícum oncunningum tiledon ðæt hí him ðone heofonlícan weg fórsetton and fortýndon",
+          "latin": "qui crebris accūsātiōnibus iter illi cœleste interclūdere contendēbant",
+          "english": null,
+          "citations": "Bd. 3, 19; S. 548, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-týnan; p. de; pp. ed To shut in, stop, hinder; intercl&u-long;d&e-short;re :-- Hí mid gelomlícum oncunningum tiledon ðæt hí him ðone heofonlícan weg fórsetton and fortýndon qui crebris acc&u-long;s&a-long;ti&o-long;n&i-short;bus &i-short;ter illi cœleste intercl&u-long;d&e-short;re contend&e-long;bant, Bd. 3, 19; S. 548, 4."
+}

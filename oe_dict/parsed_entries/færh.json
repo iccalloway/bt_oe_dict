@@ -1,0 +1,32 @@
+{
+  "citation_form": "færh",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a little pig",
+      "latin": "porcellus",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Glos. Epnl. Recd. 161, 40"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fearh"
+  ],
+  "source_text": [
+    "færh a little pig; porcellus, Glos. Epnl. Recd. 161, 40. v. fearh."
+  ]
+}

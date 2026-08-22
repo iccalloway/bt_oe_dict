@@ -1,0 +1,44 @@
+{
+  "citation_form": "ge-stíran",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To correct, restrain",
+      "latin": "corrigere, cohibere",
+      "quotations": [
+        {
+          "old_english": "Forðæm ðæt ða wítu gestírdon [gestírden, MS. Cot.] óðrum ðæt hí swá dón ne dorsten",
+          "latin": null,
+          "english": "in order that the punishments might restrain others from daring to do so",
+          "citations": "Bt. 39, 11; Fox 230, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-stýran"
+  ],
+  "source_text": [
+    "ge-stíran; p. de; pp. ed To correct, restrain; corr&i-short;g&e-short;re, c&o-short;h&i-short;b&e-long;re :Forðæm ðæt ða wítu gestírdon [gestírden, MS. Cot.] óðrum ðæt hí swá dón ne dorsten in order that the punishments might restrain others from daring to do so, Bt. 39, 11; Fox 230, 7. v. ge-stýran."
+  ]
+}

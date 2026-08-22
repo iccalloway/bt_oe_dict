@@ -1,0 +1,42 @@
+{
+  "citation_form": "stúpian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Ha schulde stupin and strecche forð þat swire, Jul. 73, 11. Marie adun stupede, Misc. 53, 559: Fl. a. Bl. 697. He nimþ hede þet his tour ne hongi ne stoupi, Ayenb. 151, 6. To stoupe nutare, Rel. Ant. i. 6, col. 1 (14th cent.). Over þe table he gon stoupe, Alis. 1103. Layamon uses the verb transitively: Mon mæi mid strenðe stupen (stoupe, 2nd MS.) hine to grunde, 25950. [O. Du. stuypen to bow. Cf. Icel. stúpa (st.); steypa to cause to stoop: Dan. stupe to fall: Swed. stupa to fall, tilt, lean forward; stupande sloping.]",
+      "meaning": "To stoop, bend the back",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gyf seó sunne hine (the moon) onǽlþ ufan þonne stúpaþ hé (it has the light part curving downwards) . . . for ðan ðe hé went ǽfre ðone hricg tó ðære sunnan weard",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 266, 20"
+        },
+        {
+          "old_english": "Ðæt hé swá oft sceolde stúpian swá se cyning tó his horse wolde and ðonne se cyning hæfde his hrycg him tó hliépan",
+          "latin": "ut ipse acclinis humi regem superadscensurum in equum dorso adtolleret",
+          "english": null,
+          "citations": "Ors. 6, 24; Swt. 274, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "stíp"
+  ],
+  "source_text": "stúpian; p. ode To stoop, bend the back:--Gyf seó sunne hine (the moon) onǽlþ ufan þonne stúpaþ hé (it has the light part curving downwards) . . . for ðan ðe hé went ǽfre ðone hricg tó ðære sunnan weard, Lchdm. iii. 266, 20. Ðæt hé swá oft sceolde stúpian swá se cyning tó his horse wolde and ðonne se cyning hæfde his hrycg him tó hliépan ut ipse acclinis humi regem superadscensurum in equum dorso adtolleret, Ors. 6, 24; Swt. 274, 24. [Ha schulde stupin and strecche forð þat swire, Jul. 73, 11. Marie adun stupede, Misc. 53, 559: Fl. a. Bl. 697. He nimþ hede þet his tour ne hongi ne stoupi, Ayenb. 151, 6. To stoupe nutare, Rel. Ant. i. 6, col. 1 (14th cent.). Over þe table he gon stoupe, Alis. 1103. Layamon uses the verb transitively: Mon mæi mid strenðe stupen (stoupe, 2nd MS.) hine to grunde, 25950. [O. Du. stuypen to bow. Cf. Icel. stúpa (st.); steypa to cause to stoop: Dan. stupe to fall: Swed. stupa to fall, tilt, lean forward; stupande sloping.] v. stíp."
+}

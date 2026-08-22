@@ -1,0 +1,100 @@
+{
+  "citation_form": "mete",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "food",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif mete sý áwyrd",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 142, 14"
+        },
+        {
+          "old_english": "Nys ríce Godes meta ( esca) and drinc",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 153, 7"
+        },
+        {
+          "old_english": "Æ­gþer ge hrægles ge metes ge drinces",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 26, 2 ; F. 94, 4"
+        },
+        {
+          "old_english": "Wið genumenum mete",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 142, 7"
+        },
+        {
+          "old_english": "Wermód drincan ǽr þon þe hié mete þicgan",
+          "latin": null,
+          "english": null,
+          "citations": "32, 1"
+        },
+        {
+          "old_english": "Ne reccaþ hí þára metta",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 25 ; F. 88, 19"
+        },
+        {
+          "old_english": "Hú sió womb weorðe mid swótlecustum mettum gefylled",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 311, 9"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a meal, meat as in at meat",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þonne hí hira hláf brǽcon æt mete",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 30, 8"
+        },
+        {
+          "old_english": "Æ­lce dæge ǽr mete þrié cucler fulle geþicge",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 152, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bleó-mete",
+    "fór-mete",
+    "ofer-mete",
+    "searu-mete",
+    "smeá-mete",
+    "sufel-mete",
+    "swét-mete",
+    "swot-mete",
+    "wist-mete"
+  ],
+  "source_text": "mete. Add: I. food :-- Gif mete sý áwyrd, Lch. ii. 142, 14. Nys ríce Godes meta ( esca) and d UNCERTAINinc, Scint. 153, 7. Æ-acute;gþer ge hrægles ge metes ge drinces, Bt. 26, 2 ; F. 94, 4. Wið genumenum mete, Lch. ii. 142, 7. Wermód drincan ǽr þon þe hié mete þicgan, 32, 1. Ne reccaþ hí þára metta, Bt. 25 ; F. 88, 19. Hú sió womb weorðe mid swótlecustum mettum gefylled, Past. 311, 9. II. a meal, meat as in at meat :-- Þonne hí hira hláf brǽcon æt mete, Shrn. 30, 8. Æ-acute;lce dæge ǽr mete þrié cucler fulle geþicge, Lch. ii. 152, 7. v. bleó-, fór-, ofer-, searu-, smeá-, sufel-, swét-, swot-, wist-mete."
+}

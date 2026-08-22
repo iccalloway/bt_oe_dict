@@ -1,0 +1,38 @@
+{
+  "citation_form": "here-strǽt",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Innan þone wege; þonne of þám wege út æt norðgæte on þone smalan pæþ, of þám smalan pæþ innan þá herestrét; þonne andlang þǽre herestrét",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. B. iii. 468, 14-16"
+        },
+        {
+          "old_english": "Tó ðǽre wîde herestrǽt; ætter ðǽre herestrǽt",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iii. 73, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fird-strǽt"
+  ],
+  "source_text": [
+    "here-strǽt Add :-- Innan þone wege; þonne of þám wege út æt norðgæte on þone smalan pæþ, of þám smalan pæþ innan þá herestrét; þonne andlang þǽre herestrét, C. D. B. iii. 468, 14-16. Tó ðǽre wîde herestrǽt; ætter ðǽre herestrǽt, C. D. iii. 73, 19. Cf. fird-strǽt."
+  ]
+}

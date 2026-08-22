@@ -1,0 +1,32 @@
+{
+  "citation_form": "be-léd",
+  "variant_forms": [
+    "be-legd"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "charged, accused",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "L. O. D. 4; Th. i. 354, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-lecgan"
+  ],
+  "source_text": [
+    "be-léd = be-legd charged, accused, L. O. D. 4; Th. i. 354, 15; pp. of be-lecgan."
+  ]
+}

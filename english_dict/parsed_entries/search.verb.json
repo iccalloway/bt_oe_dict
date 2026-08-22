@@ -1,0 +1,29 @@
+{
+  "english_lemma": "search",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "search.v.01",
+      "definition": "try to locate or discover, or try to establish the existence of",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hycgan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [
+            "-hicgan"
+          ],
+          "latin_glosses": [
+            "excogitare, perscrutari, invenire"
+          ],
+          "attestations": [
+            "Exon. 21 a; Th. 56, 20; Cri. 903",
+            "Cd. 94; Th. 122, 24; Gen. 2031: 178; Th. 224, 3; Dan. 130",
+            "Exon. 92 a; Th. 346, 9; Gn. Ex. 202"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

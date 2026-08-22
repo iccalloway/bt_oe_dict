@@ -1,0 +1,30 @@
+{
+  "citation_form": "stihtere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a steward, treasurer",
+      "latin": "dispensatoris",
+      "quotations": [
+        {
+          "old_english": "Úre cyrican stihteres (dispensatoris) mǽg",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 221, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "stihtere. Add: a steward, treasurer :-- Úre cyrican stihteres (dispensatoris) mǽg, Gr. D. 221, 19."
+  ]
+}

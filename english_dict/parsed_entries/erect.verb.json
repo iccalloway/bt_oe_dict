@@ -1,0 +1,28 @@
+{
+  "english_lemma": "erect",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "raise.v.09",
+      "definition": "construct, build, or erect",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-timbrian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [
+            "-timbran"
+          ],
+          "latin_glosses": [
+            "ædificare"
+          ],
+          "attestations": [
+            "Ors. 3, 9; Bos. 65,,21; 66, 40; 67, 39 : 6, 30; Bos. 127, 34",
+            "Exon. 108 a; Th. 411, 26; Rä. 30, 5"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

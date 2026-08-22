@@ -1,0 +1,29 @@
+{
+  "citation_form": "flión",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To flee",
+      "latin": "fugere",
+      "quotations": [
+        {
+          "old_english": "He sceal flión ðisse worulde wlite",
+          "latin": null,
+          "english": "he must flee this world's splendour",
+          "citations": "Bt. Met. Fox 7, 60; Met. 7, 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fleón"
+  ],
+  "source_text": "flión to flee; f&u-short;g&e-short;re :-- He sceal flión ðisse worulde wlite he must flee this world's splendour, Bt. Met. Fox 7, 60; Met. 7, 30. v. fleón."
+}

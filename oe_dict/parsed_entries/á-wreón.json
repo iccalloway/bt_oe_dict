@@ -1,0 +1,121 @@
+{
+  "citation_form": "á-wreón",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-wráh",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wrigon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wrigen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Be þǽre deópnysse þe him Drihten áwreáh",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. T. Grn. 13, 1"
+        },
+        {
+          "old_english": "Swefne sint gewisse, nelle þú áwreón",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. iii. 186, 19"
+        },
+        {
+          "old_english": "On áwrigenre béc",
+          "latin": "in apocalypsi",
+          "english": null,
+          "citations": "An. Ox. 5178"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "in the Lindisfarne Gospels the verb means to cover",
+          "meaning": "to cover",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Wé áwrigon",
+              "latin": "cooperuimus",
+              "english": null,
+              "citations": "Mt. 25, 38"
+            },
+            {
+              "old_english": "Áwrigon gié",
+              "latin": "operuistis",
+              "english": null,
+              "citations": "43"
+            },
+            {
+              "old_english": "Áwrigon",
+              "latin": "uelauerunt",
+              "english": null,
+              "citations": "Lk. 22, 64"
+            },
+            {
+              "old_english": "Áwuriáð",
+              "latin": "operite",
+              "english": null,
+              "citations": "23, 30"
+            },
+            {
+              "old_english": "Áwriá",
+              "latin": "operit",
+              "english": null,
+              "citations": "8, 16"
+            },
+            {
+              "old_english": "Áwrigen",
+              "latin": "uelatum",
+              "english": null,
+              "citations": "9, 45"
+            },
+            {
+              "old_english": "Áwrigen",
+              "latin": "opertum",
+              "english": null,
+              "citations": "12, 2"
+            },
+            {
+              "old_english": "Fore áwrigen",
+              "latin": "obscuratum",
+              "english": null,
+              "citations": "23, 45"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "á-wríhan",
+    "á-wrióhan"
+  ],
+  "source_text": [
+    "á-wreón. Take here the passages given under á-wríhan, -wrióhan, dele -wreóhan, -wrióhan, and add: p. -wráh, pl. -wrigon; pp. -wrigen:--Be þǽre deópnysse þe him Drihten áwreáh, Ælfc. T. Grn. 13, 1. Swefne sint gewisse, nelle þú áwreón, Lch. iii. 186, 19. On áwrigenre béc in apocalypsi, An. Ox. 5178. ¶ in the Lindisfarne Gospels the verb means to cover:--Wé áwrigon cooperuimus, Mt. 25, 38. Áwrigon gié operuistis, 43. Áwrigon uelauerunt, Lk. 22, 64. Áwuriáð operite, 23, 30. Áwriá operit, 8, 16. Áwrigen uelatum, 9, 45: opertum, 12, 2. Fore áwrigen obscuratum, 23, 45."
+  ]
+}

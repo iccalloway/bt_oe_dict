@@ -1,0 +1,30 @@
+{
+  "citation_form": "þǽr-úte",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Without, outside",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Náhton hié náþer ne þǽrinne mete ne þǽrúte freónd",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 2, 8; Swt. 92, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "preceding word"
+  ],
+  "source_text": [
+    "þǽr-úte; adv. Without, outside :-- Náhton hié náþer ne þǽrinne mete ne þǽrúte freónd, Ors. 2, 8; Swt. 92, 34. v. preceding word."
+  ]
+}

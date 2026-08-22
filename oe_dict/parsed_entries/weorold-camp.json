@@ -1,0 +1,30 @@
+{
+  "citation_form": "weorold-camp",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif hwilc preósthádes manna hine gebeóde silfne tó woroldcampe",
+          "latin": "militiæ seculari",
+          "english": null,
+          "citations": "Chrd. 97, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "weorold-camp. Add :-- -Gif hwilc preósthádes manna hine gebeóde silfne tó woroldcampe (militi&e-hook; seculari), Chrd. 97, 8,"
+  ]
+}

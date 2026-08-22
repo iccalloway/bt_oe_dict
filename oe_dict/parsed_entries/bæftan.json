@@ -1,0 +1,56 @@
+{
+  "citation_form": "bæftan",
+  "variant_forms": [
+    "beftan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "preposition",
+        "governs": [
+          "dative"
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "be-æftan, q. v.",
+      "meaning": "after, behind",
+      "latin": "post, pone",
+      "quotations": [
+        {
+          "old_english": "Gang bæftan me",
+          "latin": "vade post me",
+          "english": null,
+          "citations": "Mt. Bos. 16, 23"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "preposition",
+        "governs": [
+          "dative"
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "behind, without",
+      "latin": "sine",
+      "quotations": [
+        {
+          "old_english": "Bæftan ðam hláforde",
+          "latin": null,
+          "english": "without the master",
+          "citations": "Ex. 22, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-æftan"
+  ],
+  "source_text": [
+    "bæftan, beftan; prep. dat. [be-æftan, q. v.] I. after, behind; post, pone :-- Gang bæftan me vade post me, Mt. Bos. 16, 23. II. behind,without; sine :-- Bæftan ðam hláforde without the master, Ex. 22, 14."
+  ]
+}

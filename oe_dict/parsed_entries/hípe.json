@@ -1,0 +1,57 @@
+{
+  "citation_form": "hípe",
+  "variant_forms": [
+    "hýpe"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a heap",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hype",
+          "latin": "congeries",
+          "english": null,
+          "citations": "An. Ox. 4780"
+        },
+        {
+          "old_english": "Hýpum",
+          "latin": "cumulis",
+          "english": null,
+          "citations": "Germ. 401, 22"
+        },
+        {
+          "old_english": "On reáde hýpan",
+          "latin": "in rubicundas congeries",
+          "english": null,
+          "citations": "An. Ox. 1822"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "stán-hípe"
+  ],
+  "source_text": "hípe a heap. Take here hýpe in Dict. , and add :-- Hype congeries, An. Ox. 4780. Hýpum cumulis, Germ. 401, 22. On reáde hýpan in rubicundas congeries, An. Ox. 1822. v. stán-hípe."
+}

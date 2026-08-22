@@ -1,0 +1,21 @@
+{
+  "english_lemma": "invest",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "invest.v.03",
+      "definition": "furnish with power or authority; of kings or emperors",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "GE-WERIAN",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

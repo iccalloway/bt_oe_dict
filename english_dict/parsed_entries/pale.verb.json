@@ -1,0 +1,30 @@
+{
+  "english_lemma": "pale",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "pale.v.01",
+      "definition": "turn pale, as if in fear",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-blácian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [
+            "-blácigan"
+          ],
+          "latin_glosses": [
+            "pallere, obrigescere",
+            "obriguerunt",
+            "palleo"
+          ],
+          "attestations": [
+            "Ex. 22, 16? Lye",
+            "Ælfc. Gr. 26, 2; Som. 28, 42"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

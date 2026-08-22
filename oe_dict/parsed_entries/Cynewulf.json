@@ -1,0 +1,36 @@
+{
+  "citation_form": "Cynewulf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An Anglo-Saxon poet, who has preserved his name in Runes, in his poem on Elene's Recovery of the Cross",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Á wæs sæc óþ-ðæt, cnyssed cearwelmum &c-rune; [cén] drúsende, ðeáh he, in medoheallelífe máþmas, þege æplede gold, &y-rune; [yr] gnornode, &n-rune; [nýd] geféra, nearu sorge dreáh, enge rúne, ðær him &e-rune; [éh] fóre mílpaðas mæt, módig þrægde wírum gewlenced. &w-rune; [wén] is geswíþrad, gomen æfter gearum, geógoþ is gecyrred ald onmedla. &u-rune; [úr] wæs geára geógoþhádes glǽm, nú synt geárdagas æfter fyrstmearce forþgewitene, lífwynne geliden, swá &l-rune; [lagu] toglídeþ, flódas gefýsde. &f-rune; [feoh] ǽghwam biþ lǽne under lyfte, landes frætwe gewítaþ under wolcnum.",
+          "latin": null,
+          "english": "Ever was contest till then, with waves of sorrow tossed C [the torch] sinking, though he, in meadhall treasures, handled appled gold, Y [sorrow] he mourned, N [need] his consort, narrow sorrow he suffered, a close rune, where E [the horse] before him measured the mile paths, proudly hastened with wires adorned. W [hope] is overpowered, my joy in my old age, youth is turned back my old pride. U I was of old a gleam of youth, now are the days of my life after the appointed space departed, the joy of life flowed away, as L [lake or water] glideth, the floods that hasten. F [wealth] will be for every man failing under the heaven, the ornament of the land will depart under the welkin.",
+          "citations": "Elen. Kmbl. 2512-2541; El. 1257-1272"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Cyneweard"
+  ],
+  "source_text": "Cynewulf, es; m. An Anglo-Saxon poet, who has preserved his name in Runes, in his poem on Elene's Recovery of the Cross. Mr. Kemble will best describe his own discovery. - In the Vercelli MS. is contained a long poem on the finding of the Cross by the Empress Helena [ = Elene]. After the close of the poem, and apparently intended as a tail-piece to the whole book, comes a poetical passage, in which the author principally refers to himself, and after a reference to his own increasing age and the change from the strength and joyousness of youth, he breaks out, in the 15th Canto, into a moralizing strain, in which he concludes his work. The following thirty lines, containing Runes, form a portion of this Canto:Á wæs sæc óþ-ðæt,Ever was contest till then,cnyssed cearwelmumwith waves of sorrow tossed &c-rune; [cén] drúsende,C [the torch] sinking,ðeáh he, in medoheallethough he, in meadhallmáþmas, þegetreasures, handledæplede gold,appled gold, &y-rune; [yr] gnornode,Y [sorrow] he mourned, &n-rune; [nýd] geféra,N [need] his consort,nearu sorge dreáh,narrow sorrow he suffered,enge rúne,a close rune,ðær him &e-rune; [éh] fórewhere E [the horse] before himmílpaðas mæt,measured the mile paths,módig þrægdeproudly hastenedwírum gewlenced.with wires adorned. &w-rune; [wén] is geswíþrad,W [hope] is overpowered,gomen æfter gearum,my joy in my old age,geógoþ is gecyrredyouth is turned backald onmedla.my old pride. &u-rune; [úr] wæs geáraU I was of oldgeógoþhádes glǽm,a gleam of youth,nú synt geárdagasnow are the days of my lifeæfter fyrstmearceafter the appointed spaceforþgewitene,departed,lífwynne geliden,the joy of life flowed away,swá &l-rune; [lagu] toglídeþ,as L [lake or water] glideth,flódas gefýsde.the floods that hasten. &f-rune; [feoh] ǽghwam biþF [wealth] will be for every manlǽne under lyfte,failing under the heaven,landes frætwethe ornament of the landgewítaþ under wolcnum.will depart under the welkin. Elen. Kmbl. 2512-2541; El. 1257-1272.The extreme rudeness and abruptness of these lines, and the apparent uselessness of the Runes, led me to suspect that there was more in them than merely met the eye. This I found to be the case; for, on taking the Runes out of the context, using them as single letters and uniting them in one word, they supplied me with the name CYNEWULF, undoubtedly no other than the author of the poems. I cannot here bestow space upon a long argument to shew who this Cynewulf was. I believe him to have been the Abbot of Peterborough of that name, who flourished in the beginning of the eleventh century, who was accounted in his own day a celebrated poet, both in Latin and Anglo-Saxon, whose works have long been lost, but whose childish ingenuity has now enabled us with some probability to assign to him the authorship of the Vercelli and Exeter Codices, Archæologia, vol. xxviii. 1840, by Kemble, pp. 327-372. The Reverend Jn. Earle, M. A. etc. Rector of Swanswick, with some pertinent remarks, supposes Cynewulf to be the same person as Cyneweard. v. Chr. Erl. Introduction, pp. xx-xxii."
+}

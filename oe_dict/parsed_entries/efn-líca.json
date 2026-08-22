@@ -1,0 +1,36 @@
+{
+  "citation_form": "efn-líca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An equal",
+      "latin": "æquális",
+      "quotations": [
+        {
+          "old_english": "Nis nán efnlíca ðín",
+          "latin": null,
+          "english": "there is no one thine equal",
+          "citations": "Bt. Met. Fox 20, 38; Met. 20, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "efen-líca"
+  ],
+  "source_text": "efn-líca, an; m. An equal; æqu&a-long;lis :-- Nis nán efnlíca ðín there is no one thine equal, Bt. Met. Fox 20, 38; Met. 20, 19. v. efen-líca."
+}

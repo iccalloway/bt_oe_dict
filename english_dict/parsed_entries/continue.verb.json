@@ -1,0 +1,28 @@
+{
+  "english_lemma": "continue",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "continue.v.01",
+      "definition": "continue a certain state, condition, or activity",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-standan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "persistere, instare",
+            "ut in fide veritatis persisterent semper ac proficerent",
+            "illi instabant"
+          ],
+          "attestations": [
+            "Bd. 2, 17; S. 520, 21, note: 4, 25; S. 599, 31",
+            "Lk. Bos. 23, 23"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

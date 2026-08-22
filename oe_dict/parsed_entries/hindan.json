@@ -1,0 +1,79 @@
+{
+  "citation_form": "hindan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "where there is movement towards the back of an object",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "of the direction of an action",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé hét Mathéum hindan mid sweorde þurstingan",
+              "latin": null,
+              "english": null,
+              "citations": "Shrn. 131, 33"
+            },
+            {
+              "old_english": "þ á Engliscan hí hindan hetelíce slógon",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1066; P. 199, 15"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "with verbs of pursuit",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé ofi nþ þá sunnan hindan and cymþ wiþforan þá sunnan úp",
+              "latin": null,
+              "english": "it comes up with the sun from behind and rises be ore the sun",
+              "citations": "Bt. 39, 13; F. 234, 2"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "marking position, at the back, behind",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ph. 293 (in Dict.)"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "on-hindan",
+    "wiþ-hindan"
+  ],
+  "source_text": [
+    "hindan Add: I where there is movement towards the back of an object, (1) of the direction of an action :-- Hé hét Mathéum hindan mid sweorde þurstingan, Shrn. 131, 33. þ á Engliscan hí hindan hetelíce slógon, Chr. 1066; P. 199, 15. (2) with verbs of pursuit :-- Hé ofi nþ þá sunnan hindan and cymþ wiþforan þá sunnan úp it comes up with the sun from behind and rises be ore the sun, Bt. 39, 13; F. 234, 2. II. marking position, at the back, behind, Ph. 293 (in Dict.), v. on-, wiþ-hindan."
+  ]
+}

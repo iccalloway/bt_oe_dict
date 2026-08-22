@@ -1,0 +1,32 @@
+{
+  "english_lemma": "bring forth",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "produce.v.01",
+      "definition": "bring forth or yield",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-lǽdan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "produci"
+          ],
+          "attestations": [
+            "Ps. Th. 103, 13",
+            "Exon. 593; Th. 214, 3; Ph. 233: 59b; Th. 215, 11; Ph. 251"
+          ],
+          "quotations": [
+            {
+              "old_english": "Swylce he of ægerum út alǽde",
+              "english": "as it from an egg had been brought forth",
+              "citations": "Exon. 593; Th. 214, 3; Ph. 233: 59b; Th. 215, 11; Ph. 251"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

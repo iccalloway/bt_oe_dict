@@ -1,0 +1,36 @@
+{
+  "citation_form": "ge-dífan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To plunge, immerse",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Rammes wul on wætere gedýfed and æfter þám on ele",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. i. 356, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "dífan"
+  ],
+  "source_text": "ge-dífan; pp. ed To plunge, immerse :-- Rammes wul on wætere gedýfed and æfter þám on ele, Lch. i. 356, 12. v. dífan."
+}

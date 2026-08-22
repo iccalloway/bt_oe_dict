@@ -1,0 +1,37 @@
+{
+  "english_lemma": "descend",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "descend.v.01",
+      "definition": "move downward and lower, but not necessarily all the way",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-stígan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "surgere, ascendere, descendere",
+            "ascendunt montes et descendunt campi in locum",
+            "solus Moyses ascendit ad Dominum",
+            "ascende cacumen Phasgæ montis",
+            "ascendit in naviculam",
+            "descendet sicut pluvia in vellus, et sicut stillicidium stillantium [MS. stillicidia stillantia] super terram"
+          ],
+          "attestations": [
+            "Cd. 198; Th. 247, 11; Dan. 495",
+            "Exon. 48 b; Th. 168, 14; Gú. 1077",
+            "Chr. 1012; Th. 268, 29, col. 2",
+            "Ps. Lamb. 103; 8",
+            "Ex. 24, 2",
+            "Deut. 3, 27",
+            "Mt. Bos. 8, 23 : 9, 1",
+            "Ps. Lamb. 71, 6"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

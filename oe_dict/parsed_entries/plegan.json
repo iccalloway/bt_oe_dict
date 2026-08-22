@@ -1,0 +1,318 @@
+{
+  "citation_form": "plegan",
+  "variant_forms": [
+    "plægan",
+    "plegian",
+    "plagian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To play",
+      "latin": "ludere",
+      "quotations": [
+        {
+          "old_english": "Ic plege",
+          "latin": "ludo",
+          "english": null,
+          "citations": "Ælfc. Gr. 28, 4; Som. 31, 23 : Wrt. Voc. ii. 53, 29"
+        },
+        {
+          "old_english": "Plegade",
+          "latin": "lusit",
+          "english": null,
+          "citations": "53, 28"
+        },
+        {
+          "old_english": "Plegende",
+          "latin": "ludens",
+          "english": null,
+          "citations": "Kent. Gl. 279 : 995"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "to play, move about sportively, frolic, dance",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Horufisc plegode, glád geond gársecg",
+              "latin": null,
+              "english": null,
+              "citations": "Andr. Kmbl. 740; An. 370"
+            },
+            {
+              "old_english": "H1óh ðá and plegode boda bitre gehugad",
+              "latin": null,
+              "english": null,
+              "citations": "Cd. Th. 45, 10; Gen. 724"
+            },
+            {
+              "old_english": "Plægede",
+              "latin": "saltasset",
+              "english": null,
+              "citations": "Mk. Skt. Lind. Rush. 6, 22"
+            },
+            {
+              "old_english": "Pleagade",
+              "latin": "saltavit",
+              "english": null,
+              "citations": "Mt. Kmbl. Rush. 14, 6"
+            },
+            {
+              "old_english": "Ne plægde gé, Lind., gé ne plagadun, Rush.",
+              "latin": "non saltastis",
+              "english": null,
+              "citations": "11, 17"
+            },
+            {
+              "old_english": "Ðæt folc sæt and æt and dranc, and árison and plegedon",
+              "latin": null,
+              "english": null,
+              "citations": "Ex. 32, 6"
+            },
+            {
+              "old_english": "Ðæt folc ... eodon him plegean",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 43 ; Swt. 309, 14"
+            },
+            {
+              "old_english": "Men willaþ binnan Godes húse bysmorlíce plegian",
+              "latin": null,
+              "english": null,
+              "citations": "L. Ælfc. C. 35; Th. ii. 357, 2 note"
+            },
+            {
+              "old_english": "Gesión sǽmearh plegan",
+              "latin": null,
+              "english": null,
+              "citations": "Elen. Kmbl. 490; El. 245"
+            },
+            {
+              "old_english": "Ðæt wíf geseah Ismael plegan",
+              "latin": null,
+              "english": null,
+              "citations": "Cd. Th. 168, 6; Gen. 2778"
+            },
+            {
+              "old_english": "Ðá geseah hé plegan micel cnihta weorod be ðæs sǽs waroþe",
+              "latin": null,
+              "english": null,
+              "citations": "Shrn. 78, 27"
+            },
+            {
+              "old_english": "Án plegende cild arn under wǽnes hweowol",
+              "latin": null,
+              "english": null,
+              "citations": "32, 11"
+            },
+            {
+              "old_english": "Swá plegende lamp",
+              "latin": "quasi agnus lasciviens",
+              "english": null,
+              "citations": "Kent. Gl. 214"
+            },
+            {
+              "old_english": "Seofon nacode wímmen urnon plegende on heora gesihþum",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 162, 32"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "to play, to divert or amuse one's self",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ða ðe dwollíce plegaþ æt deádra manna líce, and ǽlce fúlnysse ðǽr forþteóþ mid plegan",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Skt. i. 21, 308"
+            },
+            {
+              "old_english": "Tarentíne ðæt folc plegedon binnan heora byrg æt heora þeatra",
+              "latin": null,
+              "english": "the Tarentines were taking their amusement at the theatre",
+              "citations": "Ors. 4, 1 ; Swt. 154, 2"
+            },
+            {
+              "old_english": "Wé lǽraþ ðæt preóst ne beó hunta ne hafecere ne tæflere ac plege on his bócum",
+              "latin": null,
+              "english": "we enjoin that a priest be neither a hunter nor a hawker nor a gamester, but let him find his amusement in his books",
+              "citations": "L. Edg. C. 64; Th. ii. 258, 8"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "II a.",
+              "heading": null,
+              "meaning": "to play (a game), exercise one's self in any way for the sake of amusement",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ða cild rídaþ on heora stafum, and manigfealdne plegan plegiaþ",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 36, 5 ; Fox 180, 9"
+                },
+                {
+                  "old_english": "Samson plegode him ætforan",
+                  "latin": "ludens Samson",
+                  "english": null,
+                  "citations": "Jud. 16, 27"
+                },
+                {
+                  "old_english": "On ðæm dæge plegedon hié of horsum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ors. 3, 7 ; Swt, 118, 29"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "II b.",
+              "heading": null,
+              "meaning": "to play (with anything)",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé mid bǽm handum upweard plegade",
+                  "latin": null,
+                  "english": "he waved both hands aloft",
+                  "citations": "Elen. Kmbl. 1609; El. 805"
+                },
+                {
+                  "old_english": "Ðá pleogede hé mid his wordum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bd. 2, 1; S. 501, 25"
+                },
+                {
+                  "old_english": "Wé wiernaþ úrum cildum úrra peninga mid tó plegianne",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Past. 50; S. 361, 27"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "II c.",
+              "heading": null,
+              "meaning": "to play with a person, toy; in a bad sense, to make sport of",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Sarra beheóld, hú Agares sunu wið Isaac plegode",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 21, 9"
+                },
+                {
+                  "old_english": "Ðære helle hund ongan fægenian mid his steorte and plegian wið hine (Orpheus)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 35, 6; Fox 168, 17"
+                },
+                {
+                  "old_english": "Plegan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Exon. Th. 429, 10; Rä. 43, 2"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "II d.",
+              "heading": null,
+              "meaning": "to play (for something), strive after",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðis is se ilca ðe ðú longe for his deáþe plegodest",
+                  "latin": null,
+                  "english": "this is the same for whose death thou hast long played",
+                  "citations": "Blickl. Homl. 85, 19"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "III.",
+          "heading": null,
+          "meaning": "to play on an instrument",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Plægiendra (plegiyndra, Ps. Spl. C.) timpanan",
+              "latin": "tympanistriarum",
+              "english": null,
+              "citations": "Ps. Surt. 67, 26"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "IV.",
+          "heading": null,
+          "meaning": "to clap the hands in applause",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Flódas plægiaþ (plegiaþ, Ps. Spl. C.)",
+              "latin": "flumina plaudent",
+              "english": null,
+              "citations": "Ps. Surt. 97, 8"
+            },
+            {
+              "old_english": "Plagiaþ (plegaþ, Ps. Spl. C.)",
+              "latin": "plaudite",
+              "english": null,
+              "citations": "46, 2"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "plega"
+  ],
+  "source_text": "plegan, plægan, plegian, plagian, plagian; p. de, ede, ode To play; ludere :-- Ic plege ludo, Ælfc. Gr. 28, 4; Som. 31, 23 : Wrt. Voc. ii. 53, 29. Plegade lusit, 53, 28. Plegende ludens, Kent. Gl. 279 : 995. I. to play, move about sportively, frolic, dance :-- Horufisc plegode, glád geond gársecg, Andr. Kmbl. 740; An. 370. H1óh ðá and plegode boda bitre gehugad, Cd. Th. 45, 10; Gen. 724. Plægede saltasset, Mk. Skt. Lind. Rush. 6, 22. Pleagade saltavit, Mt. Kmbl. Rush. 14, 6. Ne plægde gé, Lind., gé ne plagadun, Rush. non saltastis, 11, 17. Ðæt folc sæt and æt and dranc, and árison and plegedon, Ex. 32, 6. Ðæt folc ... eodon him plegean, Past. 43 ; Swt. 309, 14. Men willaþ binnan Godes húse bysmorlíce plegian, L. Ælfc. C. 35; Th. ii. 357, 2 note. Gesión sǽmearh plegan, Elen. Kmbl. 490; El. 245. Ðæt wíf geseah Ismael plegan, Cd. Th. 168, 6; Gen. 2778. Ðá geseah hé plegan micel cnihta weorod be ðæs sǽs waroþe, Shrn. 78, 27. Án plegende cild arn under wǽnes hweowol, 32, 11. Swá plegende lamp quasi agnus lasciviens, Kent. Gl. 214. Seofon nacode wímmen urnon plegende on heora gesihþum, Homl. Th. ii. 162, 32. II. to play, to divert or amuse one's self :-- Ða ðe dwollíce plegaþ æt deádra manna líce, and ǽlce fúlnysse ðǽr forþteóþ mid plegan, Homl. Skt. i. 21, 308. Tarentíne ðæt folc plegedon binnan heora byrg æt heora þeatra the Tarentines were taking their amusement at the theatre, Ors. 4, 1 ; Swt. 154, 2. Wé lǽraþ ðæt preóst ne beó hunta ne hafecere ne tæflere ac plege on his bócum we enjoin that a priest be neither a hunter nor a hawker nor a gamester, but let him find his amusement in his books, L. Edg. C. 64; Th. ii. 258, 8. II a. to play (a game), exercise one's self in any way for the sake of amusement :-- Ða cild rídaþ on heora stafum, and manigfealdne plegan plegiaþ, Bt. 36, 5 ; Fox 180, 9. Samson plegode him ætforan ludens Samson, Jud. 16, 27. On ðæm dæge plegedon hié of horsum, Ors. 3, 7 ; Swt, 118, 29. II b. to play (with anything) :-- Hé mid bǽm handum upweard plegade he waved both hands aloft, Elen. Kmbl. 1609; El. 805. Ðá pleogede hé mid his wordum, Bd. 2, 1; S. 501, 25. Wé wiernaþ úrum cildum úrra peninga mid tó plegianne, Past. 50; S. 361, 27. II c. to play with a person, toy; in a bad sense, to make sport of :-- Sarra beheóld, hú Agares sunu wið Isaac plegode, Gen. 21, 9. Ðære helle hund ongan fægenian mid his steorte and plegian wið hine (Orpheus), Bt. 35, 6; Fox 168, 17. Plegan, Exon. Th. 429, 10; Rä. 43, 2. II d. to play (for something), strive after :-- Ðis is se ilca ðe ðú longe for his deáþe plegodest this is the same for whose death thou hast long played, Blickl. Homl. 85, 19. III. to play on an instrument :-- Plægiendra (plegiyndra, Ps. Spl. C.) timpanan tympanistriarum, Ps. Surt. 67, 26. IV. to clap the hands in applause (v. plega, III) :-- Flódas plægiaþ (plegiaþ, Ps. Spl. C.) flumina plaudent, Ps. Surt. 97, 8. Plagiaþ (plegaþ, Ps. Spl. C.) plaudite, 46, 2. v. plega."
+}

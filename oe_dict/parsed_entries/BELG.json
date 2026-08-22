@@ -1,0 +1,55 @@
+{
+  "citation_form": "BELG",
+  "variant_forms": [
+    "belig",
+    "bylg",
+    "bylig",
+    "bilig",
+    "bælg",
+    "bælig"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Dut. balg, m : Ger. balg, m : M. H. Ger. balc, m : O. H. Ger. balg, m. follis, uter : Goth. balgs, m : Dan. bælg, m : O. Nrs. belgr, m.",
+      "meaning": "A BULGE, budget, bag, purse, bellows, pod, husk, BELLY",
+      "latin": "bulga, follis, siliqua, uter",
+      "quotations": [
+        {
+          "old_english": "Bylg bulga",
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 27"
+        },
+        {
+          "old_english": "Bylig follis",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 27; Wrt. Voc. 86, 15"
+        },
+        {
+          "old_english": "Bilig uter",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. M. 118, 83"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-belg"
+  ],
+  "source_text": "BELG, belig, bylg, bylig, bilig, bælg, bælig, es; m. A BULGE, budget, bag, purse, bellows, pod, husk, BELLY; bulga, follis, siliqua, uter :-- Bylg bulga, Cot. 27. Bylig follis, Ælfc. Gl. 27; Wrt. Voc. 86, 15. Bilig uter, Ps. Spl. M. 118, 83. [Dut. balg, m : Ger. balg, m : M. H. Ger. balc, m : O. H. Ger. balg, m. follis, uter : Goth. balgs, m : Dan. bælg, m : O. Nrs. belgr, m.] DER. beán-belg, -bælg, blást-, mete-, wín-. v. ge-belg."
+}

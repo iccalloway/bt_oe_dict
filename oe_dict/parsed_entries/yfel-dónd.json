@@ -1,0 +1,40 @@
+{
+  "citation_form": "yfel-dónd",
+  "variant_forms": [
+    "-dóend"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An evil-doer, malefactor",
+      "latin": "malefactor",
+      "quotations": [
+        {
+          "old_english": "Yfeldóend malefactor",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. Skt. Lind. 18, 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wel-dónd"
+  ],
+  "source_text": [
+    "yfel-dónd, -dóend, es; m. An evil-doer, malefactor :-- Yfeldóend malefactor, Jn. Skt. Lind. 18, 30. Cf. wel-dónd."
+  ]
+}

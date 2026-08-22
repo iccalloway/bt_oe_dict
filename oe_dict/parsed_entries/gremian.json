@@ -1,0 +1,60 @@
+{
+  "citation_form": "gremian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Laym. gromien, gramie irritare: A. R. gremeþ irritat: Goth. gramjan: Icel. gremja: O. H. Ger. gremian irritare, objurgare: Ger. grämen.",
+      "meaning": "To provoke, irritate, exasperate, vex, revile",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "He ða óðre elpendas gremede",
+          "latin": null,
+          "english": "it irritated the other elephants",
+          "citations": "Ors. 4, 1; Bos. 77, 23"
+        },
+        {
+          "old_english": "Gremedon",
+          "latin": "exacerbaverunt",
+          "english": null,
+          "citations": "Blickl. Gl."
+        },
+        {
+          "old_english": "Hig me gremedon",
+          "latin": null,
+          "english": "they provoked me",
+          "citations": "Lev. 26, 40: Num. 11, 20: Deut. 9, 7, 8"
+        },
+        {
+          "old_english": "Ða ðe forþstópon hine gremedon",
+          "latin": "prætereuntes blasphemabunt eum",
+          "english": null,
+          "citations": "Mk. Skt. 15, 29: Lk. Skt. 23, 39"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "gremian; p. ede; pp. ed To provoke, irritate, exasperate, vex, revile :-- He ða óðre elpendas gremede it irritated the other elephants, Ors. 4, 1; Bos. 77, 23. Gremedon exacerbaverunt, Blickl. Gl. Hig me gremedon they provoked me, Lev. 26, 40: Num. 11, 20: Deut. 9, 7, 8. Ða ðe forþstópon hine gremedon prætereuntes blasphemabunt eum, Mk. Skt. 15, 29: Lk. Skt. 23, 39. [Laym. gromien, gramie irritare: A. R. gremeþ irritat: Goth. gramjan: Icel. gremja: O. H. Ger. gremian irritare, objurgare: Ger. grämen.]"
+  ]
+}

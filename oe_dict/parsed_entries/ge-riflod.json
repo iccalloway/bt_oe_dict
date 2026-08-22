@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-riflod",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Wrinkled",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geryflodre rugoso (cortice tectus)",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 26, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "rifelede"
+  ],
+  "source_text": "ge-riflod; adj. Wrinkled :-- Geryflodre rugoso (cortice tectu s), An. Ox. 26, 24. v. rifelede.ge-rignan, -rínan to rain on, wet with rain: -- Bið geríned conpluitur, Wrt. Voc. ii. 22, 30."
+}

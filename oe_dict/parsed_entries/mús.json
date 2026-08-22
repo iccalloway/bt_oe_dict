@@ -1,0 +1,40 @@
+{
+  "citation_form": "mús",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se micela ylp . . . ondrǽt him for þearle, gif hé gesihð áne mús, ðeáh ðe seó mús ne mage his micelnysse derian.",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. A. 64, 258."
+        },
+        {
+          "old_english": "Wiþ weartum, genim hundes micgean and múse blód, meng tósomne, smire mid,",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 322, 12."
+        },
+        {
+          "old_english": "Cwóman Indisce mýs ín þá fyrd in foxa gelícnisse",
+          "latin": "mures Indici in castra pergebant uulpibus similes,",
+          "english": null,
+          "citations": "Nar. 16, 5."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mús; I. add:-- Se micela ylp . . . ondrǽt him for þearle, gif hé gesihð áne mús, ðeáh ðe seó mús ne mage his micelnysse derian. Hml. A. 64, 258. Wiþ weartum, genim hundes micgean and múse blód, meng tósomne, smire mid, Lch. ii. 322, 12. Cwóman Indisce mýs ín þá fyrd in foxa gelícnisse mures Indici in castra pergebant uulpibus similes, Nar. 16, 5."
+}

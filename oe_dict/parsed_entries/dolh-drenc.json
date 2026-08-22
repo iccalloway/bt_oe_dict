@@ -1,0 +1,36 @@
+{
+  "citation_form": "dolh-drenc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "drenc a drink",
+      "meaning": "A wound-drink, potion for a wound",
+      "latin": "vulnerāria pōlio",
+      "quotations": [
+        {
+          "old_english": "Dolhdrenc: ribbe nioðeweard and ufeweard cnuwa smale",
+          "latin": null,
+          "english": "a wound-drink: pound small the netherward and upward part of ribwort",
+          "citations": "L. M. 1, 38; Lchdm. ii. 98, 1: 1, 38; Lchdm. ii. 96, 19, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "dolh-drenc, es; m. [drenc a drink] A wound-drink, potion for a wound; vuln&e-short;r&a-long;ria p&o-long;lio :-- Dolhdrenc: ribbe nioðeweard and ufeweard cnuwa smale a wound-drink: pound small the netherward and upward part of ribwort, L. M. 1, 38; Lchdm. ii. 98, 1: 1, 38; Lchdm. ii. 96, 19, 22."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "citation_form": "beorþ",
+  "variant_forms": [
+    "berþ",
+    "byrþ"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "beorþ bears, from beoran, as byrþ birþ from beran. Found in the compounds berþ-estre, berþ-ling : v. also beorþor, beorþor-cwelm, -þínen; hyse-beorþor. [O. Sax. gi-burd, f : O. Frs. berthe, f : O. H. Ger. burt, f : Goth. ga-baurþs, f : O. Nrs. burðr, m.]",
+      "meaning": "A BIRTH, the act of coming into life, the thing born",
+      "latin": "nativitas, partus, fetus",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 87"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-byrd"
+  ],
+  "source_text": "beorþ, berþ, byrþ, e; f : es; n? [beorþ bears, from beoran, as byrþ birþ from beran] A BIRTH, the act of coming into life, the thing born; nativitas, partus, fetus, Cot. 87. Found in the compounds berþ-estre, berþ-ling : v. also beorþor, beorþor-cwelm, -þínen; hyse-beorþor. [O. Sax. gi-burd, f : O. Frs. berthe, f : O. H. Ger. burt, f : Goth. ga-baurþs, f : O. Nrs. burðr, m.] v. ge-byrd."
+}

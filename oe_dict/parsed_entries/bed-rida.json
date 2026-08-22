@@ -1,0 +1,30 @@
+{
+  "citation_form": "bed-rida",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "one bedridden",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 472, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bed-reda"
+  ],
+  "source_text": "bed-rida one bedridden, Homl. Th. i. 472, 23. v. bed-reda."
+}

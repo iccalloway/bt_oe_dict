@@ -1,0 +1,44 @@
+{
+  "citation_form": "firlen",
+  "variant_forms": [
+    "fyrlen"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þá gebróðra þe feorr beóð on geswince and hig ne magon for ðám fyrlene heora cyrcan gesécan",
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. 78, 5"
+        },
+        {
+          "old_english": "Þeáh þe hé on fyrlene wǽre",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 6, no: 18, 174"
+        },
+        {
+          "old_english": "Sum dǽl þæs folces on fyrlene wæs fram Mathathiam",
+          "latin": null,
+          "english": null,
+          "citations": "25, 237"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "firlen distance. Take here fyrlen in Dict. , and add :-- Þá gebróðra þe feorr beóð on geswince and hig ne magon for ðám fyrlene heora cyrcan gesécan, R. Ben. 78, 5. Þeáh þe hé on fyrlene wǽre, Hml. S. 6, no: 18, 174. Sum dǽl þæs folces on fyrlene wæs fram Mathathiam, 25, 237."
+  ]
+}

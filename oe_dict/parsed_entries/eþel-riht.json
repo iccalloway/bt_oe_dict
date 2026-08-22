@@ -1,0 +1,30 @@
+{
+  "citation_form": "eþel-riht",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Him wæs on þám leódscipe lond gecynde, eard, éðelriht",
+          "latin": null,
+          "english": null,
+          "citations": "B. 2198"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "eþel-riht. Add :-- Him wæs on þám leódscipe lond gecynde, eard, éðelriht, B. 2198."
+  ]
+}

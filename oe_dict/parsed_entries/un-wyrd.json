@@ -1,0 +1,40 @@
+{
+  "citation_form": "un-wyrd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Bad fortune, misfortune",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gyf him þince ðæt hé leád habbe, sum unwird him byð tóweard",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 170, 5"
+        },
+        {
+          "old_english": "Ðæt mé nú þyncþ ðætte ic ðás unwyrd áræfnan mæg ðe mé on becumen is",
+          "latin": "ut jam me imparem fortunae ietibus non arbitrer",
+          "english": null,
+          "citations": "Bt. 22, 1; Fox 76, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "un-wyrd, e; f. Bad fortune, misfortune :-- Gyf him þince ðæt hé leád habbe, sum unwird him byð tóweard, Lchdm. iii. 170, 5. Ðæt mé nú þyncþ ðætte ic ðás unwyrd áræfnan mæg ðe mé on becumen is ut jam me imparem fortunae ietibus non arbitrer, Bt. 22, 1; Fox 76, 13."
+}

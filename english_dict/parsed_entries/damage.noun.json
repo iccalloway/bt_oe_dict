@@ -1,0 +1,53 @@
+{
+  "english_lemma": "damage",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "damage.n.01",
+      "definition": "the occurrence of a change for the worse",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "DARU",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [
+            "daro"
+          ],
+          "latin_glosses": [
+            "damnum, noxa"
+          ],
+          "attestations": [
+            "Bt. 29, 2; Fox 106, 14",
+            "Bd. 3, 2; S. 525, 17",
+            "Exon. 42 b; Th. 144, 2; Gú. 672",
+            "Homl. Th. ii. 60, 35",
+            "i. 102, 8",
+            "i. 412, 28"
+          ],
+          "quotations": []
+        }
+      ]
+    },
+    {
+      "synset_id": "wrong.n.02",
+      "definition": "any harm or injury resulting from a violation of a legal right",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BÓT",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [
+            "compensatio, emendatio, reparatio, oblatio"
+          ],
+          "attestations": [
+            "L. Ethb. 33; Th. i. 12, 3",
+            "Bd. 4, 25; S. 599, 32: 5, 13; S. 632, 13",
+            "Lev. 4, 23, 28: L. Alf. pol. 2; Th. i. 62, 6: Bd. 1, 27; S. 489, 9"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

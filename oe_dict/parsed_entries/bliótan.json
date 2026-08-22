@@ -1,0 +1,29 @@
+{
+  "citation_form": "bliótan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "sacrificed; 3rd pl. p. of blótan to sacrifice",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hú ða burhleóde on Cartaina bliótan [ = bleóton] men hira godum",
+          "latin": null,
+          "english": "how the towns-people in Carthage sacrificed men to their gods",
+          "citations": "Ors. cont. 4, 4; Bos. 11, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "blótan"
+  ],
+  "source_text": "bliótan for bleóton sacrificed; 3rd pl. p. of blótan to sacrifice :-- Hú ða burhleóde on Cartaina bliótan [ = bleóton] men hira godum how the towns-people in Carthage sacrificed men to their gods, Ors. cont. 4, 4; Bos. 11, 32."
+}

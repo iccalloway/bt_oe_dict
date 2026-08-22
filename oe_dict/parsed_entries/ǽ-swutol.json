@@ -1,0 +1,29 @@
+{
+  "citation_form": "ǽ-swutol",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "ǽ law, sweotol manifest, clear, open",
+      "meaning": "One who makes the law clear, a lawyer",
+      "latin": "legisperitus",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "sweotol"
+  ],
+  "source_text": "ǽ-swutol, es; m. [ǽ law, sweotol manifest, clear, open] One who makes the law clear, a lawyer; legisperitus. v. sweotol."
+}

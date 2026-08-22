@@ -1,0 +1,60 @@
+{
+  "citation_form": "BESMA",
+  "variant_forms": [
+    "besema"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Frs. besma, m : Dut. bézem, m : O. Dut. besem, bessem, m : Ger. besen, m : O. H. Ger. besamo : Bret. bezo, m : a birch.",
+      "meaning": "A BESOM, broom, an instrument of punishment made of twigs, a rod",
+      "latin": "scopæ, virga",
+      "quotations": [
+        {
+          "old_english": "Geclǽnsod mid besmum",
+          "latin": "scopis mundatam",
+          "english": null,
+          "citations": "Mt. Bos. 12, 44"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": "clensid with bismes",
+          "citations": "Wyc."
+        },
+        {
+          "old_english": "He hit [hús] gemét mid besmum afeormod",
+          "latin": "invenit eam [domum] scopis mundatam",
+          "english": null,
+          "citations": "Lk. Bos. 11, 25"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": "he fyndith it [hous] clensid with beesmes",
+          "citations": "Wyc."
+        },
+        {
+          "old_english": "He [Brutus] hý [his fíf suna] hét gebindan, and mid besman swingan",
+          "latin": null,
+          "english": "he [Brutus] gave orders to bind them [his five sons], and scourge them with rods [virgis cecidit, Hay.]",
+          "citations": "Ors. 2, 3; Bos. 42, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "BESMA, besema, an; m. A BESOM, broom, an instrument of punishment made of twigs, a rod; scopæ, virga :-- Geclǽnsod mid besmum scopis mundatam, Mt. Bos. 12, 44; clensid with bismes, Wyc. He hit [hús] gemét mid besmum afeormod invenit eam [domum] scopis mundatam, Lk. Bos. 11, 25; he fyndith it [hous] clensid with beesmes, Wyc. He [Brutus] hý [his fíf suna] hét gebindan, and mid besman swingan he [Brutus] gave orders to bind them [his five sons], and scourge them with rods [virgis cecidit, Hay.], Ors. 2, 3; Bos. 42, 3. [Frs. besma, m : Dut. bézem, m : O. Dut. besem, bessem, m : Ger. besen, m : O. H. Ger. besamo : Bret. bezo, m : a birch.]"
+}

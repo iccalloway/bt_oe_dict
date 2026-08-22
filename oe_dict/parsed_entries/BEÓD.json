@@ -1,0 +1,46 @@
+{
+  "citation_form": "BEÓD",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Sax. biod : O. H. Ger. piot : Goth. biuds : O. Nrs. bjóðr.",
+      "meaning": "A table",
+      "latin": "mensa",
+      "quotations": [
+        {
+          "old_english": "Ðá ða gebróðru æt beóde sǽton",
+          "latin": "sedentibus ad mensam fratribus",
+          "english": null,
+          "citations": "Bd. 3, 2; S. 525, 9"
+        },
+        {
+          "old_english": "Ðú gearcodest befóran mínre gesihþe beód vel beódwyste vel mýsan",
+          "latin": "parasti in conspectu meo mensam",
+          "english": null,
+          "citations": "Ps. Lamb. 22, 5"
+        },
+        {
+          "old_english": "Beódas lances",
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 123"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "BEÓD, es; m. A table; mensa :-- Ðá ða gebróðru æt beóde sǽton sedentibus ad mensam fratribus, Bd. 3, 2; S. 525, 9. Ðú gearcodest befóran mínre gesihþe beód vel beódwyste vel mýsan parasti in conspectu meo mensam, Ps. Lamb. 22, 5. Beódas lances, Cot. 123. [O. Sax. biod : O. H. Ger. piot : Goth. biuds : O. Nrs. bjóðr.]"
+}

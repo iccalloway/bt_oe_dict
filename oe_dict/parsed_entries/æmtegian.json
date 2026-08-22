@@ -1,0 +1,29 @@
+{
+  "citation_form": "æmtegian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to be at leisure",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Past. 18, 4; Hat. MS. 26 b, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æmtian"
+  ],
+  "source_text": "æmtegian to be at leisure, Past. 18, 4; Hat. MS. 26 b, 16. v. æmtian."
+}

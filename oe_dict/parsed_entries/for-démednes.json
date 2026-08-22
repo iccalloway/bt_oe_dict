@@ -1,0 +1,36 @@
+{
+  "citation_form": "for-démednes",
+  "variant_forms": [
+    "-ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Condemnation, proscription",
+      "latin": "condemnātio, proscriptio",
+      "quotations": [
+        {
+          "old_english": "Þurh tyn winter full Godes cyricena bærnesse, and unsceaððiendra fordémednesse, and slege háligra martyra unblinnendlíce dón wæs",
+          "latin": "per décem annos, incendiis ecclēsiārum, proscriptiōnibus innōcentum, cædibus martyrum incessābiliter acta est",
+          "english": null,
+          "citations": "Bd. 1, 6; S. 476, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-démednes, -ness, e; f. Condemnation, proscription; condemn&a-long;tio, proscriptio :-- Þurh tyn winter full Godes cyricena bærnesse, and unsceað&dash-uncertain;ðiendra fordémednesse, and slege háligra martyra unblinnendlíce dón wæs per décem annos, incendiis eccl&e-long;si&a-long;rum, proscripti&o-long;n&i-short;bus inn&o-short;centum, cædibus mart&y-short;rum incess&a-long;b&i-short;l&i-short;ter acta est. Bd. 1, 6; S. 476, 25."
+}

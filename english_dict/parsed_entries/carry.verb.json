@@ -1,0 +1,25 @@
+{
+  "english_lemma": "carry",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "transport.v.02",
+      "definition": "move while supporting, either in a vehicle or in one's hands or on one's body",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-wegan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "levare, auferre"
+          ],
+          "attestations": [
+            "Exon. 89 a ; Th. 334, 25; Gn. Ex. 21: Homl. Th. i. 308, 17"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "gebyld",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Bold, courageous",
+      "latin": "audax",
+      "quotations": [
+        {
+          "old_english": "Gebyld swiðe ðurh God",
+          "latin": null,
+          "english": null,
+          "citations": "Jud. 4, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "gebyld; adj. Bold, courageous; audax :-- Gebyld swiðe ðurh God, Jud. 4, 14."
+  ]
+}

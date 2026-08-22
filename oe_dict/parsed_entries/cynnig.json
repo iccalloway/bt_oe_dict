@@ -1,0 +1,38 @@
+{
+  "citation_form": "cynnig",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "All are glosses on Ald. 58, 23.",
+      "meaning": "Of good family, noble",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Of cynnigum",
+          "latin": "generosis (natalibus)",
+          "english": null,
+          "citations": "An. Ox. 7, 299: 8, 230"
+        },
+        {
+          "old_english": "Cynningum, æþelum",
+          "latin": null,
+          "english": null,
+          "citations": "4149"
+        },
+        {
+          "old_english": "Cynnegum",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. xiii. 36, 240"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "cynnig; adj. Of good family, noble:--Of cynnigum generosis (natalibus), An. Ox. 7, 299: 8, 230. Cynningum, æþelum, 4149. Cynnegum, Angl. xiii. 36, 240. [All are glosses on Ald. 58, 23.]"
+}

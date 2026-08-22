@@ -1,0 +1,31 @@
+{
+  "citation_form": "ge-bíwan",
+  "variant_forms": [
+    "-beówan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To rub, polish",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gebeówed",
+          "latin": "confricatus, i. lima&dash-uncertain;tus, exprimatus",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 133, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bíwan"
+  ],
+  "source_text": "ge-bíwan, -beówan To rub, polish :-- Gebeówed confricatus, i. lima&dash-uncertain;tus, exprimatus, Wrt. Voc. ii. 133, 25. v. bíwan."
+}

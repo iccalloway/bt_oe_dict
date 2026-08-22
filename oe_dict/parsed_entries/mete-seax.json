@@ -1,0 +1,34 @@
+{
+  "citation_form": "mete-seax",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. maz-sahs cultellum.",
+      "meaning": "A meat-knife, knife used in cutting food, dagger",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hiene mid heora metseacsum ofsticedon",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 5, 12; Swt. 244, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mete-seax, es; n. A meat-knife, knife used in cutting food, dagger :-- Hiene mid heora metseacsum ofsticedon, Ors. 5, 12; Swt. 244, 18. [O. H. Ger. maz-sahs cultellum.]"
+}

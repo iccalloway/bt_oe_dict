@@ -1,0 +1,56 @@
+{
+  "citation_form": "CLÚT",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Wyc. Piers P. clout: Chauc. cloutes rags: Orm. clutess, pl: Dan. klud, m. f: Swed. klut, m: Icel. klútr, m: Wel. clwt, m: Gael. clúd, clúid, m. a clout, rag, patch.",
+      "meaning": "A small piece of cloth, CLOUT, patch, piece of metal, plate",
+      "latin": "pittacium, commissura, lamina",
+      "quotations": [
+        {
+          "old_english": "Clút pittacium",
+          "latin": null,
+          "english": null,
+          "citations": "Glos. Epnl. Recd. 161, 19"
+        },
+        {
+          "old_english": "commissura",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 28; Som. 61, 4; Wrt. Voc. 26, 3: 82, 2"
+        },
+        {
+          "old_english": "Wurdon forþaborene ísene clútas",
+          "latin": null,
+          "english": "iron plates were brought forth",
+          "citations": "Homl. Th. i. 424, 19"
+        },
+        {
+          "old_english": "Lecgaþ ða ísenan clútas háte glówende to his sídan",
+          "latin": null,
+          "english": "lay the iron plates glowing hot to his side",
+          "citations": "Homl. Th. i. 424, 35"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "clúd"
+  ],
+  "source_text": [
+    "CLÚT es; m. A small piece of cloth, CLOUT, patch, piece of metal, plate; pittacium, commissura, lamina :-- Clút pittacium, Glos. Epnl. Recd. 161, 19: commissura, Ælfc. Gl. 28; Som. 61, 4; Wrt. Voc. 26, 3: 82, 2. Wurdon forþaborene ísene clútas iron plates were brought forth, Homl. Th. i. 424, 19. Lecgaþ ða ísenan clútas háte glówende to his sídan lay the iron plates glowing hot to his side, Homl. Th. i. 424, 35. [Wyc. Piers P. clout: Chauc. cloutes rags: Orm. clutess, pl: Dan. klud, m. f: Swed. klut, m: Icel. klútr, m: Wel. clwt, m: Gael. clúd, clúid, m. a clout, rag, patch.] DER. ge-clútod. v. clúd."
+  ]
+}

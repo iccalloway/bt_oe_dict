@@ -1,0 +1,46 @@
+{
+  "citation_form": "fore-teón",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-teóde",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-teód",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To pre-dispose, pre-ordain",
+      "latin": "prædisp&o-long;n&e-short;re, præord&i-short;n&a-long;re",
+      "quotations": [
+        {
+          "old_english": "Swá ðé bearn weorþaþ geboren syððan, ða ylcan ic ǽr fóreteóde",
+          "latin": "ecce n&a-long;tio fili&o-long;rum tu&o-long;rum quibus disp&o-short;sui",
+          "english": null,
+          "citations": "Ps. Th. 72, 12"
+        },
+        {
+          "old_english": "Swá monige swá fóreteóde wǽron to écum life",
+          "latin": "quotquot &e-short;rant præord&i-short;n&a-long;ti ad v&i-long;tam æternam",
+          "english": null,
+          "citations": "Bd. 2, 14; S. 517, 36"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fore-teón; p. -teóde; pp. -teód To pre-dispose, pre-ordain; prædisp&o-long;n&e-short;re, præord&i-short;n&a-long;re :-- Swá ðé bearn weorþaþ geboren syððan, ða ylcan ic ǽr fóreteóde ecce n&a-long;tio fili&o-long;rum tu&o-long;rum quibus disp&o-short;sui, Ps. Th. 72, 12. Swá monige swá fóreteóde wǽron to écum life quotquot &e-short;rant præord&i-short;n&a-long;ti ad v&i-long;tam æternam, Bd. 2, 14; S. 517, 36."
+}

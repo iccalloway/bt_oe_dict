@@ -1,0 +1,38 @@
+{
+  "citation_form": "ge-þot",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Icel. upp-þot a great stir; þytr a sound.",
+      "meaning": "A shout, howl",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geonung, geþota (pl. n.? or sing. m.?), rárung barritus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 125, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "þeótan"
+  ],
+  "source_text": [
+    "ge-þot (?), es; n.: ge-þota (?), an; m. A shout, howl :-- Geonung, geþota (pl. n.? or sing. m.?), rárung barritus, Wrt. Voc. ii. 125, 19. [Cf. Icel. upp-þot a great stir; þytr a sound.] v. þeótan."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "citation_form": "ge-sægde",
+  "variant_forms": [
+    "-sǽde"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "said, told",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 4321; B. 2157"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 4, 18; S. 587, 2"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "1, 12; S. 481, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-secgan"
+  ],
+  "source_text": [
+    "ge-sægde, -sǽde, pl. -sægdon said, told, Beo. Th. 4321; B. 2157: Bd. 4, 18; S. 587, 2: 1, 12; S. 481, 3; p. of ge-secgan."
+  ]
+}

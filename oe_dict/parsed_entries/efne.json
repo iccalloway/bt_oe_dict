@@ -1,0 +1,44 @@
+{
+  "citation_form": "efne",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I 3.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá land dǽlan him betweónan swá hig efnost magon",
+          "latin": null,
+          "english": null,
+          "citations": "C.D. vi. 147, 19"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II 2.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "For hwon ... búton efne for þon ...",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 133, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "efne. I 3. add :-- Ðá land dǽlan him betweónan swá hig efnost magon, C.D. vi. 147, 19. II 2. add :-- For hwon ... búton efne for þon ..., Shrn. 133, 9."
+}

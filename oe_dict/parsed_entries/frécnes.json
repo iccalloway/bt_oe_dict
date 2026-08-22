@@ -1,0 +1,48 @@
+{
+  "citation_form": "frécnes",
+  "variant_forms": [
+    "-nis",
+    "-ness",
+    "-nyss"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "danger, peril",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 2, 7; S. 509, 24"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "3, 19; S. 549, 46"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Coll. Monast. Th. 25, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "frécennes"
+  ],
+  "source_text": [
+    "frécnes, -nis, -ness, -nyss danger, peril, Bd. 2, 7; S. 509, 24: 3, 19; S. 549, 46: Coll. Monast. Th. 25, 1. v. frécennes."
+  ]
+}

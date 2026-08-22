@@ -1,0 +1,95 @@
+{
+  "english_lemma": "cast",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "hurl.v.01",
+      "definition": "throw forcefully",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hwelfan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Ps. Lamb. 58, 12"
+          ],
+          "quotations": []
+        },
+        {
+          "oe_lemma": "a-weorpan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [
+            "-wurpan",
+            "-wyrpan"
+          ],
+          "latin_glosses": [
+            "abjicere, dejicere, projicere, ejicere, propellere, repellere, reprobare, repudiare",
+            "dejecisti eos, dum allevarentur",
+            "ne projicias me",
+            "oportet filium hominis reprobari",
+            "homo apostata, vir inutilis"
+          ],
+          "attestations": [
+            "Cd. 203; Th. 253, 1; Dan. 589",
+            "Ps. Spl. 72, 18 : 79, 9: Ps. Th. 72, 14",
+            "Exon. 9 a ; Th. 7, 8 ; Cri. 98 : Bt. Met. Fox 23, 12; Met. 23, 6 : Bd. 3, 24; S. 557, 44 : Mt. Bos. 12, 28",
+            "Ors. 3, 10; Bos. 70, 36: Bt. 37, 4; Fox 192, 10",
+            "Ps. Spl. 70, 10",
+            "Mk. Bos. 8, 31",
+            "L. Æ1f. C. 7 ; Th. ii. 346, 6",
+            "Past. 47, 1; Hat. MS. 68 a, 23",
+            "Mt. Foxe 13, 50",
+            "Mt. Bos. 5, 29, 30",
+            "Mt. Bos. 13, 48",
+            "Bt. 37. 4; Fox 192, 10"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ðæt he ðec aweorpe of woruldríce",
+              "english": "that he shall cast thee from thy worldly kingdom",
+              "citations": "Cd. 203; Th. 253, 1; Dan. 589"
+            },
+            {
+              "old_english": "Is wærgðu [wærgða MS.] aworpen",
+              "english": "the curse is cast off",
+              "citations": "Exon. 9 a ; Th. 7, 8 ; Cri. 98 : Bt. Met. Fox 23, 12; Met. 23, 6 : Bd. 3, 24; S. 557, 44 : Mt. Bos. 12, 28"
+            },
+            {
+              "old_english": "awurpan on",
+              "english": "to cast into",
+              "citations": "Mt. Foxe 13, 50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "synset_id": "shed.v.01",
+      "definition": "get rid of",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hwettan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "abigere, repudiare"
+          ],
+          "attestations": [
+            "Cd. 21; Th. 26, 13"
+          ],
+          "quotations": [
+            {
+              "old_english": "God ahwet hie from his hyldo",
+              "english": "God will cast them away from his favour",
+              "citations": "Cd. 21; Th. 26, 13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

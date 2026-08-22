@@ -1,0 +1,42 @@
+{
+  "citation_form": "wiþ-ferian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To carry off; to rescue",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðú wiðferedes (fæderas, MS.) Israhéla bearn of Ægyptum",
+          "latin": "redemisti filios Israel et Joseph",
+          "english": null,
+          "citations": "Ps. Th. 76, 12"
+        },
+        {
+          "old_english": "Hé of heofenum hider onsende, ðe mé",
+          "latin": null,
+          "english": null,
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wiþ"
+  ],
+  "source_text": "wiþ-ferian; p. ede To carry off; to rescue. v. wiþ, II. 3:--Ðú wiðferedes (fæderas, MS.) Israhéla bearn of Ægyptum redemisti filios Israel et Joseph, Ps. Th. 76, 12. Hé of heofenum hider onsende, ðe mé"
+}

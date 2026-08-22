@@ -1,0 +1,29 @@
+{
+  "citation_form": "þeóh-hweorfa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "cf. cneów-wyrste geniculi, Wrt. Voc. i. 44, 70",
+      "meaning": "A knee-joint",
+      "latin": "genuculum",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "preceding word"
+  ],
+  "source_text": "þeóh-hweorfa, an; m. A knee-joint; genuculum (cf. cneów-wyrste geniculi, Wrt. Voc. i. 44, 70). v. preceding word."
+}

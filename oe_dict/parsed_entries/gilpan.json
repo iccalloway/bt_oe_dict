@@ -1,0 +1,255 @@
+{
+  "citation_form": "gilpan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to boast",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "absolute",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gelpð jactat",
+              "latin": "jactat",
+              "english": null,
+              "citations": "Kent. Gl. 1051"
+            },
+            {
+              "old_english": "Gylpaþ gramhȳdige, þā þīn ēhtan",
+              "latin": "gloriati sunt qui oderunt te",
+              "english": null,
+              "citations": "Ps. Th. 73, 4"
+            },
+            {
+              "old_english": "Ne mōt nān preóst beón tō mōdig ne tō gilpende",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. ii. 386, 10"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "to boast of (gen)",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif þū þæs gilpst, hū ne gilpst þū heora gōdes, næs þīnes?",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 14, l; F. 42, 26"
+            },
+            {
+              "old_english": "Geþenc be ðæm ge-byrdum, gif hwā þæs gilpþ (gelpð, v. l.)",
+              "latin": null,
+              "english": null,
+              "citations": "30, l ; F. 108, 19"
+            },
+            {
+              "old_english": "Hē morðres gylpeð",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2055"
+            },
+            {
+              "old_english": "Þā gealp hē and fægnode Godes fultumes",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 4, arg."
+            },
+            {
+              "old_english": "Ða hē ongeat þæt hié gulpun hiera fæstenes",
+              "latin": "dum de abstinentiae virtute gloriantium praecepta perstringeret",
+              "english": null,
+              "citations": "Past. 313, l"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": "to glory in (inst.)",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Līfe ne gielpeð, hlāfordes gifum",
+              "latin": null,
+              "english": null,
+              "citations": "Rä. 59, 12"
+            },
+            {
+              "old_english": "Þā hine wīg begeat, nealles folccyning fyrdgesteallum gylpan þorfte",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2874"
+            },
+            {
+              "old_english": "Hē cwæð þ-bar; hȳ gielpan ne þorftan dæ-long;dum wið Dryhtnes meahtum",
+              "latin": null,
+              "english": null,
+              "citations": "Gū. 210"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": "with prep.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðonne ðæt mōd for his cræfta geearnunga gilpð and orsorglīce fægnað on him selfum",
+              "latin": "cum animus de virtutum meritis laeta apud se securitate gloriatur",
+              "english": null,
+              "citations": "Past. 463, 27"
+            },
+            {
+              "old_english": "Tō þæ-long;m tīdun þe ūs Rōmāne oþwītaðand tō ðæ-long;re genihtsumnisse þe hié ūs ealneg fore giel-paþ, þ-bar; ūre ne sién ðæm gelīcan",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 4, 7 ; S. 182, 16"
+            },
+            {
+              "old_english": "Þæt sindon þā gōdan tīda þe hié ealneg fore gielpaþ",
+              "latin": null,
+              "english": null,
+              "citations": "5, I; S. 214, 4"
+            },
+            {
+              "old_english": "Tō ðæm gōdan tīdan þe Rōmāne fore gulpon",
+              "latin": null,
+              "english": null,
+              "citations": "S. 4, 18"
+            },
+            {
+              "old_english": "Oððe hē for his gōda mierringe gielpe",
+              "latin": "glorietur",
+              "english": null,
+              "citations": "Past. 149, 20"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(5)",
+          "heading": "with clause giving the boast",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þā wēnde hē þæt hit Godes āgen wæ-long;re; and se deófles man gealp þæt hē eác swā wæ-long;re",
+              "latin": null,
+              "english": null,
+              "citations": "Wlfst. 99, 18"
+            },
+            {
+              "old_english": "Hwæþer þū durre gilpan þ-bar; heora fægernes þīn sié?",
+              "latin": "num audes alicujus talium splendore gloriari?",
+              "english": null,
+              "citations": "Bt. 14, I ; F. 40, 22"
+            },
+            {
+              "old_english": "Gylpan þ-bar; þū mæge Crīstes þegnas ofersw īþan",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 175, 32"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(6)",
+          "heading": "uncertain construction",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne gilp þū",
+              "latin": "ne innitaris (v. ? Prov. 3, 5)",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 62, 2"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(7)",
+          "heading": "with acc.?",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Swā [ne] gylpan þearf Grendles māga [ænig] ūhthlem þone [the MS. is defective, but as Thorkelin's transcript gives b after swā perhaps begylpan may have been the original form : it is not found elsewhere however]",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2006"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to speak highly of (gen.), praise, applaud",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic gilpe subplaudo",
+          "latin": "subplaudo",
+          "english": null,
+          "citations": "Wrt. Voc. i. 22, 29"
+        },
+        {
+          "old_english": "Þā gylpaþ applaudunt",
+          "latin": "applaudunt",
+          "english": null,
+          "citations": "An. Ox. 4196"
+        },
+        {
+          "old_english": "Gulpan",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 85, 5 : 3, 38 : 5, 33"
+        },
+        {
+          "old_english": "Ða welwillend-an sint tō manianne þæt hié suā gielpan (gilpan, v. l.) hiera niēhstena dæ-long;da",
+          "latin": "sic proximorum facta diligendo laudent",
+          "english": null,
+          "citations": "Past. 229, 14"
+        },
+        {
+          "old_english": "Gelpende subplaudans",
+          "latin": "subplaudans",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 121, 46"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "for-gilpan"
+  ],
+  "source_text": "gilpan. Add: I. to boast. (l) absolute :-- Gelp&d-bar; jactat, Kent. Gl. 1051. Gylpa&d-bar; gramh&y-long;dige, þ&a-long; þ&i-long;n &e-long;htan gloriati sunt qui oderunt te, Ps. Th. 73, 4. Ne m&o-long;t n&a-long;n preóst beón t&o-long; m&o-long;dig ne t&o-long; gilpende, Ll. Th. ii. 386, 10. (2) to boast of (gen), :-- Gif þ&u-long; þæs gilpst, h&u-long; ne gilpst þ&u-long; heora g&o-long;des, næs þ&i-long;nes?, Bt. 14, l; F. 42, 26. Geþenc be &d-bar;æ-long;m ge-byrdum, gif hw&a-long; þæs gilpþ (gelp&d-bar;, v. l.), 30, l ; F. 108, 19. H&e-long; mor&d-bar;res gylpe&d-bar;, B. 2055. Þ&a-long; gealp h&e-long; and fægnode Godes fultumes, Ps. Th. 4, arg. Ð&a-long; h&e-long; ongeat &d-bar;æt hié gulpun hiera fæstenes dum de abstinentiae virtute gloriantium praecepta perstringeret, Past. 313, l. (3) to glory in (inst.) :-- L&i-long;fe ne gielpe&d-bar;, hl&a-long;fordes gifum, Rä. 59, 12. Þ&a-long; hine w&i-long;g begeat, nealles folccyning fyrdgesteallum gylpan þorfte, B. 2874. H&e-long; cwæ&d-bar; þ-bar; h&y-long; gielpan ne þorftan dæ-long;dum wi&d-bar; Dryhtnes meahtum, G&u-long;. 210. (4) with prep. :-- Ðonne &d-bar;æt m&o-long;d for his cræfta geearnunga gilp&d-bar; and orsorgl&i-long;ce fægna&d-bar; on him selfum UNCERTAINUNCERTAINm animus de virtutum meritis laeta apud se securitate gloriatur, Past. 463, 27. T&o-long; þæ-long;m t&i-long;dun þe &u-long;s R&o-long;m&a-long;ne oþw&i-long;ta&d-bar; and t&o-long; &d-bar;æ-long;re genihtsumnisse þe hié &u-long;s ealneg fore giel-pa&d-bar;, þ-bar; &u-long;re ne sién &d-bar;æ-long;m gel&i-long;can, Ors. 4, 7 ; S. 182, 16. Þæt sindon þ&a-long; g&o-long;dan t&i-long;da þe hié ealneg fore gielpa&d-bar;, 5, I; S. 214, 4. T&o-long; &d-bar;æ-long;m g&o-long;dan t&i-long;dan þe R&o-long;m&a-long;ne fore gulpon, S. 4, 18. O&d-bar;&d-bar;e h&e-long; for his g&o-long;da mierringe gielpe (glorietur), Past. 149, 20. (5) with clause giving the boast :-- Þ&a-long; w&e-long;nde h&e-long; þæt hit Godes &a-long;gen wæ-long;re; and se deófles man gealp þæt h&e-long; eác sw&a-long; wæ-long;re, Wlfst. 99, 18. Hwæþer &d-bar;&u-long; durre gilpan þ-bar; heora fægernes þ&i-long;n sié? num audes alicujus talium splendore gloriari? Bt. 14, I ; F. 40, 22. Gylpan þ-bar; þ&u-long; mæge Cr&i-long;stes þegnas ofersw&i-long;þan, Bl. H. 175, 32. (6) uncertain construction :-- Ne gilp &d-bar;&u-long; ne innitaris (v. ? Prov. 3, 5), Wrt. Voc. ii. 62, 2. (7) with acc.? :-- Sw&a-long; [ne] gylpan þearf Grendles m&a-long;ga [æ-long;nig] &u-long;hthlem þone [the MS. is defective, but as Thorkelin's transcript gives b after sw&a-long; perhaps begylpan may have been the original form : it is not found elsewhere however], B. 2006. II. to speak highly of (gen.), praise, applaud :-- Ic gilpe subplaudo, Wrt. Voc. i. 22, 29. Þ&a-long; gylpaþ applaudunt, An. Ox. 4196. Gulpan, Wrt. Voc. ii. 85, 5 (this , and the preceding are glosses to Ald. 59, 5) : 3, 38 : 5, 33. Ð&a-long; welwillen-dan sint t&o-long; manianne &d-bar;æt hié su&a-long; gielpan (gilpan, v. l.) hiera niéhstena dæ-long;da sic proximorum facta diligendo laudent, Past. 229, 14. Gelpende subplaudans, Wrt. Voc. ii. 121, 46. v. for-gilpan."
+}

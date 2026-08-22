@@ -1,0 +1,32 @@
+{
+  "citation_form": "fullwiht-stów",
+  "variant_forms": [
+    "fulwiht-stów"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fulwihtstówe",
+          "latin": "baptisterio",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 78, 61: 11, 72"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fullwiht-stów. Take here fulwiht-stów in Dict., and add:--Fulwihtstówe baptisterio, Wrt. Voc. ii. 78, 61: 11, 72."
+  ]
+}

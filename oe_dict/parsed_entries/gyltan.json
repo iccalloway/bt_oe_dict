@@ -1,0 +1,45 @@
+{
+  "citation_form": "gyltan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "gylte",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "gylt",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Orm. gilltenn: Wicl. gilten: O. E. Homl. gulte; p.",
+      "meaning": "To commit guilt or sin, to be guilty",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðara gyltendra scylda",
+          "latin": null,
+          "english": "the sins of the guilty",
+          "citations": "Past. 21; Swt. 167, 6; Hat. MS."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gylting",
+    "gyltend",
+    "a-gyltan",
+    "for-gyltan"
+  ],
+  "source_text": "gyltan; p. gylte; pp. gylt To commit guilt or sin, to be guilty :-- Ðara gyltendra scylda the sins of the guilty, Past. 21; Swt. 167, 6; Hat. MS. [Orm. gilltenn: Wicl. gilten: O. E. Homl. gulte; p.] v. gylting, gyltend, a-, for-gyltan."
+}

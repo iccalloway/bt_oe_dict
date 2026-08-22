@@ -1,0 +1,36 @@
+{
+  "citation_form": "heáfod-wind",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Icel. höfuð-vindr.",
+      "meaning": "A wind from one of the four chief points of the compass",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Feówer heáfodwindas synd se fyrmesta is eásterne wind ... se óðer heáfodwind is súðerne ... se þridda heáfodwind hátte zephirus ... se feórþe heáfodwind hátte septemtrio",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 274, 12-23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "heáfod-wind, es; m. A wind from one of the four chief points of the compass :-- Feówer heáfodwindas synd se fyrmesta is eásterne wind ... se óðer heáfodwind is súðerne ... se þridda heáfodwind hátte zephirus ... se feórþe heáfodwind hátte septemtrio, Lchdm. iii. 274, 12-23. [Icel. höfuð-vindr.]"
+  ]
+}

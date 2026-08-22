@@ -1,0 +1,373 @@
+{
+  "citation_form": "hyht",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "hope, expectation of something desired",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt sió manung hine tó hyhte gehwierfe",
+          "latin": "ut admonitio eum ad'spent reducat",
+          "english": null,
+          "citations": "Past. 265, 21"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "where the object of hope is given, in gen.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne bið him wynne hyht",
+              "latin": null,
+              "english": null,
+              "citations": "Ph. 480"
+            },
+            {
+              "old_english": "Þú mé gelæ-ddest mid lufan hyhte",
+              "latin": "deduxisti me quia factus es spes mea",
+              "english": null,
+              "citations": "Ps. Th. 60, 2"
+            },
+            {
+              "old_english": "Þone onwrig-enan hyht reste þæ-re é-cean wé habbaþ",
+              "latin": "revelatam spem quietis aeteritæ tenemus",
+              "english": null,
+              "citations": "An. Ox. 40, 19: An. 1054"
+            },
+            {
+              "old_english": "Sæle blidse mé, Dryhten, þínre hæ-lo heht",
+              "latin": "redde mihi laetitiam salutaris tui",
+              "english": null,
+              "citations": "Ps. C. 100"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "marked by a preposition",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gúðlác upp gemunde hám in heofonum. Him wæs hyht tó þám",
+              "latin": null,
+              "english": null,
+              "citations": "Gú. 69"
+            },
+            {
+              "old_english": "Utan ús tó þære hýðe hyht staðelian",
+              "latin": null,
+              "english": null,
+              "citations": "Cri. 865"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": "expressed in a clause",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hyht is onfangen, þæt bletsung mót bæ-m. gemæ-ne symle wunian",
+              "latin": null,
+              "english": null,
+              "citations": "Cri. 99"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "feeling of trust or confidence in a person or thing",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þá gehýrde hé hú þá menn . . . Crístes helda swóron . . . Þá cwæð hé on his móde . . . 'Gyrstanæ-fen nán man ne mihte Crístes naman nemnian mid hihte,'",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 23, 534"
+        },
+        {
+          "old_english": "Hé (Abraham) forð gebád langsumne hiht",
+          "latin": null,
+          "english": null,
+          "citations": "Exod. 405"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": "where object of trust is given",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Byð his heorte gearo hyhte tó Drihtne",
+              "latin": "paratum cor ejus sperare in Domino",
+              "english": null,
+              "citations": "Ps. Th. 111, 7"
+            },
+            {
+              "old_english": "Good is þæt ic on God míne hiht sette",
+              "latin": "bonum est ponere in Deo spem meant",
+              "english": null,
+              "citations": "72, 23: Gú. 406 : Hy. 4, 36"
+            },
+            {
+              "old_english": "Ðæt hí heora hiht ne besetton on ðám swicelum welum",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 326, 35"
+            },
+            {
+              "old_english": "Ic in mínne fæder hyht staðelie",
+              "latin": null,
+              "english": null,
+              "citations": "Jul. 437 : El. 798"
+            },
+            {
+              "old_english": "Ðá þe hiht on hine habbaþ fæste",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 129, 7: 143, 3"
+            },
+            {
+              "old_english": "Ic God gemyndgade þæ-r ic hæfde mæ-stne hiht",
+              "latin": null,
+              "english": null,
+              "citations": "76, 3"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "hope of doing, intent, desire",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þæ-r mín hyht myneð tó gesécenne",
+          "latin": null,
+          "english": null,
+          "citations": "Gú. 1061"
+        },
+        {
+          "old_english": "Hí gehátaþ holdlíce, swá hyre hyht ne gæð",
+          "latin": null,
+          "english": null,
+          "citations": "Leás. 14"
+        },
+        {
+          "old_english": "Úsic lust hweteð on þá leódmearce, micel módes hiht tó ðæ-re mæ-ran byrig",
+          "latin": null,
+          "english": null,
+          "citations": "An. 287"
+        },
+        {
+          "old_english": "Mé bið forwyrned þurh wiðersteall willan mínes hyhtes",
+          "latin": null,
+          "english": null,
+          "citations": "Jul. 442"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "IV.",
+      "supplemental": null,
+      "meaning": "joyous expectation, joy, exultation",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hyht wæs á in heofonum",
+          "latin": null,
+          "english": null,
+          "citations": "Dóm. 64: Seef. 122"
+        },
+        {
+          "old_english": "Lufu, lfes hyht, and ealles leóhtes gefeá",
+          "latin": null,
+          "english": null,
+          "citations": "Cri. 585: Gú. 631"
+        },
+        {
+          "old_english": "Hierusalem, þú bist full hálgan hyhtes, swá þú geháten eart",
+          "latin": null,
+          "english": null,
+          "citations": "Cri. 58"
+        },
+        {
+          "old_english": "Manna gehwám mód bið on hyhte, fyrð áfréfred",
+          "latin": null,
+          "english": null,
+          "citations": "An. 637"
+        },
+        {
+          "old_english": "Dreám wæs on hyhte",
+          "latin": null,
+          "english": null,
+          "citations": "876"
+        },
+        {
+          "old_english": "Þæs þú gife hléotest, háligne hyht on heofonþrymme",
+          "latin": null,
+          "english": null,
+          "citations": "481"
+        },
+        {
+          "old_english": "Ic þé háte þæt þú hellwarum hyht ne ábéode, ah þú him secgan miht sorga mæ-ste",
+          "latin": null,
+          "english": null,
+          "citations": "Sat. 695"
+        },
+        {
+          "old_english": "Hyht geceóseð, woruld wynsume sé þe wís ne bið sáwle ræ-des",
+          "latin": null,
+          "english": null,
+          "citations": "Leás. 40"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "V.",
+      "supplemental": null,
+      "meaning": "a person or thing that gives hope or promise",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Middaneardes Álýsend . . . heofonwara hyht and eorþwara, and eác úre hyht",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 87, 10"
+        },
+        {
+          "old_english": "Þú mé eart se héhsta hyht, Drihten",
+          "latin": "tu es, Domini, spes mea",
+          "english": null,
+          "citations": "Ps. Th. 90, 9: El. 197 : Hy. 7, 9: Ph. 423 : Pa. 73"
+        },
+        {
+          "old_english": "Gér byð gumena hyht, þonne God læ-teð hrúsan syllan beorhte blé-da beornum",
+          "latin": null,
+          "english": null,
+          "citations": "Rún. 12"
+        },
+        {
+          "old_english": "Weoruda Scyppend hafa þé tó hyhte",
+          "latin": null,
+          "english": null,
+          "citations": "Fä. 63"
+        },
+        {
+          "old_english": "Gemunaþ wigena wyn, háligra hyht, heofonengla God",
+          "latin": null,
+          "english": null,
+          "citations": "Jul. 642"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "VI.",
+      "supplemental": null,
+      "meaning": "an object of hope, what is hoped for",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Híðendra hyht",
+          "latin": null,
+          "english": null,
+          "citations": "Rä. 89, 5 : 65, 3"
+        },
+        {
+          "old_english": "Is mín hyht mid God",
+          "latin": null,
+          "english": null,
+          "citations": "Gú. 289 : 61"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "VI a.",
+          "heading": "what is expected",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Nabbaþ hié tó hyhte nymðe cyle and fýr",
+              "latin": null,
+              "english": null,
+              "citations": "Sat. 335 : 176"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "VII.",
+      "supplemental": null,
+      "meaning": "ground of hope, promise",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-hyht"
+  ],
+  "source_text": [
+    "hyht. Add: I. hope, expectation of something desired :-- Ðæt sió manung hine t&o-long; hyhte gehwierfe ut admonitio eum ad'spent reducat, Past. 265, 21. la. where , the object of hope is given. (l) in gen. :-- Ne bi&d-bar; him wynne hyht, Ph. 480. Þ&u-long; m&e-long; gelæ-long;ddest mid lufan hyhte deduxisti me quia factus es spes mea, Ps. Th. 60, 2. Þone onwrig-enan hyht reste þæ-long;re &e-long;cean w&e-long; habbaþ revelatam spem quietis aeterit&e-hook; tenemus, An. Ox. 40, 19: An. 1054. Sæle blidse m&e-long;, Dryhten, þ&i-long;nre hæ-long;lo heht redde mihi laetitiam salutaris tui, Ps. C. 100. (2) marked by a preposition:-G&u-long; &d-bar;l&a-long;c upp gemunde h&a-long;m in heofonum. Him wæs hyht t&o-long; þ&a-long;m, G&u-long;. 69. Utan &u-long;s t&o-long; þæ-long;re h&y-long;&d-bar;e hyht sta&d-bar;elian, Cri. 865. (3) expressed in a clause :-- Hyht is onfangen, þæt bletsung m&o-long;t bæ-long;m. gemæ-long;ne symle wunian, Cri. 99. II. feeling of trust or confidence in a person or thing :-- Þ&a-long; geh&y-long;rde h&e-long; h&u-long; þ&a-long; menn . . . Cr&i-long;stes helda sw&o-long;ron . . . Ð&a-long; cwæ&d-bar; h&e-long; on his m&o-long;de . . . ' Gyrstanæ-long;fen n&a-long;n man ne mihte Cr&i-long;stes naman nemnian mid hihte,' Hml. S. 23, 534. H&e-long; (Abraham) for&d-bar; geb&a-long;d langsumne hiht (cf. fide obtulit Abraham Isaac, Heb. ll, 17), Exod. 405. II a. where object of trust is given :-- By&d-bar; his heorte gearo hyhte t&o-long; Drihtne paratum cor ejus sperare in Domino, Ps. Th. 111, 7. Good is þæt ic on God m&i-long;nne hiht sette bonum est ponere in Deo spem meant, 72, 23: G&u-long;. 406 : Hy. 4, 36. Ðæt h&i-long; heora hiht ne besetton on &d-bar;&a-long;m swicelum welum, Hml. Th. ii. 326, 35. Ic in m&i-long;nne fæder hyht sta&d-bar;elie, Jul. 437 : El. 798. Ð&a-long; &d-bar;e hiht on hine habba&d-bar; fæste, Ps. Th. 129, 7: 143, 3. Ic God gemyndgade þæ-long;r ic hæfde mæ-long;stne hiht, 76, 3. III. hope of doing, intent, desire :-- Þæ-long;r m&i-long;n hyht myne&d-bar; t&o-long; ges&e-long;cenne, G&u-long;. 1061. H&i-long; geh&a-long;ta&d-bar; holdl&i-long;ce, sw&a-long; hyre hyht ne gæ-long;&d-bar;, Leás. 14. &U-long;sic lust hwete&d-bar; on þ&a-long; leódmearce, micel m&o-long;des hiht t&o-long; &d-bar;æ-long;re mæ-long;ran byrig, An. 287. M&e-long; bi&d-bar; forwyrned þurh wi&d-bar;ersteall willan m&i-long;nes hyhtes, Jul. 442. IV. joyous expec-tation, joy, exultation :-- Hyht UNCERTAINæs &a-long; in heofonum, D&o-long;m. 64: Seef. 122. Lufu, l&i-long;fes hyht, and ealles leóhtes gefeá, Cri. 585: G&u-long;. 631. Hieru-salem, þ&u-long; bist full h&a-long;lgan hyhtes, sw&a-long; þ&u-long; geh&a-long;ten eart (cf. Gerusalem is gereht ' sibbe gesyhþ', Bl. H. 81, l), Cri. 58. Manna gehw&a-long;m m&o-long;d bi&d-bar; on hyhte, fyrh&d-bar; &a-long;fr&e-long;fred, An. 637. Dreám wæs on hyhte, 876. Þæs þ&u-long; gife hleótest, h&a-long;ligne hyht on heofonþrymme, 481. Ic þ&e-long; h&a-long;te þæt þ&u-long; hellwarum hyht ne &a-long;beóde, ah þ&u-long; him secgan miht sorga mæ-long;ste, Sat. 695. Hyht geceóse&d-bar;, woruld wynsume s&e-long; þe w&i-long;s ne bi&d-bar; s&a-long;wle ræ-long;des, Leás. 40. V. a person or thing that gives hope or promise :-- Middaneardes &A-long;l&y-long;send . . . heofonwara hyht and eorþwara, and eác &u-long;re hyht, Bl. H. 87, 10. Þ&u-long; m&e-long; eart se h&e-long;hsta hyht, Drihten tu es, Domini, spes mea, Ps. Th. 90, 9: El. 197 : Hy. 7, 9: Ph. 423 : Pa. 73. G&e-long;r by&d-bar; gumena hyht, þonne God læ-long;te&d-bar; hr&u-long;san syllan beorhte bl&e-long;da beornum, R&u-long;n. 12. Weoruda Scyppend hafa þ&e-long; t&o-long; hyhte, Fä. 63. Gemuna&d-bar; wigena wyn, h&a-long;ligra hyht, heofonengla God, Jul. 642. VI. an object of hope, what is hoped for :-- H&i-long;&d-bar;endra hyht, Rä. 89, 5 : 65, 3. Is m&i-long;n hyht mid God, G&u-long;. 289 : 61. VI a. what is expected :-- Nabba&d-bar; hié t&o-long; hyhte nym&d-bar;e cyle and f&y-long;r, Sat. 335 : 176. VII. ground of hope, promise, v. hyht-fnll; II, hyht-lic; III. v. ge-hyht."
+  ]
+}

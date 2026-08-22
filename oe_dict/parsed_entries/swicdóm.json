@@ -1,0 +1,33 @@
+{
+  "citation_form": "swicdóm",
+  "variant_forms": [
+    "swycdóm",
+    "swikedom"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "III.",
+      "supplemental": "Misdon þurh Beelzebubes swikedom, O. E. Homl. i. 55, 10. þis nis nan swikedom, for þat weord ich hit halde, Laym. 8310. AH þatt folljheþþ swikedom, Orm. 3997. þu me misraddest. . . Schild þi swikedom from þe lihte, O. and N. 163. Icel. svik-dómr treason.",
+      "meaning": "an offence",
+      "latin": "scandalum",
+      "quotations": [
+        {
+          "old_english": "Wá ðysum middangearde þurh swicdómas (a scandalis): neód ys ðæt swycdómas (scandala) cumon ; þeáhhwæðere wá ðam menn ðe swycdóm (scandalum, þurh hyne cymþ",
+          "latin": "a scandalis; scandala; scandalum",
+          "english": null,
+          "citations": "Mt. Kmbl. 18, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "1014; Erl. 150, 13. III. an offence; scandalum :-- Wá ðysum middangearde þurh swicdómas (a scandalis): neód ys ðæt swycdómas (scandala) cumon ; þeáhhwæðere wá ðam menn ðe swycdóm (scandalum, þurh hyne cymþ, Mt. Kmbl. 18, 7. [Misdon þurh Beelzebubes swikedom, O. E. Homl. i. 55, 10. þis nis nan swikedom, for þat weord ich hit halde, Laym. 8310. AH þatt folljheþþ swikedom, Orm. 3997. þu me misraddest. . . Schild þi swikedom from þe lihte, O. and N. 163. Icel. svik-dómr treason.]"
+  ]
+}

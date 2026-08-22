@@ -1,0 +1,28 @@
+{
+  "citation_form": "á-hildness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "á-hildness glosses declinatio",
+          "latin": "declinatio",
+          "english": null,
+          "citations": "Ps. Rdr. 72, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "á-hildness glosses declinatio, Ps. Rdr. 72, 4."
+}

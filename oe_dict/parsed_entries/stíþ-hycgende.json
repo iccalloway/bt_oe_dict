@@ -1,0 +1,70 @@
+{
+  "citation_form": "stíþ-hycgende",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "in a good sense, of firm, inflexible purpose, resolute",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Stópon tó ðære stówe stíðhycgende",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 1429 ; El. 716"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "in a bad sense, obstinate, stubborn",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hire Iudas oncwæð stíðhycgende: 'Ic ða stówe ne can,'",
+          "latin": null,
+          "english": null,
+          "citations": "1362 ; El. 683"
+        },
+        {
+          "old_english": "Stíðhycgendum (the multitude of unbelievers)",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 1481 ; An. 742"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "having hard, unpleasant thoughts",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "'Is mé feorhgedál leófre micle ðonne ðeós lífcearo.' Him ðá stefn oncwæð stíðhycgendum",
+          "latin": null,
+          "english": null,
+          "citations": "2858 ; An. 1431"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "stíþ-hycgende ; adj. I. in a good sense, of firm, inflexible purpose, resolute :--Stópon tó ðære stówe stíðhycgende, Elen. Kmbl. 1429 ; El. 716. II. in a bad sense, obstinate, stubborn :--Hire Iudas oncwæð stíðhycgende: 'Ic ða stówe ne can,' 1362 ; El. 683. Stíðhycgendum (the multitude of unbelievers), Andr. Kmbl. 1481 ; An. 742. III. having hard, unpleasant thoughts :--'Is mé feorhgedál leófre micle ðonne ðeós lífcearo.' Him ðá stefn oncwæð stíðhycgendum, 2858 ; An. 1431."
+  ]
+}

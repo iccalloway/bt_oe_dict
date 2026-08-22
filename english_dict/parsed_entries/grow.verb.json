@@ -1,0 +1,26 @@
+{
+  "english_lemma": "grow",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "grow.v.03",
+      "definition": "increase in size by natural process",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-lǽdan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "produci"
+          ],
+          "attestations": [
+            "Ps. Th. 103, 13",
+            "Exon. 593; Th. 214, 3; Ph. 233: 59b; Th. 215, 11; Ph. 251"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

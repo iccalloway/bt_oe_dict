@@ -1,0 +1,36 @@
+{
+  "citation_form": "éwe",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A sheep, generally as óvis",
+      "latin": "óvis",
+      "quotations": [
+        {
+          "old_english": "Be éwes weorþe",
+          "latin": "de óvis prétio",
+          "english": "of a sheep's worth",
+          "citations": "L. In. 55; Th. i. 138, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "eówu"
+  ],
+  "source_text": "éwe, es; common gender A sheep, generally as &o-short;vis:-- Be éwes weorþe of a sheep's worth; de &o-short;vis pr&e-short;tio, L. In. 55; Th. i. 138, 6. v. eówu."
+}

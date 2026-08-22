@@ -1,0 +1,58 @@
+{
+  "citation_form": "dóm-dæg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "dómes dæg doom's day, L. E. I. 25; Th. ii. 422, 10: Salm. Kmbl. 649; Sal. 324",
+      "meaning": "DOOMSDAY, judgment-day",
+      "latin": "dies jūdicii",
+      "quotations": [
+        {
+          "old_english": "Ær he dómdæges dyn gehýre",
+          "latin": null,
+          "english": "before he shall hear doomsday's din",
+          "citations": "Salm. Kmbl. 545; Sal. 272"
+        },
+        {
+          "old_english": "Æt dómdæge",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 31 b; Th. 99, 3; Cri. 1619"
+        },
+        {
+          "old_english": "On dómdæge",
+          "latin": null,
+          "english": null,
+          "citations": "99 b; Th. 372, 19; Seel. 95: Cd. 227; Th. 302, 15; Sat. 600"
+        },
+        {
+          "old_english": "On ðam micclan dómdæge",
+          "latin": "in die jūdicii",
+          "english": null,
+          "citations": "L. Ælf. P. 40; Th. ii. 380, 39"
+        },
+        {
+          "old_english": "Ðæt he dómdæg [dómes dæg MS. B.] ondrǽde",
+          "latin": null,
+          "english": "that he dread doomsday",
+          "citations": "L. C. E. 25; Th. i. 374, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "dóm-dæg, es; m. [dómes dæg doom's day, L. E. I. 25; Th. ii. 422, 10: Salm. Kmbl. 649; Sal. 324] DOOMSDAY, judgment-day; dies j&u-long;d&i-short;cii-Æ-acute;r he dómdæges dyn gehýre before he shall hear doomsday's din, Salm. Kmbl. 545; Sal. 272. Æt dómdæge, Exon. 31 b; Th. 99, 3; Cri. 1619. On dómdæge, 99 b; Th. 372, 19; Seel. 95: Cd. 227; Th. 302, 15; Sat. 600. On ðam micclan dómdæge in die j&u-long;d&i-short;cii, L. Ælf. P. 40; Th. ii. 380, 39. Ðæt he dómdæg [dómes dæg MS. B.] ondrǽde that he dread doomsday, L. C. E. 25; Th. i. 374, 13."
+}

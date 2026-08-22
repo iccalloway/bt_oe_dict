@@ -1,0 +1,82 @@
+{
+  "citation_form": "þǽron",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "therein",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hér is án lytele burg, ðǽr ic mæg mín feorh on generian. Hió is án lytel, and ðeáh ic mæg ðǽron libban",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 51; Swt. 399, 24"
+        },
+        {
+          "old_english": "Áwyrtwala grǽdignysse of ðínre heortan, and áplanta þǽron ða sóþan lufe",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 410, 2"
+        },
+        {
+          "old_english": "Segeþ þǽron (in the book), ðæt sum ríce man wǽre",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 197, 27"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "thereinto",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðú ne cymst þǽron",
+          "latin": "non ingredieris eam",
+          "english": null,
+          "citations": "Deut. 32, 52"
+        },
+        {
+          "old_english": "Ðá hét hé gefeccan ǽnne ǽrenne oxan, and ða hálgan ðǽron dón",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. ii. 30, 422"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "IV.",
+      "supplemental": null,
+      "meaning": "thereof",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "And hé ne cúðe nán þing þáron (cf. næs heora nán ðe þár ǽnig þing on cúðe, 41, 24)",
+          "latin": null,
+          "english": null,
+          "citations": "Gen. 39, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "29, 253 : Blickl. Homl. 71, 7. II. therein :-- Hér is án lytele burg, ðǽr ic mæg mín feorh on generian. Hió is án lytel, and ðeáh ic mæg ðǽron libban, Past. 51; Swt. 399, 24. Áwyrtwala grǽdignysse of ðínre heortan, and áplanta þǽron ða sóþan lufe, Homl. Th. ii. 410, 2. Segeþ þǽron (in the book), ðæt sum ríce man wǽre, Blickl. Homl. 197, 27. III. thereinto :-- Ðú ne cymst þǽron non ingredieris eam, Deut. 32, 52. Ðá hét hé gefeccan ǽnne ǽrenne oxan, and ða hálgan ðǽron dón, Homl. Skt. ii. 30, 422. IV. thereof :-- And hé ne cúðe nán þing þáron (cf. næs heora nán ðe þár ǽnig þing on cúðe, 41, 24), Gen. 39, 23."
+  ]
+}

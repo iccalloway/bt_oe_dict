@@ -1,0 +1,30 @@
+{
+  "citation_form": "gewritrǽden",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "? cf. ge-wrítan",
+      "meaning": "conveying property",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Cyrographum, i. conscriptio hominis vel manualis scriptio gewritrǽden vel ágnung",
+          "latin": "Cyrographum, i. conscriptio hominis vel manualis scriptio",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 137, 69"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gecwid-rǽden"
+  ],
+  "source_text": "conveying property (? cf. ge-wrítan):--Cyrographum, i. conscriptio hominis vel manualis scriptio gewritrǽden vel ágnung, Wrt. Voc. ii. 137, 69. Cf. gecwid-rǽden."
+}

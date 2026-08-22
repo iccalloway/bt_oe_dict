@@ -1,0 +1,220 @@
+{
+  "citation_form": "ge-þyncþ(u)",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "thriving, prosperous condition",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "in temporal matters, dignity, honour",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne maeg se mann módigan on geðincðum (-ðinðum, v. l.) for ðan þe fela synd geþungenran",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 16, 372"
+            },
+            {
+              "old_english": "Án woruldcynincg ne mæg been wurðful cynincg búton hé hæbbe þá geþincðe þe him gebyriað",
+              "latin": null,
+              "english": null,
+              "citations": "p. 6, 61"
+            },
+            {
+              "old_english": "Hé swanc for heofonan ríce swíþor þonne hé hogode hú hé geheólde on worulde þá hwílwendlican geþincðu (-ðincða, v. l.), þe hé hwónlíce lufode",
+              "latin": null,
+              "english": null,
+              "citations": "26, 113"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "in spiritual matters, virtue, excellence",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þá clǽnheortan þeónde beóð on hálgum geþingðum",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. A. 23, 223"
+            },
+            {
+              "old_english": "For hyre micclum geðingðum",
+              "latin": null,
+              "english": null,
+              "citations": "25, 31"
+            },
+            {
+              "old_english": "Ne derode Ióbe náht þæs deófles costnung, ac fremode, for ðan ðe hé wæs fulfremedre on geþincðum and Gode neár æfter ðæs sceoccan éhtnysse",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 450, 2"
+            },
+            {
+              "old_english": "Þám hálgum mannum þe þurh miccle geðincða Gode geþungon",
+              "latin": null,
+              "english": null,
+              "citations": "i. 540, 16"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "advanced position",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "of persons, rank, status, degree",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Leáfhlestendra geþincþe",
+              "latin": "catacuminorum gradu, i. ordine",
+              "english": null,
+              "citations": "An. Ox. 2191"
+            },
+            {
+              "old_english": "On heálicere démendre geþinhþe",
+              "latin": "in alto tribunalis culmine",
+              "english": null,
+              "citations": "3456"
+            },
+            {
+              "old_english": "Geþinþe",
+              "latin": "apice (Pontificatus praeditus)",
+              "english": null,
+              "citations": "5078"
+            },
+            {
+              "old_english": "Þá unrihtwísan déman behealdaþ þá geðincþo ðæs mannes",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Lbmn. 476, 26"
+            },
+            {
+              "old_english": "Ðæt hé ongité for hwæs geðyncðum ðæt folc sié genemned heord",
+              "latin": "sub cujus aestimatione populus grex vocatur",
+              "english": null,
+              "citations": "Past. 75, 7"
+            },
+            {
+              "old_english": "Swǽ swǽ hé on geðyncðum bið furðor ðonne óðre",
+              "latin": "sicut honore ordinis superat",
+              "english": null,
+              "citations": "80, 23"
+            },
+            {
+              "old_english": "Hit waes hwílum þ-bar; leód and lagu fór be geþincðum",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. i. 190, 12"
+            },
+            {
+              "old_english": "Swá man bið mihtigra for worulde, oþþon þurh geþingða heárra on háde",
+              "latin": null,
+              "english": null,
+              "citations": "328, 14"
+            },
+            {
+              "old_english": "On ðæm dóme ðæs ryhtwísan Déman onwent sió geearnung ðone hád and ðá geðyncðo",
+              "latin": "in examine recti judicis muta merita ordinum qualitas actionum",
+              "english": null,
+              "citations": "Past. 411, 25"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(1 a)",
+              "heading": null,
+              "meaning": "of a thing personified",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þes dǽl (the participle) næfð nǽnne stede of him selfum, ac byð of worde ácenned, and becymð syþþan tó his ágenre geþingðe (-þincþe, v. l.)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ælfc. Gr. Z. 244, 18"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "of things, degree, grade",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Geþincþa",
+              "latin": "graduum",
+              "english": null,
+              "citations": "An. Ox. 1404"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "high degree of moral excellence",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Héhnysse, geþinþe",
+              "latin": "fastigio (edito Virginitatis fastigio sublimati, Ald. 13, 36)",
+              "english": null,
+              "citations": "An. Ox. 930"
+            },
+            {
+              "old_english": "Geþinþe",
+              "latin": "proposito, i. gradu (in summo Virginitatis proposito, Ald. 14, 23)",
+              "english": null,
+              "citations": "968"
+            },
+            {
+              "old_english": "Gif heálicere eádmódnesse wé wylláð geþincðe hreppan",
+              "latin": "si summe humilitatis volumus culmen adtingere",
+              "english": null,
+              "citations": "R. Ben. I. 27, 13"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "leód-geþincþu",
+    "weorold-geþincþu"
+  ],
+  "source_text": "ge-þyncþ(u). Take here ge-þingþu; I. in Dict., and add: I. thriving, prosperous condition. (1) in temporal matters, dignity, honour :-- Ne maeg se mann módigan on geðincðum (-ðinðum, v. l.) for ðan þe fela synd geþungenran, Hml. S. 16, 372. Án woruldcynincg ne mæg been wurðful cynincg búton hé hæbbe þá geþincðe þe him gebyriað, p. 6, 61. Hé swanc for heofonan ríce swíþor þonne hé hogode hú hé geheólde on worulde þá hwílwendlican geþincðu (-ðincða, v. l.), þe hé hwónlíce lufode, 26, 113. (2) in spiritual matters, virtue, excellence :-- Þá clǽnheortan þeónde beóð on hálgum geþingðum, Hml. A. 23, 223. For hyre micclum geðingðum, 25, 31. Ne derode Ióbe náht þæs deófles costnung, ac fremode, for ðan ðe hé wæs fulfremedre on geþincðum and Gode neár æfter ðæs sceoccan éhtnysse, Hml. Th. ii. 450, 2. Þám hálgum mannum þe þurh miccle geðincða Gode geþungon, i. 540, 16. II. advanced position. (1) of persons, rank, status, degree :-- Leáfhlestendra geþincþe catacuminorum gradu, i. ordine, An. Ox. 2191. On heálicere démendre geþinhþe in alto tribunalis culmine, 3456. Geþinþe apice (Pontificatus praeditus), 5078, Þá unrihtwísan déman behealdaþ þá geðincþo ðæs mannes, Ll. Lbmn. 476, 26. Ðæt hé ongité for hwæs geðyncðum ðæt folc sié genemned heord sub cujus aestimatione populus grex vocatur, Past. 75, 7. Swǽ swǽ hé on geðyncðum bið furðor ðonne óðre sicut honore ordinis superat, 80, 23. Hit waes hwílum þ-bar; leód and lagu fór be geþincðum, Ll. Th. i. 190, 12. Swá man bið mihtigra for worulde, oþþon þurh geþingða heárra on háde, 328, 14. On ðæm dóme ðæs ryhtwísan Déman onwent sió geearnung ðone hád and ðá geðyncðo in examine recti judicis muta merita ordinum qualitas actionum, Past. 411, 25. (1 a) of a thing personified :-- Þes dǽl (the participle) næfð nǽnne stede of him selfum, ac byð of worde ácenned, and becymð syþþan tó his ágenre geþingðe (-þincþe, v. l.), Ælfc. Gr. Z. 244, 18. (2) of things, degree, grade :-- Geþincþa graduum, An. Ox. 1404. (3) high degree of moral excellence :-- Héhnysse, geþinþe fastigio (edito Virginitatis fastigio sublimati, Ald. 13, 36), An. Ox. 930. Geþinþe proposito, i. gradu (in summo Virginitatis proposito, Ald. 14, 23), 968. Gif heálicere eádmódnesse wé wylláð geþincðe hreppan si summe humilitatis volumus culmen adtingere, R. Ben. I. 27, 13. v. leód-, weorold-geþincþ[u]."
+}

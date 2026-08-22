@@ -1,0 +1,31 @@
+{
+  "citation_form": "be-spanan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé wile áwendan of rihtan geleáfan and be-spanan tó his unlárum",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 95, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bi-spanan"
+  ],
+  "source_text": [
+    "be-spanan. Add :-- Hé wile áwendan of rihtan geleáfan and be-spanan tó his unlárum, Wlfst. 95, 15. v. bi-spanan in Dict."
+  ]
+}

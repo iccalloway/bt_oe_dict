@@ -1,0 +1,48 @@
+{
+  "citation_form": "ge-styltan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To be astonished, to be silent from astonishment",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gestylton &l-bar; gesuígdon alle",
+          "latin": "stupebant omnes",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 12, 23"
+        },
+        {
+          "old_english": "Folc gestylte [gistylted wæs, Rush.]",
+          "latin": "populus stupefactus est",
+          "english": null,
+          "citations": "Mk. Skt. Lind. 9, 15"
+        },
+        {
+          "old_english": "Gestyldon aldro",
+          "latin": "stupuerunt parentes",
+          "english": null,
+          "citations": "Lk. Skt. Lind. 8, 56"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-stillan"
+  ],
+  "source_text": "ge-styltan; p. te To be astonished, to be silent from astonishment :-- Gestylton &l-bar; gesuígdon alle stupebant omnes, Mt. Kmbl. Lind. 12, 23. Folc gestylte [gistylted wæs, Rush.] populus stupefactus est, Mk. Skt. Lind. 9, 15. Gestyldon aldro stupuerunt parentes, Lk. Skt. Lind. 8, 56. v. ge-stillan[?]."
+}

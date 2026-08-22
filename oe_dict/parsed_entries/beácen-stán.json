@@ -1,0 +1,34 @@
+{
+  "citation_form": "beácen-stán",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A stone whereon the beacon fire was made, a stone or tower whereon to set the beacon fire",
+      "latin": "specula, pharus",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 88"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "beácen-stán, es; m. A stone whereon the beacon fire was made, a stone or tower whereon to set the beacon fire; specula, pharus; Cot. 88."
+}

@@ -1,0 +1,23 @@
+{
+  "english_lemma": "motion",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "movement.n.03",
+      "definition": "a natural event that involves a change in the position or location of something",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-styrung",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [
+            "motus"
+          ],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

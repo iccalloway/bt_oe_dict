@@ -1,0 +1,188 @@
+{
+  "citation_form": "ge-endung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "local",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "an extreme part",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Seó sunne undergǽd þǽre eorðan geendunge",
+              "latin": null,
+              "english": "the sun goes below the horizon",
+              "citations": "Lch. iii. 260, 7"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "a termination of a word",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Seó forme declinatio hæfð tres terminationes, þæt synd ðreó geendunga",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. Gr. Z. 24, 4: 26, 12"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "a concluding passage",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Seó geendung ús sǽde þ-bar; þá Iudéiscan þóhton þ-bar; hí Críst ofslógon",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. A. 71, 161"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "temporal, a final period",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wé sind ðá ðe worulda geendunga on becómon",
+          "latin": "in quos fines saeculorum devenerunt",
+          "english": null,
+          "citations": "Hml. Th. ii. 372, 10"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "III.",
+      "supplemental": "O. H. Ger. ge-entunga definitio.",
+      "meaning": "cessation, termination",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þ-bar; æþele líf búton geendunge",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 65, 18"
+        },
+        {
+          "old_english": "Geseah hé geneálǽcan his lífes geendunge",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 26, 156"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "III a.",
+          "heading": null,
+          "meaning": "ending of life, death",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé ábád þæs óðres geendunge",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 152, 18"
+            },
+            {
+              "old_english": "On ðám endlyftan geáre his geendunge",
+              "latin": null,
+              "english": "in the eleventh year since his death",
+              "citations": "31"
+            },
+            {
+              "old_english": "Se sunu sceolde fón to þám háde æfter his fæder geendunge",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 10, 221: 18, 435"
+            },
+            {
+              "old_english": "Æfter úre geendunge",
+              "latin": null,
+              "english": null,
+              "citations": "28, 152: Shrn. 97, 30"
+            },
+            {
+              "old_english": "Þæt hí on eówrum geendungum (cum defeceritis) onfón eów intó écum eardungstówum",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 334, 28"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "III b.",
+          "heading": null,
+          "meaning": "ending of existence, end of the world",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þás ðing sceolon ǽrest cuman, ac ne bið swá ðeáh þǽrrihte seó geendung (finis)",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 538, 3"
+            },
+            {
+              "old_english": "On ðissere worulde geendunge",
+              "latin": null,
+              "english": null,
+              "citations": "300, 9: Hml. A. 165, 23: 23, 221"
+            },
+            {
+              "old_english": "Úres Drihtnes apostolas áhsadan hine sylfne ymbe þisre worulde geendunge",
+              "latin": null,
+              "english": null,
+              "citations": "Wlfst. 81, 2"
+            },
+            {
+              "old_english": "Oþ þá geendunga þisse worlde",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 157, 30"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-endung. Add: I. local, (1) an extreme part :-- Seó sunne undergǽd þǽre eorðan geendunge the sun goes below the horizon, Lch. iii. 260, 7. (2) a termination of a word :-- Seó forme declinatio hæfð tres terminationes, þæt synd ðreó geendunga, Ælfc. Gr. Z. 24, 4: 26, 12. (3) a concluding passage :-- Seó geendung ús sǽde þ-bar; þá Iudéiscan þóhton þ-bar; hí Críst ofslógon, Hml. A. 71, 161. II. temporal, a final period :-- Wé sind ðá ðe worulda geendunga on becómon in quos fines saeculorum devenerunt, Hml. Th. ii. 372, 10. III. cessation, termination :-- Þ-bar; æþele líf búton geendunge, Bl. H. 65, 18. Geseah hé geneálǽcan his lífes geendunge, Hml. S. 26, 156. III a. ending of life, death :-- Hé ábád þæs óðres geendunge, Hml. Th. ii. 152, 18. On ðám endlyftan geáre his geendunge in the eleventh year since his death, 31. Se sunu sceolde fón to þám háde æfter his fæder geendunge, Hml. S. 10, 221: 18, 435. Æfter úre geendunge, 28, 152: Shrn. 97, 30. Þæt hí on eówrum geendungum (cum defeceritis) onfón eów intó écum eardungstówum, Hml. Th. i. 334, 28. III b. ending of existence, end of the world :-- Þás ðing sceolon ǽrest cuman, ac ne bið swá ðeáh þǽrrihte seó geendung (finis), Hml. Th. ii. 538, 3. On ðissere worulde geendunge, 300, 9: Hml. A. 165, 23: 23, 221. Úres Drihtnes apostolas áhsadan hine sylfne ymbe þisre worulde geendunge, Wlfst. 81, 2. Oþ þá geendunga þisse worlde, Bl. H. 157, 30. [O. H. Ger. ge-entunga definitio.]"
+  ]
+}

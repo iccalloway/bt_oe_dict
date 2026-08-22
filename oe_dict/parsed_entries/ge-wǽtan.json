@@ -1,0 +1,60 @@
+{
+  "citation_form": "ge-wǽtan",
+  "variant_forms": [
+    "-wétan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-wǽtte",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wǽted",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "-wǽtt",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To wet, to make wet",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Onsend Ladzarus ðætte he gewǽte his ýtemestan finger on wættre",
+          "latin": null,
+          "english": "send Lazarus, that he may wet the tip of his finger in water",
+          "citations": "Past. 43, 1; Swt. 309, 6; Hat. MS."
+        },
+        {
+          "old_english": "Strengas gurron wædo gewǽtte",
+          "latin": null,
+          "english": "the ropes creaked wet with the waters",
+          "citations": "Andr. Kmbl. 749; An. 375"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 104, 36"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-wǽtan, -wétan; p. -wǽtte; pp. -wǽted, -wǽtt To wet, to make wet :-- Onsend Ladzarus ðætte he gewǽte his ýtemestan finger on wættre send Lazarus, that he may wet the tip of his finger in water, Past. 43, 1; Swt. 309, 6; Hat. MS. Strengas gurron wædo gewǽtte the ropes creaked wet with the waters, Andr. Kmbl. 749; An. 375: Ps. Th. 104, 36."
+}

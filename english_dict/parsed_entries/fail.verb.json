@@ -1,0 +1,36 @@
+{
+  "english_lemma": "fail",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "fail.v.04",
+      "definition": "stop operating or functioning",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BERSTAN",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "cum fragore dissilire, corruere, rumpi, frangi",
+            "muri illico corruerunt"
+          ],
+          "attestations": [
+            "Exon. 21 b; Th. 58, 10; Cri. 933",
+            "Beo. Th. 1640; B. 818",
+            "Cd. 167; Th. 208, 15; Exod. 483",
+            "Jos. 6, 20 : Ors. 1, 7; Bos. 29, 38",
+            "L. Ed. 3; Th. i. 160, 20"
+          ],
+          "quotations": [
+            {
+              "old_english": "Gif him áþ burste",
+              "english": "if an oath failed them",
+              "citations": "L. Ed. 3; Th. i. 160, 20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

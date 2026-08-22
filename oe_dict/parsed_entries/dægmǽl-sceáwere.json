@@ -1,0 +1,38 @@
+{
+  "citation_form": "dægmǽl-sceáwere",
+  "variant_forms": [
+    "Dægmélsceáwere"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An observer of the dial, an observer of times and seasons, an astrologer, diviner",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Dægmélsceáwere aruspex",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 17, 12"
+        },
+        {
+          "old_english": "horoscopus",
+          "latin": null,
+          "english": null,
+          "citations": "60, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "tíd-sceáwere"
+  ],
+  "source_text": "dægmǽl-sceáwere. Substitute: An observer of the dial, an observer of times and seasons, an astrologer, diviner:--Dægmélsceáwere aruspex, Wrt. Voc. i. 17, 12: horoscopus, 60, 11. v. tíd-sceáwere."
+}

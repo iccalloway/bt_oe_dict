@@ -1,0 +1,34 @@
+{
+  "citation_form": "slǽp-drenc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A sleeping-draught",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Slǽpdrenc; rædic, hymlic, wermód, belone, cnuca ealle þá wyrte, dó in ealað",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. iii. 22, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "slǽp-drenc, es; m. A sleeping-draught :-- Slǽpdrenc; rædic, hymlic, wermód, belone, cnuca ealle þá wyrte, dó in ealað, Lch. iii. 22, 27."
+}

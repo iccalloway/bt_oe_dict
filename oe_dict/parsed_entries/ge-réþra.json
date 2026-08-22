@@ -1,0 +1,36 @@
+{
+  "citation_form": "ge-réþra",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A sailor, rower",
+      "latin": "nauta",
+      "quotations": [
+        {
+          "old_english": "Geréþra [MS. geréþru] nauta",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 103; Wrt. Voc. 56, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "réþra"
+  ],
+  "source_text": "ge-réþra, an; m. A sailor, rower; nauta :-- Geréþra [MS. geréþru] nauta, Ælfc. Gl. 103; Wrt. Voc. 56, 15. v. réþra."
+}

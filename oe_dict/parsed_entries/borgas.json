@@ -1,0 +1,28 @@
+{
+  "citation_form": "borgas",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "pl. of borh",
+      "meaning": "sureties, debtors",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "L. Eth. i. 1; Th. i. 280, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "borgas sureties, debtors, L. Eth. i. 1; Th. i. 280, 21; pl. of borh."
+}

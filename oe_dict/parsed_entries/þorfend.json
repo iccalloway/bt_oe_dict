@@ -1,0 +1,77 @@
+{
+  "citation_form": "þorfend",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A needy person, a poor person",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wæs sum ðærfe &l-bar; ðo[r]fond (mendicus) ... wæs deád se ðorfendo (mendicus)",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. Lind. 16, 20, 22"
+        },
+        {
+          "old_english": "Ofer armne and ðorfend",
+          "latin": "super egenum et pauperem",
+          "english": null,
+          "citations": "Rtl. 175, 33"
+        },
+        {
+          "old_english": "Ðorfendo pauperes",
+          "latin": null,
+          "english": null,
+          "citations": "Mk. Skt. Lind. 14, 7"
+        },
+        {
+          "old_english": "Eádgo ða ðorfendo beati pauperes",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. Lind. 6, 20"
+        },
+        {
+          "old_english": "Ic sello ðorfendum do pauperibus",
+          "latin": null,
+          "english": null,
+          "citations": "19, 8: Mk. Skt. Lind. Rush. 14, 5"
+        },
+        {
+          "old_english": "Ðorfendum &l-bar; næfigum (ðarfendum, Rush.) egenis",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. Skt. Lind. 12, 5"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "ptcpl. used substantively",
+      "meaning": "A needy person, a poor person",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "þearfende"
+  ],
+  "source_text": "þorfend, es; m.: þorfende; adj. (ptcpl.) used substantively. A needy person, a poor person :-- Wæs sum ðærfe &l-bar; ðo[r]fond (mendicus) ... wæs deád se ðorfendo (mendicus), Lk. Skt. Lind. 16, 20, 22. Ofer armne and ðorfend super egenum et pauperem, Rtl. 175, 33. Ðorfendo pauperes, Mk. Skt. Lind. 14, 7. Eádgo ða ðorfendo beati pauperes, Lk. Skt. Lind. 6, 20. Ic sello ðorfendum do pauperibus, 19, 8: Mk. Skt. Lind. Rush. 14, 5. Ðorfendum &l-bar; næfigum (ðarfendum, Rush.) egenis, Jn. Skt. Lind. 12, 5. Cf. þearfende, and see preceding and following words."
+}

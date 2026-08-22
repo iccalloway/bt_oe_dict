@@ -1,0 +1,38 @@
+{
+  "citation_form": "æðdel-borennes",
+  "variant_forms": [
+    "-ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Nobleness of birth",
+      "latin": "nobilitas",
+      "quotations": [
+        {
+          "old_english": "Ic ðíne æðelborennesse geseó",
+          "latin": null,
+          "english": "I see the nobleness of thy birth",
+          "citations": "Apol. Th. 15, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "æðdel-borennes, -ness, e; f. Nobleness of birth; nobilitas :-- Ic ðíne æðelborennesse geseó I see the nobleness of thy birth, Apol. Th. 15, 18."
+  ]
+}

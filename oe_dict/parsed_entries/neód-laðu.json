@@ -1,0 +1,30 @@
+{
+  "citation_form": "neód-laðu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Earnest, hospitable invitation",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé frægn gif him wǽre æfter neódlaðu niht getǽse",
+          "latin": null,
+          "english": "Beowulf asked if to Hrothgar the night had been pleasant after the hospitality of the preceding evening (?) (cf. him wæs ful boren and freóndlaðu wordum bewægned, 2389; B. 1192)",
+          "citations": "Beo. Th. 2644; B. 1320"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "neód-laðu; f. Earnest, hospitable invitation :-- Hé frægn gif him wǽre æfter neódlaðu niht getǽse Beowulf asked if to Hrothgar the night had been pleasant after the hospitality of the preceding evening (?) (cf. him wæs ful boren and freóndlaðu wordum bewægned, 2389; B. 1192), Beo. Th. 2644; B. 1320."
+  ]
+}

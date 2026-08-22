@@ -1,0 +1,221 @@
+{
+  "citation_form": "ge-ortríwan",
+  "variant_forms": [
+    "-treówan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to despair of",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "with gen. Cf. I a",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne þú tó wáclíce geortreówe ǽniges gódes",
+              "latin": "spemque fugato nes dolor adsit",
+              "english": null,
+              "citations": "Met. 5, 35"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "with prep.",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé nǽfre ne geortreówe be Godes mildse",
+              "latin": "de Dei misericordia nunquam desperare",
+              "english": null,
+              "citations": "R. Ben. 19, 2"
+            },
+            {
+              "old_english": "Þá ðé ne lǽtað geortréwan (-treówan, v. l.) be þýs andweardan lífe",
+              "latin": "quae nec praesentis solamen temporis abesse patiantur",
+              "english": null,
+              "citations": "Bt. 10; S. 23, 7"
+            },
+            {
+              "old_english": "Ne sceolon wé nǽfre geortrýwan be Godes mildheortnesse",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. ii. 400, 1"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "with clause",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sé ðe tó lange wunað on ðǽm wlacum treówum, hé geortreówð ðæt hé ǽfre mæge on welme weorðan",
+              "latin": "calore desperato",
+              "english": null,
+              "citations": "Past. 447, 9"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "absolute, to despair",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé geortriéwð",
+              "latin": "in desperatione est",
+              "english": null,
+              "citations": "Past. 447, 11"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I a.",
+      "supplemental": null,
+      "meaning": "reflex. to cause (oneself) to despair. Cf. I. 1",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þæt ðú þé ne geortrýwe nánes gódes",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 6; F. 14, 35"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to doubt, distrust",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to doubt the possibility of, be uncertain about something",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)(a)",
+              "heading": null,
+              "meaning": "with acc.",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þonne bið ús gesewen þæt ús ǽr gesǽd wæs, þeáh þe wé hit nú geortrýwan (-trúwian, v. l.), for ðý wé hit geseón ne magon",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Wlfst. 3, 18"
+                }
+              ],
+              "sub_senses": [
+                {
+                  "label": "(aa)",
+                  "heading": null,
+                  "meaning": "with acc. and clause in apposition",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Nis þ-bar; tó geortrýwanne (-enne, v. l.), þ-bar; on úre yldo þ-bar; beón mihte",
+                      "latin": "nec diffidendum est nostra aetate fieri potuisse",
+                      "english": null,
+                      "citations": "Bd. 4, 19; Sch. 441, 7"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "(1)(b)",
+              "heading": null,
+              "meaning": "with clause",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé geortreóweð hweþer hí sóðe sýn, for þon þe hé nǽfre ne cúþe þurh gewisse áfandunge . . . hí geortreówdon hwæðer hí sóðe wǽron þe nǽron",
+                  "latin": "quia per experimentum non novit, veraciter esse diffidat . . . diffidunt an vera sint",
+                  "english": null,
+                  "citations": "Gr. D. 261, 18-22"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "not to trust in something",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sý þú nǽfre swá synful þæt þú ǽfre geortrýwe on Godes mildheortnysse",
+              "latin": null,
+              "english": null,
+              "citations": "Angl. xii. 517, 26"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "not to trust to a person (dat.) for doing something (clause)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne geortriéwe (-trúwige, Bos. 48, 45) ic ná Gode þæt hé ús ne mæge gescildan",
+              "latin": null,
+              "english": "I trust to God that he can preserve us",
+              "citations": "Ors. 2, 5; S. 86, 4"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ge-ortréwan"
+  ],
+  "source_text": "ge-ortríwan, -treówan; p. de. Take here ge-ortréwan in Dict., and add: I. to despair of. (1) with gen. Cf. I a:--Ne þú tó wáclíce geortreówe ǽniges gódes spemque fugato nes dolor adsit, Met. 5, 35. (2) with prep.:--Hé nǽfre ne geortreówe be Godes mildse de Dei misericordia nunquam desperare, R. Ben. 19, 2. Þá ðé ne lǽtað geortréwan (-treówan, v. l.) be þýs andweardan lífe quae nec praesentis solamen temporis abesse patiantur, Bt. 10; S. 23, 7. Ne sceolon wé nǽfre geortrýwan be Godes mildheortnesse, Ll. Th. ii. 400, 1. (3) with clause:--Sé ðe tó lange wunað on ðǽm wlacum treówum, hé geortreówð ðæt hé ǽfre mæge on welme weorðan (calore desperato), Past. 447, 9. (4) absolute, to despair:--Hé geortriéwð in desperatione est, Past. 447, 11. I a. reflex. to cause (oneself) to despair. Cf. I. 1:--Þæt ðú þé ne geortrýwe nánes gódes, Bt. 6; F. 14, 35. II. to doubt, distrust. (1) to doubt the possibility of, be uncertain about something, (a) with acc.:--Þonne bið ús gesewen þæt ús ǽr gesǽd wæs, þeáh þe wé hit nú geortrýwan (-trúwian, v. l.), for ðý wé hit geseón ne magon, Wlfst. 3, 18. (aa) with acc. and clause in apposition:--Nis þ-bar; tó geortrýwanne (-enne, v. l.), þ-bar; on úre yldo þ-bar; beón mihte nec diffidendum est nostra aetate fieri potuisse, Bd. 4, 19; Sch. 441, 7. (b) with clause:--Hé geortreóweð hweþer hí sóðe sýn, for þon þe hé nǽfre ne cúþe þurh gewisse áfandunge . . . hí geortreówdon hwæðer hí sóðe wǽron þe nǽron quia per experimentum non novit, veraciter esse diffidat . . . diffidunt an vera sint, Gr. D. 261, 18-22. (2) not to trust in something:--Sý þú nǽfre swá synful þæt þú ǽfre geortrýwe on Godes mildheortnysse, Angl. xii. 517, 26. (3) not to trust to a person (dat.) for doing something (clause):--Ne geortriéwe (-trúwige, Bos. 48, 45) ic ná Gode þæt hé ús ne mæge gescildan I trust to God that he can preserve us, Ors. 2, 5; S. 86, 4."
+}

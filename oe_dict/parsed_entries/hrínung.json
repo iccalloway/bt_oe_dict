@@ -1,0 +1,28 @@
+{
+  "citation_form": "hrínung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the sense of touch",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mé þincð þæt þú ne trúwie þám uttram gewitte, náðer ne þám eágum . . . ne ðám hyrínunge",
+          "latin": "respuis omne testimonium sensuum",
+          "english": null,
+          "citations": "Solil. H. 18, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hrínung. Add: the sense of touch:--Mé þincð þæt þú ne trúwie þám uttram gewitte, náðer ne þám eágum . . . ne ðám hyrínunge respuis omne testimonium sensuum, Solil. H. 18, 13."
+}

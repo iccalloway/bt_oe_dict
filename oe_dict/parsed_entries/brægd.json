@@ -1,0 +1,36 @@
+{
+  "citation_form": "brægd",
+  "variant_forms": [
+    "bregd"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "brægd, p. of bregdan to twist, braid, weave",
+      "meaning": "Deceit, fraud",
+      "latin": "dolus, fraus",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-brægd",
+    "-bregd",
+    "nearo-",
+    "bræd"
+  ],
+  "source_text": [
+    "brægd, bregd, es; m. [brægd, p. of bregdan to twist, braid, weave] Deceit, fraud; dolus, fraus. DER. ge-brægd, -bregd, nearo-. v. bræd."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "citation_form": "ge-cnedan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-cnæd",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-cnǽdon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-cneden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To mix, mingle, spread, knead",
+      "latin": "depsere",
+      "quotations": [
+        {
+          "old_english": "Gecned nú hrædlíce þrí sestras smedeman",
+          "latin": "depse nunc tres mensuras similaginis",
+          "english": null,
+          "citations": "Gen. 18, 6"
+        },
+        {
+          "old_english": "Gecned hine mid meocle",
+          "latin": null,
+          "english": "knead it with milk",
+          "citations": "Th. An. 119, 5"
+        },
+        {
+          "old_english": "Óððæt sic gecnoeden all",
+          "latin": "donec fermentaretur totum",
+          "english": null,
+          "citations": "Lk. Skt. Lind. 13, 21"
+        },
+        {
+          "old_english": "Gecneden sealf",
+          "latin": "cataplasma",
+          "english": null,
+          "citations": "Cot. 209"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-cnedan; p. -cnæd, pl. -cnǽdon; pp. -cneden To mix, mingle, spread, knead; depsere :-- Gecned nú hrædlíce þrí sestras smedeman depse nunc tres mensuras similaginis, Gen. 18, 6, Gecned hine mid meocle knead it with milk, Th. An. 119, 5. Óððæt sic gecnoeden all donec fermentaretur totum, Lk. Skt. Lind. 13, 21. Gecneden sealf cataplasma, Cot. 209."
+}

@@ -1,0 +1,53 @@
+{
+  "citation_form": "wiþer-méde",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "contrary-minded, contrary, adverse, hostile, opposed",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se wiðerméda (the devil)",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 2391; An. 1197"
+        },
+        {
+          "old_english": "Gif huoelc uiðirmoedo (contraria) sindon in húse esnes ðínes",
+          "latin": "contraria",
+          "english": null,
+          "citations": "Rtl. 123, 12"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": "O. H. Ger. widar-muoti injuriosus.",
+      "meaning": "opposed to good, perverse, depraved",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic (Eve) wæs wiþerméde and unwísum nétenum gelíc geworden",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 89, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wiþer-médu",
+    "wiþer-mód"
+  ],
+  "source_text": "wiþer-méde; adj. I. contrary-minded, contrary, adverse, hostile, opposed :-- Se wiðerméda (the devil), Andr. Kmbl. 2391; An. 1197. Gif huoelc uiðirmoedo (contraria) sindon in húse esnes ðínes, Rtl. 123, 12. II. opposed to good, perverse, depraved :-- Ic (Eve) wæs wiþerméde and unwísum nétenum gelíc geworden, Blickl. Homl. 89, 9. [O. H. Ger. widar-muoti injuriosus.] v. wiþer-médu, wiþer-mód, and next word."
+}

@@ -1,0 +1,31 @@
+{
+  "citation_form": "on-drencan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to inebriate",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hí wǽron ondrencte mid oferdrynce",
+          "latin": null,
+          "english": null,
+          "citations": "Guthl. 14; Gdwin. 62, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "in-drencan"
+  ],
+  "source_text": [
+    "on-drencan to inebriate :-- Hí wǽron ondrencte mid oferdrynce, Guthl. 14; Gdwin. 62, 20. v. in-drencan."
+  ]
+}

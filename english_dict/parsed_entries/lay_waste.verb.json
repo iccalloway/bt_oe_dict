@@ -1,0 +1,36 @@
+{
+  "english_lemma": "lay waste",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "historical_unmapped",
+      "definition": null,
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hýðan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [
+            "-híðan",
+            "-hiéðan"
+          ],
+          "latin_glosses": [
+            "vastare, abolere, subvertere"
+          ],
+          "attestations": [
+            "Elen. Kmbl. 81; El. 41",
+            "Salm. Kmbl. 147; Sal. 73",
+            "Exon. 87a; Th. 328, 9; Vy. 15"
+          ],
+          "quotations": [
+            {
+              "old_english": "Hí woldon Rómwara ríce geþringan, hergum ahýðan",
+              "english": "they would conquer the empire of the Romans, lay it waste with their armies",
+              "citations": "Elen. Kmbl. 81; El. 41"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "citation_form": "flówan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fleów fluxit, decurrit, manavit, flðwen fluitent, flówendum fluido, i. fluenti",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 149, 70, 64, 63"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(i)",
+          "heading": "to flow as a stream in its bed, or a fluid over a surface",
+          "meaning": "to flow as a stream in its bed, or a fluid over a surface",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þîn blód flewþ ofer eorðan swá swá wæter",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 237, 6"
+            },
+            {
+              "old_english": "Fióweð (fléweð, v.l.) seó eá betwyh",
+              "latin": "interfluente amne",
+              "english": null,
+              "citations": "Bd. 5, 2 ; Sch. 556, 5"
+            },
+            {
+              "old_english": "Þæt hnesce and flówende wæter",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 33, 4 ; F. 130, 3"
+            },
+            {
+              "old_english": "Mid flówendnm teárum",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 3, 626"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "to be or become fluid",
+          "meaning": "to be or become fluid",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Weax þe fleúwð &l-bar; melteþ",
+              "latin": "caera quae fluit",
+              "english": null,
+              "citations": "Ps. L. 57, 9"
+            },
+            {
+              "old_english": "Flýwð",
+              "latin": null,
+              "english": null,
+              "citations": "67, 3"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(2 a)",
+              "heading": "fig.",
+              "meaning": "fig.",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þæt deáde flǽsc rotað leahtorlíce, þonne se deádlica líchama ðeówað þǽre flówendan [fluid, and so capable of rotting ?) gálnysse, swá swá se wítega be sumum cwæð: 'Ðá nýtenu forrotedon on heora meoxe",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. i. ii 8, 14"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(3)",
+          "heading": "of persons, to resort in great numbers, come or go in streams",
+          "meaning": "of persons, to resort in great numbers, come or go in streams",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þá him fleówon tó forwel menige",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 158, 30"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": "of (immaterial) things, to pass away, be transitory",
+          "meaning": "of (immaterial) things, to pass away, be transitory",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se wlite þæs líchoman is swíþe fliónde (flówende, v.l.)",
+              "latin": "formae nitor rapidus est",
+              "english": null,
+              "citations": "Bt. 32, 2; F. 116, 17"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(5)",
+          "heading": "to issue from a source",
+          "meaning": "to issue from a source",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðanon fléwð eallum mildheortnys and gifu",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 448, 2"
+            },
+            {
+              "old_english": "Of his innoðe fleówð líflic wæter . . . þæt wæter þe of ðám stáne fleów",
+              "latin": null,
+              "english": null,
+              "citations": "ii. 274a 4-9"
+            },
+            {
+              "old_english": "Of his sídan út fleów blód and wæter samod",
+              "latin": null,
+              "english": null,
+              "citations": "360, 12"
+            },
+            {
+              "old_english": "Hé eft cymþ tó þám ilcan ǽwelme þe hé ǽr út fleów",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 24, l; F. 80, 27"
+            },
+            {
+              "old_english": "Ðæt of ðǽm innoðum á libbendu wætru fleówen",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 467, 30"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(6)",
+          "heading": "to flow (opposed to to ebb)",
+          "meaning": "to flow (opposed to to ebb)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Seó sǽsymle feówer prican oððe fíf lator flówð. Ðonne se móna úp áríst, þonne ongiuð seó sǽtó flówanne",
+              "latin": null,
+              "english": null,
+              "citations": "Angl. viii. 327, 27"
+            },
+            {
+              "old_english": "Fléwð",
+              "latin": null,
+              "english": null,
+              "citations": "Lch. iii. 268, 16"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(7)",
+          "heading": "to be flooded, be covered with a fluid",
+          "meaning": "to be flooded, be covered with a fluid",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Oft of ðinnum rénscfirum fléwð seó eorðe",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 466, 8"
+            },
+            {
+              "old_english": "Hé bát his tungan þæt heó on blóde fleów",
+              "latin": null,
+              "english": "he bit his tongue, so that it was bathed in blood",
+              "citations": "312, 25"
+            },
+            {
+              "old_english": "Feól sum preóst of þám weorce, swá þ-bar; hé sámcucu læg . . . and fieów eall blóde",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 6, 165"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(8)",
+          "heading": "to flow with",
+          "meaning": "to flow with",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "of a stream, where the material of the stream is given",
+              "meaning": "of a stream, where the material of the stream is given",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðeáh ðe him ealle streámas hunige fleówan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Sal. K. p. 86, 4"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "of other things, to abound",
+              "meaning": "of other things, to abound",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Tó gódan lande, þæt ðe fleówð mid meolce and mid hunige",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. ii. 192, 8"
+                },
+                {
+                  "old_english": "Flówendre (blówendre?) praepollenti, i. florenti (gazarum affluentia)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "An. Ox. 3602"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ge-flówan",
+    "eft-flówende",
+    "fiþer-flówende",
+    "singal-flówende",
+    "tó-flówende"
+  ],
+  "source_text": [
+    "flówan. Add :-- Fleów fluxit, decurrit, manavit, flðwen fluitent, flówendum fluido, i. fluenti, Wrt. Voc. ii. 149, 70, 64, 63. (i) to flow as a stream in its bed, or a fluid over a surface :-- Þîn blód flewþ ofer eorðan swá swá wæter, Bl. H. 237, 6. Fióweð (fléweð, v.l.) seó eá betwyh interfluente amne, Bd. 5, 2 ; Sch. 556, 5. Þæt hnesce and flówende wæter. Bt. 33, 4 ; F. 130, 3. Mid flówendnm teárum, Hml. S. 3, 626. (2) to be or become fluid :-- Weax þe fleúwð &l-bar; melteþ caera quae fluit, Ps. L. 57, 9. Flýwð, 67, 3. (2 a) fig. :-- Þæt deáde flǽsc rotað leahtorlíce, þonne se deádlica líchama ðeówað þǽre flówendan [fluid, and so capable of rotting ?) gálnysse, swá swá se wítega be sumum cwæð: 'Ðá nýtenu forrotedon on heora meoxe, Hml. Th. i. ii 8, 14. (3) of persons, to resort in great numbers, come or go in streams :-- Þá him fleówon tó forwel menige, Hml. Th. ii. 158, 30. (4) of (immaterial) things, to pass away, be transitory :-- Se wlite þæs líchoman is swíþe fliónde (flówende, v.l.) formae nitor rapidus est. Bt. 32, 2; F. 116, 17. (5) to issue from a source :-- Ðanon fléwð eallum mildheortnys and gifu, Hml. Th. i. 448, 2. Of his innoðe fleówð líflic wæter . . . þæt wæter þe of ðám stáne fleów, ii. 274a 4-9 Of his sídan út fleów blód and wæter samod, 360, 12. Hé eft cymþ tó þám ilcan ǽwelme þe hé ǽr út fleów, Bt. 24, l; F. 80, 27. Ðæt of ðǽm innoðum á libbendu wætru fleówen, Past. 467, 30. (6) to flow (opposed to to ebb) :-- Seó sǽsymle feówer prican oððe fíf lator flówð. Ðonne se móna úp áríst, þonne ongiuð seó sǽtó flówanne, Angl. viii. 327, 27. Fléwð, Lch. iii. 268, 16. (7) to be flooded, be covered with a fluid :-- Oft of ðinnum rénscfirum fléwð seó eorðe, Hml. Th. ii. 466, 8. Hé bát his tungan þæt heó on blóde fleów he bit his tongue, so that it was bathed in blood, 312, 25. Feól sum preóst of þám weorce, swá þ-bar; hé sámcucu læg . . . and fieów eall blóde, Hml. S. 6, 165. (8) to flow with, (a) of a stream, where the material of the stream is given :-- Ðeáh ðe him ealle streámas hunige fleówan, Sal. K. p. 86, 4. (b) of other things, to abound :-- Tó gódan lande, þæt ðe fleówð mid meolce and mid hunige, Hml. Th. ii. 192, 8. Flówendre (blówendre?) praepollenti, i. florenti (gazarum affluentia), An. Ox. 3602. v. ge-flówan ; eft-, fiþer-, singal-, tó-flówende."
+  ]
+}

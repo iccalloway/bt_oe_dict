@@ -1,0 +1,30 @@
+{
+  "citation_form": "lícettere",
+  "variant_forms": [
+    "Lécetere"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Lécetere",
+          "latin": "simulator",
+          "english": null,
+          "citations": "Kent. Gl. 353"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "lícettere. Add: -- Lécetere simulator, Kent. Gl. 353."
+}

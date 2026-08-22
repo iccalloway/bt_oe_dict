@@ -1,0 +1,30 @@
+{
+  "citation_form": "mylen-weg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a road to a mill",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Andlang ðæs mylanweges on þone Lundenweg",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. vi. 31, 29"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "mylen-weg a road to a mill:-- Andlang ðæs mylanweges on þone Lundenweg, C. D. vi. 31, 29."
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "citation_form": "hlīt",
+  "variant_forms": [
+    "hlēt",
+    "hlyt",
+    "hlȳt"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "but in Ps. L. 30, 16 the word seems feminine",
+      "meaning": "a lot (the object which is used)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Cleros an Crēcisc getācnaþ hlȳt an Englisc",
+          "latin": "cleros sors interpretatur",
+          "english": null,
+          "citations": "Chrd. 75, 28"
+        },
+        {
+          "old_english": "Ofer hrægl mīn sendon hlēt (hlȳt, Ps. L.)",
+          "latin": "super vestem meam miserunt sortem",
+          "english": null,
+          "citations": "Ps. Vos. Srt. 21, 19"
+        },
+        {
+          "old_english": "Hlētt",
+          "latin": null,
+          "english": null,
+          "citations": "Mk. R. 15, 24"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I a.",
+          "heading": null,
+          "meaning": "the urn in which the lots were placed",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hlēte",
+              "latin": "urna (matronam, quam suprenia sors gernina mortis mulctaverat urna. Ald. 25, 9)",
+              "english": null,
+              "citations": "Hpt. Gl. 449, 58"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "the casting of lots",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wiðercwidas ofþrect hlēt, and tō-scēd",
+          "latin": "contradictiones comprimit sors, et (inter potentes) diiudicat",
+          "english": null,
+          "citations": "Kent. Gl. 655"
+        },
+        {
+          "old_english": "Be hlēte",
+          "latin": "sorte (territorii dirempta)",
+          "english": null,
+          "citations": "Hpt. Gl. 426, 42"
+        },
+        {
+          "old_english": "Hlēte tōdæ-long;lde him eorþan",
+          "latin": "sorte divisit eis terram",
+          "english": null,
+          "citations": "Ps. Vos. Srt. 77, 54"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "the share assigned to a person",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seó sāwel þe bedæ-long;led is þām gōdnyssum, heó gewilnige þæt se cystiga wealdend hī geþeóde þām hlȳte his gecorena",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 346, 29"
+        },
+        {
+          "old_english": "Ne forlæ-long;t Dryhten gird synfulra ofer hlēt (sortem) ryhtwīsra",
+          "latin": "sortem",
+          "english": null,
+          "citations": "Ps. Vos. Srt. 134, 3"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "IV.",
+      "supplemental": null,
+      "meaning": "lot, fate, fortune",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hē Mercna rīce twā and twēntig wintra missenlice hlēte (hlȳte, v. l. varia sorte) fore wæs",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 2, 20; 184, l"
+        },
+        {
+          "old_english": "Þone hē gelīce hlēte (hlȳte, v. l.) geniðrade and ofslōh Eanfridum",
+          "latin": "simili sorte damnavit",
+          "english": null,
+          "citations": "3, l; Sch. 192, 22"
+        },
+        {
+          "old_english": "Nū syndon gesette þā apostolas in hlēt æ-long; hié bodian",
+          "latin": null,
+          "english": "now are the apostles appointed to the task(?) of ever proclaiming her",
+          "citations": "Bl. H. 157, 35"
+        },
+        {
+          "old_english": "On handum þīnum hlȳta mīne",
+          "latin": "in manibus tuis sortes meae",
+          "english": null,
+          "citations": "Ps. L. 30, 16"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "IV a.",
+          "heading": "of death",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þæ-long;re ȳtemeste hlȳtes",
+              "latin": "sortis supremæ",
+              "english": null,
+              "citations": "An. Ox. 2294"
+            },
+            {
+              "old_english": "Þæm ētemestan hlēte",
+              "latin": "suprema sorte",
+              "english": null,
+              "citations": "Hpt. GL, 453, 34"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "mid-hlīt",
+    "hlyte"
+  ],
+  "source_text": "hl&i-long;t, es; m. (but in Ps. L. 30, 16 the word seems feminine). Take here hl&e-long;t, hlyt (l. hl&y-long;t) in Dict., and add: I. a lot (the object which is used) :-- Cleros an Cr&e-long;cisc get&a-long;cna&d-bar; hl&y-long;t an Englisc cleros sors inter fretatur, Chrd. 75, 28. Ofer hrægl m&i-long;n sendon hl&e-long;t (hl&y-long;t, Ps. L.) super vestem meam miserunt sortem, Ps. Vos. Srt. 21, 19. Hl&e-long;tt, Mk. R. 15, 24. I a. the urn in which the lots were placed :-- Hl&e-long;te urna (matronam, quam suprenia sors gernina mortis mulctaverat urna. Ald. 25, 9), Hpt. Gl. 449, 58. II. the casting of lots :-- Wi&d-bar;ercwidas of&d-bar;rect hl&e-long;t, and t&o-long;-sc&e-long;d contradictiones comprimit sors, et (inter potentes) diiudicat, Kent. Gl. 655. Be hl&e-long;te sorte (territorii dirempta), Hpt. Gl. 426, 42. Hl&e-long;te t&o-long;dæ-long;lde him eor&d-bar;an sorte diviasit eis terram, Ps. Vos. Srt. 77, 54. III. the share assigned to a person :-- Seó s&a-long;wel &d-bar;e bedæ-long;led is þ&a-long;m g&o-long;dnyssum, heó gewilnige þæt se cystiga wealdend h&i-long; ge&d-bar;eóde þ&a-long;m hl&y-long;te his gecorena, Hml. Th. i. 346, 29. Ne forlæ-long;t Dryhten gird synfulra ofer hl&e-long;t (sortem) ryhtw&i-long;sra, Ps. Vos. Srt. 134, 3. IV. lot, fate, fortune :-- H&e-long; Mercna r&i-long;ce tw&a-long; and tw&e-long;ntig wintra missenlice hl&e-long;te (hl&y-long;te, v. l. varia sorte) fore wæs, Bd. 2, 20; 184, l. Þone h&e-long; gel&i-long;ce hl&e-long;te (hl&y-long;te, v. l.) geni&d-bar;rade and ofsl&o-long;h Eanfridum simili sorte damnavit, 3, l; Sch. 192, 22. N&u-long; syndon gesette þ&a-long; apostolas in hl&e-long;t æ-long; hié bodian now are the apostles appointed to the task(?) of ever proclaiming her, Bl. H. 157, 35. On handum þ&i-long;num hl&y-long;ta m&i-long;ne in manibus tuis series meae, Ps. L. 30, 16. IV a. of death :-- Þæ-long;re &y-long;temeste hl&y-long;tes sortis supprem&e-hook;, An. Ox. 2294. Þæ-long;m &e-long;temestan hl&e-long;te suprema sorte, Hpt. GL, 453, 34. v. mid-hl&i-long;t; hlyte."
+}

@@ -1,0 +1,58 @@
+{
+  "english_lemma": "action",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "action.n.01",
+      "definition": "something done (usually as opposed to something said)",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "DÆ-acute;D",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [
+            "actio, actus, factum",
+            "actio",
+            "luctor",
+            "facta ejus intellexerunt"
+          ],
+          "attestations": [
+            "Ælfc. Gr. 9, 3; Som. 8, 38: actus, 11; Som. 15, 12",
+            "L. Eth. v. 31; Th. i. 312, 10: vi. 38; Th. i. 324, 23: L. C. E. 3; Th. i. 360, 13",
+            "Bd. 3, 6; S. 528, 22: Cd. 28; Th. 37, 24; Gen. 594: 226; Th. 301, 4; Sat. 576: Bt. Met. Fox 9, 36; Met. 9, 18: Chr. 1036; Erl. 165, 11; Ælf. Tod. 6",
+            "Cd. 46; Th. 59, 15; Gen. 964",
+            "125; Th. 159, 23; Gen. 2639: 126; Th. 161, 24; Gen. 2670",
+            "32; Th. 43, 3; Gen. 685",
+            "15; Th. 19, 23; Gen. 295: 17; Th. 20, 15; Gen. 309: 25; Th. 32, 23; Gen. 507: Beo. Th. 5772; B. 2890: Elen. Kmbl. 772; El. 386",
+            "Ælfc. Gr. 19; Som. 22, 56",
+            "19; Som. 22, 57",
+            "Homl. Th. i. 218, 7: Exon. 103 b; Th. 393, 8; Rä. 12, 7",
+            "23 a; Th. 65, 5; Cri. 1050: 39 b; Th. 130, 12; Gú. 437",
+            "Chr. 959; Erl. 121, 5",
+            "Exon. 23 a; Th. 64, 34; Cri. 1047",
+            "Cd. 43; Th. 57, 2; Gen. 922: 188; Th. 233, 27; Dan. 282: Bd. pref; S. 471, 13: Exon. 53 a; Th. 185, 16; Az. 8",
+            "Beo. Th. 5668; B. 2838: Elen. Kmbl. 2563; El. 1283",
+            "Exon. 82 a; Th. 308, 17; Seef. 41: 76 a; Th. 284, 34; Jul. 707: Cd. 29; Th. 38, 6; Gen. 602: Chr. 755; Erl. 49, 21",
+            "Exon. 99 b; Th. 372, 14; Seel. 91: Beo. Th. 393; B. 195",
+            "Ps. Spl. 63, 10",
+            "Exon. 40 a; Th. 133, 31; Gú. 498: 44 a; Th. 148, 13; Gú. 744: Ps. Th. 118, 17, 43",
+            "Cd. 74; Th. 91, 5; Gen. 1507: 91; Th. 116, 14; Gen. 1936: Exon. 53 a; Tb. 185, 5; Az. 3: Ps. Th. 104, 7: 124, 1: 135, 3"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ða alecgendlícan word getácniaþ dǽde",
+              "english": "the deponent verbs signify action",
+              "citations": "Ælfc. Gr. 19; Som. 22, 56"
+            },
+            {
+              "old_english": "Ic wraxlige I wrestle; luctor, hér is dǽd here is action",
+              "english": "I wrestle; here is action",
+              "citations": "19; Som. 22, 57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

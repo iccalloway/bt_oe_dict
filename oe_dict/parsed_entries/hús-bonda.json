@@ -1,0 +1,36 @@
+{
+  "citation_form": "hús-bonda",
+  "variant_forms": [
+    "-bunda"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. E. Homl. þe husbonde þat is wit warneþ his hus þus, i. 247, 19 : Laym. of æverelche huse þat husbonde wunede, 31958 : Prompt. Parv. hose-, hus-bonde paterfamilias; also maritus : Icel. [from which the word seems borrowed] hus-bóndi [ = -búandi] a house-master; a husband. Cf. Chauc. Wick. husbond-, housbonde-man a householder.",
+      "meaning": "The master of a house",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Án his manna wolde wícian æt ánes bundan húse his unþances and gewundode ðone húsbundon and se húsbunda ofslóh ðone óðerne. Ðá wearþ Eustatius uppon his horse and his gefeoran uppon heora and férdon tó ðam húsbundon and ofslógon hine binnan his ágenan heorþa",
+          "latin": null,
+          "english": "one of his men wanted to stop at a man's house against his will, and wounded the man of the house, and the man of the house slew the other. Then Eustace got on his horse and his companions on theirs, and went to the man of the house and slew him, in his own home",
+          "citations": "Chr. 1048; Erl. 177, 35-40"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hús-bonda, -bunda, an; m. The master of a house :-- Án his manna wolde wícian æt ánes bundan húse his unþances and gewundode ðone húsbundon and se húsbunda ofslóh ðone óðerne. Ðá wearþ Eustatius uppon his horse and his gefeoran uppon heora and férdon tó ðam húsbundon and ofslógon hine binnan his ágenan heorþa one of his men wanted to stop at a man's house against his will, and wounded the man of the house, and the man of the house slew the other. Then Eustace got on his horse and his companions on theirs, and went to the man of the house and slew him, in his own home, Chr. 1048; Erl. 177, 35-40. [O. E. Homl. þe husbonde þat is wit warneþ his hus þus, i. 247, 19 : Laym. of æverelche huse þat husbonde wunede, 31958 : Prompt. Parv. hose-, hus-bonde paterfamilias; also maritus : Icel. [from which the word seems borrowed] hus-bóndi [ = -búandi] a house-master; a husband. Cf. Chauc. Wick. husbond-, housbonde-man a householder.]"
+}

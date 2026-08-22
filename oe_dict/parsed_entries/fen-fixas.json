@@ -1,0 +1,30 @@
+{
+  "citation_form": "fen-fixas",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Fen-fishes",
+      "latin": "palustres pisces",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Som. Ben. Lye."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fisc"
+  ],
+  "source_text": "fen-fixas; pl. m. Fen-fishes; p&a-short;lustres pisces, Som. Ben. Lye. v. fisc."
+}

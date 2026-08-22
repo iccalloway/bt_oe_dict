@@ -1,0 +1,31 @@
+{
+  "citation_form": "heortian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to encourage",
+      "latin": "cohortante",
+      "quotations": [
+        {
+          "old_english": "Heortendum",
+          "latin": "cohortante",
+          "english": null,
+          "citations": "Hpt. Gl. 425, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hirtan"
+  ],
+  "source_text": [
+    "heortian (?) to encourage :-- Heortendum cohortante, . Hpt. Gl. 425, 23. v. hirtan."
+  ]
+}

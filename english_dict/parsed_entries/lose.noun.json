@@ -1,0 +1,27 @@
+{
+  "english_lemma": "lose",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "historical_unmapped",
+      "definition": null,
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-lǽtnes",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [
+            "ness"
+          ],
+          "latin_glosses": [
+            "amissio"
+          ],
+          "attestations": [
+            "Somn. 326"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

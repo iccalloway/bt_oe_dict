@@ -1,0 +1,34 @@
+{
+  "citation_form": "ge-dohtra",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": [
+          {
+            "ending": "pl. (dual ?)",
+            "case": "nominative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "[Two] daughters",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Heora (Jupiter and Juno) gedohtra wǽron Minerua and Uenus (cf. heora twá dohtra wǽron Minerua and Uenus, Wlfst. 106, 15)",
+          "latin": null,
+          "english": null,
+          "citations": "Sal. K. p. 121, 33"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-dohtra; pl. (dual ?) [Two] daughters :-- Heora (Jupiter and Juno) gedohtra wǽron Minerua and Uenus (cf. heora twá dohtra wǽron Minerua and Uenus, Wlfst. 106, 15), Sal. K. p. 121, 33."
+}

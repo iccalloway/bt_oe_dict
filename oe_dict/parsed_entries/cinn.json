@@ -1,0 +1,49 @@
+{
+  "citation_form": "cinn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A kind",
+      "latin": "genus",
+      "quotations": [
+        {
+          "old_english": "Fleógende cinn flying kind",
+          "latin": "volatile",
+          "english": "flying kind",
+          "citations": "Gen. 1, 20"
+        },
+        {
+          "old_english": "Creópende cinn creeping kind",
+          "latin": "reptilia",
+          "english": "creeping kind",
+          "citations": "1, 24"
+        },
+        {
+          "old_english": "Æfter his cinne after its kind",
+          "latin": null,
+          "english": "after its kind",
+          "citations": "1, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "cyn",
+    "cynn"
+  ],
+  "source_text": "cinn, es; n. A kind; genus :-- Fleógende cinn flying kind; volatile, Gen. 1, 20. Creópende cinn creeping kind; reptilia, 1, 24. Æfter his cinne after its kind, 1, 11. v. cyn, cynn."
+}

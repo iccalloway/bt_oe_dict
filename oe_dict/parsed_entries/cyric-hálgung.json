@@ -1,0 +1,44 @@
+{
+  "citation_form": "cyric-hálgung",
+  "variant_forms": [
+    "cyrc-hálgung"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Church-hallowing, consecration of a church",
+      "latin": "encænia = GREEK , ecclesiæ consecratio",
+      "quotations": [
+        {
+          "old_english": "Ðys sceal to cyric-hálgungum",
+          "latin": null,
+          "english": "this shall be for the consecration of a church",
+          "citations": "Rubc. Jn. Bos. 10, 22; Notes, p. 580"
+        },
+        {
+          "old_english": "Æt ðære ealdan cyrchálgunge",
+          "latin": null,
+          "english": "at the old church-hallowing",
+          "citations": "Homl. Th. ii. 582, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "cyric-hálgung, cyrc-hálgung, e; f. Church-hallowing, consecration of a church; encænia = GREEK , ecclesiæ consecratio :-- Ðys sceal to cyric-hálgungum this shall be for the consecration of a church, Rubc. Jn. Bos. 10, 22; Notes, p. 580. Æt ðære ealdan cyrchálgunge at the old church-hallowing, Homl. Th. ii. 582, 27."
+  ]
+}

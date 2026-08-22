@@ -1,0 +1,109 @@
+{
+  "citation_form": "ge-éhtan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to follow, persecute",
+      "latin": "persequentur",
+      "quotations": [
+        {
+          "old_english": "Geoehtas",
+          "latin": "persequentur",
+          "english": null,
+          "citations": "Mt. L. 10, 23"
+        },
+        {
+          "old_english": "Gé biðon gewoehtat &l-bar; geaehtas íuih",
+          "latin": null,
+          "english": null,
+          "citations": "23, 34"
+        },
+        {
+          "old_english": "Gif mec geoehton ... íuih hiá geoehtað",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. L. 15, 20"
+        },
+        {
+          "old_english": "Geoehtadon",
+          "latin": "persequebantur",
+          "english": null,
+          "citations": "5, 16"
+        },
+        {
+          "old_english": "Geoehton",
+          "latin": "persecuti sunt",
+          "english": null,
+          "citations": "Mt. L. 5, 12"
+        },
+        {
+          "old_english": "Gioehtende",
+          "latin": "am persecutus sum",
+          "english": null,
+          "citations": "Rtl. 60, 7"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to get by pursuit",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "of conquest, to gain a country",
+          "meaning": "of conquest, to gain a country",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Claudius cóm tó Brytlande and geeóde mycel dǽl églandes, and eác þ-bar; égeland of Orcanie hé geéhte tó Rómánan anwealde",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 46; P. 7, 29"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to purchase",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Mid wáclicum wurðe Godes ríce bið geboht, and deórwurðe hit is tó geágenne. Se ceáp ne mæg wið nánum sceatte beón geéht",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 582, 27"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-éhtan; p. te. I. to follow, persecute :-- Geoehtas persequentur, Mt. L. 10, 23. Gé biðon gewoehtat &l-bar; geaehtas íuih, 23, 34. Gif mec geoehton ... íuih hiá geoehtað, Jn. L. 15, 20. Geoehtadon persequebantur, 5, 16. Geoehton persecuti sunt, Mt. L. 5, 12. Gioehtende am persecutus sum, Rtl. 60, 7. II. to get by pursuit. (1) of conquest, to gain a country :-- Claudius cóm tó Brytlande and geeóde mycel dǽl églandes, and eác þ-bar; égeland of Orcanie hé geéhte tó Rómánan anwealde, Chr. 46; P. 7, 29. (2) to purchase :-- Mid wáclicum wurðe Godes ríce bið geboht, and deórwurðe hit is tó geágenne. Se ceáp ne mæg wið nánum sceatte beón geéht, Hml. Th. i. 582, 27."
+  ]
+}

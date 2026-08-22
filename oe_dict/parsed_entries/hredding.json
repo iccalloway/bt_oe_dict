@@ -1,0 +1,37 @@
+{
+  "citation_form": "hredding",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ælc rihtwís man hæfde fultum and hreddinge, sé ðe mid fullum geleáfum on his earfoðnyssum tó ðám Ælmihtigan clypode",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 13, 48"
+        },
+        {
+          "old_english": "Hræddinge",
+          "latin": null,
+          "english": null,
+          "citations": "2, 219"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "á-hredding",
+    "land-hredding"
+  ],
+  "source_text": "hredding. Add:--Ælc rihtwís man hæfde fultum and hreddinge, sé ðe mid fullum geleáfum on his earfoðnyssum tó ðám Ælmihtigan clypode, Hml. S. 13, 48. Hræddinge, 2, 219. v. á-, land-hredding."
+}

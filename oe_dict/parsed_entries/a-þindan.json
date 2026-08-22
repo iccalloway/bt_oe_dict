@@ -1,0 +1,60 @@
+{
+  "citation_form": "a-þindan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "þand",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-þundon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-þunden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To puff up, swell, inflate",
+      "latin": "intumescere",
+      "quotations": [
+        {
+          "old_english": "He ðá ðone aþundenan sǽ gesmylte",
+          "latin": "tumida æquora placavit",
+          "english": null,
+          "citations": "Bd. 5, 1; S. 614, 8"
+        },
+        {
+          "old_english": "Gif he aþunden sý if he be swollen",
+          "latin": null,
+          "english": null,
+          "citations": "Herb. 1, 21 : Lchdm. i. 76, 27"
+        },
+        {
+          "old_english": "Aþindaþ occurs in Ps. Th. 106, 25 as a translation of tabescebat; the translator confounded tabescere with tumescere.",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 106, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "þindan"
+  ],
+  "source_text": "a-þindan; p. þand, pl. -þundon; pp. -þunden To puff up, swell, in&dash-uncertain;flate; intumescere :-- He ðá ðone aþundenan sǽ gesmylte tumida æquora placavit, Bd. 5, 1; S. 614, 8. Gif he aþunden sý if he be swollen, Herb. 1, 21 : Lchdm. i. 76, 27. Aþindaþ occurs in Ps. Th. 106, 25 as a translation of tabescebat; the translator confounded tabescere with tumescere. v. þindan."
+}

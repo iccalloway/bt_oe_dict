@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-tænge",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Incident",
+      "latin": "incidens",
+      "quotations": [
+        {
+          "old_english": "Gif hwylcum men sý ðæs feórþan dæges fefer getænge",
+          "latin": null,
+          "english": "if to any man there be a quartan fever incident",
+          "citations": "Herb. 2, 12; Lchdm. i. 84, 5, MS. B."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-tenge"
+  ],
+  "source_text": "ge-tænge; adj. Incident; incidens :-- Gif hwylcum men sý ðæs feórþan dæges fefer getænge if to any man there be a quartan fever incident, Herb. 2, 12; Lchdm. i. 84, 5, MS. B. v. ge-tenge."
+}

@@ -1,0 +1,67 @@
+{
+  "citation_form": "ge-mǽdan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ge-mǽd",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to make insane",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gemǽd",
+          "latin": "amens (puer . . . vertitur in rabiem fraudatus mente sagaci, bacchatur . . . amens, Aid. 176, 17)",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 94, 4: 5, 59"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to make foolish",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gemǽdid",
+          "latin": "ineptus",
+          "english": null,
+          "citations": "Wrt. Voc. ii. in, 70"
+        },
+        {
+          "old_english": "Gemaeded",
+          "latin": "vanas",
+          "english": null,
+          "citations": "123, 13"
+        },
+        {
+          "old_english": "Gemǽdedne",
+          "latin": "vecordem (juvenem, Prov. 7, 7)",
+          "english": null,
+          "citations": "87, 51"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-mád"
+  ],
+  "source_text": "ge-mǽdan. Add; pp. ge-mǽd. I. to make insane :-- Gemǽd amens (puer . . . vertitur in rabiem fraudatus mente sagaci, bacchatur . . . amens, Aid. 176, 17), Wrt. Voc. ii. 94, 4: 5, 59. II. to make foolish :-- Gemǽdid ineptus, Wrt. Voc. ii. in, 70. Gemaeded vanas, 123, 13. Gemǽdedne vecordem (juvenem, Prov. 7, 7), 87, 51. v. ge-mád (not ge-mǽd)."
+}

@@ -1,0 +1,40 @@
+{
+  "citation_form": "elm",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Elm ulmus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 124, 4"
+        },
+        {
+          "old_english": "Genim elmes rind",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 52, 9"
+        },
+        {
+          "old_english": "Elmes drænc a drink made with elm rind",
+          "latin": null,
+          "english": null,
+          "citations": "66, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "elm. Add:--Elm ulmus, Wrt. Voc. ii. 124, 4. Genim elmes rind, Lch. ii. 52, 9. Elmes drænc a drink made with elm rind, 66, 25. Cf. Elmleáh as a place name, C. D. iv. 70, 3, 13."
+}

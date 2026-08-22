@@ -1,0 +1,38 @@
+{
+  "citation_form": "lǽþettan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To make hateful",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se oferlyfa on ǽte and on wǽte déð þone man unhálne, and his sáwle Gode lǽðetteð",
+          "latin": null,
+          "english": null,
+          "citations": "O. E. Hml. i. 296, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "láþettan"
+  ],
+  "source_text": [
+    "lǽþettan; p. te To make hateful :-- Se oferlyfa on ǽte and on wǽte déð þone man unhálne, and his sáwle Gode lǽðetteð, O. E. Hml. i. 296, 6. v. láþettan."
+  ]
+}

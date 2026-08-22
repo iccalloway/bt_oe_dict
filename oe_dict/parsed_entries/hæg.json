@@ -1,0 +1,34 @@
+{
+  "citation_form": "hæg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "The word is found forming the first part of local names, Hægdún, Hæghyll, Hægleá; also in other words, hæg-steald, hæg-þorn.",
+      "meaning": "a fence; a hag, an enclosure",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Terram nominatam Haeg",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. i. 49, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-hæg",
+    "haga",
+    "hecg",
+    "hecge",
+    "hege"
+  ],
+  "source_text": "hæg a fence; a hag, an enclosure :-- Terram nominatam Haeg, C. D. i. 49, 23. The word is found forming the first part of local names, Hægdún, Hæghyll, Hægleá; also in other words, hæg-steald, hæg-þorn. See, too, ge-hæg, and cf. haga; hecg, hecge, hege."
+}

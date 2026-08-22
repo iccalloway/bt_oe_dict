@@ -1,0 +1,36 @@
+{
+  "citation_form": "tó-samnian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To assemble, collect",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá bæd hé hine ðæt hé sumne dǽl landes æt him onfénge, ðæt hé mihte mynster on getimbrian and Godes ðeówas tósomnian",
+          "latin": null,
+          "english": "he prayed him to receive from him a parcel of land, that he might thereon build a monastery and collect together servants of God",
+          "citations": "Bd. 3, 23; S. 554, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "tó-samnian; p. ode To assemble, collect:--Ðá bæd hé hine ðæt hé sumne dǽl landes æt him onfénge, ðæt hé mihte mynster on getimbrian and Godes ðeówas tósomnian he prayed him to receive from him a parcel of land, that he might thereon build a monastery and collect together servants of God, Bd. 3, 23; S. 554, 11."
+  ]
+}

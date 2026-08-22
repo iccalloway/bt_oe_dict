@@ -1,0 +1,48 @@
+{
+  "citation_form": "ymbsealde",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Byrig ðære ðe mid náne wealle ne bið ymbworht",
+          "latin": "urbs absque murorum ambitu",
+          "english": null,
+          "citations": "Past. 38; Swt. 277, 21"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to weave",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ymbworhton bége",
+          "latin": "plectentes coronam",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 27, 29"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ymb-sellan"
+  ],
+  "source_text": "ymbsealde. v. ymb-sellan), Bd. 3, 16; S. 542, 24 note. Byrig ðære ðe mid náne wealle ne bið ymbworht urbs absque murorum ambitu, Past. 38; Swt. 277, 21. II. to weave :-- Ymbworhton bége plectentes coronam, Mt. Kmbl. Lind. 27, 29."
+}

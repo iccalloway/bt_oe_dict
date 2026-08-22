@@ -1,0 +1,36 @@
+{
+  "citation_form": "seáw",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "seáw is masculine in Lch. ii. 18, 14, though in the preceding line it is neuter :-- Dó þ-bar; seáw on neb . . . þ-bar; se seáw (perhaps there is confusion owing to the conjunctional þ-bar; and the initial letter of seáw ?) mæge þ-bar; heáfod geondyrnan",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Genim þisse sylfan wyrte (foxglove) seáw mid rosan seáwe,",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. i. 268, 5"
+        },
+        {
+          "old_english": "Þicgen þá mettas ðe gód seáw wyrcen,",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 226, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "sew"
+  ],
+  "source_text": "seáw. Add [seáw is masculine in Lch. ii. 18, 14, though in the preceding line it is neuter :-- Dó þ-bar; seáw on neb . . . þ-bar; se seáw (perhaps there is confusion owing to the conjunctional þ-bar; and the initial letter of seáw ?) mæge þ-bar; heáfod geondyrnan] :-- Genim þisse sylfan wyrte (foxglove) seáw mid rosan seáwe, Lch. i. 268, 5. Þicgen þá mettas ðe gód seáw wyrcen, ii. 226, 12. [v. N. E. D. sew.]"
+}

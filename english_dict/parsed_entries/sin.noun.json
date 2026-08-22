@@ -1,0 +1,23 @@
+{
+  "english_lemma": "sin",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "sin.n.02",
+      "definition": "an act that is regarded by theologians as a transgression of God's will",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "LEAHTER",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "vitium"
+          ],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

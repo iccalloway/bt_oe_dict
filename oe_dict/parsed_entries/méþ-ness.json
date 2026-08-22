@@ -1,0 +1,34 @@
+{
+  "citation_form": "méþ-ness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Weariness, lassitude",
+      "latin": "lassitudine",
+      "quotations": [
+        {
+          "old_english": "Méðnisse",
+          "latin": "lassitudine",
+          "english": null,
+          "citations": "Txts. 181, 55"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "méþ-ness, e : f. Weariness, lassitude :-- Méðnisse lassitudine, Txts. 181, 55."
+}

@@ -1,0 +1,32 @@
+{
+  "citation_form": "fuhlas",
+  "variant_forms": [
+    "fuglas"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "pl. nom. acc. of fugel",
+      "meaning": "birds, fowls",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Bos. 13, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fugel"
+  ],
+  "source_text": "fuhlas birds, fowls, Mt. Bos. 13, 32, = fuglas; pl. nom. acc. of fugel."
+}

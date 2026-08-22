@@ -1,0 +1,165 @@
+{
+  "citation_form": "þeóf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "the secrecy implied by the word is marked in the following passage from the Laws dealing with injury done to a wood: Fýr biþ þeóf ... sió æsc biþ melda, nalles þeóf, L. In. 43; Th. i. 128, 19-23. Cf. Goth. þiubjó ἐν κρυπτω",
+      "meaning": "A thief",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þeóf fur, scaþa latro",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 74, 23"
+        },
+        {
+          "old_english": "Gyf se hírédes ealdor wiste on hwylcere tíde se þeóf (ðeáf, Lind. fur) tówerd wǽre",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Kmbl. 24, 43"
+        },
+        {
+          "old_english": "Ealle ða ðe cómun wǽron þeófas (ðeáfas, Lind.) and sceaþan (fures et latrones) ... Þeóf (ðeáf, Lind. fur) ne cymþ búton ðæt hé stele and sleá",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. Skt. 10, 8-10"
+        },
+        {
+          "old_english": "Þeóf ðe on þýstre færeþ, on sweartre niht",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 54, 21; Cri. 872: 432, 10; Rä. 48, 4"
+        },
+        {
+          "old_english": "Ðeóf sceal gangan in ðýstrum wederum",
+          "latin": null,
+          "english": null,
+          "citations": "Menol. Fox 543; Gn. C. 42"
+        },
+        {
+          "old_english": "Ðǽr þeófas (ðeáfas, Lind. fures) hit delfaþ and forstelaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Kmbl. 6, 19"
+        },
+        {
+          "old_english": "On helle beóþ þeófas and gítseras ðe on mannum heora ǽhta on wóh nimaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 61, 21"
+        },
+        {
+          "old_english": "Hér syndan rýperas and reáferas and woruldstrúderas and ðeófas and þeódscaðan",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 165, 36"
+        },
+        {
+          "old_english": "Þeófum grassatoribus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 40, 35"
+        },
+        {
+          "old_english": "Ealle niht ic (the ox-herd) stande ofer ða oxan waciende for þeófan (propter fures)",
+          "latin": null,
+          "english": null,
+          "citations": "Coll. Monast. Th. 20, 29"
+        },
+        {
+          "old_english": "Gif feorrancumen man oþþe fræmde búton wege gange, and hé ðonne náwðer ne hrýme, ne hé horn ne bláwe, for þeóf hé biþ tó prófianne",
+          "latin": null,
+          "english": null,
+          "citations": "L. Wih. 28; Th. i. 42, 23: L. In. 20; Th. i. 114, 15"
+        },
+        {
+          "old_english": "Ðeófas wé hátaþ óð .vii. men; from .vii. hlóð óð .xxxv.; siþþan biþ here",
+          "latin": null,
+          "english": null,
+          "citations": "L. In. 13; Th. i. 110, 13"
+        },
+        {
+          "old_english": "Wé wyllaþ ðæt ǽlc man ofer twelfwintre sylle ðone áð, ðæt hé nelle þeóf beón ne þeófes gewita",
+          "latin": null,
+          "english": null,
+          "citations": "L. C. S. 21; Th. i. 388, 6"
+        },
+        {
+          "old_english": "Se ðe þeóf geféhþ, hé áh .x. scill.",
+          "latin": null,
+          "english": null,
+          "citations": "L. In. 28; Th. i. 120, 5"
+        },
+        {
+          "old_english": "Geséce ǽbera þeóf ðæt ðæt hé geséce, oððe se ðe on hláfordsearwe gemét sý, ðæt hí nǽfre feorh ne gesécen, búton se cyningc him feorhgeneres unne",
+          "latin": null,
+          "english": null,
+          "citations": "L. Edg. ii. 7; Th. i. 268, 22: L. C. S. 26; Th. i. 390, 27"
+        },
+        {
+          "old_english": "Sý hé þeóf, and þolige heáfdes and ealles ðæs ðe hé áge",
+          "latin": null,
+          "english": null,
+          "citations": "L. Edg. S. 11; Th. i. 276, 13"
+        },
+        {
+          "old_english": "Se ðe þeóf fylle beforan óðrum mannum, ðæt hé wǽre of úre ealra feó .xii. pæng ðe betera for ðære dǽda and ðon anginne",
+          "latin": null,
+          "english": null,
+          "citations": "L. Ath. v. 7; Th. i. 234, 22"
+        },
+        {
+          "old_english": "Gif man frigne man æt hæbbendre handa gefó, ðanne wealde se cyning þreora ánes: oþþe hine man cwelle, oþþe ofer sǽ selle, oþþe hine his wergelde álése",
+          "latin": null,
+          "english": null,
+          "citations": "L. Wih. 26; Th. i. 42, 15"
+        },
+        {
+          "old_english": "Gif þeóf sié gefongen, swelte hé deáðe oþþe his líf be his were man áliése",
+          "latin": null,
+          "english": null,
+          "citations": "L. In. 12; Th. i. 110, 8"
+        },
+        {
+          "old_english": "Gif man þeóf on carcerne gebringe, ðæt hé beó .xl. nihta on carcerne, and hine mon ðonne álýse út mid .cxx. scill.",
+          "latin": null,
+          "english": null,
+          "citations": "L. Ath. i. 1; Th. i. 198, 21"
+        },
+        {
+          "old_english": "Beó se þeóf útlah wið eall folc",
+          "latin": null,
+          "english": null,
+          "citations": "L. C. S. 30; Th. i. 394, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "beó-þeóf",
+    "gold-þeóf",
+    "mann-þeóf",
+    "mús-þeóf",
+    "regn-þeóf",
+    "sǽ-þeóf",
+    "stód-þeóf",
+    "wergild-þeóf",
+    "infangene-þeóf",
+    "þífþ"
+  ],
+  "source_text": "þeóf, es; m. A thief [the secrecy implied by the word is marked in the following passage from the Laws dealing with injury done to a wood: Fýr biþ þeóf ... sió æsc biþ melda, nalles þeóf, L. In. 43; Th. i. 128, 19-23. Cf. Goth. þiubjó &epsilon-tonos;ν κρυπτω] :-- Þeóf fur, scaþa latro, Wrt. Voc. i. 74, 23. Gyf se hírédes ealdor wiste on hwylcere tíde se þeóf (ðeáf, Lind. fur) tówerd wǽre, Mt. Kmbl. 24, 43. Ealle ða ðe cómun wǽron þeófas (ðeáfas, Lind.) and sceaþan (fures et latrones) ... Þeóf (ðeáf, Lind. fur) ne cymþ búton ðæt hé stele and sleá, Jn. Skt. 10, 8-10. Þeóf ðe on þýstre færeþ, on sweartre niht, Exon. Th. 54, 21; Cri. 872: 432, 10; Rä. 48, 4. Ðeóf sceal gangan in ðýstrum wederum, Menol. Fox 543; Gn. C. 42. Ðǽr þeófas (ðeáfas, Lind. fures) hit delfaþ and forstelaþ, Mt. Kmbl. 6, 19. On helle beóþ þeófas and gítseras ðe on mannum heora ǽhta on wóh nimaþ, Blickl. Homl. 61, 21. Hér syndan rýperas and reáferas and woruldstrúderas and ðeófas and þeódscaðan, Wulfst. 165, 36. Þeófum grassatoribus, Wrt. Voc. ii. 40, 35. Ealle niht ic (the ox-herd) stande ofer ða oxan waciende for þeófan (propter fures), Coll. Monast. Th. 20, 29. ¶ The passage last cited suggests a state of society in which property was not very secure, and the suggestion seems borne out by the many passages, dealing with thieves, that are to be found in the Laws. Thieving was so far common, that the law enacted: Gif feorrancumen man oþþe fræmde búton wege gange, and hé ðonne náwðer ne hrýme, ne hé horn ne bláwe, for þeóf hé biþ tó prófianne, L. Wih. 28; Th. i. 42, 23: L. In. 20; Th. i. 114, 15; and on such a scale was it conducted that according to the numbers of the depredators acting together were different terms used of them: Ðeófas wé hátaþ óð .vii. men; from .vii. hlóð óð .xxxv.; siþþan biþ here, L. In. 13; Th. i. 110, 13. The frequency of this particular form of crime may also be inferred from the later enactment: Wé wyllaþ ðæt ǽlc man ofer twelfwintre sylle ðone áð, ðæt hé nelle þeóf beón ne þeófes gewita, L. C. S. 21; Th. i. 388, 6. But far stronger measures than the exacting of such an oath were in force. The law made provision for the pursuit of thieves, L. Edg. H. 2; Th. i. 258, 6, and imposed penalties on those who, being summoned, or hearing the hue and cry, neglected to take part in the pursuit, 3; Th. i. 258, 14: L. C. S. 29; Th. i. 392, 17: while a reward was given to him who seized a thief: Se ðe þeóf geféhþ, hé áh .x. sci&l-bar;&l-bar;., L. In. 28; Th. i. 120, 5. To let a thief go, when caught, was a crime, L. In. 36; Th. i. 124, 14; so, also, to allow him, when discovered, to escape without raising hue and cry, L. C. S. 29; Th. i. 392, 14: to harbour a thief, except in those cases where the right of asylum might for three or nine days be extended to him, was to become liable to the fate of a thief, L. Ath. iii. 6; Th. i. 219, 6: iv. 4; Th. i. 224, 4: v. 1, 2; Th. i. 228, 21; to fight for him was equally penal, v. 1, 3; Th. i. 228, 23: v. 8, 3; Th. i. 236, 18. And the laws which affected the thief himself were very severe. Any one above the age of twelve, who was caught stealing property above the value of eight pence, was liable to capital punishment, L. Ath. i. 1; Th. i. 198, 15; according to other regulations, for a theft which, on conviction, rendered the thief liable to be slain, the limit of age was made fifteen years, L. Ath. v. 12, 1; Th. i. 240, 28, and the limit of value was twelve pence, L. Ath. v. 1, 1; Th. i. 228, 12: v. 12, 3; Th. i. 242, 8. The extreme penalty was not in all cases exacted; but in case of repeated conviction there was to be no remission, L. Ath. v. 1, 4; Th. i. 230, 3. Cf. too the passages: Geséce ǽbera þeóf ðæt ðæt hé geséce, oððe se ðe on hláfordsearwe gemét sý, ðæt hí nǽfre feorh ne gesécen, búton se cyningc him feorhgeneres unne, L. Edg. ii. 7; Th. i. 268, 22: L. C. S. 26; Th. i. 390, 27. Sý hé þeóf, and þolige heáfdes and ealles ðæs ðe hé áge, L. Edg. S. 11; Th. i. 276, 13. The kinds of death mentioned in L. Ath. iii. 6; Th. i. 219, are throwing from a rock or drowning in the case of a free woman; in the case of a servus homo, stoning by slaves; in that of a serva ancilla, burning. Further a thief who was taken in the act, or taken in flight, or who resisted, instead of being handed over to justice (on cyninges bende, L. In. 15; Th. i. 112, 4: se cyning áh ðone þeóf, 28; Th. i. 120, 6), might be slain without the intervention of the law, and the death called for no 'wergild,' L. Wih. 25; Th. i. 42, 13: L. In. 12; Th. i. 110, 7: 16; Th. i. 112, 7: 35; Th. i. 124, 6: L. Ath. i. 1; Th. i. 198, 20; and in cases of flight or resistance the fact that the value of the stolen property was less than twelve pence was to be no bar to the slaying, L. Ath. v. 12, 3; Th. i. 242, 10. He who struck down a thief in public was rewarded: Se ðe þeóf fylle beforan óðrum mannum, ðæt hé wǽre of úre ealra feó .xii. pæng ðe betera for ðære dǽda and ðon anginne, L. Ath. v. 7; Th. i. 234, 22. Short of death were the punishments of selling into slavery, of imprisonment, fine, and mutilation: Gif man frigne man æt hæbbendre handa gefó, ðanne wealde se cyning þreora ánes: oþþe hine man cwelle, oþþe ofer sǽ selle, oþþe hine his wergelde álése, L. Wih. 26; Th. i. 42, 15. Gif þeóf sié gefongen, swelte hé deáðe oþþe his líf be his were man áliése, L. In. 12; Th. i. 110, 8. Gif man þeóf on carcerne gebringe, ðæt hé beó .xl. nihta on carcerne, and hine mon ðonne álýse út mid .cxx. sci&l-bar;&l-bar;., L. Ath. i. 1; Th. i. 198, 21. Cutting off the hand or foot of a 'cirlisc þeóf' is mentioned, L. In. 18; Th. i. 114, 5: 37; Th. i. 124, 20. The same punishment is mentioned, L. C. S. 30; Th. i. 394, 10; and in aggravated cases the more severe sentence was passed, that the eyes were to be put out, and the nose, ears, and upper lip to be cut off, ib. An instance of punishment for theft, in which the eyes were put out and the ears cut off after (wrongful) conviction is given, Homl. Skt. i. 21, 265. If the thief managed to escape, he was declared an outlaw: Beó se þeóf útlah wið eall folc, L. C. S. 30; Th. i. 394, 24. v. Grmm. R. A. 635 sqq.; Schmid, A. S. Gesetz. s. v. Diebstahl. [Goth. þiubs: O. Sax. thiof: O. Frs. thiaf: O. H. Ger. diob: Icel. þjófr.] v. beó-, gold-, mann-, mús-, regn-, sǽ-, stód-, wergild-þeóf; infangene-þeóf; þífþ."
+}

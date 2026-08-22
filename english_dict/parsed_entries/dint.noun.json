@@ -1,0 +1,33 @@
+{
+  "english_lemma": "dint",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "dint.n.01",
+      "definition": "interchangeable with `means' in the expression `by means of'",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "DYNT",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "contusio, impressio, sonus"
+          ],
+          "attestations": [
+            "L. Ethb. 58; Th. i. 18, 1",
+            "Salm. Kmbl. 245; Sal. 122",
+            "Bt. 38, 2; Fox 198, 9"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ne wyrnaþ deórra dynta",
+              "english": "they are not sparing of severe dints",
+              "citations": "Salm. Kmbl. 245; Sal. 122"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

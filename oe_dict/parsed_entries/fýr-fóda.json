@@ -1,0 +1,34 @@
+{
+  "citation_form": "fýr-fóda",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Fire-food, fuel",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fírfódan malleoli",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 7, 88"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fýr-fóda, an; m. Fire-food, fuel:--Fírfódan malleoli, An. Ox. 7, 88."
+}

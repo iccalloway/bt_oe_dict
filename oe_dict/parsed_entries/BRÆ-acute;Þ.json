@@ -1,0 +1,50 @@
+{
+  "citation_form": "BRÆ-acute;Þ",
+  "variant_forms": [
+    "bréþ"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Chauc. Piers P. breeþ: Ger. bradem, m: M. H. Ger. bradem, m: O. H. Ger. bradam, m.",
+      "meaning": "An odour, a scent, smell good or bad, a savour, BREATH",
+      "latin": "odor, odoramen",
+      "quotations": [
+        {
+          "old_english": "God underféng ðære wynsumnysse brǽþ",
+          "latin": "odoratus est Dominus odorem suavitatis",
+          "english": null,
+          "citations": "Gen. 8, 21"
+        },
+        {
+          "old_english": "Ongan se cealc mid ungemete stincan, ðá wearþ Iuuinianus mid ðam brǽþe ofsmorod",
+          "latin": null,
+          "english": "the plaster [lit. chalk] began to smell excessively, and Jovian was smothered with the smell",
+          "citations": "Ors. 6, 32; Bos. 129, 12"
+        },
+        {
+          "old_english": "Bréþ",
+          "latin": "odor",
+          "english": null,
+          "citations": "Ælfc. Gl. 70; Wrt. Voc. 42, 58"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ǽðm"
+  ],
+  "source_text": "BRÆ-acute;Þ, bréþ, es; m. An odour, a scent, smell good or bad, a savour, BREATH; odor, odoramen :-- God underféng ðære wynsumnysse brǽþ odoratus est Dominus odorem suavitatis, Gen. 8, 21. Ongan se cealc mid ungemete stincan, ðá wearþ Iuuinianus mid ðam brǽþe ofsmorod the plaster [lit. chalk] began to smell excessively, and Jovian was smothered with the smell, Ors. 6, 32; Bos. 129, 12. Bréþ odor, Ælfc. Gl. 70; Wrt. Voc. 42, 58. [Chauc. Piers P. breeþ: Ger. bradem, m: M. H. Ger. bradem, m: O. H. Ger. bradam, m.] v. ǽðm."
+}

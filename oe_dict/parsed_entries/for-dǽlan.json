@@ -1,0 +1,40 @@
+{
+  "citation_form": "for-dǽlan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Goth. fradailjan to give away: Dut. ver-deelen to divide, distribute: Ger. ver-theilen to distribute.",
+      "meaning": "To deal out, expend",
+      "latin": "dispensāre, erogāre",
+      "quotations": [
+        {
+          "old_english": "Seó fordǽlde on lǽcas eall ðæt heó áhte",
+          "latin": "quæ in medicos erogāverat omnem substantiam suam",
+          "english": null,
+          "citations": "Lk. Bos. 8, 43"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-dǽlan; p. de; pp. ed To deal out, expend; dispens&a-long;re, er&o-short;g&a-long;re :-- Seó fordǽlde on lǽcas eall ðæt heó áhte quæ in m&e-short;d&i-short;cos erog&a-long;v&e-short;rat omnem substantiam suam, Lk. Bos. 8, 43. [Goth. fradailjan to give away: Dut. ver-deelen to divide, distribute: Ger. ver-theilen to distribute.]"
+}

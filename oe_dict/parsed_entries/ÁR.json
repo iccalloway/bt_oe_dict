@@ -1,0 +1,36 @@
+{
+  "citation_form": "ÁR",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An OAR",
+      "latin": "remus",
+      "quotations": [
+        {
+          "old_english": "Drugaþ his ár on borde",
+          "latin": null,
+          "english": "his oar becomes",
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ÁR, e; f. An OAR; remus :-- Drugaþ his ár on borde his oar becomes"
+  ]
+}

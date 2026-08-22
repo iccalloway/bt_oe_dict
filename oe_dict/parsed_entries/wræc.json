@@ -1,0 +1,41 @@
+{
+  "citation_form": "wræc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": "See preceding word.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Adam wæs ádrifen of neorcxnawanges gefeán . . . and becóm in þá yrmðe þises wræces (exilii)",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 260, 7-18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "wræc. II. add: See preceding word. III. add :-- Adam wæs ádrifen of neorcxnawanges gefeán . . . and becóm in þá yrmðe þises wræces (exilii), Gr. D. 260, 7-18."
+}

@@ -1,0 +1,40 @@
+{
+  "citation_form": "náðor",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "pronoun"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "selfra, 14, 1",
+          "latin": null,
+          "english": null,
+          "citations": "Fox 42, 9"
+        },
+        {
+          "old_english": "Hié náðer næfdon siððan, ne heora namon ne heora anweald",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 3, 1 ; Swt. 98, 7"
+        },
+        {
+          "old_english": "Se ðe náðor nele, ne leornian ne tǽcan",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. pref. ; Som. 1, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "náðer"
+  ],
+  "source_text": "selfra, 14, 1 ; Fox 42, 9. Hié náðer næfdon siððan, ne heora namon ne heora anweald, Ors. 3, 1 ; Swt. 98, 7, Se ðe náðor nele, ne leornian ne tǽcan, Ælfc. Gr. pref. ; Som. 1, 34. v. next word."
+}

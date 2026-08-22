@@ -1,0 +1,36 @@
+{
+  "citation_form": "sár-bót",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Icel. sár-bætr; pl.",
+      "meaning": "Condensation paid for inflicting a wound",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "L. W. I.; Th. i. 470, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "sár-bót, e; f. Condensation paid for inflicting a wound, L. W. I.; Th. i. 470, 21. [Icel. sár-bætr; pl.]"
+  ]
+}

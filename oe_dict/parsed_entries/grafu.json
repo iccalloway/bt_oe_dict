@@ -1,0 +1,36 @@
+{
+  "citation_form": "grafu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "græfe",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A cave, den",
+      "latin": "speluncam latronum",
+      "quotations": [
+        {
+          "old_english": "Grǽfe (the MS. has the accent) ðeáfana (cf. illvirkja gröf in the Icelandic version of Mt. 21, 13)",
+          "latin": "speluncam latronum",
+          "english": null,
+          "citations": "Mt. L. 21, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "græf"
+  ],
+  "source_text": "grafu; gen. græfe; f. A cave, den :-- Grǽfe (the MS. has the accent) ðeáfana (cf. illvirkja gröf in the Icelandic version of Mt. 21, 13) speluncam latronum, Mt. L. 21, 13. v. græf."
+}

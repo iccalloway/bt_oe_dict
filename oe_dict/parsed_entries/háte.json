@@ -1,0 +1,127 @@
+{
+  "citation_form": "háte",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "of the sun, hotly, hot",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "cf. hát; I. 1",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Of heofnum háte scíneð þeós beorhte sunne",
+              "latin": null,
+              "english": null,
+              "citations": "Gen. 810"
+            },
+            {
+              "old_english": "Þonne sunne hátost scíneð",
+              "latin": null,
+              "english": null,
+              "citations": "Ph. 209"
+            },
+            {
+              "old_english": "Ðonne þǽre sunnan scíma hátast scínþ",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 5, 2 ; F. 10, 29"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "of glowing iron. Cf. hát; I. 2",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Lecgað ðá ísenan clútas háte glówende tó his sídan",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. I. 424, 35"
+            },
+            {
+              "old_english": "Gewyrme mid háte glówende ísene",
+              "latin": null,
+              "english": null,
+              "citations": "Lch. ii. 236, 31"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "of the effect produced by fire, sun, &c. cf. hát; I. 3",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Geond helle háte onǽled",
+              "latin": null,
+              "english": null,
+              "citations": "Sat. 341"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "of intense feeling, fervently, passionately. Cf. hát; IV. 1",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hí geheóldan hálge láre háte æt heortan hige weallende",
+          "latin": null,
+          "english": null,
+          "citations": "Ph. 477"
+        },
+        {
+          "old_english": "Gewrec nú, Dryhten, þæt mé ys þus torne on móde háte on hreðre mínum",
+          "latin": null,
+          "english": null,
+          "citations": "Jud. 94"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "III.",
+      "supplemental": "[O. Sax. héto : O. H. Ger. heizo.]",
+      "meaning": "with violent exertion, furiously",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Stánhofu stódan, streám háte wearp wídan wylme",
+          "latin": null,
+          "english": "there stood the stone courts, the stream furiously flung its broad boiling waters",
+          "citations": "Ruin. 39"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "háte. Substitute: I. of the sun, hotly, hot. (1) cf. hát; I. 1 :-- Of heofnum háte scíneð þeós beorhte sunne, Gen. 810. Þonne sunne hátost scíneð, Ph. 209. Ðonne þǽre sunnan scíma hátast scínþ, Bt. 5, 2 ; F. 10, 29. (2) of glowing iron. Cf. hát; I. 2 :-- Lecgað ðá ísenan clútas háte glówende tó his sídan, Hml. Th. I. 424, 35. Gewyrme mid háte glówende ísene, Lch. ii. 236, 31. (3) of the effect produced by fire, sun, &c. cf. hát; I. 3 :-- Geond helle háte onǽled, Sat. 341. II. of intense feeling, fervently, passionately. Cf. hát; IV. 1 :-- Hí geheóldan hálge láre háte æt heortan hige weallende, Ph. 477. Gewrec nú, Dryhten, þæt mé ys þus torne on móde háte on hreðre mínum, Jud. 94. III. with violent exertion, furiously :-- Stánhofu stódan, streám háte wearp wídan wylme there stood the stone courts, the stream furiously flung its broad boiling waters, Ruin. 39. [O. Sax. héto : O. H. Ger. heizo.]"
+  ]
+}

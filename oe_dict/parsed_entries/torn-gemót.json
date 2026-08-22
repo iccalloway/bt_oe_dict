@@ -1,0 +1,36 @@
+{
+  "citation_form": "torn-gemót",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A meeting intended to cause trouble or molestation, an attack upon an enemy",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif hé torngemót þurhteón mihte",
+          "latin": null,
+          "english": "if he could bring about a meeting with his foe",
+          "citations": "Beo. Th. 2284; B. 1140"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "torn-gemót, es; n. A meeting intended to cause trouble or molestation, an attack upon an enemy:--Gif hé torngemót þurhteón mihte if he could bring about a meeting with his foe, Beo. Th. 2284; B. 1140."
+  ]
+}

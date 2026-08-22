@@ -1,0 +1,59 @@
+{
+  "citation_form": "-el",
+  "variant_forms": [
+    "-ol"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "affix",
+        "kind": "suffix"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a termination denoting persons",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fórrídel",
+          "latin": null,
+          "english": "an outrider",
+          "citations": null
+        },
+        {
+          "old_english": "býdel",
+          "latin": null,
+          "english": "a herald",
+          "citations": null
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": null,
+          "meaning": "It denotes also inanimate objects",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gyrdel",
+              "latin": null,
+              "english": "a girdle",
+              "citations": null
+            },
+            {
+              "old_english": "stýpel",
+              "latin": null,
+              "english": "a steeple",
+              "citations": null
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "-el, -ol, a termination denoting persons, as, Fórrídel an outrider; býdel a herald. It denotes also inanimate objects; as, Gyrdel a girdle; stýpel a steeple."
+  ]
+}

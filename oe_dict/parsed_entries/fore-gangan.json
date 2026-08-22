@@ -1,0 +1,57 @@
+{
+  "citation_form": "fore-gangan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "Goth. faura-gaggan.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to precede (in time)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þá foregangendan hlǽfdian (praecedentes matres) gewunodon þ-bar; hí hit sǽdon þám gingrum nunnum, and nú þá gingran nunnan hit reccaþ",
+              "latin": null,
+              "english": null,
+              "citations": "Gr. D. 280, 26"
+            },
+            {
+              "old_english": "Gódra foregangendra (praecedentium) wera",
+              "latin": null,
+              "english": null,
+              "citations": "8, 20: 277, 10"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to take precedence of, rank higher than",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðes Ióhannes wæs mára ðonne ǽnig óþer mon búton Críste . . . ealle þá apostolas and martyras hé foregongeð",
+              "latin": null,
+              "english": null,
+              "citations": "Shrn. 95, 11"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fore-gangan. Add: (1) to precede (in time):--Þá foregangendan hlǽfdian (praecedentes matres) gewunodon þ-bar; hí hit sǽdon þám gingrum nunnum, and nú þá gingran nunnan hit reccaþ, Gr. D. 280, 26. Gódra foregangendra (praecedentium) wera, 8, 20: 277, 10. (2) to take precedence of, rank higher than:--Ðes Ióhannes wæs mára ðonne ǽnig óþer mon búton Críste . . . ealle þá apostolas and martyras hé foregongeð, Shrn. 95, 11. [Goth. faura-gaggan.]"
+}

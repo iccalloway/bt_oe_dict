@@ -1,0 +1,36 @@
+{
+  "citation_form": "fisc-deág",
+  "variant_forms": [
+    "fisc-deág(-h)"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Purple dye obtained from a shell-fish",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fiscdeáh, weolces conquilii",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 5193"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fisc-deág(-h), e ; f. Purple dye obtained from a shell-fish :-- Fiscdeáh, weolces conquilii, An. Ox. 5193."
+}

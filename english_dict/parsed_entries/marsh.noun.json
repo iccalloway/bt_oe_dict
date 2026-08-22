@@ -1,0 +1,23 @@
+{
+  "english_lemma": "marsh",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "marsh.n.01",
+      "definition": "low-lying wet land with grassy vegetation; usually is a transition zone between land and water",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "Mór-hop",
+          "pos": "noun",
+          "gender": "n",
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Beo. Th. 904; B. 450"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

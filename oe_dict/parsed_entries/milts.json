@@ -1,0 +1,110 @@
+{
+  "citation_form": "milts",
+  "variant_forms": [
+    "milds"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "mildness, kindness, favour, mercy (most commonly with reference to the Deity)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mid ðec milds is",
+          "latin": "apud te propitiatio est",
+          "english": null,
+          "citations": "Ps. Surt. 129, 4"
+        },
+        {
+          "old_english": "Ðonne wurþe ús eallum Godes milts ðé gearuwre",
+          "latin": null,
+          "english": null,
+          "citations": "L. C. E. 19; Th. i. 372, 5: L. C. S. 85; Th. i. 424, 23: Past. 44; Swt. 325, 13"
+        },
+        {
+          "old_english": "Biþ ðǽr seó miccle milts áfyrred ... ðæs Ælmihtigan",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 28 a; Th. 84, 10; Cri. 1371"
+        },
+        {
+          "old_english": "Ús wæs á syððan Merewioingas milts ungyfeþe",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 5835; B. 2919"
+        },
+        {
+          "old_english": "Þolige hé clǽnes legeres and Godes mildse",
+          "latin": null,
+          "english": null,
+          "citations": "L. N. P. L. 62; Th. ii. 300, 19"
+        },
+        {
+          "old_english": "Ðú mid mildse mínre férest",
+          "latin": null,
+          "english": "thou shalt depart with my favour",
+          "citations": "Andr. Kmbl. 3344; An. 1676"
+        },
+        {
+          "old_english": "Hé Drihtnes mildheortnesse gecýgde and ða mildse bæd monna cynne",
+          "latin": "misericordiam Domini invocaret, et eam generi humano propitiari rogaret",
+          "english": null,
+          "citations": "Bd. 4, 3; S. 569, 9"
+        },
+        {
+          "old_english": "Miltse gecýðan, onwreón",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 39, 23: 107, 2"
+        },
+        {
+          "old_english": "Hæbbe hé Godes miltse (mildse)",
+          "latin": null,
+          "english": null,
+          "citations": "L. Eth. v. 9; Th. i. 306, 20: L. N. P. L. 64; Th. ii. 300, 24"
+        },
+        {
+          "old_english": "Gemyne mildsa ðínra",
+          "latin": "reminiscere miserationum tuarum",
+          "english": null,
+          "citations": "Ps. Surt. 24, 6: 68, 17"
+        },
+        {
+          "old_english": "Secggan wé him þanc ealra his miltsa",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 103, 26: 109, 10"
+        },
+        {
+          "old_english": "Ásecggan ða miltsa ðe hé wið ðis mennisce cynn gecýðde",
+          "latin": null,
+          "english": null,
+          "citations": "103, 19"
+        },
+        {
+          "old_english": "For his miltsum",
+          "latin": null,
+          "english": "by his mercies",
+          "citations": "Exon. 88 b; Th. 333, 6; Vy. 98: 42 a; Th."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "milts, milds, e; f. I. mildness, kindness, favour, mercy (most commonly with reference to the Deity) :-- Mid ðec milds is apud te propitiatio est, Ps. Surt. 129, 4. Ðonne wurþe ús eallum Godes milts ðé gearuwre, L. C. E. 19; Th. i. 372, 5: L. C. S. 85; Th. i. 424, 23: Past. 44; Swt. 325, 13. Biþ ðǽr seó miccle milts áfyrred ... ðæs Ælmihtigan, Exon. 28 a; Th. 84, 10; Cri. 1371. Ús wæs á syððan Merewioingas milts ungyfeþe, Beo. Th. 5835; B. 2919. Þolige hé clǽnes legeres and Godes mildse, L. N. P. L. 62; Th. ii. 300, 19, Ðú mid mildse mínre férest thou shalt depart with my favour, Andr. Kmbl. 3344; An. 1676. Hé Drihtnes mildheortnesse gecýgde and ða mildse bæd monna cynne misericordiam Domini invocaret, et eam generi humano propitiari rogaret, Bd. 4, 3; S. 569, 9. Miltse gecýðan, onwreón, Blickl. Homl. 39, 23: 107, 2. Hæbbe hé Godes miltse (mildse), L. Eth. v. 9; Th. i. 306, 20: L. N. P. L. 64; Th. ii. 300, 24. Gemyne mildsa ðínra reminiscere miserationum tuarum, Ps. Surt. 24, 6: 68, 17. Secggan wé him þanc ealra his miltsa, Blickl. Homl. 103, 26: 109, 10. Ásecggan ða miltsa ðe hé wið ðis mennisce cynn gecýðde, 103, 19. For his miltsum by his mercies, Exon. 88 b; Th. 333, 6; Vy. 98: 42 a; Th."
+  ]
+}

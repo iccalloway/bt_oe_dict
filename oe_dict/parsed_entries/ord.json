@@ -1,0 +1,48 @@
+{
+  "citation_form": "ord",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I a.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On þám ordum þára þorna",
+          "latin": "in illis spinarum aculeis",
+          "english": null,
+          "citations": "Gr. D. 101, 16"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "III.",
+      "supplemental": "[perhaps here rather than under I d (1) belongs Burgwarena ord (applied to Adam), Hö. 56. In v. 35 hell is spoken of as a burh, and the burhwaran are the departed in hell, of whom Adam was the progenitor.] [O. Fr. mith egge and mid orde.]",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé bið heora deáðes ord",
+          "latin": "eorum mortis auctor fit",
+          "english": null,
+          "citations": "Chrd. 92, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ord. I a. add :-- On þám ordum þára þorna in illis spinarum aculeis, Gr. D. 101, 16. III. [perhaps here rather than under I d (1) belongs Burgwarena ord (applied to Adam), Hö. 56. In v. 35 hell is spoken of as a burh, and the burhwaran are the departed in hell, of whom Adam was the progenitor.] Add :-- Hé bið heora deáðes ord eorum mortis auctor fit, Chrd. 92, 23. [O. Fr. mith egge and mid orde.]"
+}

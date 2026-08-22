@@ -1,0 +1,38 @@
+{
+  "citation_form": "luf-wende",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "loving, affectionate",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Amans homo byð lufwende man",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 331, 41"
+        },
+        {
+          "old_english": "Lufwyndre sage",
+          "latin": "amico fatu",
+          "english": null,
+          "citations": "An. Ox. 18, 26"
+        },
+        {
+          "old_english": "lch luuie þe tó leofmon, luuewende lauerd",
+          "latin": null,
+          "english": null,
+          "citations": "Jul. 65, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "luf-wende. Add: loving, affectionate :-- Amans homo byð lufwende man, Angl. viii. 331, 41. Lufwyndre sage amico fatu, An. Ox. 18, 26. [lch luuie þe tó leofmon, luuewende lauerd, Jul. 65, 5.]"
+}

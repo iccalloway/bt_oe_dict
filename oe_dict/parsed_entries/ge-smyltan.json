@@ -1,0 +1,40 @@
+{
+  "citation_form": "ge-smyltan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "smylt serene",
+      "meaning": "To appease, quiet",
+      "latin": "plācāre",
+      "quotations": [
+        {
+          "old_english": "He ðone aþundenan sǽ gesmylte",
+          "latin": "tumida æquora plācāvit",
+          "english": null,
+          "citations": "Bd. 5, 1; S. 614, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-smyltan; p. te; pp. ed [smylt serene] To appease, quiet; pl&a-long;c&a-long;re :-- He ðone aþundenan sǽ gesmylte t&u-short;m&i-short;da æqu&o-short;ra pl&a-long;c&a-long;vit, Bd. 5, 1; S. 614, 8."
+}

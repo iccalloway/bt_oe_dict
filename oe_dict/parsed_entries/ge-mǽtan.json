@@ -1,0 +1,48 @@
+{
+  "citation_form": "ge-mǽtan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-mǽtte",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-mǽted",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To dream",
+      "latin": "somniare, somnium videre",
+      "quotations": [
+        {
+          "old_english": "Hwæt hine gemǽtte",
+          "latin": null,
+          "english": "what he had dreamed",
+          "citations": "Cd. 178; Th. 223, 20; Dan. 122 : Rood. Kmbl. 3; Kr. 2."
+        },
+        {
+          "old_english": "Swá his man-drihten gemǽted wearþ",
+          "latin": null,
+          "english": "as his lord had dreamed",
+          "citations": "Cd. 179; Th. 225, 21; Dan. 157."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "mǽtan"
+  ],
+  "source_text": "ge-mǽtan; p. -mǽtte; pp. -mǽted; v. impers. acc. To dream; somniare, somnium videre :-- Hwæt hine gemǽtte what he had dreamed, Cd. 178; Th. 223, 20; Dan. 122 : Rood. Kmbl. 3; Kr. 2. Swá his man-drihten gemǽted wearþ as his lord had dreamed, Cd. 179; Th. 225, 21; Dan. 157. v. mǽtan."
+}

@@ -1,0 +1,289 @@
+{
+  "citation_form": "glæd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "of living things, cheerful, joyous, lively",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Glæd alacer",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. Z. 44, 8"
+        },
+        {
+          "old_english": "ludibundus",
+          "latin": null,
+          "english": null,
+          "citations": "Germ. 397, 409"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "of cheerful disposition",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Swíðe glæd on móde",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. T. Grn. 16, 41"
+            },
+            {
+              "old_english": "Þǽr ic (a woodpecker) glado sitte",
+              "latin": null,
+              "english": null,
+              "citations": "Rä. 25, 7"
+            },
+            {
+              "old_english": "Ðone gladan giefan",
+              "latin": "hilarem datorem",
+              "english": null,
+              "citations": "Past. 323, 12"
+            },
+            {
+              "old_english": "On óðre wísan sint tó manianne ðá gladan (laeti. Cf. ðá blíðan, 14), on óðre ðá unrótan (tristes)",
+              "latin": null,
+              "english": null,
+              "citations": "187, 12"
+            },
+            {
+              "old_english": "Hé heóld þenden lifde glæde Scyldingas",
+              "latin": null,
+              "english": null,
+              "citations": "B. 58"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "cheerful in appearance",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé wearð glæd on his ansýne",
+              "latin": "hilari facie",
+              "english": null,
+              "citations": "Guth. Gr. 108, 27"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "well-disposed, kindly, gentle",
+          "latin": "placatus, placabilis, placidus",
+          "quotations": [
+            {
+              "old_english": "Glæd bið se Godes sunu gif þú gnorn þrowast and þé sylfum démst",
+              "latin": "aeternus fuerit placidus te vindice judex",
+              "english": null,
+              "citations": "Dóm. L. 86"
+            },
+            {
+              "old_english": "Críst, eádiges mǽdenes glæd hálgum bénum",
+              "latin": "Christe, beatae Virginis placatus sanctis precibus",
+              "english": null,
+              "citations": "Hy. S. 119, 8"
+            },
+            {
+              "old_english": "Gladum suna Fródan",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2025"
+            },
+            {
+              "old_english": "Ic mínne can glædne Hróðulf, þæt hé þá geogoðe wile árum healdan",
+              "latin": null,
+              "english": null,
+              "citations": "1181: 863"
+            },
+            {
+              "old_english": "Ðæt wé ðone Hǽlend hæbben ús glædne, and hé ús gewissige and úrne eard gehealde and æfter geendunge ðæt éce líf ús forgife",
+              "latin": "ut nos Deum placatum rectorem habere queamus",
+              "english": null,
+              "citations": "C. D. iii. 60, 8"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(3 a)",
+              "heading": null,
+              "meaning": "well-disposed towards (wiþ)",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Mín Drihten hine gedó glædne wið eów",
+                  "latin": "Deus meus faciat vobis eum placabilem",
+                  "english": null,
+                  "citations": "Gen. 43, 14"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "glad on account of a particular circumstance",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": null,
+              "meaning": "the circumstance given in the context",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Heródes geséne ðone Hǽlend glæd wæs",
+                  "latin": "Herodes uiso Iesu gauisus est",
+                  "english": null,
+                  "citations": "Lk. L. R. 23, 8"
+                },
+                {
+                  "old_english": "Se middangeard bið glaedde (gaudebit)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Jn. L. 16, 20"
+                },
+                {
+                  "old_english": "Glæde uéron",
+                  "latin": "gauisi sunt",
+                  "english": null,
+                  "citations": "20, 20"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": null,
+              "meaning": "with prep.",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé bið glæd (gaudet) fore stefne ðæs brýdgumes",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Jn. L. 3, 29"
+                },
+                {
+                  "old_english": "Þ-bar; folc wæs glæd on allum ðǽm wundrum",
+                  "latin": "populus gaudebat in universis quae fiebant",
+                  "english": null,
+                  "citations": "Lk. L. 13, 17"
+                },
+                {
+                  "old_english": "Monigo in ácennisse his biðon glæde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lk. L. R. 1, 14"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(c)",
+              "heading": null,
+              "meaning": "with clause",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Him mæg beón þe glædre his heorte þe hé sum þing hér of undergyte",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Angl. viii. 317, 39"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "of things",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "of thoughts, looks, expressing gladness",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hí gesáwon hine habban glædne andwlitan",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 72, 27"
+            },
+            {
+              "old_english": "Him Godes engel þurh glædne geþonc þá wísan onwráh",
+              "latin": null,
+              "english": null,
+              "citations": "Cri. 315"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "of a place, suggestive of gladness, delightful",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "In þám gladan hám",
+              "latin": null,
+              "english": "in that home of pure delight",
+              "citations": "Ph. 593"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "mild, gentle",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Beón dagas blíþe and glæde nihta sint",
+              "latin": "dies laeti placideque noctes",
+              "english": null,
+              "citations": "Hy. S. 143, 12"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ǽr-glæd",
+    "mód-glæd",
+    "un-glæd"
+  ],
+  "source_text": [
+    "glæd; adj. Add: I. of living things, cheerful, joyous, lively:--Glæd alacer, Ælfc. Gr. Z. 44, 8: ludibundus, Germ. 397, 409. (1) of cheerful disposition:--Swíðe glæd on móde, Ælfc. T. Grn. 16, 41. Þǽr ic (a woodpecker) glado sitte, Rä. 25, 7. Ðone gladan giefan hilarem datorem, Past. 323, 12. On óðre wísan sint tó manianne ðá gladan (laeti. Cf. ðá blíðan, 14), on óðre ðá unrótan (tristes), 187, 12. Hé heóld þenden lifde glæde Scyldingas, B. 58. (2) cheerful in appearance:--Hé wearð glæd on his ansýne hilari facie, Guth. Gr. 108, 27. (3) well-disposed, kindly, gentle; placatus, placabilis, placidus:--Glæd bið se Godes sunu gif þú gnorn þrowast and þé sylfum démst aeternus fuerit placidus te vindice judex, Dóm. L. 86. Críst, eádiges mǽdenes glæd hálgum bénum Christe, beatae Virginis placatus sanctis precibus, Hy. S. 119, 8. Gladum suna Fródan, B. 2025. Ic mínne can glædne Hróðulf, þæt hé þá geogoðe wile árum healdan, 1181: 863. Ðæt wé ðone Hǽlend hæbben ús glædne, and hé ús gewissige and úrne eard gehealde and æfter geendunge ðæt éce líf ús forgife ut nos Deum placatum rectorem habere queamus, C. D. iii. 60, 8. (3 a) well-disposed towards (wiþ):--Mín Drihten hine gedó glædne wið eów Deus meus faciat vobis eum placabilem, Gen. 43, 14. (4) glad on account of a particular circumstance. (a) the circumstance given in the context:--Heródes geséne ðone Hǽlend glæd wæs Herodes uiso Iesu gauisus est, Lk. L. R. 23, 8. Se middangeard bið glaedde (gaudebit), Jn. L. 16, 20. Glæde uéron gauisi sunt, 20, 20. (b) with prep.:--Hé bið glæd (gaudet) fore stefne ðæs brýdgumes, Jn. L. 3, 29. Þ-bar; folc wæs glæd on allum ðǽm wundrum populus gaudebat in universis quae fiebant, Lk. L. 13, 17. Monigo in ácennisse his biðon glæde, Lk. L. R. 1, 14. (c) with clause:--Him mæg beón þe glædre his heorte þe hé sum þing hér of undergyte, Angl. viii. 317, 39. II. of things. (1) of thoughts, looks, expressing gladness:--Hí gesáwon hine habban glædne andwlitan, Hml. Th. i. 72, 27. Him Godes engel þurh glædne geþonc þá wísan onwráh, Cri. 315. (2) of a place, suggestive of gladness, delightful:--In þám gladan hám in that home of pure delight, Ph. 593. (3) mild, gentle:--Beón dagas blíþe and glæde nihta sint dies laeti placideque noctes, Hy. S. 143, 12. v. ǽr-, mód-, un-glæd."
+  ]
+}

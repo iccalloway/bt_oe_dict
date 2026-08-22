@@ -1,0 +1,32 @@
+{
+  "citation_form": "fugles",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "gen. of fugel",
+      "meaning": "of a bird or fowl",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "fugles",
+          "latin": null,
+          "english": "of a bird or fowl",
+          "citations": "Exon. 17 a; Th. 41, 11; Cri. 654"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fugel"
+  ],
+  "source_text": [
+    "fugles of a bird or fowl, Exon. 17 a; Th. 41, 11; Cri. 654; gen. of fugel."
+  ]
+}

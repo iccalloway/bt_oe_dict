@@ -1,0 +1,30 @@
+{
+  "citation_form": "cysel-stán",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "gravel",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 11; Som. 57, 46; Wrt. Voc. 19, 48"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ceosel-stán"
+  ],
+  "source_text": "cysel-stán gravel, Ælfc. Gl. 11; Som. 57, 46; Wrt. Voc. 19, 48. v. ceosel-stán."
+}

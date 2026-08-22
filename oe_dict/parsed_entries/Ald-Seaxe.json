@@ -1,0 +1,36 @@
+{
+  "citation_form": "Ald-Seaxe",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the Old-Saxons",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ald-Seaxe",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 780; Th. 92, 29, col. 1"
+        },
+        {
+          "old_english": "Ald-Seaxe",
+          "latin": null,
+          "english": null,
+          "citations": "885; Th. 154, 20, col. 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Eald-Seaxe"
+  ],
+  "source_text": "Ald-Seaxe the Old-Saxons, Chr. 780; Th. 92, 29, col. 1: 885; Th. 154, 20, col. 1. v. Eald-Seaxe."
+}

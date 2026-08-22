@@ -1,0 +1,44 @@
+{
+  "citation_form": "climan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "climst",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "climþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "clomm",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to climb",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "climban",
+    "ofer-clomm"
+  ],
+  "source_text": [
+    "climan, ðú climst, he climþ; p. clomm to climb, v. climban and ofer-clomm."
+  ]
+}

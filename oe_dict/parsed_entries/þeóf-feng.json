@@ -1,0 +1,130 @@
+{
+  "citation_form": "þeóf-feng",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Seizing of thieves",
+      "latin": "comprehensio (or captio) furis (-um)",
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "The word seems to denote the obligation of one who holds land to arrest and bring to justice those who committed theft on that land, and occurs generally in connection with the burdens from which land, when granted, was relieved",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ic forgyfe ðisne freóls tó ðære hálgan stówe æt Scíreburnan, ðæt hit sý gefreód alra cynelícra and alra dómlícra þeówdóma, ge þeóffenges ge ǽghwelcre [un]iéðnesse ealles worldlíces broces, nymðe fyrde and bryceweorces",
+              "latin": null,
+              "english": null,
+              "citations": "Chart. Th. 125, 11"
+            },
+            {
+              "old_english": "Ðæt hit (the monastery at Horton) sý gefreód ealra cynelícra and ealdordómlícra þeówdóma, ge þeóffengces ge ǽghwylcere uneáðnesse ealles woroldlíces broces búton fyrdsócne and burhgcweorce and bryggeweorce",
+              "latin": null,
+              "english": null,
+              "citations": "389, 28"
+            },
+            {
+              "old_english": null,
+              "latin": "Ego Ecgberhtus ... hanc libertatem donabi aecclesiae ..., ut omnes agros sint libera ab omni regali seruitio (then follows a list of exemptions),... et ab omnibus difficultatibus regalis uel saecularis seruitutis, cum furis comprehensione intus et foris, praeter pontis constructione et expeditione liberata permaneat",
+              "english": null,
+              "citations": "Cod. Dip. Knibl. i. 288, 5"
+            },
+            {
+              "old_english": null,
+              "latin": "Terra predicta liber et securus omnium rerutn permaneat, id est, regalium et principalium tributum, et ui exactorum operum siue poenalium causarum, furisque comprehensione, et omni saeculari grauidine",
+              "english": null,
+              "citations": "ii. 28, 22"
+            },
+            {
+              "old_english": null,
+              "latin": "Ui exactorum operum et penalium rerum, principali dominatione, furisque comprehensione, et cuncta seculari grauidine ... secura et immunis",
+              "english": null,
+              "citations": "65, 14"
+            },
+            {
+              "old_english": null,
+              "latin": "Omnium regalium debitorum et principalium rerum, caeterarumque causarum, furisque comprehension, et ab omnium saecularium seruitutum molestia secura et inmunis",
+              "english": null,
+              "citations": "95, 33"
+            },
+            {
+              "old_english": null,
+              "latin": "Furum comprehensione",
+              "english": null,
+              "citations": "iii. 277, 4"
+            },
+            {
+              "old_english": null,
+              "latin": "Captio forum",
+              "english": null,
+              "citations": "iv. 2, 26"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "In other passages, however, the word implies advantage, and seems to refer to the right to receive the fines which might be exacted in case of conviction for theft",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif frigman stelþ ... cyning áge ðæt wíte and ealle ða ǽhtan",
+              "latin": null,
+              "english": null,
+              "citations": "L. Ethb. 9; Th. i. 6, 2"
+            },
+            {
+              "old_english": "Ealle wítu (in cases of theft) sint gelíce, .cxx. scillingas.",
+              "latin": null,
+              "english": null,
+              "citations": "L. Alf. pol. 9; Th. i. 68, 7: L. Ath. i. 1; Th. i. 198, 23"
+            },
+            {
+              "old_english": "Gif þeuw stele ... hine man álése .lxx. scillingum.",
+              "latin": null,
+              "english": null,
+              "citations": "L. Wih. 27; Th. i. 42, 20"
+            },
+            {
+              "old_english": "Hine man his wergelde álése",
+              "latin": null,
+              "english": null,
+              "citations": "26; Th. i. 42, 17: L. In. 12; Th. i. 110, 8"
+            },
+            {
+              "old_english": "Concedo consuetudines, ut ab omnibus apertius et plenius intelligantur Anglice scriptas, scilicet, mundbryce, feardwítæ, fihtwíte ... þiéfphang, hangwíte, gryðbryce ... toll et teám, aliasque omnes consuetudines quae ad me pertinent",
+              "latin": null,
+              "english": null,
+              "citations": "Chart. Th. 384, 24"
+            },
+            {
+              "old_english": null,
+              "latin": "Terram liueram ab omni seruitute, cum omnibus ad se rite pertinentibus, cum furis comprehensione, et cum omnibus rebus quae ad aecclesiam Sancti Andreae pertinent, cum campis, etc.",
+              "english": null,
+              "citations": "Cod. Dip. Kmbl. ii. 109, 21"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "þeóf-feng, es; m. Seizing of thieves; the Latin rendering of the term in Charters is comprehensio (or captio) furis (-um). I. The word seems to denote the obligation of one who holds land to arrest and bring to justice those who committed theft on that land, and occurs generally in connection with the burdens from which land, when granted, was relieved :-- Ic forgyfe ðisne freóls tó ðære hálgan stówe æt Scíreburnan, ðæt hit sý gefreód alra cynelícra and alra dómlícra þeówdóma, ge þeóffenges ge ǽghwelcre [un]iéðnesse ealles worldlíces broces, nymðe fyrde and bryceweorces, Chart. Th. 125, 11. Ðæt hit (the monastery at Horton) sý gefreód ealra cynelícra and ealdordómlícra þeówdóma, ge þeóffengces ge ǽghwylcere uneáðnesse ealles woroldlíces broces búton fyrdsócne and burhgcweorce and bryggeweorce, 389, 28. Corresponding cases in Latin charters are the following :-- Ego Ecgberhtus ... hanc libertatem donabi aecclesiae ..., ut omnes agros sint libera ab omni regali seruitio (then follows a list of exemptions),... et ab omnibus difficultatibus regalis uel saecularis seruitutis, cum furis comprehensione intus et foris, praeter pontis constructione et expeditione liberata permaneat, Cod. Dip. Knibl. i. 288, 5. Terra predicta liber et securus omnium rerutn permaneat, id est, regalium et principalium tributum, et ui exactorum operum siue poenalium causarum, furisque comprehensione, et omni saeculari grauidine, ii. 28, 22. Ui exactorum operum et penalium rerum, principali dominatione, furisque comprehensione, et cuncta seculari grauidine ... secura et immunis, 65, 14. Omnium regalium debitorum et principalium rerum, caeterarumque causarum, furisque comprehension, et ab omnium saecularium seruitutum molestia secura et inmunis, 95, 33. Furum comprehensione, iii. 277, 4. Captio forum, iv. 2, 26. II. In other passages, however, the word implies advantage, and seems to refer to the right to receive the fines which might be exacted in case of conviction for theft. For such emoluments cf. Gif frigman stelþ ... cyning áge ðæt wíte and ealle ða ǽhtan, L. Ethb. 9; Th. i. 6, 2. Ealle wítu (in cases of theft) sint gelíce, .cxx. sci&l-bar;&l-bar;., L. Alf. pol. 9; Th. i. 68, 7: L. Ath. i. 1; Th. i. 198, 23. Gif þeuw stele ... hine man álése .lxx. sci&l-bar;&l-bar;., L. Wih. 27; Th. i. 42, 20. Hine man his wergelde álése, 26; Th. i. 42, 17: L. In. 12; Th. i. 110, 8. These emoluments of the crown are made the subject of grant :-- Concedo consuetudines, ut ab omnibus apertius et plenius intelligantur Anglice scriptas, scilicet, mundbryce, feardwítæ, fihtwíte ... þiéfphang, hangwíte, gryðbryce ... toll et teám, aliasque omnes consuetudines quae ad me pertinent, Chart. Th. 384, 24. Terram liueram ab omni seruitute, cum omnibus ad se rite pertinentibus, cum furis comprehensione, et cum omnibus rebus quae ad aecclesiam Sancti Andreae pertinent, cum campis, etc., Cod. Dip. Kmbl. ii. 109, 21."
+}

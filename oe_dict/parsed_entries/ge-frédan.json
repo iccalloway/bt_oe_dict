@@ -1,0 +1,191 @@
+{
+  "citation_form": "ge-frédan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(i)",
+          "heading": "absolute",
+          "meaning": "To have sensation",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Seó sáwul is sensus, þ-bar; is andgit oððe félnyss, þonne heó gefrét",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. I. 184"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to be sensible of an object that touches the body",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se lǽce wile ðæt se untruma his lǽceseax gefréde, ǽr hé hit geseó",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 187, 10: 331, 21"
+            },
+            {
+              "old_english": "Gefrédan hiere feónda speru",
+              "latin": null,
+              "english": null,
+              "citations": "277, 22"
+            },
+            {
+              "old_english": "Ðon má ðe mon his, feax mæg gefrédan bútan ðám felle",
+              "latin": null,
+              "english": null,
+              "citations": "139, 21"
+            },
+            {
+              "old_english": "Sé þe bær líc gefréddan wolde, hé hyt scolde myd barum handum gefrédan",
+              "latin": null,
+              "english": null,
+              "citations": "Solil. H. 43, 14"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(2 a)",
+              "heading": null,
+              "meaning": "to feel a blow, heat, cold, & c.",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðú þás dyntas náht ne gefrétst",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 4, 147"
+                },
+                {
+                  "old_english": "Hé þæs fýres bryne gefrédde him onbútan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "31, 884"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "to be sensible of an action (gen.)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðæt feax gréwð ofer ðǽm brægene and his (the growing] mon ðeáh ne gefréd (-frét, v.l.)",
+              "latin": "capilli super cerebrum insensibiliter oriuntur",
+              "english": null,
+              "citations": null
+            },
+            {
+              "old_english": "Suá giémeleáslíce oft sceacað úre geðóhtas from ús, ðæt wé his (the careless escape of the thoughts) furðum ne gefrédað",
+              "latin": "quasi nobis non sentientibus procedunt",
+              "english": null,
+              "citations": "Past. 139, 16-20"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": "of the sense of easte",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðý lǽs hé ðá bieternesse ðǽre wyrte gefréde",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 303, 15"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(5)",
+          "heading": null,
+          "meaning": "to be sensible of a state or condition",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé swilces nán þing ofer þ-bar; on him sylfum ne gefrédde (ongæt, v.l.)",
+              "latin": null,
+              "english": null,
+              "citations": "Gr. D. 102, 4"
+            },
+            {
+              "old_english": "Him bið ðæt sár ðe gefrédre, gif sió wund bið tó ungemetlíce fæste gewriðen",
+              "latin": "ita ut gravius scissuram sentiat, si hanc immoderatius ligamenta constringant",
+              "english": null,
+              "citations": "Past. 123, 19"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "with acc. and complement",
+              "meaning": "to feel a thing so and so",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé hine selfne untrumran gefréd on his lícho-man",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Past. 407, 25"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "with clause",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þǽr þǽr hit gefrét þ-bar; hit hraþost weaxan mæg",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 34, 10; F. 148, 21"
+                },
+                {
+                  "old_english": "Ðonne gefréd (-frét, v.l.) hé ǽresð hwelc heó tô habbanne wæs",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Past. 249, 7"
+                },
+                {
+                  "old_english": "Ðæt hié ongieton and gefrêden ðæt hié suá micle má beóð Godes bearn",
+                  "latin": null,
+                  "english": null,
+                  "citations": "251, 21"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-frédan. Add: (i) absolute, To have sensation :-- Seó sáwul is sensus, þ-bar; is andgit oððe félnyss, þonne heó gefrét, Hml. S. I. 184. (2) to be sensible of an object that touches the body :-- Se lǽce wile ðæt se untruma his lǽceseax gefréde, ǽr hé hit geseó, Past. 187, 10: 331, 21. Gefrédan hiere feónda speru, 277, 22. Ðon má ðe mon his, feax mæg gefrédan bútan ðám felle, 139, 21. Sé þe bær líc gefréddan wolde, hé hyt scolde myd barum handum gefrédan, Solil. H. 43, 14. (2 a) to feel a blow, heat, cold, & c. :-- Ðú þás dyntas náht ne gefrétst, Hml. S. 4, 147. Hé þæs fýres bryne gefrédde him onbútan, 31, 884. (3) to be sensible of an action (gen.) :-- Ðæt feax gréwð ofer ðǽm brægene and his (the growing] mon ðeáh ne gefréd (-frét, v.l.) capilli super cerebrum insensibiliter oriuntur . . . Suá giémeleáslíce oft sceacað úre geðóhtas from ús, ðæt wé his (the careless escape of the thoughts) furðum ne gefrédað ( quasi nobis non sentientibus procedunt). Past. 139, 16-20. (4) of the sense of easte :-- Ðý lǽs hé ðá bieternesse ðǽre wyrte gefréde, Past. 303, 15. (5) to be sensible of a state or condition :-- Hé swilces nán þing ofer þ-bar; on him sylfum ne gefrédde (ongæt, v.l.), Gr. D. 102, 4. Him bið ðæt sár ðe gefrédre, gif sió wund bið tó ungemetlíce fæste gewriðen ita ut gravius scissuram sentiat, si hanc immoderatius ligamenta constringant, Past. 123, 19. (a) with acc. and complement, io feel a thing so and so :-- Hé hine selfne untrumran gefréd on his lícho-man, Past. 407, 25. (b) with clause: -- Þǽr þǽr hit gefrét þ-bar; hit hraþost weaxan mæg, Bt. 34, 10; F. 148, 21. Ðonne gefréd (-frét, v.l.) hé ǽresð hwelc heó tô habbanne wæs, Past. 249, 7. Ðæt hié ongieton and gefrêden ðæt hié suá micle má beóð Godes bearn, 251, 21."
+}

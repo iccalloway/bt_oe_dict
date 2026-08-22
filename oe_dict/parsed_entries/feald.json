@@ -1,0 +1,30 @@
+{
+  "citation_form": "feald",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a field",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 77, 15: 64, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "feld"
+  ],
+  "source_text": "feald a field, Ps. Spl. 77, 15: 64, 12. v. feld."
+}

@@ -1,0 +1,30 @@
+{
+  "citation_form": "fald-gang",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Cf. fold-course a sheep-walk, N. E. D.",
+      "meaning": "The pasture land grazed by the animals belonging to a fold (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sceóte man ælmessan, swá æt heáfde peninc, swá æt sulhgange peninc, swá æt faldgange pening",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 170, 37"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fald-gang. Substitute: The pasture land grazed by the animals belonging to a fold (?). (Cf. fold-course a sheep-walk, N. E. D.) :-- Sceóte man ælmessan, swá æt heáfde peninc, swá æt sulhgange peninc, swá æt faldgange pening, Wlfst. 170, 37."
+  ]
+}

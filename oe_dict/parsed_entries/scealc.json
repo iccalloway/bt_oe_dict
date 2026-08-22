@@ -1,0 +1,168 @@
+{
+  "citation_form": "scealc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a servant",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eálá ic eom ðín ágen esne Dryhten and ðín swylce eom scealc ombehte (cf. ambeht-scealc) and ðíure þeówan suna",
+          "latin": "O Domine, quia ego servus tuus, ego servus tuus, et filius ancillae tuae",
+          "english": null,
+          "citations": "Ps. Th. 115, 6"
+        },
+        {
+          "old_english": "Ic eom ðín hold scealc",
+          "latin": "tuus sum ego",
+          "english": null,
+          "citations": "118, 94"
+        },
+        {
+          "old_english": "Dó ðínes scealces (servi) sáwle blíðe",
+          "latin": null,
+          "english": null,
+          "citations": "85, 3"
+        },
+        {
+          "old_english": "Tó scealce",
+          "latin": "in servum",
+          "english": null,
+          "citations": "104, 15"
+        },
+        {
+          "old_english": "Hǽl ðínne scealc",
+          "latin": "salvum fac servum tuum",
+          "english": null,
+          "citations": "85, 2: 88, 17"
+        },
+        {
+          "old_english": "Hé Moyses sende his sylfes scealc",
+          "latin": "misit Moysen servum suum",
+          "english": null,
+          "citations": "104, 22"
+        },
+        {
+          "old_english": "Beseoh on ðíne scealcas",
+          "latin": "respice in servos tuos",
+          "english": null,
+          "citations": "89, 18"
+        },
+        {
+          "old_english": "Babilone weard hét his scealcas scúfan ða hyssas in bǽlblyse",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 230, 10; Dan. 231"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "as a term of reproach",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá hine heówon hǽðene scealcas",
+          "latin": null,
+          "english": null,
+          "citations": "Byrht. Th. 137, 5; By. 181"
+        },
+        {
+          "old_english": "Hwílum ic gehére helle scealcas, gnorniende cynn",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 273, 8; Sat. 133"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "III.",
+      "supplemental": "[Þer wes moni bald scalc (cniht, 2nd MS.), Laym. 19126. Heo wenden bi þen scelden þat hit heore scalkes (men, 2nd MS.) weoren, 4219. Schalk a knight, Gaw. 160. Goth. skalks GREEK: O. Sax. skalk servus: O. Frs. skalk a servant, slave: O. H. Ger. scalch servus, famulus, manceps: Icel. skálkr a rouge. v. Grmm. R. A. 302, and Grff. vi. 480 sqq. for compounds.]",
+      "meaning": "a man, soldier, sailor",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Scealc (Beowulf) hafaþ dǽde gefremede, ðe wé ealle ǽr ne meahton",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 1883; B. 939"
+        },
+        {
+          "old_english": "Eode scealc monig swíð&dash-uncertain;nicgende tó sele searowundor seón",
+          "latin": null,
+          "english": null,
+          "citations": "1841; B. 918"
+        },
+        {
+          "old_english": "Hú mæg ðæt gesceádwís scealc (cf. gesceádwís mon, Bt. 28; Fox 100, 30) gereccan, ðæt hé him ðý sélra þince",
+          "latin": null,
+          "english": null,
+          "citations": "Met. 15, 14"
+        },
+        {
+          "old_english": "Brugdon scealcas (the Jews who defeated the Assyrians) of sceáðum scírmǽled swyrd",
+          "latin": null,
+          "english": null,
+          "citations": "Judth. Thw. 24, 38; Jud. 230"
+        },
+        {
+          "old_english": "Næs scealca nán",
+          "latin": null,
+          "english": "there was no one",
+          "citations": "Met. 8, 21"
+        },
+        {
+          "old_english": "Scipu mid scealcum",
+          "latin": null,
+          "english": "ships with their crews",
+          "citations": "Exon. Th. 362, 3; Wal. 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ambeht-scealc",
+    "beór-scealc",
+    "freoðo-scealc"
+  ],
+  "source_text": "scealc, es; m. I. a servant:--Eálá ic eom ðín ágen esne Dryhten and ðín swylce eom scealc ombehte (cf. ambeht-scealc) and ðíure þeówan suna O Domine, quia ego servus tuus, ego servus tuus, et filius ancillae tuae, Ps. Th. 115, 6. Ic eom ðín hold scealc tuus sum ego, 118, 94. Dó ðínes scealces (servi) sáwle blíðe, 85, 3. Tó scealce in servum, 104, 15. Hǽl ðínne scealc salvum fac servum tuum, 85, 2: 88, 17. Hé Moyses sende his sylfes scealc misit Moysen servum suum, 104, 22. Beseoh on ðíne scealcas respice in servos tuos, 89, 18. Babilone weard hét his scealcas scúfan ða hyssas in bǽlblyse, Cd. Th. 230, 10; Dan. 231. II. as a term of reproach:--Ðá hine heówon hǽðene scealcas, Byrht. Th. 137, 5; By. 181. Hwílum ic gehére helle scealcas, gnorniende cynn, Cd. Th. 273, 8; Sat. 133. III. a man, soldier, sailor:--Scealc (Beowulf) hafaþ dǽde gefremede, ðe wé ealle ǽr ne meahton, Beo. Th. 1883; B. 939. Eode scealc monig swíð&dash-uncertain;nicgende tó sele searowundor seón, 1841; B. 918. Hú mæg ðæt gesceádwís scealc (cf. gesceádwís mon, Bt. 28; Fox 100, 30) gereccan, ðæt hé him ðý sélra þince, Met. 15, 14. Brugdon scealcas (the Jews who defeated the Assyrians) of sceáðum scírmǽled swyrd, Judth. Thw. 24, 38; Jud. 230. Næs scealca nán there was no one, Met. 8, 21. Scipu mid scealcum ships with their crews, Exon. Th. 362, 3; Wal. 31. [Þer wes moni bald scalc (cniht, 2nd MS.), Laym. 19126. Heo wenden bi þen scelden þat hit heore scalkes (men, 2nd MS.) weoren, 4219. Schalk a knight, Gaw. 160. Goth. skalks GREEK: O. Sax. skalk servus: O. Frs. skalk a servant, slave: O. H. Ger. scalch servus, famulus, manceps: Icel. skálkr a rouge. v. Grmm. R. A. 302, and Grff. vi. 480 sqq. for compounds.] v. ambeht-, beór-, freoðo-scealc."
+}

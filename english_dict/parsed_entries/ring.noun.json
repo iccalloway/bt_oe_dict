@@ -1,0 +1,21 @@
+{
+  "english_lemma": "ring",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "ring.n.08",
+      "definition": "jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "G",
+          "pos": "noun",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

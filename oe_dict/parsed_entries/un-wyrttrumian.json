@@ -1,0 +1,36 @@
+{
+  "citation_form": "un-wyrttrumian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To uproot, pluck up by the roots, root up",
+      "latin": "eradicetis",
+      "quotations": [
+        {
+          "old_english": "Ðý læs gié unwyrtrumias (eradicetis) ðone huǽte",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 13, 29"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "un-wyrttrumian; p. ode To uproot, pluck up by the roots, root up :-- Ðý læs gié unwyrtrumias (eradicetis) ðone huǽte, Mt. Kmbl. Lind. 13, 29."
+  ]
+}

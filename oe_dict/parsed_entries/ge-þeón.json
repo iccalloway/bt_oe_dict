@@ -1,0 +1,38 @@
+{
+  "citation_form": "ge-þeón",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-þeóde",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To do, commit, perform",
+      "latin": "perficere, patrare",
+      "quotations": [
+        {
+          "old_english": "Ðæt we siððan forþ ða séllan þing symle móten geþeón",
+          "latin": null,
+          "english": "that henceforth we may ever do those better things",
+          "citations": "Exon 13 a; Th. 23, 31; Cri. 377"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "þeón"
+  ],
+  "source_text": [
+    "ge-þeón; p. -þeóde To do, commit, perform; perficere, patrare :-- Ðæt we siððan forþ ða séllan þing symle móten geþeón that henceforth we may ever do those better things, Exon 13 a; Th. 23, 31; Cri. 377. v. þeón."
+  ]
+}

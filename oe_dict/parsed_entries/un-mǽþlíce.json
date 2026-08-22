@@ -1,0 +1,58 @@
+{
+  "citation_form": "un-mǽþlíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "immoderately, out of measure",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seó wydewe mænigfealde sceattas hyre unmǽðlíce beád",
+          "latin": null,
+          "english": "was immoderate in her offers",
+          "citations": "Homl. Skt. i. 2, 147"
+        },
+        {
+          "old_english": "Hé hét ðone bisceop unscrýdan and unmǽðlíce (or II) swingan",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 29, 231"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": "For lutle ich mei makien to muchelin unmeaðeliche, &yogh;ef me hut hit, Marh. 15, 9. &yogh;eieð luddre and unmeðluker, A. R. 266, 1.",
+      "meaning": "inhumanely",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ða ðe hæfdon sum þing lytles tó bigleofan, ðæt gelæhton reáferas and of ðam múðe him ábrudon unmǽðlíce mid þreáte",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Ass. 68, 73"
+        },
+        {
+          "old_english": "Æ-acute;lc læhte of óðrum ðone mete of ðam múðe swíðe unmægðlíce",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. T. Grn. 21, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "mǽþlíce"
+  ],
+  "source_text": "un-mǽþlíce; adv. I. immoderately, out of measure :-- Seó wydewe mænigfealde sceattas hyre unmǽðlíce beád (was immoderate in her offers), Homl. Skt. i. 2, 147. Hé hét ðone bisceop unscrýdan and unmǽðlíce (or II) swingan, ii. 29, 231. II. inhumanely. v. mǽþlíce :-- Ða ðe hæfdon sum þing lytles tó bigleofan, ðæt gelæhton reáferas and of ðam múðe him ábrudon unmǽðlíce mid þreáte, Homl. Ass. 68, 73. Æ-acute;lc læhte of óðrum ðone mete of ðam múðe swíðe unmægðlíce, Ælfc. T. Grn. 21, 11. [For lutle ich mei makien to muchelin unmeaðeliche, &yogh;ef me hut hit, Marh. 15, 9. &yogh;eieð luddre and unmeðluker, A. R. 266, 1.]"
+}

@@ -1,0 +1,44 @@
+{
+  "citation_form": "a-lifian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To live",
+      "latin": "vivere",
+      "quotations": [
+        {
+          "old_english": "He geþohte ðæt he wolde on fellenum gegyrelan ealle his dagas his lífes alifian",
+          "latin": null,
+          "english": "he resolved that he would live all the days of his life in clothing of skins",
+          "citations": "Guthl. 4; Gdwin. 26, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-libban"
+  ],
+  "source_text": [
+    "a-lifian; p. ode; pp. od To live; vivere :-- He geþohte ðæt he wolde on fellenum gegyrelan ealle his dagas his lífes alifian he resolved that he would live all the days of his life in clothing of skins, Guthl. 4; Gdwin. 26, 13. v. a-libban."
+  ]
+}

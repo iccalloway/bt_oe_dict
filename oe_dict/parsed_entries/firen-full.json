@@ -1,0 +1,74 @@
+{
+  "citation_form": "firen-full",
+  "variant_forms": [
+    "fieren-full"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "O.H.Ger. firn-fol publicanus.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On þǽre fernlican, [fern]fullum mándǽde",
+          "latin": "ab originali, i. principali piaculo, i. peccalo",
+          "english": null,
+          "citations": "An. Ox. 2005"
+        },
+        {
+          "old_english": "Fyrenfulle",
+          "latin": "flagitiasum, i. maculosum",
+          "english": null,
+          "citations": "875"
+        },
+        {
+          "old_english": "Fyrenfullum mándǽdum",
+          "latin": "fagitiosis facinoribus",
+          "english": null,
+          "citations": "2922; 917"
+        },
+        {
+          "old_english": "Fyrnfullum",
+          "latin": null,
+          "english": null,
+          "citations": "4, 49"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "used substantively, a sinner",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Geheald mé wið firenfulles folmum",
+              "latin": "custodi me de manu peccatoris",
+              "english": null,
+              "citations": "Ps. Th. 139, 4"
+            },
+            {
+              "old_english": "Ne forhtige gé for ðæs fyrnfullan þreátum",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 25, 260"
+            },
+            {
+              "old_english": "Gebeda for þone fyrenfullan",
+              "latin": "preces pro peccatore",
+              "english": null,
+              "citations": "Ll. Th. ii. 136, 27"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "firen-full. Take here fieren-full in Dict., and add :-- On þǽre fernlican, [fern]fullum mándǽde ab originali, i. principali piaculo, i. peccalo, An. Ox. 2005. Fyrenfulle flagitiasum, i. maculosum, 875. Fyrenfullum mándǽdum fagitiosis facinoribus, 2922; 917. Fyrnfullum, 4, 49. ¶ used substantively, a sinner :-- Geheald mé wið firenfulles folmum custodi me de manu peccatoris, Ps. Th. 139, 4. Ne forhtige gé for ðæs fyrnfullan þreátum, Hml. S. 25, 260. Gebeda for þone fyrenfullan preces pro peccatore, Ll. Th. ii. 136, 27. [O.H.Ger. firn-fol publicanus.]"
+}

@@ -1,0 +1,60 @@
+{
+  "citation_form": "be-míðan",
+  "variant_forms": [
+    "bi-míðan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-máþ",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-miðon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-miðen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "be, míðan to hide",
+      "meaning": "To hide, conceal",
+      "latin": "abscondere, occultare",
+      "quotations": [
+        {
+          "old_english": "He ne mihte hit bemíðan",
+          "latin": "non potuit latere",
+          "english": null,
+          "citations": "Mk. Bos. 7, 24"
+        },
+        {
+          "old_english": "Hí ne mágon heortan geþohtas fóre Waldende bemíðan",
+          "latin": null,
+          "english": "they cannot conceal their heart's thoughts before the Supreme",
+          "citations": "Exon. 23 a; Th. 65, 4; Cri. 1049"
+        },
+        {
+          "old_english": "He his mǽgwlite bemiðen hæfde",
+          "latin": null,
+          "english": "he had concealed his shape",
+          "citations": "Andr. Kmbl. 1712; An. 858"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "be-míðan, bi-míðan; p. -máþ, pl. -miðon; pp. -miðen [be, míðan to hide] To hide, conceal; abscondere, occultare :-- He ne mihte hit bemíðan non potuit latere, Mk. Bos. 7, 24. Hí ne mágon heortan geþohtas fóre Waldende bemíðan they cannot conceal their heart's thoughts before the Supreme, Exon. 23 a; Th. 65, 4; Cri. 1049. He his mǽgwlite bemiðen hæfde he had concealed his shape, Andr. Kmbl. 1712; An. 858."
+}

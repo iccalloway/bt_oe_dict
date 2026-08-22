@@ -1,0 +1,94 @@
+{
+  "citation_form": "á-stíflan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ástífode obrigesceret, ástífedan obriguerunt",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 63, 62, 65"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "lit. to become incapable of motion",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé ástífode and se earm stód ungebígendlic",
+              "latin": null,
+              "english": null,
+              "citations": "Gr. D. 254, 36"
+            },
+            {
+              "old_english": "Heora handa ástífedon",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 598, 11"
+            },
+            {
+              "old_english": "Þá múlas ástífodon",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 31, 985"
+            },
+            {
+              "old_english": "Hé ástífod lǽge",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 193, 8"
+            },
+            {
+              "old_english": "Hí stódon swilce hí ástífode wǽron",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 31, 375"
+            },
+            {
+              "old_english": "Ástífode on stána gelícnysse",
+              "latin": null,
+              "english": null,
+              "citations": "1001"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "fig. to become incapable of action from fear, wonder",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ástifedon (obriguerunt) ealle þá búendan",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. L. fol. 187 b, 12 ( = Ex. 15, 15)"
+            },
+            {
+              "old_english": "Þǽr stænt ástífad stáne gelícast eal árleás heáp",
+              "latin": "stupet attonito impia turba timore",
+              "english": null,
+              "citations": "Dóm. L. 173"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "á-stíflan. Add :-- Ástífode obrigesceret, ástífedan obriguerunt, Wrt. Voc. ii. 63, 62, 65. (1) lit. to become incapable of motion :-- Hé ástífode and se earm stód ungebígendlic, Gr. D. 254, 36. Heora handa ástífedon, Hml. Th. i. 598, 11. Þá múlas ástífodon, Hml. S. 31, 985. Hé ástífod lǽge, Bl. H. 193, 8. Hí stódon swilce hí ástífode wǽron, Hml. S. 31, 375. Ástífode on stána gelícnysse, 1001. (2) fig. to become incapable of action from fear, wonder :-- Ástifedon (obriguerunt) ealle þá búendan, Ps. L. fol. 187 b, 12 ( = Ex. 15, 15). Þǽr stænt ástífad stáne gelícast eal árleás heáp stupet attonito impia turba timore, Dóm. L. 173."
+}

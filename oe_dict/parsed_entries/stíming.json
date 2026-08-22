@@ -1,0 +1,40 @@
+{
+  "citation_form": "stíming",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Fragrance",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Stémincge",
+          "latin": "fragrantia",
+          "english": null,
+          "citations": "Hpt. Gl. 516, 40"
+        },
+        {
+          "old_english": "Stémingce",
+          "latin": "fragrantiam, odorem",
+          "english": null,
+          "citations": "488, 28"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "stíming, e ; f. Fragrance :--Stémincge fragrantia, Hpt. Gl. 516, 40. Stémingce fragrantiam, odorem, 488, 28."
+}

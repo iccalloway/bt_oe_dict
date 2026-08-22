@@ -1,0 +1,52 @@
+{
+  "citation_form": "giccan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "[O. L. Ger. jukkian pruire.]",
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "Prompt. Parv. &yogh;ichin prurire: A. R. &yogh;icchen: Chauc. icche: O. H. Ger. iuchian prurire, scalpere: Ger. jucken to itch.",
+      "meaning": "to itch",
+      "latin": "prurire",
+      "quotations": [
+        {
+          "old_english": "Wið giccendre wombe",
+          "latin": null,
+          "english": "for an itching stomach [Cockayne prefers to translate the verb to hiccup, v. his Glossary]",
+          "citations": "Lchdm. iii. 50, 13"
+        },
+        {
+          "old_english": "Wið óðrum giccendum blece",
+          "latin": null,
+          "english": "for other itching blotch",
+          "citations": "70, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gicce",
+    "gicenes",
+    "gicþa"
+  ],
+  "source_text": [
+    "ge-yrfeweardian. v. ge-irfeweardian: ge-yrfian. l. ge-irfian: ge-yrgan. v. ge-irgan: ge-yrman. v. ge-irman: ge-yrnan. v. ge-irnan : ge-yrsian. v. ge-irsian : ge-&y-long;wan. v. ge-&i-long;wan : gib. v. gif: giccan. Add: [O. L. Ger. jukkian pruire.] v. gicce, gicenes, gicþa.",
+    "giccan to itch: prurire :-- Wið giccendre wombe for an itching stomach [Cockayne prefers to translate the verb to hiccup, v. his Glossary], Lchdm. iii. 50, 13. Wið óðrum giccendum blece for other itching blotch, 70, 27. [Prompt. Parv. &yogh;ichin prurire: A. R. &yogh;icchen: Chauc. icche: O. H. Ger. iuchian prurire, scalpere: Ger. jucken to itch.]"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "citation_form": "fang",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "fangen; pp. of fón to take, q. v.",
+      "meaning": "what is taken, A booty",
+      "latin": "captūra, præda",
+      "quotations": [
+        {
+          "old_english": "Hí fang woldon fón",
+          "latin": null,
+          "english": "they would take booty",
+          "citations": "Chr. 1016; Th. 281, 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "feax-fang",
+    "feoh-fang",
+    "fore-fang",
+    "for-fang",
+    "under-fang"
+  ],
+  "source_text": "fang, es; m. [fangen; pp. of fón to take, q. v.] what is taken, A booty; capt&u-long;ra, præda :-- Hí fang woldon fón they would take booty, Chr. 1016; Th. 281, 30. [Laym. feng, ueng booty: Scot. fang a capture: O. Frs. fang, feng, m: Dut. vang, m: Ger. fang, m: M. H. Ger. vanc, m: O. H. Ger. fang, m. capt&u-long;ra: Dan. fang, n: Swed. fång, n: Icel. fang, n. a catching.] DER. feax-fang, feoh-, fore-, for-, under-."
+}

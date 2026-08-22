@@ -1,0 +1,30 @@
+{
+  "citation_form": "líþung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Líþunge",
+          "latin": "ueniam (indulgentiae)",
+          "english": null,
+          "citations": "An. Ox. 8, 398"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "líþung. Add: -- Líþunge ueniam (indulgentiae), An. Ox. 8, 398."
+  ]
+}

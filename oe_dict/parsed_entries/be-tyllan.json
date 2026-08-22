@@ -1,0 +1,36 @@
+{
+  "citation_form": "be-tyllan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To lure, decoy",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þá gelǽdde hé here in Peohtas, þá gelíccetton hí fleám for him, and hine betyldon (-tilldon, -telldon v. ll. ) on nearo fasten",
+          "latin": "cum exercitum ad uastandam Pictorum prouinciam duxisset, iniroductus est, simulantibus fugam hostibus, in angustias",
+          "english": null,
+          "citations": "Bd. 4, 26 ; Sch. 506, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "tyllan"
+  ],
+  "source_text": "be-tyllan; p. de To lure, decoy :-- Þá gelǽdde hé here in Peohtas, þá gelíccetton hí fleám for him, and hine betyldon (-tilldon, -telldon v. ll. ) on nearo fasten cum exercitum ad uastandam Pictorum prouinciam duxisset, iniroductus est, simulantibus fugam hostibus, in angustias, Bd. 4, 26 ; Sch. 506, 3. v. tyllan in Dict."
+}

@@ -1,0 +1,29 @@
+{
+  "citation_form": "ge-cilcan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "[O.L. Ger. gi-kelkian.]",
+      "meaning": "to whitewash",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gelíco gié sint byrgennum oferhíudum &l-bar; úta gecǽlcad",
+          "latin": "similes estis sepulchris dealbatis",
+          "english": null,
+          "citations": "Mt. L. 23, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "níw-cilct"
+  ],
+  "source_text": "ge-cilcan to whitewash :-- Gelíco gié sint byrgennum oferhíudum &l-bar; úta gecǽlcad similes estis sepulchris dealbatis, Mt. L. 23, 27. [O.L. Ger. gi-kelkian.] Cf. níw-cilct."
+}

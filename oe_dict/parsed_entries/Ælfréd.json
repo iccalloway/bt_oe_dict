@@ -1,0 +1,148 @@
+{
+  "citation_form": "Ælfréd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "ælf an elf; réd = rǽd counsel, wise in counsel: v. Ælfred",
+      "meaning": "Alfred the Great, born A.D. 849, grandson of Egbert, and fourth son of king Ethelwulf, reigned thirty years, A.D. 871-901",
+      "latin": "Alfrédus",
+      "quotations": [
+        {
+          "old_english": "Ða, A.D. 871, féng Ælfréd, Æðelwulfing, to West Seaxna ríce ... And ðes geáres wurdon ix folcgefeoht gefohten wið ðone here on ðam cineríce be súþan Temese; bútan ðam ðe hí Ælfréd, ... and ealdormen, and ciningas þægnas, oft ráda on riden, ðe man náne rímde",
+          "latin": null,
+          "english": "then, A.D. 871, Alfred, son of Ethelwulf, succeeded to the kingdom of the West Saxons...And this year nine great battles were fought against the army in the kingdom south of the Thames; besides which, Alfred... and aldormen, and king's thanes, often rode raids on them, which were not reckoned",
+          "citations": "Chr. 871; Erl. 77, 3-10"
+        },
+        {
+          "old_english": "Ðá hét Ælfréd cyning timbrian lange scipu ongeán ðas æscas [MS. æsceas] ða wǽron fulneáh twá swá lange swá ða óðre; . . . ða wǽron ǽgðer ge swiftran ge untealran, ge eác heárran [MS. heárra] ðonne ða óðru; nǽron hí ráwðær ne on Frysisc gesceapen ne on Denisc; bútan swá him sylfum þúhte ðæt hí nytwyrðe beón meahton",
+          "latin": null,
+          "english": "then, A.D. 897, king Alfred commanded long ships to be built against the Danish ships [æscas] which were full nigh twice as long as the others; . .. they were both swifter and steadier, and also higher than the others; they were shapen neither as the Frisian nor as the Danish, but as it seemed to himself that they might be most useful",
+          "citations": "897; Th. 175, 37, col. 2 -- 177,5, col. 2"
+        },
+        {
+          "old_english": "Ðæs ilcan geares, hét se cyning [Ælfréd] faran to Wiht... Ðá geféngon hy ðara scipa twa, and ða men [MS. mæn] ofslógon... Ða ylcan sumere, forwearþ ná læs ðonne xx scipa mid mannum mid ealle be ðam súþ. riman",
+          "latin": null,
+          "english": "in the same year [A.D. 897], the king [Alfred] commanded his men to go to Wight... They then took two of the ships, and slew the men ... In the same summer, no less than twenty ships, with men and everything [of the Danes], perished on the south coast",
+          "citations": "Chr. 897; Th. 177, 5, col. 2 -- 179, 3, col. 2"
+        },
+        {
+          "old_english": "Hér gefór Ælfréd cyning vii Kl Nouembris... and ðá feng Eádweard, his sunu to ríce",
+          "latin": null,
+          "english": "here died king Alfred, on the twenty-sixth of October... and then Edward [the Elder], his son, succeeded to the kingdom",
+          "citations": "Chr. 901; Th. 179, 14-18, col. 2"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "Though the talents and energy of Alfred were chiefly occupied in subduing the Danes, and in confirming his kingdom, he availed himself of the short intervals of peace to read and write much. He selected the books best adapted for his people, and translated them from Latin into Anglo-Saxon.",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "1. Boethius de Consolatione Philosophiæ, probably finished about A.D. 888",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ælfréd, Cyning [MS. Kuning] wæs wealhstód ðisse béc, and hie of béc Lédene on Englisc wende ... swá swá he hit ða sweotolost and andgitfullícost gereccan mihte, for ðæm mistlícum and manigfealdum weoruld bísgum, ðe hine oft ǽgðer ge on móde ge on líchoman bísgodan. Ða bísgu us sint swíðe earfoþ ríme, ðe on his dagum on ða rícu becómon, ðe he underfangen hæfde; and ðeáh, ðá he ðas bóc hæfde geleornode, and of Lædene to Engliscum spelle gewende, and geworhte hí eft to leóðe, swá swá heó nú gedón is",
+              "latin": null,
+              "english": "king Alfred was translator of this book, and turned it from book Latin into English ...as he the most plainly and most clearly could explain it, for the various and manifold worldly occupations, which often busied him both in mind and in body. The occupations are to us very difficult to be numbered, which in his days came upon the kingdoms which he had undertaken; and yet, when he had learned this book, and turned it from Latin into the English language, he afterwards put it into verse, as it is now done",
+              "citations": "Bt. prooem; Fox viii. 1-10"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": null,
+          "heading": "2. Historia Anglorum of Bede, about A.D. 890",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "'Historia Anglorum' ða ðe Ælfréd cyning of Lédene on Englisc awende",
+              "latin": null,
+              "english": "Historia Anglorum, which king Alfred turned from Latin into English",
+              "citations": "Homl. Th. ii. 116, 30-118, l"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": null,
+          "heading": "3. Orosius, about A.D. 893",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ohthere sæde Alfréde cyninge, ðæt he ealra Norþmanna norþmest búde",
+              "latin": null,
+              "english": "Ohthere told king Alfred that he dwelt northmost of all Northmen",
+              "citations": "Ors. 1, 1; Bos. 19, 25"
+            },
+            {
+              "old_english": "Burgenda land wæs on us bæcbord",
+              "latin": "erat nobis",
+              "english": "we had [lit. there was to us; erat nobis] the land of the Burgundians on our left",
+              "citations": "Ors. i, i; Bos. 21, 44"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": null,
+          "heading": "4. Gregory's Pastoral Care",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ic hie geliornode æt Plegmunde mínum ærcebiscepe",
+              "latin": null,
+              "english": "I learnt it from Plegmund my archbishop",
+              "citations": "Introduction to Gregory's Pastoral, Oxford MS. Hatton 20, fol. 2"
+            },
+            {
+              "old_english": "Ða ongan ic, ongemang óðrum mislícum and manigfealdum bísgum ðisses kyneríces, ða bóc wendon on Englisc, ðe is genemned on Lǽden Pastoralis, and on Englisc Hierde bóc, hwílum word be worde, hwílum andgit of andgite",
+              "latin": null,
+              "english": "then began I, among other different and manifold affairs of this kingdom, to turn into English the book, which is called in Latin Pastoralis, and in English Herdman's book, sometimes word for word, and sometimes meaning for meaning",
+              "citations": "Oxford MS. Hatton 20, fol. 2"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "Ælfred"
+  ],
+  "source_text": [
+    "Ælfréd, es; m. [ælf an elf; réd = rǽd counsel, wise in counsel: v. Ælfred] Alfred; Alfrédus. I. Alfred the Great, born A.D. 849, grandson of Egbert, and fourth son of king Ethelwulf, reigned thirty years, A.D. 871-901: -- Ða, A.D. 871, féng Ælfréd, Æðelwulfing, to West Seaxna ríce ... And ðes geáres wurdon ix folcgefeoht gefohten wið ðone here on ðam cineríce be súþan Temese; bútan ðam ðe hí Ælfréd, ... and ealdormen, and ciningas þægnas, oft ráda on riden, ðe man náne rímde then, A.D. 871, Alfred, son of Ethelwulf, succeeded to the kingdom of the West Saxons...And this year nine great battles were fought against the army in the kingdom south of the Thames; besides which, Alfred... and aldormen, and king's thanes, often rode raids on them, which were not reckoned, Chr. 871; Erl. 77, 3-10. A. D. 897, Ðá hét Ælfréd cyning timbrian lange scipu ongeán ðas æscas [MS. æsceas] ða wǽron fulneáh twá swá lange swá ða óðre; . . . ða wǽron ǽgðer ge swiftran ge untealran, ge eác heárran [MS. heárra] ðonne ða óðru; nǽron hí ráwðær ne on Frysisc gesceapen ne on Denisc; bútan swá him sylfum þúhte ðæt hí nytwyrðe beón meahton then, A.D. 897, king Alfred commanded long ships to be built against the Danish ships [æscas] which were full nigh twice as long as the others; . .. they were both swifter and steadier, and also higher than the others; they were shapen neither as the Frisian nor as the Danish, but as it seemed to himself that they might be most useful, 897; Th. 175, 37, col. 2 -- 177,5, col. 2. Ðæs ilcan geares, hét se cyning [Ælfréd] faran to Wiht... Ðá geféngon hy ðara scipa twa, and ða men [MS. mæn] ofslógon... Ða ylcan sumere, forwearþ ná læs ðonne xx scipa mid mannum mid ealle be ðam súþ. riman in the same year [A.D. 897], the king [Alfred] commanded his men to go to Wight... They then took two of the ships, and slew the men ... In the same summer, no less than twenty ships, with men and everything [of the Danes], perished on the south coast, Chr. 897; Th. 177, 5, col. 2 -- 179, 3, col. 2. A.D. 901, Hér gefór Ælfréd cyning vii Kl Nouembris... and ðá feng Eádweard, his sunu to ríce here died king Alfred, on the twenty-sixth of October... and then Edward [the Elder], his son, suc- ceeded to the kingdom, Chr. 901; Th. 179, 14-18, col. 2. II. Though the talents and energy of Alfred were chiefly occupied in subduing the Danes, and in confirming his kingdom, he availed himself of the short intervals of peace to read and write much. He selected the books best adapted for his people, and translated them from Latin into Anglo-Saxon. In translating he often added so much of his own, that the Latin text frequently afforded only the subject, on which he wrote most interesting essays, as may be seen in his first work, Boethius de Consolatione Philosophiæ. 1. Boethius was probably finished about A.D. 888. In his preface, he thus speaks of his book and of his other occupations :-- Ælfréd, Cyning [MS. Kuning] wæs wealhstód ðisse béc, and hie of béc Lédene on Englisc wende ... swá swá he hit ða sweotolost and andgitfullícost gereccan mihte, for ðæm mistlícum and manigfealdum weoruld bísgum, ðe hine oft ǽgðer ge on móde ge on líchoman bísgodan. Ða bísgu us sint swíðe earfoþ ríme, ðe on his dagum on ða rícu becómon, ðe he underfangen hæfde; and ðeáh, ðá he ðas bóc hæfde geleornode, and of Lædene to Engliscum spelle gewende, and geworhte hí eft to leóðe, swá swá heó nú gedón is king Alfred was translator of this book, and turned it from book Latin into English ...as he the most plainly and most clearly could explain it, for the various and manifold worldly occupations, which often busied him both in mind and in body. The occupations are to us very difficult to be numbered, which in his days came upon the kingdoms which he had undertaken; and yet, when he had learned this book, and turned it from Latin into the English language, he afterwards put it into verse, as it is now done, Bt. prooem; Fox viii. 1-10. 2. Alfred, having supplied his people with a work on morality in Boethius, next translates for them the Historia Anglorum of his learned countryman Bede, about A.D. 890. This was the king's work, for the Church says in Ælfric's Homilies, about A. D. 990, -- 'Historia Anglorum' ða ðe Ælfréd cyning of Lédene on Englisc awende Historia Anglorum, which king Alfred turned from Latin into English, Homl. Th. ii. 116, 30-118, l. 3. The third book which Alfred translated, about A. D. 893, was the Compendious History of the World, written in Latin by the Spanish monk Orosius in A. D. 416. There is the best evidence, that the voyages of Ohthere and Wulfstan were written by the king, for we read that, -- Ohthere sæde Alfréde cyninge, ðæt he ealra Norþmanna norþmest búde Ohthere told king Alfred that he dwelt northmost of all Northmen, Ors. 1, 1; Bos. 19, 25. Wulfstan also uses the language of personal narrative, -- Burgenda land wæs on us bæcbord we had [lit. there was to us; erat nobis] the land of the Burgundians on our left, Ors. i, i; Bos. 21, 44. This is the longest and most important specimen of Alfred's own composition. 4. We have undoubted evidence of the date of Alfred's Anglo-Saxon translation of Gregory's Pastoral Care, for the king thus speaks of archbishop Plegmund, -- Ic hie geliornode æt Plegmunde mínum ærcebiscepe I learnt it from Plegmund my archbishop, Introduction to Gregory's Pastoral, Oxford MS. Hatton 20, fol. 2. Plegmund was raised to the archbishopric in 890: Alfred was engaged with the invasion of Hastings till he was conquered in 897; Alfred, therefore, had only leisure to translate the Pastoral between the expulsion of Hastings in 897, and his own death in 901. It was certainly translated by Alfred, for he distinctly states, -- Ða ongan ic, ongemang óðrum mislícum and manigfealdum bísgum ðisses kyneríces, ða bóc wendon on Englisc, ðe is genemned on Lǽden Pastoralis, and on Englisc Hierde bóc, hwílum word be worde, hwílum andgit of andgite then began I, among other different and manifold affairs of this kingdom, to turn into English the book, which is called in Latin Pastoralis, and in English Herdman's book, sometimes word for word, and sometimes meaning for meaning, Oxford MS. Hatton 20, fol. 2."
+  ]
+}

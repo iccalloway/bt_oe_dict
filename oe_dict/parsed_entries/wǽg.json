@@ -1,0 +1,187 @@
+{
+  "citation_form": "wǽg",
+  "variant_forms": [
+    "wǽge"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": "Nicodemus brouhte an hundred weien of mirre and of aloes, A. R. 372, 7. Sevene waxpund makiet onleve ponde one waye, twelf weyen on fothir, Rel. Ant. i. 70, 22. A weye of Essex chese, Piers P. 5, 93. Seint Austin deð þeos two boðe in one weie, A. R. 60, 10. Me ssel we&yogh;e þet word er hit by yzed ... Zoþnesse halt þise ri&yogh;tuolle waye ... Þis waye ne ssel hongi of þis half, ne of yend half, Ayenb. 256, 6-10. O. H. Ger. wági (dat.) pondere; wága pondus, libra, statera, lanx, trutina: Icel. vág a weight; vágir; pl. scales, a balance.",
+      "meaning": "a weight",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(a)",
+          "heading": "as a general term",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Byrðen oððe wǽg pondus",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. Gr. 9, 32; Zup. 58, 17 note"
+            },
+            {
+              "old_english": "Genim ðære ylcan wyrte ánre tremesse wǽge",
+              "latin": null,
+              "english": null,
+              "citations": "Lchdm. i. 72, 11"
+            },
+            {
+              "old_english": "Genim twéga trymessa wǽge",
+              "latin": null,
+              "english": null,
+              "citations": "70, 15"
+            },
+            {
+              "old_english": "Þreóra trymessa wǽge",
+              "latin": null,
+              "english": null,
+              "citations": "72, 26: 74, 4"
+            },
+            {
+              "old_english": "Habbaþ emne wǽga",
+              "latin": "aequa sint pondera",
+              "english": null,
+              "citations": "Lev. 19, 36"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(b)",
+          "heading": "as a definite weight, a wey",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Án wég spices and céses",
+              "latin": null,
+              "english": null,
+              "citations": "Cod. Dip. Kmbl. i. 312, 8"
+            },
+            {
+              "old_english": "Selle mon uuége cǽsa",
+              "latin": null,
+              "english": null,
+              "citations": "293, 11"
+            },
+            {
+              "old_english": ".i. wége césa, .i. wége speces",
+              "latin": null,
+              "english": null,
+              "citations": "296, 35"
+            },
+            {
+              "old_english": ".ii. wéga spices and céses",
+              "latin": null,
+              "english": null,
+              "citations": "299, 18"
+            },
+            {
+              "old_english": ".iii. wéga",
+              "latin": null,
+              "english": null,
+              "citations": "311, 3"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(c)",
+          "heading": "fig.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ða gewunelícan wǽge (pensum) heora ðeówdómes hig náteshwón forgímeleásion",
+              "latin": null,
+              "english": null,
+              "citations": "R. Ben. 78, 11"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "an implement for weighing, a balance",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On wǽge beóð áwegene",
+          "latin": "statera ponderabuntur",
+          "english": null,
+          "citations": "Scint. 97, 7"
+        },
+        {
+          "old_english": "Weh on wǽge",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 374, 15"
+        },
+        {
+          "old_english": "Gelícere wáge",
+          "latin": "aequa bilance",
+          "english": null,
+          "citations": "Hpt. Gl. 512, 76"
+        },
+        {
+          "old_english": "Tó wége &l-bar; tó disce",
+          "latin": "ad mensam",
+          "english": null,
+          "citations": "Lk. Skt. Lind. Rush. 19, 23"
+        },
+        {
+          "old_english": "Ðonne man sett ða synne and ða sáwle on ða wǽge",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 240"
+        },
+        {
+          "old_english": "Wǽga trutina ... lytle wǽga momentana vel statam",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 38, 38, 42"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "pening-wǽg",
+    "pund-wǽg",
+    "twi-wǽg",
+    "wull-wǽg",
+    "wǽge-tunge"
+  ],
+  "source_text": [
+    "wǽg (see also wǽge), e; f. I. a weight, (a) as a general term :-- Byrðen oððe wǽg pondus, Ælfc. Gr. 9, 32; Zup. 58, 17 note. Genim ðære ylcan wyrte ánre tremesse wǽge, Lchdm. i. 72, 11. Genim twéga trymessa wǽge, 70, 15. Þreóra trymessa wǽge, 72, 26: 74, 4. Habbaþ emne wǽga aequa sint pondera, Lev. 19, 36. (b) as a definite weight, a wey :-- Án wég spices and céses, Cod. Dip. Kmbl. i. 312, 8. Selle mon uuége cǽsa, 293, 11. .i. wége césa, .i. wége speces, 296, 35. .ii. wéga spices and céses, 299, 18. .iii. wéga, 311, 3. (c) fig. :-- Ða gewunelícan wǽge (pensum) heora ðeówdómes hig náteshwón forgímeleásion, R. Ben. 78, 11. II. an implement for weighing, a balance :-- On wǽge beóð áwegene statera ponderabuntur, Scint. 97, 7. Weh on wǽge, Lchdm. i. 374, 15. Gelícere wáge aequa bilance, Hpt. Gl. 512, 76. Tó wége &l-bar; tó disce ad mensam, Lk. Skt. Lind. Rush. 19, 23. Ðonne man sett ða synne and ða sáwle on ða wǽge, Wulfst. 240, Wǽga trutina ... lytle wǽga momentana vel statam, Wrt. Voc. i. 38, 38, 42. [Nicodemus brouhte an hundred weien of mirre and of aloes, A. R. 372, 7. Sevene waxpund makiet onleve ponde one waye, twelf weyen on fothir, Rel. Ant. i. 70, 22. A weye of Essex chese, Piers P. 5, 93. Seint Austin deð þeos two boðe in one weie, A. R. 60, 10. Me ssel we&yogh;e þet word er hit by yzed ... Zoþnesse halt þise ri&yogh;tuolle waye ... Þis waye ne ssel hongi of þis half, ne of yend half, Ayenb. 256, 6-10. O. H. Ger. wági (dat.) pondere; wága pondus, libra, statera, lanx, trutina: Icel. vág a weight; vágir; pl. scales, a balance.] v. pening-, pund-, twi-, wull-wǽg; wǽge-tunge."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "citation_form": "áttor-drinca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A poisonous drink, poison",
+      "latin": "potio venenata, venenum",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Martyrol. ad 11 Junii"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "áttor-drinca, an; m. A poisonous drink, poison; potio venenata, venenum, Martyrol. ad 11 Junii."
+}

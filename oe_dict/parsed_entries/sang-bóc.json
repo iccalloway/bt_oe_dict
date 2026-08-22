@@ -1,0 +1,60 @@
+{
+  "citation_form": "sang-bóc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a music-book, a book with the notes marked for singing",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nota ðæt is mearcung. Ðæra mearcunga sind manega and mislíce gesceapene, ǽgðer ge on sangbócum ge on leóþcræfte",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 50, 15; Som. 51, 20"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": "Icel. söng-bók.",
+      "meaning": "one of the service books, containing 'besides the canticles, the hymns which were used in the Anglo-Saxon churches.'",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt synd ða hálgan béc ... sangbóc ...",
+          "latin": null,
+          "english": null,
+          "citations": "L. Ælfc. C. 21; Th. ii. 350, 13"
+        },
+        {
+          "old_english": "Mæssepreóst sceal habban ... sang-bóc ...",
+          "latin": null,
+          "english": null,
+          "citations": "L. Ælfc. P. 44; Th. ii. 384, 1"
+        },
+        {
+          "old_english": "Nú sindon ðǽr (in the church at Exeter) ii. fulle sangbéc.",
+          "latin": null,
+          "english": null,
+          "citations": "Chart. Th. 430, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sang-bóc; f. I. a music-book, a book with the notes marked for singing :-- Nota ðæt is mearcung. Ðæra mearcunga sind manega and mislíce gesceapene, ǽgðer ge on sangbócum ge on leóþcræfte, Ælfc. Gr. 50, 15; Som. 51, 20. II. one of the service books, containing 'besides the canticles, the hymns which were used in the Anglo-Saxon churches.' v. Maskell's Monumenta Ritualia, i. cii :-- Ðæt synd ða hálgan béc ... sangbóc ..., L. Ælfc. C. 21; Th. ii. 350, 13. Mæssepreóst sceal habban ... sang-bóc ..., L. Ælfc. P. 44; Th. ii. 384, 1. Nú sindon ðǽr (in the church at Exeter) ii. fulle sangbéc. Chart. Th. 430, 8. [Icel. söng-bók.]"
+}

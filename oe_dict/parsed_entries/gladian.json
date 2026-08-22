@@ -1,0 +1,163 @@
+{
+  "citation_form": "gladian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "intrans.",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to be bright, shine, gleam (of polished metal)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On him gladiað gomelra láfe",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2036"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to be glad, rejoice",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hwílon heó besárgað hyre líchoman sárnissa, hwílon heó gladað on gódum gelimpum",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 1, 221"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(2 a)",
+              "heading": null,
+              "meaning": "to rejoice in something possessed",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Februarius and Martius gladiað on fífum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Angl. viii. 302, 1"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "trans.",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to make glad.",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": null,
+              "meaning": "of physical effect, to make of cheerful appearance",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðæt hé gleadie onsiéne in ele",
+                  "latin": "ut exhiberet faciem in oleo",
+                  "english": null,
+                  "citations": "Ps. Srt. 103, 15"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": null,
+              "meaning": "of mental effect, to gladden, cheer",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þ-bar; hí widuwan and steópcild georne gladian",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ll. Th. i. 326, 26"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to please",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þá þe mid clǽnnysse him gecwémað on lífe and mid gódum weorcum hine gladiað nú",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. A. 15, 54"
+            },
+            {
+              "old_english": "Utan gladian georne God",
+              "latin": null,
+              "english": null,
+              "citations": "Wlfst. 112, 12"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "to make gentle, soften, appease",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Mildode mansuescit, gladode mitigat",
+              "latin": null,
+              "english": null,
+              "citations": "Germ. 399, 436"
+            },
+            {
+              "old_english": "Gladode demulcet",
+              "latin": "pro demulcebat (mentem . . . nec blandimentorum lenitas demulcet, Ald. 40, 36)",
+              "english": null,
+              "citations": "An. Ox. 3004"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ge-gladian"
+  ],
+  "source_text": "gladian. Add: I. intrans. (1) to be bright, shine, gleam (of polished metal):--On him gladiað gomelra láfe, B. 2036. (2) to be glad, rejoice:--Hwílon heó besárgað hyre líchoman sárnissa, hwílon heó gladað on gódum gelimpum, Hml. S. 1, 221. (2 a) to rejoice in something possessed:--Februarius and Martius gladiað on fífum, Angl. viii. 302, 1. II. trans. (1) to make glad. (a) of physical effect, to make of cheerful appearance:--Ðæt hé gleadie onsiéne in ele ut exhiberet faciem in oleo, Ps. Srt. 103, 15. (b) of mental effect, to gladden, cheer:--Þ-bar; hí widuwan and steópcild georne gladian, Ll. Th. i. 326, 26. (2) to please:--Þá þe mid clǽnnysse him gecwémað on lífe and mid gódum weorcum hine gladiað nú, Hml. A. 15, 54. Utan gladian georne God, Wlfst. 112, 12. (3) to make gentle, soften, appease:--Mildode mansuescit, gladode mitigat, Germ. 399, 436. Gladode demulcet, pro demulcebat (mentem . . . nec blandimentorum lenitas demulcet, Ald. 40, 36), An. Ox. 3004. v. ge-gladian."
+}

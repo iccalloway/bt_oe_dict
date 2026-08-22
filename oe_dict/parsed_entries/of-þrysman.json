@@ -1,0 +1,31 @@
+{
+  "citation_form": "of-þrysman",
+  "variant_forms": [
+    "-þrysmian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to destroy by choking",
+      "latin": "suffocant",
+      "quotations": [
+        {
+          "old_english": "Gewilnunga ðæt word ofþrysmaþ (-þrysmiaþ, MS. A. )",
+          "latin": "concupiscentiae verbum suffocant",
+          "english": null,
+          "citations": "Mk. Skt. 4, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "of-þrysman, -þrysmian to destroy by choking :-- Gewilnunga ðæt word ofþrysmaþ (-þrysmiaþ, MS. A. ) concupiscentiae verbum suffocant. Mk. Skt. 4, 19."
+  ]
+}

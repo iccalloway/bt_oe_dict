@@ -1,0 +1,37 @@
+{
+  "english_lemma": "smell",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "smell.n.01",
+      "definition": "the sensation that results when olfactory receptors in the nose are stimulated by particular chemicals in gaseous form",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BRÆ-acute;Þ",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [
+            "bréþ"
+          ],
+          "latin_glosses": [
+            "odor, odoramen",
+            "odoratus est Dominus odorem suavitatis",
+            "odor"
+          ],
+          "attestations": [
+            "Gen. 8, 21",
+            "Ors. 6, 32; Bos. 129, 12",
+            "Ælfc. Gl. 70; Wrt. Voc. 42, 58"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ongan se cealc mid ungemete stincan, ðá wearþ Iuuinianus mid ðam brǽþe ofsmorod",
+              "english": "the plaster [lit. chalk] began to smell excessively, and Jovian was smothered with the smell",
+              "citations": "Ors. 6, 32; Bos. 129, 12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

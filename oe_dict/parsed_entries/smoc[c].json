@@ -1,0 +1,42 @@
+{
+  "citation_form": "smoc[c]",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Smokke interula, 182, 1. Smok, schyrt camisia, interula, Prompt. Parv. 461. O. H. Ger. smoccho interula: Icel. smokkr.",
+      "meaning": "A smock, shift",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Smoc vel syrc colobium",
+          "latin": "colobium",
+          "english": null,
+          "citations": "Wrt. Voc. i. 25, 60"
+        },
+        {
+          "old_english": "Loþa, hom vel smoc colobium, dictum quia longum est et sine manicis",
+          "latin": "colobium, dictum quia longum est et sine manicis",
+          "english": null,
+          "citations": "ii. 134, 37"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "smoc[c], es; m. A smock, shift:--Smoc vel syrc colobium, Wrt. Voc. i. 25, 60. Loþa, hom vel smoc colobium, dictum quia longum est et sine manicis, ii. 134, 37. [Smokke interula, 182, 1. Smok, schyrt camisia, interula, Prompt. Parv. 461. O. H. Ger. smoccho interula: Icel. smokkr.]"
+  ]
+}

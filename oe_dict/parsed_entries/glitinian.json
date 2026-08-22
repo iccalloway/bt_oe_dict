@@ -1,0 +1,54 @@
+{
+  "citation_form": "glitinian",
+  "variant_forms": [
+    "glitenian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Goth. glitmunjan: O. H. Ger. glizinon.",
+      "meaning": "To glitter, glisten, shine",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geseah gold glitinian",
+          "latin": null,
+          "english": "he saw gold glisten",
+          "citations": "Beo. Th. 5509; B. 2758"
+        },
+        {
+          "old_english": "Heó glytenode on ðæra engla mydle swá scýnende sunne",
+          "latin": null,
+          "english": "she glittered amid the angels as the shining sun",
+          "citations": "Shrn. 149, 7"
+        },
+        {
+          "old_english": "His reáf wurdon glitiniende",
+          "latin": "vestimenta ejus facta sunt splendentia",
+          "english": null,
+          "citations": "Mk. Skt. 9, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "glitinian, glitenian; p. ode; pp. od To glitter, glisten, shine :-- Geseah gold glitinian he saw gold glisten, Beo. Th. 5509; B. 2758. Heó glytenode on ðæra engla mydle swá scýnende sunne she glittered amid the angels as the shining sun, Shrn. 149, 7. His reáf wurdon glitiniende vestimenta ejus facta sunt splendentia, Mk. Skt. 9, 3. [Cf. Goth. glitmunjan: O. H. Ger. glizinon.]"
+}

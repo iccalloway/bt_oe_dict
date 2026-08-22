@@ -1,0 +1,115 @@
+{
+  "citation_form": "ge-mǽre",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "a",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "o",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "u",
+            "case": "nominative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An end, boundary, termination, limit",
+      "latin": "finis",
+      "quotations": [
+        {
+          "old_english": "Gemǽro limes",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9; Som. 11, 16"
+        },
+        {
+          "old_english": "Gemǽre ðú settest",
+          "latin": "terminum posuisti",
+          "english": null,
+          "citations": "Ps. Spl. 103, 10"
+        },
+        {
+          "old_english": "Ne mágon hí ofer gemǽre gegangan",
+          "latin": "terminum non transgredientur",
+          "english": null,
+          "citations": "Ps. Th. 103, 10"
+        },
+        {
+          "old_english": "On Hwicna gemǽre and West-Sexna",
+          "latin": "in confinio Huicciorum et occidentalium Saxonum",
+          "english": null,
+          "citations": "Bd. 2, 2; S. 502, 7 : 5, 23; S. 646, 25 : Exon. 93 a; Th. 349, 28; Sch. 53"
+        },
+        {
+          "old_english": "Gemǽro eorðan",
+          "latin": "terminos terræ",
+          "english": null,
+          "citations": "Ps. Spl. 2, 8"
+        },
+        {
+          "old_english": "Óþ gemǽru",
+          "latin": "usque ad terminos",
+          "english": null,
+          "citations": "71, 8"
+        },
+        {
+          "old_english": "Ðis sind ðæs londes gemǽra",
+          "latin": null,
+          "english": "these are the land's boundaries",
+          "citations": "Kmbl. Cod. Dipl. iii. 78, 20"
+        },
+        {
+          "old_english": "He ða gemǽro his rynes gefylde",
+          "latin": "metas sui cursus implevit",
+          "english": null,
+          "citations": "Bd. 3, 20; S. 550, 25"
+        },
+        {
+          "old_english": "Eall eorðan gemǽru",
+          "latin": "omnes fines terræ",
+          "english": null,
+          "citations": "Ps. Th. 66, 6 : 73, 16"
+        },
+        {
+          "old_english": "Mycel sǽ and on gemǽrum wíd",
+          "latin": "mare magnum et spatiosum",
+          "english": null,
+          "citations": "103, 24"
+        },
+        {
+          "old_english": "On gemǽru",
+          "latin": "in finibus eorum",
+          "english": null,
+          "citations": "104, 27 : Bt. Met. Fox 29, 17; Met. 29, 9 : Th. Apol. 9, 14"
+        },
+        {
+          "old_english": "Cýð ðis folc ðæt híg ne gán ofer ða gemǽro",
+          "latin": null,
+          "english": "tell this people not to cross the bounds",
+          "citations": "Exod. 19, 21, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-mǽre, es; pl. nom. a, o, u; n. An end, boundary, termination, limit; finis :-- Gemǽro limes, Ælfc. Gr. 9; Som. 11, 16. Gemǽre ðú settest terminum posuisti, Ps. Spl. 103, 10. Ne mágon hí ofer gemǽre gegangan terminum non transgredientur, Ps. Th. 103, 10. On Hwicna gemǽre and West-Sexna in confinio Huicciorum et occidentalium Saxonum, Bd. 2, 2; S. 502, 7 : 5, 23; S. 646, 25 : Exon. 93 a; Th. 349, 28; Sch. 53. Gemǽro eorðan terminos terræ, Ps. Spl. 2, 8. Óþ gemǽru usque ad terminos, 71, 8 Ðis sind ðæs londes gemǽra these are the land's boundaries, Kmbl. Cod. Dipl. iii. 78, 20. He ða gemǽro his rynes gefylde metas sui cursus implevit, Bd. 3, 20; S. 550, 25. Eall eorðan gemǽru omnes fines terræ, Ps. Th. 66, 6 : 73, 16. Mycel sǽ and on gemǽrum wíd mare magnum et spatiosum, 103, 24, On gemǽru in finibus eorum, 104, 27 : Bt. Met. Fox 29, 17; Met. 29, 9 : Th. Apol. 9, 14. Cýð ðis folc ðæt híg ne gán ofer ða gemǽro tell this people not to cross the bounds, Exod. 19, 21, 12. v. Kmbl. Cod. Dipl. iii. viii sqq."
+}

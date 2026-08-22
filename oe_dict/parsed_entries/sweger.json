@@ -1,0 +1,86 @@
+{
+  "citation_form": "sweger",
+  "variant_forms": [
+    "swegr"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O.H. Ger. swigar: Ger. schwieger-mutter. Cf. Goth. swaihró.",
+      "meaning": "A mother-in-law",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sueger socrus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 120, 68"
+        },
+        {
+          "old_english": "Sweger",
+          "latin": null,
+          "english": null,
+          "citations": "i. 52, 8"
+        },
+        {
+          "old_english": "Sweger, swegr",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 11; Zup. 79, 18"
+        },
+        {
+          "old_english": "Swegr (suegir, Lind.) on hyre snore, and snoru on hyre swegere (swegre, MS. A., Rush.: suoegir. Lind.)",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. 12, 53"
+        },
+        {
+          "old_english": "Maria is Godfæder snoru and Godes suna módur and háligra sáuwla sweger",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 118, 7"
+        },
+        {
+          "old_english": "Sweger socrum",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 72, 51"
+        },
+        {
+          "old_english": "Ða geseah hé Petres swegre (swægre, Rush. suér &l-bar; his wífes módor, Lind.) licgende",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Kmbl. 8, 14"
+        },
+        {
+          "old_english": "Snore ongén hyre swégre (swegran, MS. A.: swer, Lind.)",
+          "latin": null,
+          "english": null,
+          "citations": "10, 35"
+        },
+        {
+          "old_english": "Swegere",
+          "latin": null,
+          "english": null,
+          "citations": "Deut. 27, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "sweger, swegr, e; f. A mother-in-law :-- Sueger socrus, Wrt. Voc. ii. 120, 68. Sweger, i. 52, 8. Sweger, swegr, Ælfc. Gr. 11; Zup. 79, 18. Swegr (suegir, Lind.) on hyre snore, and snoru on hyre swegere (swegre, MS. A., Rush.: suoegir. Lind.), Lk. Skt. 12, 53. UNCERTAIN Maria is Godfæder snoru and Godes suna módur and háligra sáuwla sweger, Shrn. 118, 7. Sweger socrum, Wrt. Voc. ii. 72, 51. Ða geseah hé Petres swegre (swægre, Rush. suér &l-bar; his wífes módor, Lind.) licgende, Mt. Kmbl. 8, 14. Snore ongén hyre swégre (swegran, MS. A.: swer, Lind.), 10, 35. Swegere, Deut. 27, 23. [O.H. Ger. swigar: Ger. schwieger-mutter. Cf. Goth. swaihró.]"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "citation_form": "hwanan",
+  "variant_forms": [
+    "hwanon",
+    "hwonan",
+    "hwanone"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "Whence",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "in direct questions",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Interrogativa synd áxigendlíce, unde hwanan",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. Gr. 38; Som. 41, 58"
+            },
+            {
+              "old_english": "Hwanon hæfde hé coccel",
+              "latin": "unde habet zizania?",
+              "english": null,
+              "citations": "Mt. Kmbl. 13, 27"
+            },
+            {
+              "old_english": "Hwanun wát ic þis",
+              "latin": "unde hoc sciam?",
+              "english": null,
+              "citations": "Lk. Skt. 1, 18"
+            },
+            {
+              "old_english": "Hwanone sceoldest ðú specan on Hebréisc",
+              "latin": null,
+              "english": "how should you speak in Hebrew?",
+              "citations": "Nicod. 4; Thw. 2. 27"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": "[Laym. whanene: O. and N. wanene, hwenene, hwenne: Ayenb. huannes: Chauc. whennes: O. Sax. hwanan: O. H. Ger. hwanan, hwanana: Ger. wannen.]",
+      "meaning": "Whence",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "in dependent clauses",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hí spyredan hwæt and hwonan hé wæs",
+              "latin": "investigantes unde vel quis esset",
+              "english": null,
+              "citations": "Bd. 1, 33; S. 499, 12"
+            },
+            {
+              "old_english": "Ic ne wát hwonon his cyme sindon",
+              "latin": null,
+              "english": "I know not whence is his coming",
+              "citations": "Exon. 50 b; Th. 175, 18; Gú. 1196"
+            },
+            {
+              "old_english": "Hwanan",
+              "latin": null,
+              "english": null,
+              "citations": "Beo. Th. 4798; B. 2403"
+            },
+            {
+              "old_english": "Ðá næfde hé hwanon hé his wer águlde",
+              "latin": null,
+              "english": "he had not means to pay his 'wer,'",
+              "citations": "Chart. Th. 207, 36"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ǽg-hwanon",
+    "ge-hwanon",
+    "ná-hwanon",
+    "ó-hwanon"
+  ],
+  "source_text": "hwanan, hwanon, hwonan, hwanone; adv. Whence. I. in direct questions :-- Interrogativa synd áxigendlíce, unde hwanan, Ælfc. Gr. 38; Som. 41, 58. Hwanon hæfde hé coccel unde habet zizania? Mt. Kmbl. 13, 27. Hwanun wát ic þis unde hoc sciam? Lk. Skt. 1, 18. Hwanone sceoldest ðú specan on Hebréisc how should you speak in Hebrew? Nicod. 4; Thw. 2. 27. II. in dependent clauses :-- Hí spyredan hwæt and hwonan hé wæs investigantes unde vel quis esset, Bd. 1, 33; S. 499, 12. Ic ne wát hwonon his cyme sindon I know not whence is his coming, Exon. 50 b; Th. 175, 18; Gú. 1196. Hwanan, Beo. Th. 4798; B. 2403. Ðá næfde hé hwanon hé his wer águlde he had not means to pay his 'wer,' Chart. Th. 207, 36. [Laym. whanene: O. and N. wanene, hwenene, hwenne: Ayenb. huannes: Chauc. whennes: O. Sax. hwanan: O. H. Ger. hwanan, hwanana: Ger. wannen.] DER. ǽg-, ge-, ná-, ó-hwanon."
+}

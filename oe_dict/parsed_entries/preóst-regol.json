@@ -1,0 +1,42 @@
+{
+  "citation_form": "preóst-regol",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A canonical rule",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Libbað clǽnre heortan an eówrum preóstregole",
+          "latin": "regula canonica",
+          "english": null,
+          "citations": "Chrd. 88, 15: 89, 33"
+        },
+        {
+          "old_english": "Éstfullnes lífes be preóstregole",
+          "latin": "deuotio uit&e-hook; regularis",
+          "english": null,
+          "citations": "93, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "preóst-regol, es; m. A canonical rule :-- Libbað clǽnre heortan an eówrum preóstregole (regula canonica), Chrd. 88, 15: 89, 33. Éstfullnes lífes be preóstregole deuotio uit&e-hook; regularis, 93, 11."
+  ]
+}

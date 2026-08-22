@@ -1,0 +1,28 @@
+{
+  "citation_form": "god-borh",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A pledge confirmed by an appeal to God, one that is accompanied by the formulae of religion",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Be godborgum (-borhgum, v. l.). Gif hwá óðerne godborges oncunne and tión wille þ-bar; hé hwelcne ne gelǽste þára þe hé him gesealde",
+          "latin": null,
+          "english": "if any one bring against another a charge in the matter of a pledge whose validity was confirmed by invoking the name of the Deity (where solemn formulae were used to give validity. Cf. the formulae pp. 178-182 beginning on þone Drihten, on Ælmihtiges Godes naman, on lifiendes Godes naman), and will accuse him that he do not carry out any of the pledges that he gave him",
+          "citations": "Ll. Th. i. 82, 4-6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "god-borh. Substitute: A pledge confirmed by an appeal to God, one that is accompanied by the formulae of religion:--Be godborgum (-borhgum, v. l.). Gif hwá óðerne godborges oncunne and tión wille þ-bar; hé hwelcne ne gelǽste þára þe hé him gesealde if any one bring against another a charge in the matter of a pledge whose validity was confirmed by invoking the name of the Deity (where solemn formulae were used to give validity. Cf. the formulae pp. 178-182 beginning on þone Drihten, on Ælmihtiges Godes naman, on lifiendes Godes naman), and will accuse him that he do not carry out any of the pledges that he gave him, Ll. Th. i. 82, 4-6."
+}

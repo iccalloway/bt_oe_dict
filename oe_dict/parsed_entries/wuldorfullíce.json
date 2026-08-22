@@ -1,0 +1,38 @@
+{
+  "citation_form": "wuldorfullíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Gloriously",
+      "latin": "gloriose",
+      "quotations": [
+        {
+          "old_english": "On eallum ðám ðe wuldorfullíce (gloriose) fram him gewurdon",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. 13, 17"
+        },
+        {
+          "old_english": "Hí wurdon wuldorfullíce gemartyrode",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 80, 29"
+        },
+        {
+          "old_english": "Heó tó dæg wuldorfullíce of ðam líchaman gewát",
+          "latin": null,
+          "english": null,
+          "citations": "440, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "wuldorfullíce; adv. Gloriously :-- On eallum ðám ðe wuldorfullíce (gloriose) fram him gewurdon, Lk. Skt. 13, 17. Hí wurdon wuldorfullíce gemartyrode, Homl. Th. i. 80, 29. Heó tó dæg wuldorfullíce of ðam líchaman gewát, 440, 12."
+}

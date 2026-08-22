@@ -1,0 +1,26 @@
+{
+  "english_lemma": "stripe",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "historical_unmapped",
+      "definition": null,
+      "oe_equivalents": [
+        {
+          "oe_lemma": "DYNT",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "ictus, plaga, percussio"
+          ],
+          "attestations": [
+            "Chr. 1012; Th. 268, 29, col. 2: Jn. Lind. Rush. War. 18, 22",
+            "Past. 45, 2; Hat. MS. 64 b, 23"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

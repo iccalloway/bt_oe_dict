@@ -1,0 +1,50 @@
+{
+  "citation_form": "fugelere",
+  "variant_forms": [
+    "fuglere"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A FOWLER",
+      "latin": "auceps",
+      "quotations": [
+        {
+          "old_english": "Fugelere auceps",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 73, 45: Coll. Monast. Th. 25, 9"
+        },
+        {
+          "old_english": "Ðǽr gewícodon fisceras oððe fugeleras",
+          "latin": null,
+          "english": "where fishers or fowlers encamped",
+          "citations": "Ors. 1, 1; Bos. 20, 9"
+        },
+        {
+          "old_english": "Fugelerum [MS. fugeleran]",
+          "latin": null,
+          "english": "with fowlers",
+          "citations": "1, 1; Bos. 20, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fugelere, fuglere, es; m. A FOWLER; auceps :-- Fugelere auceps, Wrt. Voc. 73, 45: Coll. Monast. Th. 25, 9. Ðǽr gewícodon fisceras oððe fugeleras where fishers or fowlers encamped, Ors. 1, 1; Bos. 20, 9. Fugelerum [MS. fugeleran] with fowlers, 1, 1; Bos. 20, 5."
+  ]
+}

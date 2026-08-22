@@ -1,0 +1,30 @@
+{
+  "citation_form": "cyne-hád",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé nolde beón cyning . . . Ðá weorðmynde cynehádes (kyne-, v. l.) hé fleáh",
+          "latin": "rex fieri noluit; . . . oblatam gloriam culminis fugit",
+          "english": null,
+          "citations": "Past. 33, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "cyne-hád. In first passage for '[MS. cyneháde]' read] cynelica hád, v. l.] and add:--Hé nolde beón cyning . . . Ðá weorðmynde cynehádes (kyne-, v. l.) hé fleáh rex fieri noluit; . . . oblatam gloriam culminis fugit, Past. 33, 20."
+  ]
+}

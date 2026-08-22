@@ -1,0 +1,39 @@
+{
+  "citation_form": "field-houses",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": "was fastened",
+          "citations": "Cd. 146; Th. 183, 2; Exod. 85: 173; Th. 218, 17; Dan. 40"
+        },
+        {
+          "old_english": "Ðe he on fíf bócum afæstnode",
+          "latin": null,
+          "english": "which he inscribed in five books",
+          "citations": "Hexam. 1; Norm. 2, 18: Deut. 32, 23"
+        },
+        {
+          "old_english": "Afæstnod ic eom",
+          "latin": "injixus sum",
+          "english": null,
+          "citations": "Ps. Spl. 68, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "field-houses was fastened. Cd. 146; Th. 183, 2; Exod. 85: 173; Th. 218, 17; Dan. 40. Ðe he on fíf bócum afæstnode which he inscribed in five books, Hexam. 1; Norm. 2, 18: Deut. 32, 23. Afæstnod ic eom injixus sum, Ps. Spl. 68, 2."
+}

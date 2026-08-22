@@ -1,0 +1,60 @@
+{
+  "citation_form": "dwolma",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "n",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a state or place of confusion",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Duolma, dualma chaus, chaos, prima confusio omnium rerum",
+          "latin": null,
+          "english": null,
+          "citations": "Txts. 49, 457"
+        },
+        {
+          "old_english": "Dwolma chaos (abstrusum, et torpens confusio rerum, Ald. 150, 10), i. tenebre",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 17, 9"
+        },
+        {
+          "old_english": "Eal bið úpheofon sweart and gesworcen, deorc and dimhíw and dwolma sweart",
+          "latin": "tristius coelum tenebris obducitur atris",
+          "english": null,
+          "citations": "Dóm. L. 106: Wlfst 137, 10"
+        },
+        {
+          "old_english": "Dwolma cahus ( = chaos, Lk. 16, 26)",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 73, 65: 17, 56"
+        },
+        {
+          "old_english": "Dwolman (in antiquum) chaos",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 2483"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-dwolma"
+  ],
+  "source_text": "dwolma. Add: a state or place of confusion :-- Duolma, dualma chaus, chaos, prima confusio omnium rerum, Txts. 49, 457. Dwolma chaos (abstrusum, et torpens confusio rerum, Ald. 150, 10), i. tenebre, An. Ox. 17, 9. Eal bið úpheofon sweart and gesworcen, deorc and dimhíw and dwolma sweart tristius coelum tenebris obducitur atris, Dóm. L. 106: Wlfst 137, 10. Dwolma cahus ( = chaos, Lk. 16, 26), Wrt. Voc. ii. 73, 65: 17, 56. Dwolman (in antiquum) chaos, An. Ox. 2483. v. ge-dwolma."
+}

@@ -1,0 +1,30 @@
+{
+  "citation_form": "ǽ-bylg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to excite God's anger",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geæfnan ǽbylg Godes",
+          "latin": null,
+          "english": "to excite God's anger",
+          "citations": "Gú. 1211"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ǽ-bylg; m.:--Geæfnan ǽbylg Godes to excite God's anger, Gú. 1211."
+  ]
+}

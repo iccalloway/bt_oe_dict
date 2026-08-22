@@ -1,0 +1,38 @@
+{
+  "citation_form": "fréfrend",
+  "variant_forms": [
+    "fréfriend"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Paraclitus, þæt is Fréfrigend",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 550, 31"
+        },
+        {
+          "old_english": "Hér is se fréfrigend úres geswinces and weorces",
+          "latin": null,
+          "english": null,
+          "citations": "560, 34: 562, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fore-fréfrend"
+  ],
+  "source_text": "fréfrend. Take here fréfriend, and add :-- Paraclitus, þæt is Fréfrigend, Hml. Th. i. 550, 31. Hér is se fréfrigend úres geswinces and weorces, 560, 34: 562, 18. v. fore-fréfrend."
+}

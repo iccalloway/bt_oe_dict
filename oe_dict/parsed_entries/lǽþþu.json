@@ -1,0 +1,58 @@
+{
+  "citation_form": "lǽþþu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hí mé sǽdon þ-bar; sum wer wunne on þǽre hefigestan hatunge his gesacan, þæs lǽþþu (lǽðð, v. l.) and feóndscipe forð weóx tó þon swíðe þ-bar; . . .",
+          "latin": "quidam vir gravissima adversarii sui aemulatione laborabat, cujus ad hoc usque odium prorupit, ut. . .",
+          "english": null,
+          "citations": "Gr. D. 158, 27"
+        },
+        {
+          "old_english": "Mid wordum laeððu (odii)",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Srt. 108, 3"
+        },
+        {
+          "old_english": "Laeððu unrehtwísre odio iniquo",
+          "latin": null,
+          "english": null,
+          "citations": "24, 19"
+        },
+        {
+          "old_english": "Lǽðu odium",
+          "latin": null,
+          "english": null,
+          "citations": "35, 3"
+        },
+        {
+          "old_english": "Hé beseah eádmódlíce þá lǽþþe (lǽððo, v. l.) and feóndscipe þæs æfstigan mæssepreóstes",
+          "latin": "ejus odia humiliter declinavit",
+          "english": null,
+          "citations": "Gr. D. 119, 23"
+        },
+        {
+          "old_english": "Þ-bar; wé hí lufian and lǽððe tó nabban",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 16, 265"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "lǽþþ[u]. Add :-- Hí mé sǽdon þ-bar; sum wer wunne on þǽre hefigestan hatunge his gesacan, þæs lǽþþu (lǽðð, v. l.) and feóndscipe forð weóx tó þon swíðe þ-bar; . . . quidam vir gravissima adversarii sui aemulatione laborabat, cujus ad hoc usque odium prorupit, ut. . . , Gr. D. 158, 27. Mid wordum laeððu (odii), Ps. Srt. 108, 3. Laeððu unrehtwísre odio iniquo, 24, 19. Lǽðu odium, 35, 3. Hé beseah eádmódlíce þá lǽþþe (lǽððo, v. l.) and feóndscipe þæs æfstigan mæssepreóstes ejus odia humiliter declinavit, Gr. D. 119, 23. Þ-bar; wé hí lufian and lǽððe tó nabban, Hml. S. 16, 265."
+}

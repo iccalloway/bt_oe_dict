@@ -1,0 +1,56 @@
+{
+  "citation_form": "ge-haðerian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To restrain",
+      "latin": "cohib&e-long;re",
+      "quotations": [
+        {
+          "old_english": "Wambe sár gehaðeraþ",
+          "latin": null,
+          "english": "it restraineth sore of stomach",
+          "citations": "Med. ex Quadr. 2, 2; Lchdm. i. 334, 8"
+        },
+        {
+          "old_english": "Ðá ðæt ðá geseah se ðe hine gebohte, ðæt he mid bendum ne mihte gehaðerod beón",
+          "latin": "cumque v&i-short;disset qui em&e-short;rat, vinc&u-short;lis eum non p&o-short;tuisse coh&i-short;b&e-long;ri",
+          "english": null,
+          "citations": "Bd. 4, 22; S. 592, 9"
+        },
+        {
+          "old_english": "Ic am gehaðrad",
+          "latin": "coarctor",
+          "english": null,
+          "citations": "Lk. Skt. Lind. 12, 50"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-heaðerian"
+  ],
+  "source_text": [
+    "ge-haðerian; p. ode; pp. od To restrain; coh&i-short;b&e-long;re :-- Wambe sár gehaðeraþ it restraineth sore of stomach, Med. ex Quadr. 2, 2; Lchdm. i. 334, 8. Ðá ðæt ðá geseah se ðe hine gebohte, ðæt he mid bendum ne mihte gehaðerod beón cumque v&i-short;disset qui em&e-short;rat, vinc&u-short;lis eum non p&o-short;tuisse coh&i-short;b&e-long;ri, Bd. 4, 22; S. 592, 9. Ic am gehaðrad coarctor, Lk. Skt. Lind. 12, 50. v. ge-heaðerian."
+  ]
+}

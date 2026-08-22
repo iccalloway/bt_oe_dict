@@ -1,0 +1,30 @@
+{
+  "citation_form": "spranca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "v. N. E. D. spronk.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sprancena sarmentorum, i, uiminum",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 2640"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æcern-spranca"
+  ],
+  "source_text": "spranca. Add :-- Sprancena sarmentorum, i, uiminum, An. Ox. 2640. (This and Hpt. Gl. 468, 22 are glosses to the same passage, Ald. 36, 5). [v. N. E. D. spronk.] v. æcern-spranca."
+}

@@ -1,0 +1,136 @@
+{
+  "citation_form": "gearwian",
+  "variant_forms": [
+    "gerwian",
+    "gerwan",
+    "girwan",
+    "gierwan",
+    "gyrwan",
+    "gyrian",
+    "girian",
+    "gierian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ade",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "ad",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Piers P. gare : R. Brun. ȝared, pp. prepared : Laym. ȝærwen to make ready : O. Sax. garuwian, gerwean, girwian to make ready, prepare : O. H. Ger. garawén, garwén, garawjan. v. Grm. D. M. 984.",
+      "meaning": "To make ready, prepare, procure, supply, put on, clothe",
+      "latin": "pārāre, præpārāre, præstāre, induere, vestīre",
+      "quotations": [
+        {
+          "old_english": "Ðú gǽst befóran Drihtnes ansýne, his wegas gearwian",
+          "latin": "præibis ante faciem Domini, pārāre vias ejus",
+          "english": null,
+          "citations": "Lk. Bos. 1, 76 : Exon. 58 b; Th. 210, 21; Ph. 189 : 119 a : Th. 456, 27; Hy. 4, 73 : Elen. Kmbl. 1997; El. 1000"
+        },
+        {
+          "old_english": "Wísdóm oððe snytro gearwiende lytlingum",
+          "latin": "sapientiam præstans parvulis",
+          "english": null,
+          "citations": "Ps. Spl. 18, 8"
+        },
+        {
+          "old_english": "Óþ on écnysse ic gearwie sǽd ðín",
+          "latin": "usque in æternum præpārābo sēmen tuum",
+          "english": null,
+          "citations": "88, 4"
+        },
+        {
+          "old_english": "He lífes weg gǽstum gearwaþ",
+          "latin": null,
+          "english": "he prepares life's way for souls",
+          "citations": "Exon. 34 a; Th. 108. 11; Gú. 71 : 117 a; Th. 450, 21; Dóm. 91"
+        },
+        {
+          "old_english": "Ic gearwode leóhtfæt cyninge mínum",
+          "latin": "pārāvi lucernam Christo meo",
+          "english": null,
+          "citations": "Ps. Spl. 131, 18"
+        },
+        {
+          "old_english": "Ðú gearwodest wlite mínum mægn",
+          "latin": "præstitisti decori meo virtūtem",
+          "english": null,
+          "citations": "29, 8"
+        },
+        {
+          "old_english": "Grinu hí gearwodon fótum mínum",
+          "latin": "laqueum pārāvērunt pedibus meis",
+          "english": null,
+          "citations": "Ps. Spl. 56, 8"
+        },
+        {
+          "old_english": "Sumum wundorgiefe þurh goldsmiþe gearwad weorþeþ",
+          "latin": null,
+          "english": "to one a wondrous skill in goldsmith's art is provided",
+          "citations": "Exon. 88 a; Th. 331, 25; Vy. 73"
+        },
+        {
+          "old_english": "Gearwian us togénes gréne strǽte up to englum",
+          "latin": null,
+          "english": "let us prepare before ourselves a green path to the angels above",
+          "citations": "Cd. 219; Th. 282, 15; Sat. 287"
+        },
+        {
+          "old_english": "Hú gé eówic gearwige",
+          "latin": "quid induamini",
+          "english": null,
+          "citations": "Mt. Kmbl. Rush. 6, 25 : 27, 29"
+        },
+        {
+          "old_english": "Ðæt selfe wæter ðegnunge gearwode beforan his fótum",
+          "latin": null,
+          "english": "the very water did reverence before his feet",
+          "citations": "St. And. 22, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-gearwian",
+    "ge-gearwian"
+  ],
+  "source_text": "gearwian, gerwian, gerwan, girwan, gierwan, gyrwan, gyrian, girian, gierian; p. ode, ade, ede; pp. od, ad, ed To make ready, prepare, procure, supply, put on, clothe; p&a-short;r&a-long;re, præp&a-short;r&a-long;re, præst&a-long;re, indu&e-short;re, vest&i-long;re :-- Ðú gǽst befóran Drihtnes ansýne, his wegas gearwian præ&i-long;bis ante faciem D&o-short;m&i-short;ni, p&a-short;r&a-long;re vias ejus, Lk. Bos. 1, 76 : Exon. 58 b; Th. 210, 21; Ph. 189 : 119 a : Th. 456, 27; Hy. 4, 73 : Elen. Kmbl. 1997; El. 1000. Wísdóm oððe snytro gearwiende lytlingum s&a-short;pientiam præstans parv&u-short;lis, Ps. Spl. 18, 8. Óþ on écnysse ic gearwie sǽd ðín usque in æternum præp&a-short;r&a-long;bo s&e-long;men tuum, 88, 4. He lífes weg gǽstum gearwaþ he prepares life's way for souls, Exon. 34 a; Th. 108. 11; Gú. 71 : 117 a; Th. 450, 21; Dóm. 91. Ic gearwode leóhtfæt cyninge mínum p&a-short;r&a-long;vi lucernam Christo meo, Ps. Spl. 131, 18. Ðú gearwodest wlite mínum mægn præst&i-short;tisti d&e-short;c&o-short;ri meo virt&u-long;tem, 29, 8. Grinu hí gearwodon fótum mínum laqueum p&a-short;r&a-long;v&e-long;runt p&e-short;d&i-short;bus meis, Ps. Spl. 56, 8. Sumum wundorgiefe þurh goldsmiþe gearwad weorþeþ to one a wondrous skill in goldsmith's art is provided, Exon. 88 a; Th. 331, 25; Vy. 73. Gearwian us togénes gréne strǽte up to englum let us prepare before ourselves a green path to the angels above, Cd. 219; Th. 282, 15; Sat. 287. Hú gé eówic gearwige quid induamini, Mt. Kmbl. Rush. 6, 25 : 27, 29. Ðæt selfe wæter ðegnunge gearwode beforan his fótum the very water did reverence before his feet, St. And. 22, 19. [Piers P. gare : R. Brun. &yogh;ared, pp. prepared : Laym. &yogh;ærwen to make ready : O. Sax. garuwian, gerwean, girwian to make ready, prepare : O. H. Ger. garawén, garwén, garawjan.] v. Grm. D. M. 984. DER. a-gearwian, ge-."
+}

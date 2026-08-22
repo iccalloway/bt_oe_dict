@@ -1,0 +1,33 @@
+{
+  "citation_form": "gæfel-geroefa",
+  "variant_forms": [
+    "-gehréfa",
+    "-hroefa"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A publican",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Kmbl. Rush. 5, 46; 9, 11, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "gæfel-geroefa, -gehréfa, -hroefa; m. A publican, Mt. Kmbl. Rush. 5, 46; 9, 11, 10."
+  ]
+}

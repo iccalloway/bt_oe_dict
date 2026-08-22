@@ -1,0 +1,40 @@
+{
+  "citation_form": "helle-duru",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tó þám sweartum tintrehstówum helleduru (tintreges gómum helledures (= -dores?), v.l.) hí hine gebróhton",
+          "latin": "ad nefandas tartari fauces perducunt",
+          "english": null,
+          "citations": "Guth. Gr. 131, 185"
+        },
+        {
+          "old_english": "Þonne wendeð Scs. Petrus fram þǽre helleduru, and hé belúceð þá helleduru",
+          "latin": null,
+          "english": null,
+          "citations": "Verc. Forst. 128, 12"
+        },
+        {
+          "old_english": "On helleduru gelǽded.",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 5, 14; Sch. 644, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "helle-duru. Add :-- Tó þám sweartum tintrehstówum helleduru (tintreges gómum helledures (= -dores?), v.l.) hí hine gebróhton ad nefandas tartari fauces perducunt, Guth. Gr. 131, 185. Þonne wendeð Scs.UNCERTAIN Petrus fram þǽre helleduru, and hé belúceð þá helleduru, Verc. Forst. 128, 12. On helleduru gelǽded. Bd. 5, 14; Sch. 644, 21."
+}

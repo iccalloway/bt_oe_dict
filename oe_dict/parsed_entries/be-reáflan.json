@@ -1,0 +1,211 @@
+{
+  "citation_form": "be-reáflan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "[Goth. bi-raubón: O. Sax. bi-rólbón : O. Frs. bi-rávia : O. H. Ger. bi-roubon exspoliare.]",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Bereáfað populatur",
+          "latin": "populatur",
+          "english": null,
+          "citations": "An. Ox. 139"
+        },
+        {
+          "old_english": "Bereafiað moliuntur fraudes",
+          "latin": "moliuntur fraudes",
+          "english": null,
+          "citations": "Kent. Gl. 3"
+        },
+        {
+          "old_english": "Bereáuedon abegerant",
+          "latin": "abegerant",
+          "english": null,
+          "citations": "An. Ox. 7, 263"
+        },
+        {
+          "old_english": "Bereáfian grassari",
+          "latin": "grassari",
+          "english": null,
+          "citations": "5343"
+        },
+        {
+          "old_english": "Bereáfed fraudaretur",
+          "latin": "fraudaretur",
+          "english": null,
+          "citations": "1583"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": "with acc. of person (or thing) despoiled",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": "alone",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé bereáfode hine sylfne se expolians",
+                  "latin": "se expolians",
+                  "english": null,
+                  "citations": "Gr. D. 68, 8"
+                },
+                {
+                  "old_english": "Hí ðæt mynster beréfodon",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Chr. 794; P. 57, 12"
+                },
+                {
+                  "old_english": "þ-bar; hé God bereáfige",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. iii. 444, 1"
+                },
+                {
+                  "old_english": "þ á wícstówa and þæt wæl bereáfian castrorum praedam percensere",
+                  "latin": "castrorum praedam percensere",
+                  "english": null,
+                  "citations": "Ors. 3, 9; S. 128, 9"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2)",
+              "heading": "with spoil",
+              "meaning": null,
+              "latin": null,
+              "quotations": [],
+              "sub_senses": [
+                {
+                  "label": "(a)",
+                  "heading": "in gen.",
+                  "meaning": null,
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "pú þá treówa heora leáfa bereá-fast",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Bt. 4 ; F. 8, 6"
+                    },
+                    {
+                      "old_english": "Se móna þá sunnan heore leóhtes bereáfaþ",
+                      "latin": null,
+                      "english": null,
+                      "citations": "F. 8, 1"
+                    },
+                    {
+                      "old_english": "Háma bereáfod",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Chr. 975 ; P. 120, 24: 1065; P. 195, 6: Cri. 558 : El. 910"
+                    }
+                  ],
+                  "sub_senses": []
+                },
+                {
+                  "label": "(b)",
+                  "heading": "inst. (dat.)",
+                  "meaning": null,
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Scæb þ-bar; heáfod feaxe bereáfað",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Lch. i. 322, 18"
+                    },
+                    {
+                      "old_english": "Hí hine wǽdon bereáfoden",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Hml. Th. i. 430, 2 : 428, 5"
+                    },
+                    {
+                      "old_english": "Wæs hé lande bereáfod",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Chr. 1065 ; P. 194, 4: Hml. S. 23 b, 207 : B. 2746: An. 1316"
+                    },
+                    {
+                      "old_english": "Wé sind bereáfod úrum gódum aporiamur bonis nostris",
+                      "latin": "aporiamur bonis nostris",
+                      "english": null,
+                      "citations": "Wrt. Voc. i. 54, 43"
+                    }
+                  ],
+                  "sub_senses": []
+                },
+                {
+                  "label": "(c)",
+                  "heading": "with æt",
+                  "meaning": null,
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Hí bereáfodon Loth æt his ǽhton predati sunt Loth",
+                      "latin": "predati sunt Loth",
+                      "english": null,
+                      "citations": "Prud. 2 b : Chr. 1043; P. 163, 34"
+                    },
+                    {
+                      "old_english": "þeáh se reáfere ús æt ǽhtum bereáfige",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Hml. Th. i. 576, 10: Ll. Th. ii. 180, 21"
+                    },
+                    {
+                      "old_english": "Gif man beó æt his ǽhtum bereáfod",
+                      "latin": null,
+                      "english": null,
+                      "citations": "i. 286, 16"
+                    },
+                    {
+                      "old_english": "Aaron hæfde bereáfod (spoliaverat) þ-bar; folc æt hira golde",
+                      "latin": "spoliaverat",
+                      "english": null,
+                      "citations": "Ex. 32, 25"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "II.",
+          "heading": "with acc. of spoil and on with person",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "þ-bar; hé him ágeáfe þæt hé ǽr on him bereáfode (ge-, v. l. )",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 3, 11; S. 146, 30"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "be-reáflan. Add :-- Bereáfað populatur, An. Ox. 139. Bereafiað moliuntur fraudes, Kent. Gl. 3. Bereáuedon abegerant, An. Ox. 7, 263. Bereáfian grassari, 5343. Bereáfed fraudaretur, 1583. I. with acc. of person (or thing) despoiled, (1) alone :-- Hé bereáfode hine sylfne se expolians, Gr. D. 68, 8. Hí ðæt mynster beréfodon, Chr. 794; P. 57, 12. THORN-BAR hé God bereáfige, Lch. iii. 444, 1. þ á wícstówa and þæt wæl bereáfian castrorum praedam percensere, Ors. 3, 9; S. 128, 9. (2) with spoil, (a) in gen. :-- pú þá treówa heora leáfa bereá-fast, Bt. 4 ; F. 8, 6. Se móna þá sunnan heore leóhtes bereáfaþ, F. 8, 1. Háma bereáfod, Chr. 975 ; P. 120, 24: 1065; P. 195, 6: Cri. 558 : El. 910. (b) inst. (dat.) :-- Scæb þ-bar; heáfod feaxe bereáfað, Lch. i. 322, 18. Hí hine wǽdon bereáfoden, Hml. Th. i. 430, 2 : 428, 5. Wæs hé lande bereáfod, Chr. 1065 ; P. 194, 4: Hml. S. 23 b, 207 : B. 2746: An. 1316, Wé sind bereáfod úrum gódum aporiamur bonis nostris, Wrt. Voc. i. 54, 43. (c) with æt :-- Hí bereáfodon Loth æt his ǽhton predati sunt Loth, Prud. 2 b : Chr. 1043; P. 163, 34. þeáh se reáfere ús æt ǽhtum bereáfige, Hml. Th. i. 576, 10: Ll. Th. ii. 180, 21. Gif man beó æt his ǽhtum bereáfod, i. 286, 16. Aaron hæfde bereáfod (spoliaverat) þ-bar; folc æt hira golde, Ex. 32, 25. II. with acc. of spoil and on with person :-- þ-bar; hé him ágeáfe þæt hé ǽr on him bereáfode (ge-, v. l. ), Ors. 3, 11; S. 146, 30. [Goth. bi-raubón: O. Sax. bi-rólbón : O. Frs. bi-rávia : O. H. Ger. bi-roubon exspoliare.]"
+}

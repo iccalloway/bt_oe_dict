@@ -1,0 +1,369 @@
+{
+  "citation_form": "á-stígan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "[Goth. us-steigan: O. H. Ger. ar-stígan ascendere.]",
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "A.",
+          "heading": null,
+          "meaning": "intrans.",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "I.",
+              "heading": null,
+              "meaning": "without adv. or prep. that marks upward or downward",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": [
+                {
+                  "label": "(1)",
+                  "heading": null,
+                  "meaning": "of motion lit. or fig.",
+                  "latin": null,
+                  "quotations": [],
+                  "sub_senses": [
+                    {
+                      "label": "(a)",
+                      "heading": null,
+                      "meaning": "downward",
+                      "latin": null,
+                      "quotations": [
+                        {
+                          "old_english": "Heó stihð oð þæs heófenes heánesse, and þanon ástihð",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Ps. Th. 18, 6"
+                        },
+                        {
+                          "old_english": "Críst on þínne innoþ ástígeþ",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Bl. H. 5, 14"
+                        },
+                        {
+                          "old_english": "Þá þe on eorðan ástígað",
+                          "latin": "qui descendant in terram",
+                          "english": null,
+                          "citations": "Ps. Th. 21, 27"
+                        },
+                        {
+                          "old_english": "Tó ðám munte Synay ástáh se Scyppend",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Hml. Th. ii. 196, 22"
+                        },
+                        {
+                          "old_english": "Of heofenum ástáh (descendit) mannes Bearn",
+                          "latin": "descendit",
+                          "english": null,
+                          "citations": "386, 2: Ps. Spl. 7, 17"
+                        },
+                        {
+                          "old_english": "Þú ástige on helle grund",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Bl. H. 87, 14"
+                        },
+                        {
+                          "old_english": "Of heofenum oþ eorþan ástígan",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Bd. 4, 3; S. 567, 40: 570, 1"
+                        },
+                        {
+                          "old_english": "Tó eorþan ástígan",
+                          "latin": null,
+                          "english": "to land",
+                          "citations": "Bl. H. 233, 27"
+                        },
+                        {
+                          "old_english": "Ástígendum in seáð",
+                          "latin": "descendentibus in lacum",
+                          "english": null,
+                          "citations": "Ps. Srt. 27, 1"
+                        }
+                      ],
+                      "sub_senses": []
+                    },
+                    {
+                      "label": "(b)",
+                      "heading": null,
+                      "meaning": "upward",
+                      "latin": null,
+                      "quotations": [
+                        {
+                          "old_english": "Nán mann ne ástihð (ascendit) tó heofenum",
+                          "latin": "ascendit",
+                          "english": null,
+                          "citations": "Hml. Th. ii. 386, 1"
+                        },
+                        {
+                          "old_english": "Hé ástáh (-stáhg, R.) on þone munt",
+                          "latin": "ascendit in montem",
+                          "english": null,
+                          "citations": "Mt. 5, 1"
+                        },
+                        {
+                          "old_english": "'Ástígað on mín scip.' Hé þá ástág on þ-bar; scip mid his discipulum",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Bl. H. 233, 23"
+                        }
+                      ],
+                      "sub_senses": []
+                    },
+                    {
+                      "label": "(c)",
+                      "heading": null,
+                      "meaning": "direction not strongly marked",
+                      "latin": null,
+                      "quotations": [
+                        {
+                          "old_english": "Þonne ástígeþ wolcen from norþdǽle",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Bl. H. 91, 32"
+                        },
+                        {
+                          "old_english": "Storm of ðǽm munte ástág",
+                          "latin": null,
+                          "english": null,
+                          "citations": "203, 8"
+                        },
+                        {
+                          "old_english": "Seóð þ-bar; þá bán áne beón lǽfed, ástíge þǽrin gelómlíce",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Lch. i. 340, 26"
+                        }
+                      ],
+                      "sub_senses": []
+                    }
+                  ]
+                },
+                {
+                  "label": "(2)",
+                  "heading": null,
+                  "meaning": "metaphorical",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Ic lǽrde wlance men þ-bar; hié ne ástigan on ofermédu",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Bl. H. 185, 14"
+                    },
+                    {
+                      "old_english": "Hé wæs on swá micle ofermétto ástigen",
+                      "latin": "efferatus superbia",
+                      "english": null,
+                      "citations": "Ors. 6, 9; S. 264, 8"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "II.",
+              "heading": null,
+              "meaning": "with adv. or prep.",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": [
+                {
+                  "label": "(1)",
+                  "heading": null,
+                  "meaning": "of motion, lit. or fig.",
+                  "latin": null,
+                  "quotations": [],
+                  "sub_senses": [
+                    {
+                      "label": "(a)",
+                      "heading": null,
+                      "meaning": "downward",
+                      "latin": null,
+                      "quotations": [
+                        {
+                          "old_english": "Se Hálga Gást ofer hié ástág",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Bl. H. 13, 328"
+                        },
+                        {
+                          "old_english": "Ástíh ádúne",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Hml. Th. ii. 196, 27"
+                        },
+                        {
+                          "old_english": "Wé leornedon þ-bar; se Drihtnes Gást ofer hiene ástige on culfran onlícnesse",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Bl. H. 135, 1"
+                        },
+                        {
+                          "old_english": "Þám bróþrum wæs aneáðe niþer tó ástígenne tó þám wæterseáðe",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Gr. D. 112, 17"
+                        },
+                        {
+                          "old_english": "Of dúne ástiggende (-stígende, v. l.)",
+                          "latin": "condescendendo",
+                          "english": null,
+                          "citations": "Past. 101, 14"
+                        }
+                      ],
+                      "sub_senses": []
+                    },
+                    {
+                      "label": "(b)",
+                      "heading": null,
+                      "meaning": "upward",
+                      "latin": null,
+                      "quotations": [
+                        {
+                          "old_english": "Ástíh up tó mé",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Hml. Th. ii. 196, 29"
+                        },
+                        {
+                          "old_english": "Ástíg up",
+                          "latin": null,
+                          "english": null,
+                          "citations": "Bl. H. 87, 22"
+                        },
+                        {
+                          "old_english": "Þæt hié up ástigen",
+                          "latin": "emersisse",
+                          "english": null,
+                          "citations": "Wrt. Voc. ii. 31, 35"
+                        }
+                      ],
+                      "sub_senses": []
+                    }
+                  ]
+                },
+                {
+                  "label": "(2)",
+                  "heading": null,
+                  "meaning": "of direction",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Se munt ástíhð up ðreó míla on heánnysse",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Hml. Th. ii. 164, 14"
+                    },
+                    {
+                      "old_english": "Se stípel sceolde ástígan upp tó heofenum",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Ælfc. T. Grn. 4, 9"
+                    }
+                  ],
+                  "sub_senses": []
+                },
+                {
+                  "label": "(3)",
+                  "heading": null,
+                  "meaning": "of excess",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Ne ástíhð nán getel ofer þæt",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Hml. Th. i. 188, 35"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "B.",
+          "heading": null,
+          "meaning": "trans.",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "to descend, go down into",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þá ðe ástígað sǽ on scipum",
+                  "latin": "qui descendunt mare in navibus",
+                  "english": null,
+                  "citations": "Ps. Spl. 106, 23"
+                },
+                {
+                  "old_english": "Staþu ástígan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. iii. 210, 16"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "to ascend, mount",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ic ástíge mín scyp",
+                  "latin": "ego ascendo navem",
+                  "english": null,
+                  "citations": "Coll. M. 26, 31"
+                },
+                {
+                  "old_english": "Wé gelýfað þæt of mancynne swá micel getel ástige þæt uplice ríce",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. i. 344, 13"
+                },
+                {
+                  "old_english": "Ástígan þæt heofenlice ríce",
+                  "latin": null,
+                  "english": null,
+                  "citations": "ii. 82, 9"
+                },
+                {
+                  "old_english": "Scyp ástígan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. iii. 184, 13"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "á-stígan. Add: A. intrans. I. without adv. or prep. that marks upward or downward, (1) of motion lit. or fig. (a) downward :-- Heó stihð oð þæs heófenes heánesse, and þanon ástihð, Ps. Th. 18, 6. Críst on þínne innoþ ástígeþ, Bl. H. 5, 14. Þá þe on eorðan ástígað qui descendant in terram, Ps. Th. 21, 27. Tó ðám munte Synay ástáh se Scyppend, Hml. Th. ii. 196, 22. Of heofenum ástáh (descendit) mannes Bearn, 386, 2: Ps. Spl. 7, 17. Þú ástige on helle grund, Bl. H. 87, 14. Of heofenum oþ eorþan ástígan, Bd. 4, 3; S. 567, 40: 570, 1. Tó eorþan ástígan to land, Bl. H. 233, 27. Ástígendum in seáð descendentibus in lacum, Ps. Srt. 27, 1. (b) upward :-- Nán mann ne ástihð (ascendit) tó heofenum, Hml. Th. ii. 386, 1. Hé ástáh (-stáhg, R.) on þone munt ascendit in montem, Mt. 5, 1. 'Ástígað on mín scip.' Hé þá ástág on þ-bar; scip mid his discipulum, Bl. H. 233, 23. (c) direction not strongly marked :-- Þonne ástígeþ wolcen from norþdǽle, Bl. H. 91, 32. Storm of ðǽm munte ástág, 203, 8. Seóð þ-bar; þá bán áne beón lǽfed, ástíge þǽrin gelómlíce, Lch. i. 340, 26. (2) metaphorical :-- Ic lǽrde wlance men þ-bar; hié ne ástigan on ofermédu, Bl. H. 185, 14. Hé wæs on swá micle ofermétto ástigen efferatus superbia, Ors. 6, 9; S. 264, 8. II. with adv. or prep. (1) of motion, lit. or fig. (a) downward :-- Se Hálga Gást ofer hié ástág, Bl. H. 13, 328. Ástíh ádúne, Hml. Th. ii. 196, 27. Wé leornedon þ-bar; se Drihtnes Gást ofer hiene ástige on culfran onlícnesse, Bl. H. 135, 1. Þám bróþrum wæs aneáðe niþer tó ástígenne tó þám wæterseáðe, Gr. D. 112, 17. Of dúne ástiggende (-stígende, v. l.) condescendendo, Past. 101, 14. (b) upward :-- Ástíh up tó mé, Hml. Th. ii. 196, 29. Ástíg up, Bl. H. 87, 22. Þæt hié up ástigen emersisse, Wrt. Voc. ii. 31, 35. (2) of direction :-- Se munt ástíhð up ðreó míla on heánnysse, Hml. Th. ii. 164, 14. Se stípel sceolde ástígan upp tó heofenum, Ælfc. T. Grn. 4, 9. (3) of excess :-- Ne ástíhð nán getel ofer þæt, Hml. Th. i. 188, 35. B. trans. (1) to descend, go down into :-- Þá ðe ástígað sǽ on scipum qui descendunt mare in navibus, Ps. Spl. 106, 23. Staþu ástígan, Lch. iii. 210, 16. (2) to ascend, mount :-- Ic ástíge mín scyp ego ascendo navem, Coll. M. 26, 31. Wé gelýfað þæt of mancynne swá micel getel ástige þæt uplice ríce, Hml. Th. i. 344, 13. Ástígan þæt heofenlice ríce, ii. 82, 9. Scyp ástígan, Lch. iii. 184, 13. [Goth. us-steigan: O. H. Ger. ar-stígan ascendere.]"
+}

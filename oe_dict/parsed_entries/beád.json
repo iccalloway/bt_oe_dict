@@ -1,0 +1,26 @@
+{
+  "citation_form": "beád",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a prayer",
+      "latin": "oratio",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gebéd",
+    "beáda"
+  ],
+  "source_text": [
+    "beád a prayer; oratio. v. gebéd, beáda."
+  ]
+}

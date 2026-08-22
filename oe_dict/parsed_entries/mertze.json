@@ -1,0 +1,32 @@
+{
+  "citation_form": "mertze",
+  "variant_forms": [
+    "myrtse"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "For instances of such dues see Ll. Th. i. 300",
+      "meaning": "trading dues",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Scipmanna (-e, MS. ) myrtse, céping teloneum",
+          "latin": "teloneum tributum pro mercibus, Migne",
+          "english": null,
+          "citations": "Wrt. Voc. i. 37, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ciping"
+  ],
+  "source_text": "mertze (?) substitute: mertze, myrtse, and add : trading dues. [For instances of such dues see Ll. Th. i. 300] :-- Scipmanna (-e, MS. ) myrtse, céping teloneum (cf. teloneum tributum pro mercibus, Migne), Wrt. Voc. i. 37, 10. Cf. ciping; I a."
+}

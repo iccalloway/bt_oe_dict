@@ -1,0 +1,30 @@
+{
+  "citation_form": "féringa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "suddenly",
+      "latin": "extemplo, imprōvīso",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Prov. 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fǽringa"
+  ],
+  "source_text": [
+    "féringa suddenly; extemplo, impr&o-long;v&i-long;so, Prov. 3. v. fǽringa."
+  ]
+}

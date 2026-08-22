@@ -1,0 +1,36 @@
+{
+  "citation_form": "earning-land",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá nam Ealdulf hit and sealde ðám ðe hé wolde tó earningclaude.",
+          "latin": null,
+          "english": null,
+          "citations": null
+        },
+        {
+          "old_english": "Wé wrítað him ðone croft . . . ðæt hé hæbbe hit swá rúm tó bóclonde, swá hé ǽr hæfde tó lǽnlonde",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iii. 258, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "earning-land. The passage is: Ðá nam Ealdulf hit and sealde ðám ðe hé wolde tó earningclaude. Cf. the expression in the same charter: Wé wrítað him ðone croft . . . ðæt hé hæbbe hit swá rúm tó bóclonde, swá hé ǽr hæfde tó lǽnlonde, C. D. iii. 258, 27."
+  ]
+}

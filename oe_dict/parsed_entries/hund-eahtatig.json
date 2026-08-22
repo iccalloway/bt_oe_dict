@@ -1,0 +1,52 @@
+{
+  "citation_form": "hund-eahtatig",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "him eóde on hundeahtatig burga",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 4, 10; S. 198, 15"
+        },
+        {
+          "old_english": "Hé hund-eahtatig scipa gegaderade",
+          "latin": null,
+          "english": null,
+          "citations": "4, 6; S. 170, 34"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "as adj.",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hund-eahtatigon síðon",
+          "latin": "octuagies",
+          "english": null,
+          "citations": "Ælfc. Gr. Z. 286, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "him eóde on hundeahtatig burga, Ors. 4, 10; S. 198, 15. Heacute; hund-eahtatig scipa gegaderade, 4, 6 ; S. 170, 34. II. as adj. :-- Hund&dash-uncertain;eahtatigon síðon octuagies, Ælfc. Gr. Z. 286, 5."
+}

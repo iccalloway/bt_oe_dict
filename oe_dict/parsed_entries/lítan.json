@@ -1,0 +1,27 @@
+{
+  "citation_form": "lítan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "from lútan, as bígan from búgan",
+      "meaning": "to cause to bow, to bend, incline",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt ingeþonc ǽlces monnes ðone líchoman lít ðider hit wile",
+          "latin": null,
+          "english": "the mind of every man inclines the body whither it will",
+          "citations": "Bt. Met. Fox 26, 237; Met. 26, 119"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "lítan [from lútan, as bígan from búgan] to cause to bow, to bend, incline :-- Ðæt ingeþonc ǽlces monnes ðone líchoman lít ðider hit wile the mind of every man inclines the body whither it will, Bt. Met. Fox 26, 237; Met. 26, 119."
+}

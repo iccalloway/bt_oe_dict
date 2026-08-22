@@ -1,0 +1,24 @@
+{
+  "english_lemma": "sheep",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "sheep.n.01",
+      "definition": "woolly usually horned ruminant mammal related to the goat",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "Sceáp-íg",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Chr. 855 ; Erl. 68, 23",
+            "832 ; Érl. 64, 18"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

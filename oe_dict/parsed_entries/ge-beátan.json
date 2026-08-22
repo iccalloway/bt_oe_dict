@@ -1,0 +1,67 @@
+{
+  "citation_form": "ge-beátan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to pound",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Genim pipor and gebeát",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 32, 2: 64, 19: 72, 2"
+        },
+        {
+          "old_english": "Gibeátoen, gebeátten, -beáten",
+          "latin": "battuitum",
+          "english": null,
+          "citations": "Txts. 44, 140"
+        },
+        {
+          "old_english": "Gebeáten",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 288, 10: ii. 11, 63: martisa, 59, 31"
+        },
+        {
+          "old_english": "Heortes horn tó dúste gebeáten",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. i. 334, 11"
+        },
+        {
+          "old_english": "Gebeáten swíðe smale",
+          "latin": null,
+          "english": null,
+          "citations": "358, 9"
+        },
+        {
+          "old_english": "Betonican seáw gebeátenre",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 30, 3"
+        },
+        {
+          "old_english": "Nim mucgwyrte gebeátene",
+          "latin": null,
+          "english": null,
+          "citations": "i. 380, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-gebeáten"
+  ],
+  "source_text": [
+    "ge-beátan. Add: to pound :-- Genim pipor and gebeát, Lch. ii. 32, 2: 64, 19: 72, 2. Gibeátoen, gebeátten, -beáten battuitum, Txts. 44, 140. Gebeáten, Wrt. Voc. i. 288, 10: ii. 11, 63: martisa, 59, 31. Heortes horn tó dúste gebeáten, Lch. i. 334, 11. Gebeáten swíðe smale, 358, 9. Betonican seáw gebeátenre, ii. 30, 3. Nim mucgwyrte gebeátene, i. 380, 21. v. un-gebeáten."
+  ]
+}

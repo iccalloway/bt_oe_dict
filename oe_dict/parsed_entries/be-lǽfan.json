@@ -1,0 +1,94 @@
+{
+  "citation_form": "be-lǽfan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "trans",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to leave, be survived by",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé bearn ne belǽfð",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 146, 20"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to leave unconsumed, un-done, to spare",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé ne belǽfde náne láte cuce",
+              "latin": "non dimiserunt ullas reliquias",
+              "english": null,
+              "citations": "Jos. 10, 28"
+            },
+            {
+              "old_english": "Nán hǽðengyld se hagol ne belǽfde",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 4, 427: Hml. Th. ii. 194, 2"
+            },
+            {
+              "old_english": "Þone sǽdere hé belǽfde ús tó sécenne",
+              "latin": null,
+              "english": null,
+              "citations": "90, 8"
+            },
+            {
+              "old_english": "Næs nán ele belǽfed tó his gebróðra bricum",
+              "latin": null,
+              "english": null,
+              "citations": "178, 20"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": "[Goth. bi-laibjan to leave.]",
+      "meaning": "intrans. To remain",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Án of him ne beláf (-lǽfde, MS. C)",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 105, II"
+        },
+        {
+          "old_english": "Hé hét ácwellan þá crístenan, wolde þ-bar; nán man ne belǽfde crísten",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 29, 202"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "be-lǽfan. Substitute: I. trans, (I) to leave, be survived by:--Hé bearn ne belǽfð, Hml. Th. ii. 146, 20. (2) to leave unconsumed, un-done, to spare:--Hé ne belǽfde náne láte cuce non dimiserunt ullas reliquias, Jos. 10, 28. Nán hǽðengyld se hagol ne belǽfde, Hml. S. 4, 427: Hml. Th. ii. 194, 2. Þone sǽdere hé belǽfde ús tó sécenne, 90, 8. Næs nán ele belǽfed tó his gebróðra bricum, 178, 20. II. intrans. To remain [for intrans. use in later English v. N. E. D. s. v. bielieve]:-- Án of him ne beláf (-lǽfde, MS. C), Ps. Spl. 105, II. Hé hét ácwellan þá crístenan, wolde þ-bar; nán man ne belǽfde crísten, Hml. S. 29, 202. [Goth. bi-laibjan to leave.]"
+}

@@ -1,0 +1,102 @@
+{
+  "citation_form": "on-bryrdness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "incitement, cause of strong feeling",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þám tímum þe mé ǽnig onbrerdnes cym[e] be ðám ǽcan lýfe",
+          "latin": null,
+          "english": "at those times in which l am inspired with any strong emotion about the life eternal",
+          "citations": "Solil. H. 25, 17"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "strongly excited feeling",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sceole wé him bringan twá turtlan, þæt is twifealdlic onbryrdnes eges and lufe",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 140, 16"
+        },
+        {
+          "old_english": "Symeon hine genam on his earmas mid micelre onbryrdnesse",
+          "latin": null,
+          "english": null,
+          "citations": "136, 17"
+        },
+        {
+          "old_english": "Gebǽd heó hí tó Gode mid mycelre onbryrdnesse",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 7, 320: 26, 116"
+        },
+        {
+          "old_english": "Hé him mynster árǽrde mid munuclicere onbryrdnesse",
+          "latin": null,
+          "english": "with all the fervour of a monk",
+          "citations": "Hml. Th. ii. 504, 20"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": null,
+          "meaning": "where the feeling is one of sorrow or regret, compunction",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðá sió anbryrdnes hine álét",
+              "latin": "cum compunctionis tempus abscessit",
+              "english": null,
+              "citations": "Past. 423, 15"
+            },
+            {
+              "old_english": "Mid andbryrdnysse (compunctione) synna andettan",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. ii. 174, 1"
+            },
+            {
+              "old_english": "Mid wópe and onbryrdnysse þancunge dón",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 30, 382"
+            },
+            {
+              "old_english": "Mid onbryrdnysse and behreówsunge hine gebiddan",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. 430. 5"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "on-bryrdness. Add: I. incitement, cause of strong feeling :-- Þám tímum þe mé ǽnig onbrerdnes cym[e] be ðám ǽcan lýfe at those times in which l am inspired with any strong emotion about the life eternal, Solil. H. 25, 17. II. strongly excited feeling :-- Sceole wé him bringan twá turtlan, þæt is twifealdlic onbryrdnes eges and lufe, Hml. Th. i. 140, 16. Symeon hine genam on his earmas mid micelre onbryrdnesse, 136, 17. Gebǽd heó hí tó Gode mid mycelre onbryrdnesse, Hml. S. 7, 320: 26, 116. Hé him mynster árǽrde mid munuclicere onbryrdnesse (with all the fervour of a monk), Hml. Th. ii. 504, 20. II a. where the feeling is one of sorrow or regret, compunction :-- Ðá sió anbryrdnes hine álét cum compunctionis tempus abscessit, Past. 423, 15. Mid andbryrdnysse (compunctione) synna andettan, Ll. Th. ii. 174, 1. Mid wópe and onbryrdnysse þancunge dón, Hml. S. 30, 382. Mid onbryrdnysse and behreówsunge hine gebiddan, Hml. Th. 430. 5."
+  ]
+}

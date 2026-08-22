@@ -1,0 +1,38 @@
+{
+  "citation_form": "fore-seuwenes",
+  "variant_forms": [
+    "-ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "= for-sewennes",
+      "meaning": "A despising, contempt, dishonour",
+      "latin": "contemptus, dedĕcus",
+      "quotations": [
+        {
+          "old_english": "On mínre unwurþnesse and foreseuwenesse",
+          "latin": null,
+          "english": "on account of my unworthiness and dishonour",
+          "citations": "Bt. 5, 1; Fox 10, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fore-seuwenes, -ness, e; f. [ = for-sewennes] A despising, contempt, dishonour; contemptus, ded&e-short;cus :-- On mínre unwurþnesse and foreseuwenesse on account of my unworthiness and dishonour. Bt. 5, 1; Fox 10, 23."
+  ]
+}

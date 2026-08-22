@@ -1,0 +1,26 @@
+{
+  "english_lemma": "comfort",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "comfort.v.01",
+      "definition": "give moral or emotional strength to",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-fréfrian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "consolari",
+            "renuit consolari anima mea"
+          ],
+          "attestations": [
+            "Ps. Spl. 76, 3"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

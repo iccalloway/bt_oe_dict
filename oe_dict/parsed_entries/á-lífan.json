@@ -1,0 +1,174 @@
+{
+  "citation_form": "á-lífan",
+  "variant_forms": [
+    "-lýfan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": "Goth. us-laubjan: O. H. Ger. ar-lauben permittere.",
+      "meaning": "to permit",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Álýfde concessit, i. permisii, concedit",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 136, 9"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "to permit a person (dat.) to do something",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þæt hié him ǽlce geáre gesealden swá fela talentena swá hié him þonne áliéfden",
+              "latin": null,
+              "english": "that they should pay them each year as many talents as they might be pleased to fix for them to pay when the time came",
+              "citations": "Ors. 4, 10; S. 202, 23"
+            },
+            {
+              "old_english": "Tó álýfenne permittendi, consentiendi",
+              "latin": null,
+              "english": null,
+              "citations": "Hpt. Gl. 486, 6"
+            },
+            {
+              "old_english": "Álýfed licitus",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. Gr. Z. 264, 9-10"
+            },
+            {
+              "old_english": "On álýfedum tíman oportuno tempore",
+              "latin": null,
+              "english": null,
+              "citations": "Angl. xiii. 373, 117"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "to permit a person to have or enjoy, to grant",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðonne him God ðone first áléfð expectanti Domino",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 403, 26"
+            },
+            {
+              "old_english": "Ic waes beden from þaem bisceope þaeti ic him áléfde alle nédbáde tuégra sceopa",
+              "latin": null,
+              "english": null,
+              "citations": "C. D. i. 114, 10"
+            },
+            {
+              "old_english": "Álýfde",
+              "latin": null,
+              "english": null,
+              "citations": "19"
+            },
+            {
+              "old_english": "Ús þín ríce álýf",
+              "latin": null,
+              "english": null,
+              "citations": "Hy. 7, 28"
+            },
+            {
+              "old_english": "Ðæt mé unne God écean dreámes, líf álýfe",
+              "latin": null,
+              "english": null,
+              "citations": "4, 33"
+            },
+            {
+              "old_english": "Noldan him þá londleóde þæt fæsten áliéfan",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 5, 11; S. 238, 7"
+            },
+            {
+              "old_english": "Hé wuda and wætres nyttað, þonne him bið wíc álýfed",
+              "latin": null,
+              "english": null,
+              "citations": "Gn. Ex. 110"
+            },
+            {
+              "old_english": "Þæs áléfdan indulte",
+              "latin": null,
+              "english": null,
+              "citations": "Wrt. Voc. ii. 84, 6"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": "to hand over a person",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne álýf þú mé on fyrenfulra fǽcne geðancas ne tradas me peccatori",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 139, 8"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to be permitted",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Álýfð (is áléfed, L. R.) restedagum wel tó dónne hweþer ðe yfele licet sabbatis bene facere an male?",
+          "latin": null,
+          "english": null,
+          "citations": "Mk. 3, 4"
+        },
+        {
+          "old_english": "Hwæþer álýfð (licet) ǽnegum men his wíf forlǽtan",
+          "latin": null,
+          "english": null,
+          "citations": "10, 2"
+        },
+        {
+          "old_english": "Þá heofon-lican gerýno þá nánegum men ne álýfað tó secganne",
+          "latin": null,
+          "english": null,
+          "citations": "Guth. 86, 6"
+        },
+        {
+          "old_english": "Álýfende licens",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. Z. 264, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-álífed"
+  ],
+  "source_text": "á-lífan (-lýfan, q. v. in Dict.). I. to permit :-- Álýfde concessit, i. permisii, concedit, Wrt. Voc. ii. 136, 9. (l) to permit a person (dat.) to do something :-- Þæt hié him ǽlce geáre gesealden swá fela talentena swá hié him þonne áliéfden that they should pay them each year as many talents as they might be pleased to fix for them to pay when the time came, Ors. 4, 10; S. 202, 23. Tó álýfenne permittendi, consentiendi, Hpt. Gl. 486, 6. Álýfed licitus, Ælfc. Gr. Z. 264, 9-10. On álýfedum tíman oportuno tempore, Angl. xiii. 373, 117. (2) to permit a person to have or enjoy, to grant :-- Ðonne him God ðone first áléfð expectanti Domino, Past. 403, 26. Ic waes beden from þaem bisceope þaeti ic him áléfde alle nédbáde tuégra sceopa, C. D. i. 114, 10. Álýfde, 19. Ús þín ríce álýf, Hy. 7, 28. Ðæt mé unne God écean dreámes, líf álýfe, 4, 33. Noldan him þá londleóde þæt fæsten áliéfan, Ors. 5, 11; S. 238, 7. Hé wuda and wætres nyttað, þonne him bið wíc álýfed, Gn. Ex. 110. Þæs áléfdan indulte, Wrt. Voc. ii. 84, 6. (3) to hand over a person :-- Ne álýf þú mé on fyrenfulra fǽcne geðancas ne tradas me peccatori, Ps. Th. 139, 8. II. to be permitted :-- Álýfð (is áléfed, L. R.) restedagum wel tó dónne hweþer ðe yfele licet sabbatis bene facere an male?, UNCERTAIN Mk. 3, 4. Hwæþer álýfð (licet) ǽnegum men his wíf forlǽtan, 10, 2. Þá heofon&dash-uncertain;lican gerýno þá nánegum men ne álýfað tó secganne, Guth. 86, 6 Álýfende licens, Ælfc. Gr. Z. 264, 11. [Goth. us-laubjan: O. H. Ger. ar-lauben permittere.] v. un-álífed."
+}

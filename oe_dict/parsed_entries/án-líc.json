@@ -1,0 +1,46 @@
+{
+  "citation_form": "án-líc",
+  "variant_forms": [
+    "ǽn-líc"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "án one, líc like",
+      "meaning": "ONLY, singular, incomparable, excellent, elegant, beautiful",
+      "latin": "unicus, eximius, egregius, elegans, pulcher",
+      "quotations": [
+        {
+          "old_english": "He is mín ánlíca sunu",
+          "latin": "unicus est mihi filius",
+          "english": null,
+          "citations": "Lk. Bos. 9, 38"
+        },
+        {
+          "old_english": "Andett seó gelaðung ðínne sóðan and ánlícan sunu",
+          "latin": "confitetur ecclesia tuum verum et unicum filium",
+          "english": null,
+          "citations": "Ps. Lamb. fol. 195 a, 12: Te Dm. Thomson 37, 12"
+        },
+        {
+          "old_english": "Ic spearu-wan swá some gelíce gewearþ, ánlícum fugele",
+          "latin": "factus sum sicut passer unicus",
+          "english": null,
+          "citations": "Ps. Th. 101, 5: Exon. 56a; Th. 198, 12; Ph. 9: Beo. Th. 507; B. 251"
+        },
+        {
+          "old_english": "Gesete fram deóflum oððe fram leónum ánlícan oððe ánnysse míne",
+          "latin": "restitue a leonibus unicam meam",
+          "english": "restore thou myn aon lijf aloone [darling] fro liouns",
+          "citations": "Ps. Lamb. 34, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "án-líc, ǽn-líc; adj. [án one, líc like] ONLY, singular, incomparable, excellent, elegant, beautiful; unicus, eximius, egregius, elegans, pulcher :-- He is mín ánlíca sunu unicus est mihi filius, Lk. Bos. 9, 38. Andett seó gelaðung ðínne sóðan and ánlícan sunu confitetur ecclesia tuum verum et unicum filium, Ps. Lamb. fol. 195 a, 12: Te Dm. Thomson 37, 12. Ic spearu-wan swá some gelíce gewearþ, ánlícum fugele factus sum sicut passer unicus, Ps. Th. 101, 5: Exon. 56a; Th. 198, 12; Ph. 9: Beo. Th. 507; B. 251. Gesete fram deóflum oððe fram leónum ánlícan oððe ánnysse míne restitue a leonibus unicam meam, Ps. Lamb. 34, 17; restore thou myn aon lijf aloone [darling] fro liouns, Wyc."
+}

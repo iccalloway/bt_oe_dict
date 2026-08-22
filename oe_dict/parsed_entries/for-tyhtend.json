@@ -1,0 +1,44 @@
+{
+  "citation_form": "for-tyhtend",
+  "variant_forms": [
+    "-igend"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. (?) for-liger for the sense in which clinicus has been taken.",
+      "meaning": "A seducer, an unchaste person",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wrǽne fortyhtigend (-tiht- corruptor, Hpt. Gl. 484, 56) petulcus incestator i. maculator",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 3337"
+        },
+        {
+          "old_english": "Fortihtend clinice, i. lectus tetrus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 131, 71"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "preceding word"
+  ],
+  "source_text": "for-tyhtend, -igend, es; m. A seducer, an unchaste person :-- Wrǽne fortyhtigend (-tiht- corruptor, Hpt. Gl. 484, 56) petulcus incestator i. maculator, An. Ox. 3337. Fortihtend clinice, i. lectus tetrus, Wrt. Voc. ii. 131, 71, [Cf. (?) for-liger for the sense in which clinicus has been taken.] v. preceding word."
+}

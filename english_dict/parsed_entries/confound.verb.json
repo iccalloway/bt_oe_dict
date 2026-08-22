@@ -1,0 +1,25 @@
+{
+  "english_lemma": "confound",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "confuse.v.02",
+      "definition": "be confusing or perplexing to; cause to be unable to think clearly",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-wárnian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "confundi"
+          ],
+          "attestations": [
+            "Ps. Spl. M. 85, 16"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english_lemma": "go",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "travel.v.01",
+      "definition": "change location; move, travel, or proceed, also metaphorically",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-stígan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "ire, venire, gradi, procedere, scandere",
+            "scando",
+            "surgere, ascendere, descendere",
+            "ascendunt montes et descendunt campi in locum",
+            "solus Moyses ascendit ad Dominum",
+            "ascende cacumen Phasgæ montis",
+            "ascendit in naviculam",
+            "descendet sicut pluvia in vellus, et sicut stillicidium stillantium [MS. stillicidia stillantia] super terram",
+            "descendet sicut pluvia in vellus"
+          ],
+          "attestations": [
+            "Exon. 32 b; Th. 103, 21; Cri. 1691",
+            "102 a; Th. 385, 24; Rä. 4, 49",
+            "Andr. Kmbl. 1416; An. 708: Bd. 4, 3; S. 568, 2",
+            "Lk. Bos. 3, 22",
+            "Exon. 84 b; Th. 317, 30; Mód. 73: Ps. Th. 79, 10",
+            "Ælfc. Gr. 28, 6; Som. 32, 30",
+            "Cd. 198; Th. 247, 11; Dan. 495",
+            "Exon. 48 b; Th. 168, 14; Gú. 1077",
+            "Chr. 1012; Th. 268, 29, col. 2",
+            "Ps. Lamb. 103; 8",
+            "Ex. 24, 2",
+            "Deut. 3, 27",
+            "Mt. Bos. 8, 23 : 9, 1",
+            "Ps. Lamb. 71, 6",
+            "Cd. 101; Th. 134, 35; Gen. 2235: 205; Th. 253, 18; Dan. 597",
+            "Ps. Th. 71, 6"
+          ],
+          "quotations": [
+            {
+              "old_english": "Hwider sceal ðæs monnes mód astígan",
+              "english": "thither shall the mind of man go",
+              "citations": "Exon. 32 b; Th. 103, 21; Cri. 1691"
+            }
+          ]
+        },
+        {
+          "oe_lemma": "a-teáh",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Exon. 29 b; Th. 91, 19; Cri. 1494",
+            "Beo. Th. 1537; B. 766"
+          ],
+          "quotations": []
+        },
+        {
+          "oe_lemma": "MIS-FÉRAN",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "citation_form": "ylp",
+  "variant_forms": [
+    "elp"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Elpes arn in Inde riche, Misc. 19, 604. White so alpes bon, L. N. F. 248, 282.",
+      "meaning": "An elephant",
+      "latin": "elefans",
+      "quotations": [
+        {
+          "old_english": "Ylp elefans",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 78, ll: 22, 41"
+        },
+        {
+          "old_english": "Ylp is ormǽte nýten, máre þonne sum hús",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. ii. 25, 566"
+        },
+        {
+          "old_english": "Ylpes bile promuscida",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 22, 42"
+        },
+        {
+          "old_english": "Ylpes bán ebur",
+          "latin": null,
+          "english": null,
+          "citations": "Coll. Monast. Th. 27, 9: Lchdm. iii. 204, 2, 3"
+        },
+        {
+          "old_english": "Hé sende þrittig ylpas tó wíge gewenode . . . and on ǽlcum ylpe wæs án wíghús getimbrod",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. ii. 25, 561"
+        },
+        {
+          "old_english": "Hé (the unicorn) fiht wið ðone myclan ylp, and hine oft gewundaþ on ðære wambe óþ deáþ",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 78, 1"
+        },
+        {
+          "old_english": "Gif hé ylp gesihð láðne oððe gramne, sume wróhte hit getácnaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 204, 1"
+        },
+        {
+          "old_english": "Ða ylpas beóð swá mycele swylce óðre muntas",
+          "latin": null,
+          "english": null,
+          "citations": "Hexam. 9; Norm. 16, 9"
+        },
+        {
+          "old_english": "Hé geworhte ða ormǽtan ylpas",
+          "latin": null,
+          "english": null,
+          "citations": "Norm. 14, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "elpend"
+  ],
+  "source_text": "ylp (elp), es; m. An elephant :-- Ylp elefans, Wrt. Voc. i. 78, ll: 22, 41. Ylp is ormǽte nýten, máre þonne sum hús, Homl. Skt. ii. 25, 566. Ylpes bile promuscida, Wrt. Voc. i. 22, 42. Ylpes bán ebur, Coll. Monast. Th. 27, 9: Lchdm. iii. 204, 2, 3. Hé sende þrittig ylpas tó wíge gewenode . . . and on ǽlcum ylpe wæs án wíghús getimbrod, Homl. Skt. ii. 25, 561. Hé (the unicorn) fiht wið ðone myclan ylp, and hine oft gewundaþ on ðære wambe óþ deáþ, Wrt. Voc. i. 78, 1. Gif hé ylp gesihð láðne oððe gramne, sume wróhte hit getácnaþ, Lchdm. iii. 204, 1. Ða ylpas beóð swá mycele swylce óðre muntas, Hexam. 9; Norm. 16, 9. Hé geworhte ða ormǽtan ylpas, Norm. 14, 34. [Elpes arn in Inde riche, Misc. 19, 604. White so alpes bon, L. N. F. 248, 282.] v. elpend."
+}

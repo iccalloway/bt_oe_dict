@@ -1,0 +1,21 @@
+{
+  "english_lemma": "morrow",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "morrow.n.01",
+      "definition": "the next day",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "G",
+          "pos": "noun",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

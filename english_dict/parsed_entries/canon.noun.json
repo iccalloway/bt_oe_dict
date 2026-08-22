@@ -1,0 +1,49 @@
+{
+  "english_lemma": "canon",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "canon.n.01",
+      "definition": "a rule or especially body of rules or principles generally established as valid and fundamental in a field or art or philosophy",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "CANON",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "regula, canon"
+          ],
+          "attestations": [
+            "L. Ælf. P. 31; Th. ii. 376, 26",
+            "Bd. 5, 23; S. 648, 43",
+            "L. Ælf. P. 31; Th. ii. 376, 20",
+            "Bd. 4, 24; S. 598, 13"
+          ],
+          "quotations": [
+            {
+              "old_english": "Se canon cwæþ",
+              "english": "the canon said",
+              "citations": "L. Ælf. P. 31; Th. ii. 376, 26"
+            },
+            {
+              "old_english": "Se canon awriten is",
+              "english": "the canon is written",
+              "citations": "Bd. 5, 23; S. 648, 43"
+            },
+            {
+              "old_english": "Ða canonas openlíce beódaþ",
+              "english": "the canons openly command",
+              "citations": "L. Ælf. P. 31; Th. ii. 376, 20"
+            },
+            {
+              "old_english": "Canones bóc",
+              "english": "the book of the canon",
+              "citations": "Bd. 4, 24; S. 598, 13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

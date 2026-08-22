@@ -1,0 +1,89 @@
+{
+  "citation_form": "of-",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "affix",
+        "kind": "prefix"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "as a prefix modifies the words to which it is attached in many ways",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "its intensive force in such words as of-georn, of-langod, of-lysted, of-calen, of-hyngrod, of-þyrsted",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "its unfavourable force in of-lícian, of-unnan, of-þyncan",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "the idea of attainment which it gives to",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": null,
+              "meaning": "verbs of motion as of-faran, of-féran, of-irnan, of-rídan",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": null,
+              "meaning": "verbs of inquiring, calling, etc., as of-áxian, of-clypian, of-spyrian",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "the force of",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": null,
+              "meaning": "killing which it gives to verbs of striking, throwing, falling, etc., as of-feallan, of-hnítan, of-hreósan, of-sceótan, of-stician, of-stingan",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": null,
+              "meaning": "injury which it gives to verbs denoting rest as of-licgan, of-sittan, or those denoting action as of-settan, of-tredan",
+              "latin": null,
+              "quotations": [],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "of- as a prefix modifies the words to which it is attached in many ways. Amongst these may be noticed (1) its intensive force in such words as of-georn, of-langod, of-lysted, of-calen, of-hyngrod, of-þyrsted. (2) its unfavourable force in of-lícian, of-unnan, of-þyncan. (3) the idea of attainment which it gives to (a) verbs of motion as of-faran, of-féran, of-irnan, of-rídan: (b) verbs of inquiring, calling, etc., as of-áxian, of-clypian, of-spyrian. (4) the force of (a) killing which it gives to verbs of striking, throwing, falling, etc., as of-feallan, of-hnítan, of-hreósan, of-sceótan, of-stician, of-stingan: (b) injury which it gives to verbs denoting rest as of-licgan, of-sittan, or those denoting action as of-settan, of-tredan."
+  ]
+}

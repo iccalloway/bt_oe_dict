@@ -1,0 +1,21 @@
+{
+  "english_lemma": "vengeance",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "vengeance.n.01",
+      "definition": "the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the next life; --Romans 12:19; --James Garfield",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "GYRN-WRACU",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

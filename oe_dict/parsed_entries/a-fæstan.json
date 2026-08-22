@@ -1,0 +1,40 @@
+{
+  "citation_form": "a-fæstan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-fæste",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-fested",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To fast",
+      "latin": "jejunare",
+      "quotations": [
+        {
+          "old_english": "He afæste to ǽfenes",
+          "latin": null,
+          "english": "he fasted till evening",
+          "citations": "Bd. 3, 23; S. 554, 32 : 3, 27; S. 559, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "a-fæstan; p. -fæste; pp. -fested To fast; jejunare :-- He afæste to ǽfenes he fasted till evening, Bd. 3, 23; S. 554, 32 : 3, 27; S. 559, 13."
+}

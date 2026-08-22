@@ -1,0 +1,33 @@
+{
+  "citation_form": "ǽdr",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "vein, artery",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 72, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ǽdre",
+    "édre"
+  ],
+  "source_text": [
+    "ǽdr vein, artery, Ps. Th. 72, 17. v. ǽdre, édre."
+  ]
+}

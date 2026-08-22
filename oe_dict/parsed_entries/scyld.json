@@ -1,0 +1,178 @@
+{
+  "citation_form": "scyld",
+  "variant_forms": [
+    "scyldu",
+    "o"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "guilt, sin, crime, fault",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé sume mándǽde gefremede ðá seó scyld ðá tó his heortan hwearf ðá onscunode hé hí hefelíce",
+          "latin": "sceleris aliquid commiserat, quod commissum, ubi ad cor suum rediit, gravissime exhorruit",
+          "english": null,
+          "citations": "Bd. 4, 25; S. 599, 34"
+        },
+        {
+          "old_english": "Sitte sió scyld (the killing of a slave) on him",
+          "latin": null,
+          "english": null,
+          "citations": "L. Alf. 17; Th. i. 48, 15"
+        },
+        {
+          "old_english": "On eów scyld siteþ",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 131, 2; Gú. 449"
+        },
+        {
+          "old_english": "Is Euan scyld eal forpyuded",
+          "latin": null,
+          "english": null,
+          "citations": "7, 6; Cri. 97"
+        },
+        {
+          "old_english": "Hé his scylde forgyfenysse bæd",
+          "latin": "veniam reatus postulans",
+          "english": null,
+          "citations": "Bd. 3, 22; S. 553, 33"
+        },
+        {
+          "old_english": "Ða byrðenne suá micelre scylde",
+          "latin": "tanti reatus pondera",
+          "english": null,
+          "citations": "Past. 2, 2; Swt. 31, 14"
+        },
+        {
+          "old_english": "Bútan scylde",
+          "latin": "sine culpa",
+          "english": null,
+          "citations": "3, 1; Swt. 33, 16: L. H. E. 12; Th. i. 32, 9"
+        },
+        {
+          "old_english": "Hí búton ǽlcere scylde (without being guilty of any crime) wurdon fordóne",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 29, 2; Fox 104, 30"
+        },
+        {
+          "old_english": "Æt openre scylde",
+          "latin": "flagrante delicto",
+          "english": null,
+          "citations": "L. In. 37; Th. i. 124, 23"
+        },
+        {
+          "old_english": "Hafaþ ðæt mód hwylcehugu scyldo",
+          "latin": "habet animus aliquem reatum",
+          "english": null,
+          "citations": "Bd. l, 27; S. 496, 42"
+        },
+        {
+          "old_english": "Synna, scylda",
+          "latin": "piacula",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 66, 78"
+        },
+        {
+          "old_english": "Míne scylde",
+          "latin": "delicta mea",
+          "english": null,
+          "citations": "Ps. Th. 68, 6: Ps. Surt. 58, 13"
+        },
+        {
+          "old_english": "Scylða",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 32, 2; Swt. 211, 20"
+        },
+        {
+          "old_english": "Scelda",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. C. 45"
+        },
+        {
+          "old_english": "Bróðres schyldo",
+          "latin": "fratris vitia",
+          "english": null,
+          "citations": "Mt. Kmbl. p. 15, 5"
+        },
+        {
+          "old_english": "Áscyred scylda gehwylcre, deópra firena",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 2624; El. 1313: 937; El. 470"
+        },
+        {
+          "old_english": "Hwílum biþ gód wærlíce tó míðanne his hiéremonna scylda (vitia)",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 21, 1; Swt. 151, 9"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": "Sculd scelus, Wrt. Voc. i. 95, 74. O. Sax. skuld a crime; a due: O. L. Ger. sculd: O. Frs. skeide, schuld, schild: O. H. Ger. sculd, sculda causa, facinus, noxa, injuria, crimen, debitum, meritum: Icel. skuld, skyld a due, tax; sake.",
+      "meaning": "a debt, awe",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ryhtlícor cweðan ðæt wé him gielden scylde ðonne wé him mildheortnesse dón",
+          "latin": "justitiae debitum potius solvimus, quam misericordiae opera implemus",
+          "english": null,
+          "citations": "45, 1; Swt. 335, 19"
+        },
+        {
+          "old_english": "Ágefnæ beón ða scylde",
+          "latin": "reddi debitum",
+          "english": null,
+          "citations": "Mt. Kmbl. Rush. 28, 25"
+        },
+        {
+          "old_english": "Hé ða scyld forlét wið hine",
+          "latin": "debitum dimisit ei",
+          "english": null,
+          "citations": "27: 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "deáþ-scyld",
+    "frum-scyld",
+    "ge-scyld",
+    "god-scyld",
+    "mán-scyld",
+    "níd-scyld"
+  ],
+  "source_text": "scyld, e: scyldu (o); indecl. f. I. guilt, sin, crime, fault:--Hé sume mándǽde gefremede ðá seó scyld ðá tó his heortan hwearf ðá onscunode hé hí hefelíce sceleris aliquid commiserat, quod commissum, ubi ad cor suum rediit, gravissime exhorruit, Bd. 4, 25; S. 599, 34. Sitte sió scyld (the killing of a slave) on him, L. Alf. 17; Th. i. 48, 15. On eów scyld siteþ, Exon. Th. 131, 2; Gú. 449. Is Euan scyld eal forpyuded, 7, 6; Cri. 97. Hé his scylde forgyfenysse bæd veniam reatus postulans, Bd. 3, 22; S. 553, 33. Ða byrðenne suá micelre scylde tanti reatus pondera, Past. 2, 2; Swt. 31, 14. Bútan scylde sine culpa, 3, 1; Swt. 33, 16: L. H. E. 12; Th. i. 32, 9. Hí búton ǽlcere scylde (without being guilty of any crime) wurdon fordóne, Bt. 29, 2; Fox 104, 30. Æt openre scylde flagrante delicto, L. In. 37; Th. i. 124, 23. Hafaþ ðæt mód hwylcehugu scyldo habet animus aliquem reatum, Bd. l, 27; S. 496, 42. Synna, scylda piacula, Wrt. Voc. ii. 66, 78. Míne scylde delicta mea, Ps. Th. 68, 6: Ps. Surt. 58, 13. Scylða, Past. 32, 2; Swt. 211, 20. Scelda, Ps. C. 45. Bróðres schyldo fratris vitia, Mt. Kmbl. p. 15, 5. Áscyred scylda gehwylcre, deópra firena, Elen. Kmbl. 2624; El. 1313: 937; El. 470. Hwílum biþ gód wærlíce tó míðanne his hiéremonna scylda (vitia), Past. 21, 1; Swt. 151, 9. II. a debt, awe:--Ryhtlícor cweðan ðæt wé him gielden scylde ðonne wé him mildheortnesse dón justitiae debitum potius solvimus, quam misericordiae opera implemus, 45, 1; Swt. 335, 19. Ágefnæ beón ða scylde reddi debitum, Mt. Kmbl. Rush. 28, 25. Hé ða scyld forlét wið hine debitum dimisit ei, 27: 30. [Sculd scelus, Wrt. Voc. i. 95, 74. O. Sax. skuld a crime; a due: O. L. Ger. sculd: O. Frs. skeide, schuld, schild: O. H. Ger. sculd, sculda causa, facinus, noxa, injuria, crimen, debitum, meritum: Icel. skuld, skyld a due, tax; sake.] v. deáþ-, frum-, ge-, god-, mán-, níd-scyld."
+}

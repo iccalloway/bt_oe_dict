@@ -1,0 +1,29 @@
+{
+  "citation_form": "wundon",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "pp. and p. pl. of be-windan",
+      "meaning": "wound or bound round",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 4, 1; Bos. 78, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-windan"
+  ],
+  "source_text": "be-wunden wrapped, enwrapped, Beo. Th. 4840; B. 2424 :-- wundon wound or bound round, Ors. 4, 1; Bos. 78, 8; pp. and p. pl. of be-windan."
+}

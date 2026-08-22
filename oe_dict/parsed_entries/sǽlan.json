@@ -1,0 +1,49 @@
+{
+  "citation_form": "sǽlan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To happen, betide, fortune (e. g. in Spenser)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif hié ærfeweard ne gestriónen, oðða him sylfum ælles hwæt sǽle . . . Gif him elles hwæt sǽleþ",
+          "latin": null,
+          "english": null,
+          "citations": "Chart. Th. 471, 30-472, 1"
+        },
+        {
+          "old_english": "Sǽlde unc on þám brocum swá unc gesǽlde (sǽlde, Kmbl.)",
+          "latin": null,
+          "english": "happen what might to us in those troubles",
+          "citations": "485, 23"
+        },
+        {
+          "old_english": "Hú ðé sǽle",
+          "latin": null,
+          "english": "how it may happen to thee, what your success may be",
+          "citations": "Andr. Kmbl. 2710; An. 1357"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-sǽlan",
+    "tó-sǽlan"
+  ],
+  "source_text": "sǽlan; p. de To happen, betide, fortune (e. g. in Spenser):--Gif hié ærfeweard ne gestriónen, oðða him sylfum ælles hwæt sǽle . . . Gif him elles hwæt sǽleþ, Chart. Th. 471, 30-472, 1. Sǽlde unc on þám brocum swá unc gesǽlde (sǽlde, Kmbl.) happen what might to us in those troubles, 485, 23. Hú ðé sǽle how it may happen to thee, what your success may be, Andr. Kmbl. 2710; An. 1357. v. ge-, tó-sǽlan."
+}

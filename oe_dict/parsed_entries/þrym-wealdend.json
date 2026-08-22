@@ -1,0 +1,44 @@
+{
+  "citation_form": "þrym-wealdend",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Glory-ruling, ruling heaven",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seó Hálige Ðrynnys ðe is þrymwealdend God",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 316, 4"
+        },
+        {
+          "old_english": "Þrimwealdend",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. ii. 27, 156"
+        },
+        {
+          "old_english": "Se ðrimwealdenda Scyppend",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 112, 10"
+        },
+        {
+          "old_english": "We sceolon biddan ða hálgan ðæt hí ús þingion tó ðam þrymwealdendum Gode",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. i. 21, 288"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "þrym-wealdend; adj. Glory-ruling, ruling heaven :-- Seó Hálige Ðrynnys ðe is þrymwealdend God, Homl. Th. ii. 316, 4. Þrimwealdend, Homl. Skt. ii. 27, 156. Se ðrimwealdenda Scyppend, Homl. Th. i. 112, 10. We sceolon biddan ða hálgan ðæt hí ús þingion tó ðam þrymwealdendum Gode, Homl. Skt. i. 21, 288."
+}

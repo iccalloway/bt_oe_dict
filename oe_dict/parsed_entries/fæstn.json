@@ -1,0 +1,30 @@
+{
+  "citation_form": "fæstn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a fortification",
+      "latin": "mūnīmentum",
+      "quotations": [
+        {
+          "old_english": "Ðara fæstna",
+          "latin": null,
+          "english": "of those fortifcations",
+          "citations": "Cd. 209; Th. 259, 15; Dan. 692"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fæsten II"
+  ],
+  "source_text": "fæstn a fortification; m&u-long;n&i-long;mentum :-- Ðara fæstna of those fortifcations, Cd. 209; Th. 259, 15; Dan. 692. v. fæsten II."
+}

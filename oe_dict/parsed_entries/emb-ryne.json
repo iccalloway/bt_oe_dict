@@ -1,0 +1,38 @@
+{
+  "citation_form": "emb-ryne",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A running round, a course, revolution, anniversary",
+      "latin": "revolūtio, circuĭtus",
+      "quotations": [
+        {
+          "old_english": "Tyn etnbrynas",
+          "latin": "quinquennia jam děcem",
+          "english": null,
+          "citations": "Glos. Prudent. Recd. 139, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ymb-rene"
+  ],
+  "source_text": [
+    "emb-ryne, es; m. A running round, a course, revolution, anniversary; rev&o-short;l&u-long;tio, circu&i-short;tus :-- Tyn etnbrynas quinquennia jam d&e-short;cem, Glos. Prudent. Recd. 139, 1. v. ymb-rene."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "citation_form": "býgþ",
+  "variant_forms": [
+    "býhþ"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "býgþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "býhþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "býgst",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "býhst",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "bows, thou bowest; 3rd and 2nd pers. pres. of búgan to bow",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "búgan"
+  ],
+  "source_text": "býgþ býhþ, ðú býgst, býhst bows, thou bowest; 3rd and 2nd pers. pres. of búgan to bow."
+}

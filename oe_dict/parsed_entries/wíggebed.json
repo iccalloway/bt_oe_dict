@@ -1,0 +1,36 @@
+{
+  "citation_form": "wíggebed",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Prayer to an idol (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wíggebed (wigg-bed?) ara",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 9, , 43"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wíg-bed"
+  ],
+  "source_text": "w&i-long;g-gebed, es; n. Prayer to an idol (?) :-- W&i-long;ggebed (wigg-bed?) ara, Wrt. Voc. ii. 9, , 43. v. w&i-long;g-bed."
+}

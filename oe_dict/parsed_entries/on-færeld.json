@@ -1,0 +1,39 @@
+{
+  "citation_form": "on-færeld",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An in-going, entrance",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gesáwon onfæreldu",
+          "latin": "viderunt ingressus",
+          "english": null,
+          "citations": "Ps. Spl. 67, 26"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "an-færeld",
+    "in-færeld"
+  ],
+  "source_text": [
+    "on-færeld, es; n. An in-going, entrance:--Gesáwon onfæreldu viderunt ingressus, Ps. Spl. 67, 26. v. an-, in-færeld."
+  ]
+}

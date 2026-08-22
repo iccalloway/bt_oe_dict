@@ -1,0 +1,124 @@
+{
+  "citation_form": "on-bregdan",
+  "variant_forms": [
+    "-brédan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "brægd",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-brǽd",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "brugdon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-brudon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "with dat. acc. (?), To move quickly",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Heáfde onbrygdeþ þriwa áscæceþ",
+          "latin": null,
+          "english": "the Phenix thrice moves its head (bowing to the sun; igniferum caput ter venerata)",
+          "citations": "Exon. Th. 207, 18; Ph. 143"
+        },
+        {
+          "old_english": "Onbrǽd recedes múþan raþe æfter ðon on flór treddode",
+          "latin": null,
+          "english": "Grendel opened the door violently and stepped on to the floor of the hall",
+          "citations": "Beo. Th. 1450; B. 723"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "brægd",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-brǽd",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "brugdon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-brudon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "intrans. To move (oneself) quickly, to start (from sleep)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá on morgne mid ðý hit dagode ðá onbrǽd ic",
+          "latin": "postero die matutino expergefactus diluculo",
+          "english": null,
+          "citations": "Nar. 30, 30: Bd. 3, 27; S. 559, 16"
+        },
+        {
+          "old_english": "Ðá onbrǽd Gúþlác of ðam slǽpe",
+          "latin": null,
+          "english": null,
+          "citations": "Guthl. 6; Gdwin. 42, 13"
+        },
+        {
+          "old_english": "Hé of slǽpe onbrægd",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 150; El. 75"
+        },
+        {
+          "old_english": "Swá hé of hefigum slǽpe onbrude",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 5, 19; S. 640, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "on-bregdan, -brédan; p. brægd, -brǽd, pl. brugdon, -brudon. I. with dat. acc. (?), To move quickly :-- Heáfde onbrygdeþ þriwa áscæceþ the Phenix thrice moves its head (bowing to the sun; igniferum caput ter venerata), Exon. Th. 207, 18; Ph. 143. Onbrǽd recedes múþan raþe æfter ðon on flór treddode Grendel opened the door violently and stepped on to the floor of the hall, Beo. Th. 1450; B. 723. II. intrans. To move (oneself) quickly, to start (from sleep) :-- Ðá on morgne mid ðý hit dagode ðá onbrǽd ic postero die matutino expergefactus diluculo, Nar. 30, 30: Bd. 3, 27; S. 559, 16. Ðá onbrǽd Gúþlác of ðam slǽpe, Guthl. 6; Gdwin. 42, 13. Hé of slǽpe onbrægd, Elen. Kmbl. 150; El. 75. Swá hé of hefigum slǽpe onbrude, Bd. 5, 19; S. 640, 27."
+  ]
+}

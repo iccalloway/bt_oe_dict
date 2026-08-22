@@ -1,0 +1,78 @@
+{
+  "citation_form": "gist",
+  "variant_forms": [
+    "gæst",
+    "gest",
+    "giest",
+    "gyst"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Take here gæst, gest, giest, gyst in Dict., and add",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gast",
+          "latin": "hospes",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 43, 37"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "a stranger",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gest ic wæs",
+              "latin": "hospes eram",
+              "english": null,
+              "citations": "Mt. L. 25, 36, 43, 44"
+            },
+            {
+              "old_english": "Ne aron gié gestas . . . ah gié aron burgwaro háligra",
+              "latin": "non estis hospites . . . sed estis cives sanctorum",
+              "english": null,
+              "citations": "Rtl. 82, 30"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "a guest, one who is entertained at another's house",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Si tertia nocte hospitatus fuerit . . . habeat eum ad rectum tanquam de propria familia, quod Anglice dicitur: 'Twá niht gest, þridde niht ágen héwe,'",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Lbmn. 648, 21"
+            },
+            {
+              "old_english": "Gystes",
+              "latin": "hospites",
+              "english": null,
+              "citations": "R. Ben. I. 94, 5"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "gist. Take here gæst, gest, giest, gyst in Dict., and add:--Gast hospes, Wrt. Voc. ii. 43, 37. I. a stranger:--Gest ic wæs hospes eram, Mt. L. 25, 36, 43, 44. Ne aron gié gestas . . . ah gié aron burgwaro háligra non estis hospites . . . sed estis cives sanctorum, Rtl. 82, 30. II. a guest, one who is entertained at another's house:--Si tertia nocte hospitatus fuerit . . . habeat eum ad rectum tanquam de propria familia, quod Anglice dicitur: 'Twá niht gest, þridde niht ágen héwe,' Ll. Lbmn. 648, 21. Gystes hospites, R. Ben. I. 94, 5."
+  ]
+}

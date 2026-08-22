@@ -1,0 +1,48 @@
+{
+  "citation_form": "slím",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "M. H. Ger. slím; m. : Ger. schleim : Du. slijm : Icel. slím; n.",
+      "meaning": "Slime, mud, mire",
+      "latin": "limus",
+      "quotations": [
+        {
+          "old_english": "Slím limus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 54, 14"
+        },
+        {
+          "old_english": "borbus, cena",
+          "latin": null,
+          "english": null,
+          "citations": "26, 53"
+        },
+        {
+          "old_english": "Áfæstnod ic eom on líme (slíme ? cf. Ps. 68, 3: I am festened in slime depenesse) grundes",
+          "latin": "infixus sum in limo pro-fundi",
+          "english": null,
+          "citations": "Ps. Spl. 68, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "slím. es; m. n. Slime, mud, mire :-- Slím limus, Wrt. Voc. ii. 54, 14: borbus, cena, 26, 53. Áfæstnod ic eom on líme (slíme ? cf. Ps. 68, 3: I am festened in slime depenesse) grundes infixus sum in limo pro-fundi, Ps. Spl. 68, 2. . [M. H. Ger. slím; m. : Ger. schleim : Du. slijm : Icel. slím; n.]"
+  ]
+}

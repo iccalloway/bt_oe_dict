@@ -1,0 +1,34 @@
+{
+  "citation_form": "ge-gearwungness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A preparation",
+      "latin": "præparātio",
+      "quotations": [
+        {
+          "old_english": "Gearcunga oððe gegearwungnessa heortan gehýrde",
+          "latin": "præparātio cordis audīvit",
+          "english": null,
+          "citations": "Ps. Lamb. second 9, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-gearwungness, e; f. A preparation; præpar&a-long;tio :-- Gearcunga oððe gegearwungnessa heortan gehýrde præpar&a-long;tio cordis aud&i-long;vit, Ps. Lamb. second 9, 17."
+}

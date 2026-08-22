@@ -1,0 +1,51 @@
+{
+  "english_lemma": "draw",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "draw.v.06",
+      "definition": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-wrítan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "sculpere, delineare",
+            "ferebant imaginem Domini Salvatoris in tabula depictam"
+          ],
+          "attestations": [
+            "Andr. Kmbl. 1451; An. 726",
+            "Bd. 1, 25; S. 487, 4"
+          ],
+          "quotations": [
+            {
+              "old_english": "Hí bǽron anlícnysse Hǽlendes on brede afægde and awritene",
+              "english": "they bore the Saviour's likeness figured and drawn on a board",
+              "citations": "Bd. 1, 25; S. 487, 4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "synset_id": "pull.v.01",
+      "definition": "cause to move by pulling",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-teáh",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Exon. 29 b; Th. 91, 19; Cri. 1494",
+            "Beo. Th. 1537; B. 766"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

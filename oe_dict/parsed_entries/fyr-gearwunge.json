@@ -1,0 +1,34 @@
+{
+  "citation_form": "fyr-gearwunge",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "pl. f.",
+            "case": "nominative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Fire-preparation, fuel",
+      "latin": "fōmes, focŭlāria",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 83"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fyr-gearwunge; pl. f. Fire-preparation, fuel; f&o-short;mes, foc&u-short;l&a-long;ria, Cot. 83."
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-pos",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Swá byð se ealda man ceald and snoflig; flegmata þ-bar; byð hráca oððe geposu, deriað þám ealdan",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 299, 36"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-pós. l. -pos, and add:--Swá byð se ealda man ceald and snoflig; flegmata þ-bar; byð hráca oððe geposu, deriað þám ealdan, Angl. viii. 299, 36."
+}

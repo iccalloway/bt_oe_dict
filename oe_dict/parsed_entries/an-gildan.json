@@ -1,0 +1,56 @@
+{
+  "citation_form": "an-gildan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-geald",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-guldon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-golden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To pay for, repay, atone for",
+      "latin": "rependere, pœnas dare",
+      "quotations": [
+        {
+          "old_english": "Sum sáre angeald ǽfen-reste",
+          "latin": null,
+          "english": "one sorely paid for his evening rest",
+          "citations": "Beo. Th. 2507; B. 1251"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 6, 23; Bos. 124, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "on-gildan"
+  ],
+  "source_text": [
+    "an-gildan; p. -geald, pl. -guldon; pp. -golden To pay for, repay, atone for; rependere, pœnas dare :-- Sum sáre angeald ǽfen-reste one sorely paid for his evening rest, Beo. Th. 2507; B. 1251: Ors. 6, 23; Bos. 124, 13. v. on-gildan."
+  ]
+}

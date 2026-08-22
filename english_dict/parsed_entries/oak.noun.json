@@ -1,0 +1,28 @@
+{
+  "english_lemma": "oak",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "oak.n.02",
+      "definition": "a deciduous tree of the genus Quercus; has acorns and lobed leaves",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "Baroc-scír",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [
+            "Barruc",
+            "Bearruc",
+            "Bearwucscíre"
+          ],
+          "latin_glosses": [],
+          "attestations": [
+            "Brompt. p. 801",
+            "Chr. 860; Th. 130, 3"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

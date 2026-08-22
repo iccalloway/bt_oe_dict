@@ -1,0 +1,54 @@
+{
+  "citation_form": "ge-líhtan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-líhte",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To alight, approach, come",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gelíht of his horse",
+          "latin": "desiliit ab equo suo",
+          "english": null,
+          "citations": "Gr. Dial. 1, 2"
+        },
+        {
+          "old_english": "Ðá gelíhte se cuma",
+          "latin": null,
+          "english": "then the stranger alighted",
+          "citations": "Homl. Th. ii. 134, 34"
+        },
+        {
+          "old_english": "He gelíhte to ðæm hearge",
+          "latin": "propiabat ad fanum",
+          "english": null,
+          "citations": "Bd. 2, 13; S. 517, 11"
+        },
+        {
+          "old_english": "Segde ðætte sealfa god wolde helwarum hám gelíhtan",
+          "latin": null,
+          "english": "said that God himself would come home to the dwellers in hell",
+          "citations": "Cd. 222; Th. 291, 16; Sat. 431"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-líhtan; p. -líhte To alight, approach, come :-- Gelíht of his horse desiliit ab equo suo, Gr. Dial. 1, 2. Ðá gelíhte se cuma then the stranger alighted, Homl. Th. ii. 134, 34. He gelíhte to ðæm hearge propiabat ad fanum, Bd. 2, 13; S. 517, 11. Segde ðætte sealfa god wolde helwarum hám gelíhtan said that God himself would come home to the dwellers in hell, Cd. 222; Th. 291, 16; Sat. 431."
+  ]
+}

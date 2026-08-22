@@ -1,0 +1,39 @@
+{
+  "citation_form": "hæg-sugga",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "See N. E. D. hay-sugge.",
+      "meaning": "A hedge-sparrow",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hægsugga. ficitula",
+          "latin": null,
+          "english": null,
+          "citations": "Hpt. 33, 241, 48"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hege-sugge",
+    "sucga"
+  ],
+  "source_text": [
+    "hæg-sugga, an ; m. A hedge-sparrow :-- Hægsugga. ficitula, Hpt. 33, 241, 48. [See N. E. D. hay-sugge.] v. hege-sugge, sucga."
+  ]
+}

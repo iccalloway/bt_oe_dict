@@ -1,0 +1,28 @@
+{
+  "citation_form": "on-tygness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the state of a person in respect to the frequency of the charges brought against him",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Be cirlisces monnes ontygnesse at ðiéfðe",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Lbmn. 22, 23. v. §37"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "on-tygness the state of a person in respect to the frequency of the charges brought against him :-- Be cirlisces monnes ontygnesse at ðiéfðe, Ll. Lbmn. 22, 23. v. §37."
+}

@@ -1,0 +1,38 @@
+{
+  "citation_form": "gaful-rǽden",
+  "variant_forms": [
+    "-rǽdenn"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A tax, tribute",
+      "latin": "census, tribūtum",
+      "quotations": [
+        {
+          "old_english": "Ða byre onguldon gafulrǽdenne the children paid the tax",
+          "latin": null,
+          "english": "the children paid the tax",
+          "citations": "Exon, 47 a; Th. 161, 16; Gú. 959 : 73 b; Th. 274, 7; Jul. 529 : Andr. Kmbl. 591; An. 296"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gafol-rǽden"
+  ],
+  "source_text": "gaful-rǽden, -rǽdenn, e; f. A tax, tribute; census, tr&i-short;b&u-long;tum :-- Ða byre onguldon gafulrǽdenne the children paid the tax, Exon, 47 a; Th. 161, 16; Gú. 959 : 73 b; Th. 274, 7; Jul. 529 : Andr. Kmbl. 591; An. 296. v. gafol-rǽden."
+}

@@ -1,0 +1,194 @@
+{
+  "citation_form": "ge-niþerian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to bring down, cast down, degrade, humiliate",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "a person or place occupying an exalted position",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Oft ðis andwearde líf úp áhefeð ðá yfelan, ac se tócyme ðǽre écan eádignesse hié geniðrað",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 389, 27"
+            },
+            {
+              "old_english": "Hierusalem áhéned bið &l-bar; gehniðrad bið (calcabitur) from hǽdnum",
+              "latin": null,
+              "english": null,
+              "citations": "Lk. L. 21, 24"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(1 a)",
+              "heading": null,
+              "meaning": "used of a thing",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gif h byð gesett þǽr hé standan ne mæg, þonne sceal man hine þus genyðerian",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Angl. viii. 333, 39"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "a person who exalts himself",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðú hié geniðrades, ðá hí hí selfe úp áhófon",
+              "latin": "dejecisti eos, dum allevarentur",
+              "english": null,
+              "citations": "Past. 391, 9"
+            },
+            {
+              "old_english": "For ðǽm wlite ðínra cræfta ðú wurde úp áhæfen, and ðonan ðú wyrst geniððrad",
+              "latin": "ex virtutum decore te elevas, ipsa tua pulchritudine impelleris, ut cadas",
+              "english": null,
+              "citations": "463, 22"
+            },
+            {
+              "old_english": "Éghuelc sé ðe hine áhebbað gehniðrad bið (humiliabitur)",
+              "latin": null,
+              "english": null,
+              "citations": "Lk. L. 14, 11"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(2 a)",
+              "heading": null,
+              "meaning": "the pride of a person",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hú God þá mǽstan ofermétto geniðerade",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ors. 2, 5; S. 84, 12"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to condemn",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nællað gié gehniðra (condemnare) þ-bar;te gié ne se gehniðrad",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. L. 6, 37"
+        },
+        {
+          "old_english": "Beón genyðered",
+          "latin": null,
+          "english": "condemnari",
+          "citations": "An. Ox. 2916"
+        },
+        {
+          "old_english": "Wæs geneþorod",
+          "latin": null,
+          "english": "damnatur",
+          "citations": "3769"
+        },
+        {
+          "old_english": "Manega unrihtlíce fram yflum démum genyþrode wǽron",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 30, 8"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": null,
+          "meaning": "to condemn to a punishment",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hig genyðeriað (geniðredon, L.) hyne tó deáðe",
+              "latin": "condemnabunt eum morte",
+              "english": null,
+              "citations": "Mt. 20, 18"
+            },
+            {
+              "old_english": "Hí hine deáþe genyþeriað (geniðriað tó deáðe, L. R.)",
+              "latin": "damnabunt eum morte",
+              "english": null,
+              "citations": "Mk. 10, 33"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II b.",
+          "heading": null,
+          "meaning": "to pass sentence(?)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þ-bar; ic on gefealle on þone genyðredan (-endan?) cwyde þæs sláwan þeówes (þeawas, MS.)",
+              "latin": null,
+              "english": "that I fall under the sentence passed on the slothful servant",
+              "citations": "Hml. S. 23 b, 14"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": "[O. H. Ger. genidaren prosternere, dejicere, humiliare, condemnare.]",
+      "meaning": "to accuse",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mið ðý (wæs) gewroeged &l-bar; geniðrad (accusaretur)",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. L. 27, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-niþerian. Add: I. to bring down, cast down, degrade, humiliate (1) a person or place occupying an exalted position:--Oft ðis andwearde líf úp áhefeð ðá yfelan, ac se tócyme ðǽre écan eádignesse hié geniðrað, Past. 389, 27. Hierusalem áhéned bið &l-bar; gehniðrad bið (calcabitur) from hǽdnum, Lk. L. 21, 24. (1 a) used of a thing:--Gif h byð gesett þǽr hé standan ne mæg, þonne sceal man hine þus genyðerian, Angl. viii. 333, 39. (2) a person who exalts himself:--Ðú hié geniðrades, ðá hí hí selfe úp áhófon dejecisti eos, dum allevarentur, Past. 391, 9. For ðǽm wlite ðínra cræfta ðú wurde úp áhæfen, and ðonan ðú wyrst geniððrad ex virtutum decore te elevas, ipsa tua pulchritudine impelleris, ut cadas, 463, 22. Éghuelc sé ðe hine áhebbað gehniðrad bið (humiliabitur), Lk. L. 14, 11. (2 a) the pride of a person:--Hú God þá mǽstan ofermétto geniðerade, Ors. 2, 5; S. 84, 12. II. to condemn:--Nællað gié gehniðra (condemnare) þ-bar;te gié ne se gehniðrad, Lk. L. 6, 37. Beón genyðered condemnari, An. Ox. 2916. Wæs geneþorod damnatur, 3769. Manega unrihtlíce fram yflum démum genyþrode wǽron, Hml. S. 30, 8. II a. to condemn to a punishment:--Hig genyðeriað (geniðredon, L.) hyne tó deáðe condemnabunt eum morte, Mt. 20, 18. Hí hine deáþe genyþeriað (geniðriað tó deáðe, L. R.) damnabunt eum morte, Mk. 10, 33. II b. to pass sentence(?):--Þ-bar; ic on gefealle on þone genyðredan (-endan?) cwyde þæs sláwan þeówes (þeawas, MS.) that I fall under the sentence passed on the slothful servant, Hml. S. 23 b, 14. III. to accuse:--Mið ðý (wæs) gewroeged &l-bar; geniðrad (accusaretur), Mt. L. 27, 12. [O. H. Ger. genidaren prosternere, dejicere, humiliare, condemnare.]"
+}

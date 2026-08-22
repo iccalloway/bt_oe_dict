@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-healden",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Satisfied",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Beó gehealden on ðínum gecynde ðonne hæfst ðú genóh",
+          "latin": null,
+          "english": "be satisfied in thy kind, then hast thou enough",
+          "citations": "Kmbl. Sal. 264, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gehealdan"
+  ],
+  "source_text": "ge-healden; part. p. Satisfied :-- Beó gehealden on ðínum gecynde ðonne hæfst ðú genóh be satisfied in thy kind, then hast thou enough, Kmbl. Sal. 264, 21. v. gehealdan."
+}

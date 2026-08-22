@@ -1,0 +1,74 @@
+{
+  "citation_form": "brún-wyrt",
+  "variant_forms": [
+    "brúne-wyrt"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "BROWNWORT or water-betony",
+      "latin": "scrofularia aquatica",
+      "quotations": [
+        {
+          "old_english": "Genim bánwyrt and brúnwyrt",
+          "latin": null,
+          "english": "take banewort and brownwort",
+          "citations": "L. M. 1, 25; Lchdm. ii. 66, 18"
+        },
+        {
+          "old_english": "Brúne wyrt",
+          "latin": null,
+          "english": null,
+          "citations": "1, 61; Lchdm. ii. 132, 7"
+        },
+        {
+          "old_english": "Genim brúne wyrt",
+          "latin": null,
+          "english": "take brownwort",
+          "citations": "2, 51; Lchdm. ii. 268, 9, 13: 1, 39; Lchdm. ii. 100, 5: 1, 48; Lchdm. ii. 122, 16"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "wood-betony or brownwort",
+      "latin": "scrofularia nodosa",
+      "quotations": [
+        {
+          "old_english": "[Genim] ða brúnan wyrt brádleáfan, sió weaxeþ on wuda",
+          "latin": null,
+          "english": "take the broad-leafed brownwort, which grows in woods",
+          "citations": "L. M. 1, 38; Lchdm. ii. 92, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "brún-wyrt, brúne-wyrt, e; f. I. BROWNWORT or water-betony; scrofularia aquatica :-- Genim bánwyrt and brúnwyrt take banewort and brownwort, L. M. 1, 25; Lchdm. ii. 66, 18. Brúne wyrt, 1, 61; Lchdm. ii. 132, 7. Genim brúne wyrt take brownwort, 2, 51; Lchdm. ii. 268, 9, 13: 1, 39; Lchdm. ii. 100, 5: 1, 48; Lchdm. ii. 122, 16. II. wood-betony or brownwort; scrofularia nodosa :-- [Genim] ða brúnan wyrt brádleáfan, sió weaxeþ on wuda take the broad-leafed brownwort, which grows in woods, L. M. 1, 38; Lchdm. ii. 92, 23."
+}

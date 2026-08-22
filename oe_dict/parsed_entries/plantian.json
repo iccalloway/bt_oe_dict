@@ -1,0 +1,61 @@
+{
+  "citation_form": "plantian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "literal",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Swá swá treów þ-bar; planted (plantatum) is wið ryne wætera",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Rdr. 1, 3"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "figurative",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þín hand plantade (plantavit) úre foregengan",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 43, 3"
+            },
+            {
+              "old_english": "Búton hé of his hiéremonna móde ðá ðornas ðǽre ídlan lufan ǽr úp átuge, unnyt hé plantode on hí ðá word ðǽre hálgan láre",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 443, 1"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "under-plantian"
+  ],
+  "source_text": [
+    "plantian. Add: (1) literal :-- Swá swá treów þ-bar; planted (plantatum) is wið ryne wætera, Ps. Rdr. 1, 3. (2) figurative :-- Þín hand plantade (plantavit) úre foregengan, Ps. Th. 43, 3. Búton hé of his hiéremonna móde ðá ðornas ðǽre ídlan lufan ǽr úp átuge, unnyt hé plantode on hí ðá word ðǽre hálgan láre, Past. 443, 1. v. under-plantian."
+  ]
+}

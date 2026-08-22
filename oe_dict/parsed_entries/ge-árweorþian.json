@@ -1,0 +1,54 @@
+{
+  "citation_form": "ge-árweorþian",
+  "variant_forms": [
+    "-árwurþian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To honour",
+      "latin": "honorificāre",
+      "quotations": [
+        {
+          "old_english": "Me swíðe geárweorþede syndon freónd ðíne",
+          "latin": "mihi nimis honorificāti sunt amīci tui",
+          "english": null,
+          "citations": "Ps. Lamb. 138, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-árweorþian, -árwurþian; p. ode, ede; pp. od, ed To honour; honor&i-short;f&i-short;c&a-long;re :-- Me swíðe geárweorþede syndon freónd ðíne mihi n&i-short;mis honor&i-short;f&i-short;c&a-long;ti sunt am&i-long;ci tui, Ps. Lamb. 138, 17."
+}

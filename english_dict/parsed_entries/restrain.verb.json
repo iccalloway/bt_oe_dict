@@ -1,0 +1,25 @@
+{
+  "english_lemma": "restrain",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "restrain.v.04",
+      "definition": "hold back",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-nýdan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "repellere, extorquere"
+          ],
+          "attestations": [
+            "Chr. 823; Th. 111, 34"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

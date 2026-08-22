@@ -1,0 +1,59 @@
+{
+  "citation_form": "þeófian",
+  "variant_forms": [
+    "þeófan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. thaz sie mit stalu nan nirzuken noh inan thar githiuben, Or. iv. 36, 12.",
+      "meaning": "to thieve, steal",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se ðe ða áre þænce tó þeófigenne",
+          "latin": "qui quid illinc abstulerit",
+          "english": null,
+          "citations": "Chart. Th. 177, 13"
+        },
+        {
+          "old_english": "Ðiófende weteru stolen waters",
+          "latin": "aque furtive",
+          "english": "stolen waters",
+          "citations": "Kent. Gl. 309"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ne willað gé nú leng þeófian ne yfeldón ... geswícað fram ðám þweoran þǽre þýfðe",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 202, 9-13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-þeófian"
+  ],
+  "source_text": [
+    "þeófian (and þeófan? The Lindisfarne gloss has ðæt ðú ne forstele &l-bar; ne forðiófe, Mk. 10, 19; the Kentish Glossary, diófende furtivus; but this might imply the form ðiófian, cf. tácnendi and tácnian: cf. also, for both force and form of the participle styrende agitatam, Mt. Kmbl. Lind. 11, 7) to thieve, steal :-- Se ðe ða áre þænce tó þeófigenne qui quid illinc abstulerit, Chart. Th. 177, 13. Ðiófende weteru stolen waters; aque furtive, Kent. Gl. 309. [O. H. Ger. thaz sie mit stalu nan nirzuken noh inan thar githiuben, Or. iv. 36, 12.] v. ge-þeófian.",
+    "þeófian. Add :-- Ne willað gé nú leng þeófian ne yfeldón ... geswícað fram ðám þweoran þǽre þýfðe, Gr. D. 202, 9-13."
+  ]
+}

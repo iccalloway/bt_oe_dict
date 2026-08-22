@@ -1,0 +1,54 @@
+{
+  "citation_form": "æt-wítan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-wát",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-witon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-witen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To reproach, blame, upbraid",
+      "latin": "imputare, improperare, exprobrare",
+      "quotations": [
+        {
+          "old_english": "Ne sceolon me on ðære þeóde þegenas ætwítan",
+          "latin": null,
+          "english": "the thanes of this people shall not reproach me",
+          "citations": "Byrht. Th. 138, 15; By. 220"
+        },
+        {
+          "old_english": "Siððan Gúþláf and ósláf ætwiton weána dǽl",
+          "latin": null,
+          "english": "since Guthlaf and Oslaf reproached him for a part of their woes",
+          "citations": "Beo. Th. 2304; B. 1150: Ps. Th. 88, 44: 73, 17: Ps. Spl. 31, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "edwitan"
+  ],
+  "source_text": "æt-wítan; p. -wát, pl. -witon; pp. -witen To reproach, blame, upbraid; imputare, improperare, exprobrare :-- Ne sceolon me on ðære þeóde þegenas ætwítan the thanes of this people shall not reproach me. Byrht. Th. 138, 15; By. 220. Siððan Gúþláf and ósláf ætwiton weána dǽl since Guthlaf and Oslaf reproached him for a part of their woes. Beo. Th. 2304; B. 1150: Ps. Th. 88, 44: 73, 17: Ps. Spl. 31, 2. v. edwitan."
+}

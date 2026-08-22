@@ -1,0 +1,52 @@
+{
+  "citation_form": "ge-ceówan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-ceáw",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-cuwon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-cowen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "ceówan to chew",
+      "meaning": "To chew",
+      "latin": "rūmināre",
+      "quotations": [
+        {
+          "old_english": "Sume dweorgedwostlan geceówaþ",
+          "latin": null,
+          "english": "some chew pennyroyal",
+          "citations": "L. M. 2, 32; Lchdm. ii. 236, 11"
+        },
+        {
+          "old_english": "Lege dweorgedwostlan gecowene on ðone nafolan",
+          "latin": null,
+          "english": "lay chewed pennyroyal on the navel",
+          "citations": "2, 30; Lchdm. ii. 228, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-ceówan; p. -ceáw, pl. -cuwon; pp. -cowen [ceówan to chew] To chew; r&u-long;m&i-short;n&a-long;re :-- Sume dweorgedwostlan geceówaþ some chew pennyroyal, L. M. 2, 32; Lchdm. ii. 236, 11. Lege dweorgedwostlan gecowene on ðone nafolan lay chewed pennyroyal on the navel, 2, 30; Lchdm. ii. 228, 20."
+}

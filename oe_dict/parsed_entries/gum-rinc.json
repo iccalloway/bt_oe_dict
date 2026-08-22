@@ -1,0 +1,40 @@
+{
+  "citation_form": "gum-rinc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A man",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gódlíc gumrinc a goodly man",
+          "latin": null,
+          "english": "a goodly man",
+          "citations": "Exon. 129a; Th. 495, 7; Rä. 84, 4"
+        },
+        {
+          "old_english": "Dysiges folces gumrinca gyden a goddess of the foolish people, of men",
+          "latin": null,
+          "english": "a goddess of the foolish people, of men",
+          "citations": "Bt. Met. Fox 26, 105; Met. 26, 53: Cd. 75; Th. 93, 27; Gen. 1552"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "gum-rinc, es; m. A man :-- Gódlíc gumrinc a goodly man, Exon. 129a; Th. 495, 7; Rä. 84, 4. Dysiges folces gumrinca gyden a goddess of the foolish people, of men, Bt. Met. Fox 26, 105; Met. 26, 53: Cd. 75; Th. 93, 27; Gen. 1552."
+}

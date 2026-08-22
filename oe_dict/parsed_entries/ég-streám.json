@@ -1,0 +1,44 @@
+{
+  "citation_form": "ég-streám",
+  "variant_forms": [
+    "éh-streám"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A water-stream, a river, the sea",
+      "latin": "aquæ fluctus, fl&u-long;men, m&a-short;re",
+      "quotations": [
+        {
+          "old_english": "Hæfde Metod égstreám eft gecyrred",
+          "latin": null,
+          "english": "the just Creator had averted the stream",
+          "citations": "Cd. 71; Th. 85, 15; Gen. 1415"
+        },
+        {
+          "old_english": "Here wícode égstreáme neáh",
+          "latin": null,
+          "english": "the host encamped near the river",
+          "citations": "Elen. Kmbl. 132; El. 66: Beo. Th. 1158; B. 577"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "eá-streám"
+  ],
+  "source_text": "ég-streám, éh-streám, es; m. A water-stream, a river, the sea; aquæ fluctus, fl&u-long;men, m&a-short;re :-- Hæfde Metod égstreám eft gecyrred the just Creator had averted the stream, Cd. 71; Th. 85, 15; Gen. 1415. Here wícode égstreáme neáh the host encamped near the river, Elen. Kmbl. 132; El. 66: Beo. Th. 1158; B. 577. v. eá-streám."
+}

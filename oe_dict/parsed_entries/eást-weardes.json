@@ -1,0 +1,60 @@
+{
+  "citation_form": "eást-weardes",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Eastwards",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "of direction",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Án scínende weg mid rihte stige eástweardes wæs áþæned tó heofonum",
+              "latin": null,
+              "english": null,
+              "citations": "Gr. D. 176, 2"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "of position",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé oðstód eástweardes wendende",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 33 b, 162"
+            },
+            {
+              "old_english": "Hé geseah þæs wífes líchaman orsáwle licgende, and þá handa . . . eástweardes gewende",
+              "latin": null,
+              "english": null,
+              "citations": "743"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "eást-weard"
+  ],
+  "source_text": [
+    "eást-weardes; adv. Eastwards. (1) of direction:--Án scínende weg mid rihte stige eástweardes wæs áþæned tó heofonum, Gr. D. 176, 2. (2) of position:--Hé oðstód eástweardes wendende, Hml. S. 33 b, 162. Hé geseah þæs wífes líchaman orsáwle licgende, and þá handa . . . eástweardes gewende, 743. v. preceding word."
+  ]
+}

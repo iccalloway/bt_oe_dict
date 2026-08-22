@@ -1,0 +1,28 @@
+{
+  "citation_form": "Baningas",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The Banings, people mentioned in the Gleeman's tale",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Becca weóld Baningum",
+          "latin": null,
+          "english": "Becca ruled the Banings",
+          "citations": "Scóp Th. 39; Wíd. 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Baningas; pl. m. The Banings, people mentioned in the Gleeman's tale :-- Becca weóld Baningum Becca ruled the Banings, Scóp Th. 39; Wíd. 19."
+}

@@ -1,0 +1,30 @@
+{
+  "citation_form": "god-módor",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Godmódra matrenas",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 57, 69"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "god-módor. Add :-- Godmódra matrenas, Wrt. Voc. ii. 57, 69."
+  ]
+}

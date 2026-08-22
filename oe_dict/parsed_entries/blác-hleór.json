@@ -1,0 +1,32 @@
+{
+  "citation_form": "blác-hleór",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "blác II. pale, hleór a face, cheek",
+      "meaning": "Having a pale face, pale-faced, fair",
+      "latin": "pallidus vel candidus genis",
+      "quotations": [
+        {
+          "old_english": "Sceolde monig bláchleór ides bifiende gán",
+          "latin": null,
+          "english": "many a pale-faced damsel must trembling go",
+          "citations": "Cd. 92; Th. 118, 23-25; Gen. 1969, 1970"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Judth. 11; Thw. 23, 18; Jud. 128"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "blác-hleór; adj. [blác II. pale, hleór a face, cheek] Having a pale face, pale-faced, fair; pallidus vel candidus genis :-- Sceolde monig bláchleór ides bifiende gán many a pale-faced damsel must trembling go, Cd. 92; Th. 118, 23-25; Gen. 1969, 1970: Judth. 11; Thw. 23, 18; Jud. 128."
+}

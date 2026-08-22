@@ -1,0 +1,35 @@
+{
+  "english_lemma": "invent",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "invent.v.01",
+      "definition": "come up with (an idea, plan, explanation, theory, or principle) after a mental effort",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hycgan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [
+            "-hicgan"
+          ],
+          "latin_glosses": [
+            "excogitare, perscrutari, invenire"
+          ],
+          "attestations": [
+            "Exon. 21 a; Th. 56, 20; Cri. 903",
+            "Cd. 94; Th. 122, 24; Gen. 2031: 178; Th. 224, 3; Dan. 130",
+            "Exon. 92 a; Th. 346, 9; Gn. Ex. 202"
+          ],
+          "quotations": [
+            {
+              "old_english": "Hie ahogodan heoro",
+              "english": "they invented the sword",
+              "citations": "Exon. 92 a; Th. 346, 9; Gn. Ex. 202"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

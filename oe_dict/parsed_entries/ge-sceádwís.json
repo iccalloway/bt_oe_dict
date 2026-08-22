@@ -1,0 +1,40 @@
+{
+  "citation_form": "ge-sceádwís",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Reasonable, rational, discriminating, intelligent, prudent, cautious",
+      "latin": "rationalis",
+      "quotations": [
+        {
+          "old_english": "God gesceóp twá gesceádwísan gesceafta",
+          "latin": null,
+          "english": "God created two rational creatures",
+          "citations": "Bt. 41, 2; Fox 244, 30: 42, 1; Fox 256, 9"
+        },
+        {
+          "old_english": "Æ-acute;lce dǽde sceal gesceádwís déma wíslíce tosceádan hú heó gedón sí and hwǽr and hwænne",
+          "latin": null,
+          "english": "in each deed an intelligent judge must distinguish how it be done, and where and when",
+          "citations": "L. de Cf; Th. ii. 260, 27: Past. 21; Swt. 151, 6: Bt. Met. Fox 15, 27; Met. 15, 14"
+        },
+        {
+          "old_english": "Mid gesceádwísum mægne",
+          "latin": null,
+          "english": "with intelligent power",
+          "citations": "20, 16; Met. 20, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-sceádwís; adj. Reasonable, rational, discriminating, intelligent, prudent, cautious; rationalis :-- God gesceóp twá gesceádwísan gesceafta God created two rational creatures, Bt. 41, 2; Fox 244, 30: 42, 1; Fox 256, 9. Æ-acute;lce dǽde sceal gesceádwís déma wíslíce tosceádan hú heó gedón sí and hwǽr and hwænne in each deed an intelligent judge must distinguish how it be done, and where and when, L. de Cf; Th. ii. 260, 27: Past. 21; Swt. 151, 6: Bt. Met. Fox 15, 27; Met. 15, 14. Mid gesceádwísum mægne with intelligent power, 20, 16; Met. 20, 8."
+  ]
+}

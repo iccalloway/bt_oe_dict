@@ -1,0 +1,27 @@
+{
+  "citation_form": "ymb-habban",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to detain, hold",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Unwís on flǽslicum byð emhæfed",
+          "latin": "insipiens in carnalibus detinetur",
+          "english": null,
+          "citations": "Scint. 168, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ymb-habban. Add: to detain, hold :-- Unwís on flǽslicum byð emhæfed insipiens in carnalibus detinetur, Scint. 168, 18."
+}

@@ -1,0 +1,36 @@
+{
+  "citation_form": "ge-nefa",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A nephew",
+      "latin": "nepos",
+      "quotations": [
+        {
+          "old_english": "Caius his [Agustuses] genefa nolde gebiddan to ðam ælmihtigum Gode",
+          "latin": null,
+          "english": "Caius his [Augustus's] nephew would not worship the almighty God",
+          "citations": "Ors. 6, 1; Bos. 116, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-nefa, an; m. A nephew; nepos :-- Caius his [Agustuses] genefa nolde gebiddan to ðam ælmihtigum Gode Caius his [Augustus's] nephew would not worship the almighty God, Ors. 6, 1; Bos. 116, 18."
+  ]
+}

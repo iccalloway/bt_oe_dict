@@ -1,0 +1,23 @@
+{
+  "english_lemma": "crime",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "crime.n.02",
+      "definition": "an evil act not necessarily punishable by law",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "LEAHTER",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "vitium"
+          ],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

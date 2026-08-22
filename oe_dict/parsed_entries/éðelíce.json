@@ -1,0 +1,34 @@
+{
+  "citation_form": "éðelíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Easily",
+      "latin": "faciliter",
+      "quotations": [
+        {
+          "old_english": "Ðú eall þing birest éðelíce búton geswince",
+          "latin": null,
+          "english": "thou bearest all things easily without labour",
+          "citations": "Bt. Met. Fox 20, 552; Met. 20, 276"
+        },
+        {
+          "old_english": "Ðæt ðú mǽge cumon éðelícost",
+          "latin": null,
+          "english": "that thou mayest most easily come",
+          "citations": "Bt. 41, 5; Fox 254, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "eáðelíce"
+  ],
+  "source_text": "éðelíce; adv. Easily; fac&i-short;l&i-short;ter:-- Ðú eall þing birest éðelíce búton geswince thou bearest all things easily without labour, Bt. Met. Fox 20, 552; Met. 20, 276. Ðæt ðú mǽge cumon éðelícost that thou mayest most easily come, Bt. 41, 5; Fox 254, 17. v. eáðelíce."
+}

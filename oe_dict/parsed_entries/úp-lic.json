@@ -1,0 +1,56 @@
+{
+  "citation_form": "úp-lic",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(l)",
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se deáð is for þám úplic; þeáh se man ástíge ofer þone yfemystan dǽl þæs hýhstan holtes, swáþeáhhwzðere hiene se deáð geséceð",
+              "latin": null,
+              "english": null,
+              "citations": "Verc. Först. 103, 13"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On úplicere gesihde",
+              "latin": "in oromate, i. uisione superna",
+              "english": null,
+              "citations": "An. Ox. 404"
+            },
+            {
+              "old_english": "Tó þám úplican lífe",
+              "latin": "ad superos",
+              "english": null,
+              "citations": "2214"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "úp-lic. I. add; (l) :-- Se deáð is for þám úplic; þeáh se man ástíge ofer þone yfemystan dǽl þæs hýhstan holtes, swáþeáhhwzðere hiene se deáð geséceð, Verc. Först. 103, 13. (2) :-- On úplicere gesihde in oromate, i. uisione superna, An. Ox. 404. Tó þám úplican lífe ad superos, 2214."
+}

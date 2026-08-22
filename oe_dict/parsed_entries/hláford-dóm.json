@@ -1,0 +1,43 @@
+{
+  "citation_form": "hláford-dóm",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Orm. laferrd-dom.",
+      "meaning": "Dominion, lordship",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "For Godes ege under ðæm geoke his hláforddómes þurhwunigen and hine for Godes ege weorþigen, suá mon hláford sceal",
+          "latin": "divino timore constricti ferre sub eis jugum reverentiæ non recusent",
+          "english": null,
+          "citations": "Past. 28, 5; Swt. 197, 8"
+        },
+        {
+          "old_english": "Se ðe on láreówes onlícnesse ða þénenga dæs ealdordómes gecierþ tó hláforddóme",
+          "latin": "qui ex simulatione disciplinæ ministerium regiminis vertit in usum dominationis",
+          "english": null,
+          "citations": "17, 9; Swt. 121, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hláford-dóm, es; m. Dominion, lordship :-- For Godes ege under ðæm geoke his hláforddómes þurhwunigen and hine for Godes ege weorþigen, suá mon hláford sceal divino timore constricti ferre sub eis jugum reverentiæ non recusent, Past. 28, 5; Swt. 197, 8. Se ðe on láreówes onlícnesse ða þénenga dæs ealdordómes gecierþ tó hláforddóme qui ex simulatione disciplinæ ministerium regiminis vertit in usum dominationis, 17, 9; Swt. 121, 24. [Orm. laferrd-dom.]",
+    "HLÁF-GEBRECE -- HLÁFORD-DÓM 549"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "citation_form": "fóre-sceáwere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A foreshewer, foreseer",
+      "latin": "prævisor",
+      "quotations": [
+        {
+          "old_english": "Consid. ætātum lunæ in modo genitis",
+          "latin": null,
+          "english": null,
+          "citations": "Lye"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fóre-sceáwere, es; m. A foreshewer, foreseer; præv&i-long;sor, Consid. æt&a-long;tum lunæ in m&o-short;do g&e-short;n&i-short;tis, Lye."
+}

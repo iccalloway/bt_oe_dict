@@ -1,0 +1,206 @@
+{
+  "citation_form": "bán",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Bán os",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 44, 22: 70, 46"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "bone",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þú eart mín bán and mín flǽsc",
+          "latin": null,
+          "english": null,
+          "citations": "Gen. 29, 14: Ps. Th. 138, 13"
+        },
+        {
+          "old_english": "Ne bán ne blód",
+          "latin": null,
+          "english": null,
+          "citations": "Dóm. 40"
+        },
+        {
+          "old_english": "Þæt gafol bið on hwales báne",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 1, 1; S. 18, 17"
+        },
+        {
+          "old_english": "Hié habbað swíþe æþele bán on hiora tóþum",
+          "latin": null,
+          "english": null,
+          "citations": "17, 36"
+        },
+        {
+          "old_english": "Hrepa his bán and his flǽsc",
+          "latin": "tange os ejus et carnem",
+          "english": null,
+          "citations": "Hml. Th. ii. 452, 19: Ph. 221"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I a.",
+          "heading": "of other hard material",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sió ecg gewác on báne (the hide of the firedrake)",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2578"
+            },
+            {
+              "old_english": "Wæter wearð tó báne (ice)",
+              "latin": null,
+              "english": null,
+              "citations": "Rä. 68, 3"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a bone",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Bánes byrst",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 108, 18: Gú. 670"
+        },
+        {
+          "old_english": "Gíf man findeð án bán unforbærned",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 1, 1; S. 21, 12"
+        },
+        {
+          "old_english": "Gif hwá mid his fét ofstepð ǽttrig bán snacan oððe nǽddran",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. i. 152, 2"
+        },
+        {
+          "old_english": "Hwǽr sint nú þæs Wélondes bán?",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 19; F. 70, 5"
+        },
+        {
+          "old_english": "Ne synu ne bán lágon",
+          "latin": null,
+          "english": null,
+          "citations": "An. 1421"
+        },
+        {
+          "old_english": "Þá gebrocenan bán",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. C. 81: Hy. 7, 88"
+        },
+        {
+          "old_english": "Bána ossuum",
+          "latin": "ossuum",
+          "english": null,
+          "citations": "Kent. Gl. 571: Ph. 575"
+        },
+        {
+          "old_english": "Manna bán",
+          "latin": "ossa hominum",
+          "english": null,
+          "citations": "Ps. Th. 52, 6"
+        },
+        {
+          "old_english": "Bánu handlian",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. iii. 208, 24"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": "the bone of a limb, a leg or arm",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Bán weornedon",
+              "latin": null,
+              "english": "their limbs failed them",
+              "citations": "Sat. 468"
+            },
+            {
+              "old_english": "Bána coxarum",
+              "latin": "coxarum",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 17, 66: 75, 27"
+            },
+            {
+              "old_english": "Wǽron þá bendas forburnene, þá him on bánum lágon",
+              "latin": null,
+              "english": null,
+              "citations": "Dan. 435"
+            },
+            {
+              "old_english": "Fýrdraca heals ealne ymbeféng biteran bánum",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2692"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "heáfod-bán",
+    "hleór-bán",
+    "hring-bán",
+    "scin-bán",
+    "sweor-bán",
+    "wiþo-bán",
+    "bán-beorg",
+    "bán-gebeorg",
+    "bán-rift"
+  ],
+  "source_text": "bán. Add:--Bán os. Wrt. Voc. i. 44, 22: 70, 46. I. bone:--Þú eart mín bán and mín flǽsc, Gen. 29, 14: Ps. Th. 138, 13. Ne bán ne blód, Dóm. 40. Þæt gafol bið on hwales báne, Ors. 1, 1; S. 18, 17. Hié habbað swíþe æþele bán on hiora tóþum, 17, 36. Hrepa his bán and his flǽsc tange os ejus et carnem, Hml. Th. ii. 452, 19: Ph. 221. I a. of other hard material:--Sió ecg gewác on báne (the hide of the firedrake), B. 2578. Wæter wearð tó báne (ice), Rä. 68, 3. II. a bone:--Bánes byrst, Ps. Th. 108, 18: Gú. 670. Gíf man findeð án bán unforbærned, Ors. 1, 1; S. 21, 12. Gif hwá mid his fét ofstepð ǽttrig bán snacan oððe nǽddran, Lch. i. 152, 2. Hwǽr sint nú þæs Wélondes bán?, Bt. 19; F. 70, 5. Ne synu ne bán lágon, An. 1421. Þá gebrocenan bán, Ps. C. 81: Hy. 7, 88. Bána ossuum, Kent. Gl. 571: Ph. 575. Manna bán ossa hominum, Ps. Th. 52, 6. Bánu handlian, Lch. iii. 208, 24. II a. the bone of a limb, a leg or arm. v. bán-beorg, -gebeorg, -rift:--Bán weornedon their limbs failed them, Sat. 468. Bána coxarum, Wrt. Voc. ii. 17, 66: 75, 27. Wǽron þá bendas forburnene, þá him on bánum lágon, Dan. 435. Fýrdraca heals ealne ymbeféng biteran bánum, B. 2692. v. heáfod-, hleór-, hring-, scin-, sweor-, wiþo- (not wído) -bán."
+}

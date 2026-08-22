@@ -6,6 +6,7 @@ __pycache__/
 environment.env
 .venv/
 venv/
-bt_text.txt
-parsed/
+./resources/bt_text.txt
+./english_dict/parsed_entries/
+./oe_dict/parsed_entries/
 

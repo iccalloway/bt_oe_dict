@@ -1,0 +1,38 @@
+{
+  "citation_form": "bleó-fág",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Bleófáh uersicolor",
+          "latin": "uersicolor",
+          "english": null,
+          "citations": "An. Ox. 521"
+        },
+        {
+          "old_english": "On þysne mislecan ymbhwyrft and bleófágan in orbem",
+          "latin": "in orbem",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 48, 59"
+        },
+        {
+          "old_english": "Bleófáge multicolora",
+          "latin": "multicolora",
+          "english": null,
+          "citations": "Germ. 390, 104"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "bleó-fág. Add :-- Bleófáh uersicolor, An. Ox. 521. On þysne mislecan ymbhwyrft and bleófágan in orbem, Wrt. Voc. ii. 48, 59. Bleófáge multicolora, Germ. 390, 104."
+}

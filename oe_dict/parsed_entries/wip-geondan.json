@@ -1,0 +1,27 @@
+{
+  "citation_form": "wip-geondan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "preposition",
+        "governs": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Beyond",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eal ðæt ríce wiðgeondan Iordanen",
+          "latin": "omnis regio circum Iordanen",
+          "english": null,
+          "citations": "Mt. Kmbl. 3, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "wip-geondan; prep. Beyond:--Eal ðæt ríce wiðgeondan Iordanen omnis regio circum Iordanen, Mt. Kmbl. 3, 5."
+}

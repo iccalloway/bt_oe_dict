@@ -1,0 +1,36 @@
+{
+  "citation_form": "beór-scealc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A beer-server, a butler",
+      "latin": "cerevisiæ minister",
+      "quotations": [
+        {
+          "old_english": "Beórscealca sum",
+          "latin": null,
+          "english": "some one of the beer-servers",
+          "citations": "Beo. Th. 2485; B. 1240"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "beór-scealc, es; m. A beer-server, a butler; cerevisiæ minister :-- Beórscealca sum some one of the beer-servers, Beo. Th. 2485; B. 1240."
+  ]
+}

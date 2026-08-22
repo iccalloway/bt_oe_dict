@@ -1,0 +1,52 @@
+{
+  "citation_form": "þider",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá hét hé hí bídan on þám eálande, ... and hé ðider heora þearfe forgeaf",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 1. 25; Sch. 53, 2"
+        },
+        {
+          "old_english": "Hit gebyreð rihtor intó West-Sexan; þyder hý scylan gafol syllan",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 356, 19"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Far nú þider þe (swá hwider swá, v.l.) þú wille",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 25, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "þider. I. add :-- Ðá hét hé hí bídan on þám eálande, ... and hé ðider heora þearfe forgeaf, Bd. 1. 25; Sch. 53, 2. Hit gebyreð rihtor intó West-Sexan; þyder hý scylan gafol syllan, Ll. Th. i. 356, 19. II. add :-- Far nú þider þe (swá hwider swá, v.l.) þú wille, Gr. D. 25, 1."
+  ]
+}

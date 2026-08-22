@@ -1,0 +1,28 @@
+{
+  "citation_form": "orcen",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Cf. (?) Icel. orkn (örkn) a kind of seal.",
+      "meaning": "a sea-monster",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðanon untydras ealle onwócon, eotenas and ylfe and orcneas [orcenas (?). Grein reads orc-néas, with which compare orc-þyrs under orc] swylce gigantas",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 225; B. 112"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "orcen (?) a sea-monster :-- Ðanon untydras ealle onwócon, eotenas and ylfe and orcneas [orcenas (?). Grein reads orc-néas, with which compare orc-þyrs under orc] swylce gigantas, Beo. Th. 225; B. 112. [Cf. (?) Icel. orkn (örkn) a kind of seal.]"
+}

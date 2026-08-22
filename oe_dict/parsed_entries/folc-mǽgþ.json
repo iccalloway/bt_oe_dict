@@ -1,0 +1,34 @@
+{
+  "citation_form": "folc-mǽgþ",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A nation-tribe, tribe",
+      "latin": "nátio, tríbus",
+      "quotations": [
+        {
+          "old_english": "Folc-mægþa of nation-tribes",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. 64; Th. 77, 18; Gen. 1277"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "folc-mǽgþ, e; f. A nation-tribe, tribe; n&a-long;tio, tr&i-short;bus :-- Folc-mægþa of nation-tribes, Cd. 64; Th. 77, 18; Gen. 1277."
+}

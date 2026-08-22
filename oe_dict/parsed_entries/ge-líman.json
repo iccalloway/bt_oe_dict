@@ -1,0 +1,53 @@
+{
+  "citation_form": "ge-líman",
+  "variant_forms": [
+    "-límian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. ge-límen conglutinare: Icel. líma to glue.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé (the conjunction) gelímað þá word",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. Z. 258, 12"
+        },
+        {
+          "old_english": "Gelímed",
+          "latin": "conglutinata",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 104, 69: 133, 36"
+        },
+        {
+          "old_english": "Tósomne gelímed",
+          "latin": "glutinatum",
+          "english": null,
+          "citations": "40, 26"
+        },
+        {
+          "old_english": "Fugellíme gelímedne",
+          "latin": "visco glutinatam",
+          "english": null,
+          "citations": "81, 57: An. Ox. 3016"
+        },
+        {
+          "old_english": "Gelímedre",
+          "latin": "conglutinatae",
+          "english": null,
+          "citations": "9, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-líman. Add:, -límian :-- Hé (the conjunction) gelímað þá word, Ælfc. Gr. Z. 258, 12. Gelímed conglutinata. Wrt. Voc. ii. 104, 69: 133, 36. Tósomne gelímed glutinatum, 40, 26. Fugellíme gelímedne visco glutinatam, 81, 57: An. Ox. 3016. Gelímedre conglutinatae, 9, 6. [O. H. Ger. ge-límen conglutinare: Icel. líma to glue.]"
+}

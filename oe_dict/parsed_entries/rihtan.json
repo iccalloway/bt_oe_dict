@@ -1,0 +1,153 @@
+{
+  "citation_form": "rihtan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to right, to restore to a proper position that which is displaced, erect, direct",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé mid handum eft on heofonríce rihte rodorstólas",
+          "latin": null,
+          "english": "he (God) with his hands again in the heavenly kingdom restored the celestial seats (after the expulsion of the rebellious angels)",
+          "citations": "Cd. Th. 46, 24; Gen. 749"
+        },
+        {
+          "old_english": "Tó rehtanne foet úsra in woege sibbe",
+          "latin": "ad dirigendos pedes nostros in uia pacis",
+          "english": null,
+          "citations": "Lk. Skt. Rush. 1, 79"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to right a person, to replace a person in the rights of which he is wrongfully deprived",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Heó smeádan hú heó mehton monige men ryhtan, ge godcundra háda ge weorldcundra, ge on londum ge on má ðara þinga ðe heó on forhaldne wéran",
+          "latin": null,
+          "english": null,
+          "citations": "Chart. Th. 139, 25"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "to make right that which is faulty, set right, rectify, correct, amend",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ne séce ic nó ða béc, ac ðæt ðæt ða béc forstent, ðæt ic ðín gewit swíðe rihte",
+          "latin": null,
+          "english": "that I may set thy mind thoroughly right",
+          "citations": "Bt. 5, 1; Fox 10, 20"
+        },
+        {
+          "old_english": "Sume déman myccle swíðor rihtaþ Godes folc ðonne hié reáfan earme. Ða déman beóþ ǽghwǽr ge ðæt hié him selfum heora synna bebeorgaþ ge eác óðre syngiende rihtaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 63, 16-25"
+        },
+        {
+          "old_english": "Wé boetas &l-bar; wé hrihð",
+          "latin": "corrigimus",
+          "english": null,
+          "citations": "Mt. Kmbl. p. 2, 2"
+        },
+        {
+          "old_english": "Se wísdóm hine réte and rihte mid his andsworum",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. tit. 5; Fox x, 9"
+        },
+        {
+          "old_english": "Gemeta and gewihta rihte man georne",
+          "latin": null,
+          "english": "let weights and measures be made correct with all diligence",
+          "citations": "L. C. S. 9; Th. i. 380, 24"
+        },
+        {
+          "old_english": "Ælþeódige mæn, gif hió hiora hǽmed rihtan (amend) nyllaþ, of lande gewíten",
+          "latin": null,
+          "english": null,
+          "citations": "L. Wih. 4; Th. i. 38, 1"
+        },
+        {
+          "old_english": "Tó rihtanne &l-bar; tó boetanne",
+          "latin": "emendasse",
+          "english": null,
+          "citations": "Mt. Kmbl. p. 2, 12"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "IV.",
+      "supplemental": "[Goth. ga-raihtjan : O. Sax. rihtian to erect, to rule : O. Frs. riuchta : O. H. Ger. rihtan erigere, corrigere, dirigere, ordinare, regere : Icel. rétta to right.]",
+      "meaning": "to keep right, direct, rule",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Angelþeóde ðe hé rihte",
+          "latin": "gens Anglorum quam regebat",
+          "english": null,
+          "citations": "Bd. 3, 3; S. 525, 29"
+        },
+        {
+          "old_english": "Hé ða circan heóld and rihte",
+          "latin": "rexit ecclesiam",
+          "english": null,
+          "citations": "3, 20; S. 550, 32 : 1, 23; S. 485, 23"
+        },
+        {
+          "old_english": "Ða sylfan stówe ðe Eata mid abbudes onwalde heóld and rihte (regebat)",
+          "latin": null,
+          "english": null,
+          "citations": "4, 27; S. 604, 41"
+        },
+        {
+          "old_english": "Ðys eówde stýran and rihtan",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 191, 28"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-rihtan"
+  ],
+  "source_text": "rihtan; p. te. I. to right, to restore to a proper position that which is displaced, erect, direct :-- Hé mid handum eft on heofonríce rihte rodorstólas he (God) with his hands again in the heavenly kingdom restored the celestial seats (after the expulsion of the rebellious angels), Cd. Th. 46, 24; Gen. 749. Tó rehtanne foet úsra in woege sibbe ad dirigendos pedes nostros in uia pacis, Lk. Skt. Rush. 1, 79. II. to right a person, to replace a person in the rights of which he is wrongfully deprived :-- Heó smeádan hú heó mehton monige men ryhtan, ge godcundra háda ge weorldcundra, ge on londum ge on má ðara þinga ðe heó on forhaldne wéran, Chart. Th. 139, 25. III. to make right that which is faulty, set right, rectify, correct, amend :-- Ne séce ic nó ða béc, ac ðæt ðæt ða béc forstent, ðæt ic ðín gewit swíðe rihte that I may set thy mind thoroughly right, Bt. 5, 1; Fox 10, 20. Sume déman myccle swíðor rihtaþ Godes folc ðonne hié reáfan earme. Ða déman beóþ ǽghwǽr ge ðæt hié him selfum heora synna bebeorgaþ ge eác óðre syngiende rihtaþ, Blickl. Homl. 63, 16-25. Wé boetas &l-bar; wé hrihð corrigimus, Mt. Kmbl. p. 2, 2. Se wísdóm hine réte and rihte mid his andsworum, Bt. tit. 5; Fox x, 9. Gemeta and gewihta rihte man georne let weights and measures be made correct with all diligence, L. C. S. 9; Th. i. 380, 24. Ælþeódige mæn, gif hió hiora hǽmed rihtan (amend) nyllaþ, of lande gewíten, L. Wih. 4; Th. i. 38, 1. Tó rihtanne &l-bar; tó boetanne emendasse, Mt. Kmbl. p. 2, 12. IV. to keep right, direct, rule :-- Angelþeóde ðe hé rihte gens Anglorum quam regebat, Bd. 3, 3; S. 525, 29. Hé ða circan heóld and rihte rexit ecclesiam, 3, 20; S. 550, 32 : 1, 23; S. 485, 23. Ða sylfan stówe ðe Eata mid abbudes onwalde heóld and rihte (regebat), 4, 27; S. 604, 41. Ðys eówde stýran and rihtan, Blickl. Homl. 191, 28. [Goth. ga-raihtjan : O. Sax. rihtian to erect, to rule : O. Frs. riuchta : O. H. Ger. rihtan erigere, corrigere, dirigere, ordinare, regere : Icel. rétta to right.] v. ge-rihtan."
+}

@@ -1,0 +1,93 @@
+{
+  "citation_form": "hweowol",
+  "variant_forms": [
+    "hweogul",
+    "hweól",
+    "hweóhle",
+    "hwél"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "A. R. hweol: Ayenb. hue&yogh;el: Orm. wheol, whel: Icel. hvel, hjól: Dan. Swed. hjul. Zacher in his 'Das Gothische Alphabet,' pp. 114-5, compares the two forms hweol, hweogel with the Greek GREEK, GREEK ( = GREEK) respectively, and so does not write hweól. See also Grmm. D. M. p. 664, where hweol is taken as corresponding to a Gothic hwil.",
+      "meaning": "A wheel",
+      "latin": "rota",
+      "quotations": [
+        {
+          "old_english": "tyrnþ on eaxe",
+          "latin": null,
+          "english": "the firmament turns on those two stars just as a wheel turns on an axle",
+          "citations": "Lchdm. iii. 270, 22"
+        },
+        {
+          "old_english": "Swá swá hweowol",
+          "latin": "ut rotam",
+          "english": null,
+          "citations": "Ps. Spl. 82, 12"
+        },
+        {
+          "old_english": "Wǽnes hweowol",
+          "latin": null,
+          "english": "a waggon-wheel",
+          "citations": "Shrn. 32, 12"
+        },
+        {
+          "old_english": "Swá swá yrnende hweowol",
+          "latin": null,
+          "english": null,
+          "citations": "Hexam. 5; Norm. 8, 29"
+        },
+        {
+          "old_english": "Ðære sunnan hweogul",
+          "latin": "solis rota",
+          "english": null,
+          "citations": "Hymn. Surt. 22, 25"
+        },
+        {
+          "old_english": "Hweól",
+          "latin": "rota",
+          "english": null,
+          "citations": "Ælfc. Gl. 2; Som. 55, 48; Wrt. Voc. 16, 20"
+        },
+        {
+          "old_english": "Ðæt hweól hwerfþ ymbútan",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 39, 7; Fox 220, 29"
+        },
+        {
+          "old_english": "Ðæt unstille hweól ðe Ixion wæs tó gebunden ðæt óþstód",
+          "latin": null,
+          "english": null,
+          "citations": "35, 6; Fox 168, 31"
+        },
+        {
+          "old_english": "Ðæs hweohles [hweoles, MS. Cott.] felga",
+          "latin": null,
+          "english": null,
+          "citations": "39, 7; Fox 222, 19"
+        },
+        {
+          "old_english": "On hweóhle",
+          "latin": "in rota",
+          "english": null,
+          "citations": "Ps. Spl. 76, 17"
+        },
+        {
+          "old_english": "Hwél in hwélum",
+          "latin": "rota in rota",
+          "english": null,
+          "citations": "Mt. Kmbl. p. 9, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "MSS. R. P.] tyrnþ on eaxe the firmament turns on those two stars just as a wheel turns on an axle, Lchdm. iii. 270, 22. Swá swá hweowol ut rotam, Ps. Spl. 82, 12. Wǽnes hweowol a waggon-wheel, Shrn. 32, 12. Swá swá yrnende hweowol, Hexam. 5; Norm. 8, 29. Ðære sunnan hweogul solis rota, Hymn. Surt. 22, 25. Hweól rota, Ælfc. Gl. 2; Som. 55, 48; Wrt. Voc. 16, 20. Ðæt hweól hwerfþ ymbútan. Bt. 39, 7; Fox 220, 29. Ðæt unstille hweól ðe Ixion wæs tó gebunden ðæt óþstód, 35, 6; Fox 168, 31. Ðæs hweohles [hweoles, MS. Cott.] felga, 39, 7; Fox 222, 19. On hweóhle in rota, Ps. Spl. 76, 17. Hwél in hwélum rota in rota, Mt. Kmbl. p. 9, 20. [A. R. hweol: Ayenb. hue&yogh;el: Orm. wheol, whel: Icel. hvel, hjól: Dan. Swed. hjul. Zacher in his 'Das Gothische Alphabet,' pp. 114-5, compares the two forms hweol, hweogel with the Greek GREEK, GREEK ( = GREEK) respectively, and so does not write hweól. See also Grmm. D. M. p. 664, where hweol is taken as corresponding to a Gothic hwil.]"
+}

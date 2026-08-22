@@ -1,0 +1,48 @@
+{
+  "citation_form": "ge-frásian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ade",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ad",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To ask, inquire",
+      "latin": "interrogāre, sciscitāri",
+      "quotations": [
+        {
+          "old_english": "He gefrásade þegnas his",
+          "latin": "interrogābat discipulos suos",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 16, 13"
+        },
+        {
+          "old_english": "Geascade oððe gefrásade",
+          "latin": "sciscitābātur",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 2, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-frásian; p. ade; pp. ad To ask, inquire; interr&o-short;g&a-long;re, scisc&i-short;t&a-long;ri :-- He gefrásade þegnas his interr&o-short;g&a-long;bat disc&i-short;p&u-short;los suos, Mt. Kmbl. Lind. 16, 13. Geascade oððe gefrásade sciscit&a-long;b&a-long;tur, Mt. Kmbl. Lind. 2, 4."
+  ]
+}

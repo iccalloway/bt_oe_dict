@@ -1,0 +1,96 @@
+{
+  "citation_form": "un-nyt[t]",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a vain thing, vanity, frivolity",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ne geríseþ ǽnig unnytt mid bisceopum, ne doll ne dysig",
+          "latin": null,
+          "english": null,
+          "citations": "L. I. P. 9; Th. ii. 314, 30"
+        },
+        {
+          "old_english": "Ðú hátodest ða ðe beeodon ídelnesse and ða ðe unnyt worhton",
+          "latin": "odisti observantes vanitatem supervacue",
+          "english": null,
+          "citations": "Ps. Th. 30, 6"
+        },
+        {
+          "old_english": "Wé lǽraþ ðæt man æt ciricwæccan ǽnig unnit ne dreóge",
+          "latin": null,
+          "english": null,
+          "citations": "L. Edg. C. 28; Th. ii. 250, 13: 26; Th. ii. 250, 5: 65; Th. ii. 258, 12"
+        },
+        {
+          "old_english": "Ðonne mæg hé ongitan ðæt yfel and ðæt unnet, ðæt hé ǽr on his móde hæfde",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 35, 1; Fox 154, 26"
+        },
+        {
+          "old_english": "Hwý gé ymb ðæt unnet swincen?",
+          "latin": null,
+          "english": null,
+          "citations": "Met. 10, 21"
+        },
+        {
+          "old_english": "Hwí smeágaþ hí unnytt",
+          "latin": "quare meditati sunt inania",
+          "english": null,
+          "citations": "Ps. Th. 2, 1"
+        },
+        {
+          "old_english": "Unnyttu &l-bar; ídelnyssa sprǽcon ánra gehwilc",
+          "latin": "vana locuti sunt unusquisque",
+          "english": null,
+          "citations": "Ps. Lamb. ii. 3"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": "On unnet in vain, O. E. Homl. i. 107, 3. He isihð and ihereð oðerhwule unnut, and spekeð umbe hwule, A. R. 352, 28.",
+      "meaning": "an evil thing, iniquity",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hí unnyt sæcgeaþ",
+          "latin": "loqueutur iniquitatem",
+          "english": null,
+          "citations": "Ps. Th. 93, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "un-nyt[t], es; n. I. a vain thing, vanity, frivolity :-- Ne geríseþ ǽnig unnytt mid bisceopum, ne doll ne dysig, L. I. P. 9; Th. ii. 314, 30. Ðú hátodest ða ðe beeodon ídelnesse and ða ðe unnyt worhton odisti observantes vanitatem supervacue, Ps. Th. 30, 6. Wé lǽraþ ðæt man æt ciricwæccan ǽnig unnit ne dreóge, L. Edg. C. 28; Th. ii. 250, 13: 26; Th. ii. 250, 5: 65; Th. ii. 258, 12. Ðonne mæg hé ongitan ðæt yfel and ðæt unnet, ðæt hé ǽr on his móde hæfde, Bt. 35, 1; Fox 154, 26. Hwý gé ymb ðæt unnet swincen? Met. 10, 21. Hwí smeágaþ hí unnytt quare meditati sunt inania, Ps. Th. 2, 1. Unnyttu &l-bar; ídelnyssa sprǽcon ánra gehwilc vana locuti sunt unusquisque, Ps. Lamb. ii. 3. II. an evil thing, iniquity :-- Hí unnyt sæcgeaþ loqueutur iniquitatem, Ps. Th. 93, 4. [On unnet in vain, O. E. Homl. i. 107, 3. He isihð and ihereð oðerhwule unnut, and spekeð umbe hwule, A. R. 352, 28.]"
+}

@@ -1,0 +1,40 @@
+{
+  "citation_form": "a-hérian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To praise fully, celebrate enough",
+      "latin": "plene laudare, satis celebrare",
+      "quotations": [
+        {
+          "old_english": "Ne mæg ðé ahérian hæleða ǽnig",
+          "latin": null,
+          "english": "not any men can fully praise thee",
+          "citations": "Hy. 3, 10; Hy. Grn. ii. 281, 10; prec. 3 ad calcem Cœdm. l. 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "a-hérian; p. ede; pp. ed To praise fully, celebrate enough; plene laudare, satis celebrare :-- Ne mæg ðé ahérian hæleða ǽnig not any men can fully praise thee, Hy. 3, 10; Hy. Grn. ii. 281, 10; prec. 3 ad calcem Cœdm. l. 5."
+}

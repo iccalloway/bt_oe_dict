@@ -1,0 +1,34 @@
+{
+  "citation_form": "ge-spreca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Abraham wæs Godes gespreca (cf. æfter ðǽre sprǽce se Ælmihtiga úp gewende (Gen. 17, 22), 92, 83",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 90, 19"
+        },
+        {
+          "old_english": "Móyses wæs Godes sylfes gespeca (-spreca, v.l.) (cf. Drihten spræc wið Móises swá man spricð wið his freónd, Ex. 33, II)",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 13, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-spreca. Add :-- Abraham wæs Godes gespreca (cf. æfter ðǽre sprǽce se Ælmihtiga úp gewende (Gen. 17, 22), 92, 83, Hml. Th. i. 90, 19. Móyses wæs Godes sylfes gespeca (-spreca, v.l.) (cf. Drihten spræc wið Móises swá man spricð wið his freónd, Ex. 33, II), Wlfst. 13, 5."
+}

@@ -1,0 +1,31 @@
+{
+  "english_lemma": "entice",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "entice.v.01",
+      "definition": "provoke someone to do something through (often false or exaggerated) promises or persuasion",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-loccian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "allicere"
+          ],
+          "attestations": [
+            "Ors. 4, 11; Bos. 97, 39"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ðæt hí aloccodan út ða, ðe ðǽr binnan wǽran",
+              "english": "that they might entice those out, who were there within",
+              "citations": "Ors. 4, 11; Bos. 97, 39"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

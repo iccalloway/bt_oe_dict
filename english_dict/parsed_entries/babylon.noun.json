@@ -1,0 +1,43 @@
+{
+  "english_lemma": "babylon",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "babylon.n.01",
+      "definition": "the chief city of ancient Mesopotamia and capital of the ancient kingdom of Babylonia",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "Babilónia",
+          "pos": "noun",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "acc. Grk, Ors. 2, 4; Bos. 44, 17"
+          ],
+          "quotations": [
+            {
+              "old_english": "Babilónia",
+              "english": "Babylon",
+              "citations": "acc. Grk, Ors. 2, 4; Bos. 44, 17"
+            }
+          ]
+        },
+        {
+          "oe_lemma": "Babilónisca",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "Babŷlŏn, ōnis; f",
+            "super flumina Babilonis"
+          ],
+          "attestations": [
+            "Ps. Lamb. 136, 1"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

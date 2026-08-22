@@ -1,0 +1,101 @@
+{
+  "citation_form": "óþ-standan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to stop in one's course, to come to a standstill",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðonne óþstandeþ se blódgyte sóna",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 88, 10"
+        },
+        {
+          "old_english": "Sóna ðæt blód óþstænt",
+          "latin": null,
+          "english": null,
+          "citations": "180, 3"
+        },
+        {
+          "old_english": "Ðæt unstille hweól óþstód",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 35, 6; Fox 168, 32"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "Ia.",
+          "heading": "metaphorically",
+          "meaning": "to cease to act",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif se hlyst óþstande, ðæt hé ne mǽge gehiéran",
+              "latin": null,
+              "english": null,
+              "citations": "L. Alf. pol. 46; Th. i. 92, 23"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to remain standing, remain",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Uneáþe ǽnig grot staþoles óþstód",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 6, 1; Swt. 252, 23"
+        },
+        {
+          "old_english": "Ðæt is lang tó sæcganne, hú ða wurdon generede in ðære Noes earce, ða ðe ðǽr tó láfe ófstódon",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 206, 30"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "to remain standing and so prove an obstacle",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt swefn swíðe óþstód manegum mínra leóda (the dream interpreted by Daniel)",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 246, 23; Dan. 483"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æt-standan"
+  ],
+  "source_text": "óþ-standan. I. to stop in one's course, to come to a standstill :-- Ðonne óþstandeþ se blódgyte sóna, Lchdm. i. 88, 10. Sóna ðæt blód óþstænt, 180, 3. Ðæt unstille hweól óþstód, Bt. 35, 6; Fox 168, 32. Ia. metaphorically, to cease to act :-- Gif se hlyst óþstande, ðæt hé ne mǽge gehiéran, L. Alf. pol. 46; Th. i. 92, 23. II. to remain standing, remain :-- Uneáþe ǽnig grot staþoles óþstód, Ors. 6, 1; Swt. 252, 23. Ðæt is lang tó sæcganne, hú ða wurdon generede in ðære Noes earce, ða ðe ðǽr tó láfe ófstódon. Wulfst. 206, 30. III. to remain standing and so prove an obstacle :-- Ðæt swefn swíðe óþstód manegum mínra leóda (the dream interpreted by Daniel), Cd. Th. 246, 23; Dan. 483. Cf. æt-standan"
+}

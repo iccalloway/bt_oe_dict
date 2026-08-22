@@ -1,0 +1,48 @@
+{
+  "citation_form": "wynsum-líc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Pleasant, agreeable",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé bið ðám gódum glædmód on gesihþe, wlitig, wynsumlíc weorude ðam hálgan",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 57, 1; Cri. 912"
+        },
+        {
+          "old_english": "Wynsumlíc",
+          "latin": "votivum, acceptum, desiderativum",
+          "english": null,
+          "citations": "Hpt. Gl. 446, 49"
+        },
+        {
+          "old_english": "Þúhte fæger and wlitig heora líf and wynsumlíc",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 107, 30"
+        },
+        {
+          "old_english": "Eall ðæt him hér on worlde wynsumlíc wæs",
+          "latin": null,
+          "english": null,
+          "citations": "111, 26: 115, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-wynsumlíc"
+  ],
+  "source_text": [
+    "wynsum-líc; adj. Pleasant, agreeable :-- Hé bið ðám gódum glædmód on gesihþe, wlitig, wynsumlíc weorude ðam hálgan, Exon. Th. 57, 1; Cri. 912. Wynsumlíc votivum, acceptum, desiderativum, Hpt. Gl. 446, 49. Þúhte fæger and wlitig heora líf and wynsumlíc, Blickl. Homl. 107, 30. Eall ðæt him hér on worlde wynsumlíc wæs, 111, 26: 115, 11. v. ge-wynsumlíc."
+  ]
+}

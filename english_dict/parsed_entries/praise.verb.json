@@ -1,0 +1,31 @@
+{
+  "english_lemma": "praise",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "praise.v.01",
+      "definition": "express approval of",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hérian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "plene laudare, satis celebrare"
+          ],
+          "attestations": [
+            "Hy. 3, 10; Hy. Grn. ii. 281, 10; prec. 3 ad calcem Cœdm. l. 5"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ne mæg ðé ahérian hæleða ǽnig",
+              "english": "not any men can fully praise thee",
+              "citations": "Hy. 3, 10; Hy. Grn. ii. 281, 10; prec. 3 ad calcem Cœdm. l. 5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

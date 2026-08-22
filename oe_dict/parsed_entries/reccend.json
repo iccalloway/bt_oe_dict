@@ -1,0 +1,42 @@
+{
+  "citation_form": "reccend",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "(2)",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eádgár Angla reccent (engla cyning, v. l.)",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 975; P. 119, 14"
+        },
+        {
+          "old_english": "Be reccendrum",
+          "latin": "de rectoribus",
+          "english": null,
+          "citations": "Scint. 116, 2"
+        },
+        {
+          "old_english": "Hé gesette gewisse práfostas and reccendas",
+          "latin": "substitutis praepositis",
+          "english": null,
+          "citations": "Gr. D. 119, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "reccend. (2) add :-- Eádgár Angla reccent (engla cyning, v. l.), Chr. 975; P. 119, 14. Be reccendrum de rectoribus, Scint. 116, 2. Hé gesette gewisse práfostas and reccendas substitutis praepositis, Gr. D. 119, 21."
+  ]
+}

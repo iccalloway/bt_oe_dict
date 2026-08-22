@@ -1,0 +1,46 @@
+{
+  "citation_form": "rǽdfæstum",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "rǽdfæstum móde",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. i. 18, 185"
+        },
+        {
+          "old_english": "Se rǽd wæs ǽfre on his rǽdfæstum geþance",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. T. Grn. 2, 5"
+        },
+        {
+          "old_english": "Ðæt hig mágon árísan, gif hig rǽdfæste beóþ",
+          "latin": null,
+          "english": null,
+          "citations": "19, 5"
+        },
+        {
+          "old_english": "Rincas rǽdfæste",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 347, 15; Sch. 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "rǽd-leás"
+  ],
+  "source_text": "rǽdfæstum móde, Homl. Skt. i. 18, 185. Se rǽd wæs ǽfre on his rǽdfæstum geþance, Ælfc. T. Grn. 2, 5. Ðæt hig mágon árísan, gif hig rǽdfæste beóþ, 19, 5. Rincas rǽdfæste, Exon. Th. 347, 15; Sch. 13. Cf. rǽd-leás."
+}

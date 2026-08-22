@@ -1,0 +1,21 @@
+{
+  "english_lemma": "clothe",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "dress.v.02",
+      "definition": "provide with clothes or put clothes on",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "GE-WERIAN",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

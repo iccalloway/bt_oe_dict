@@ -1,0 +1,30 @@
+{
+  "citation_form": "be-sprǽcen",
+  "variant_forms": [
+    "besprecen"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": "pp. of be-sprecan",
+      "meaning": "spoken to, charged",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "L. Eth. ii. 9; Wilk. 105, 47"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-sprecan"
+  ],
+  "source_text": "be-sprǽcen spoken to, charged, L. Eth. ii. 9; Wilk. 105, 47, = besprecen; pp. of be-sprecan."
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "fintan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "of an action",
+      "latin": "consequentia",
+      "quotations": [
+        {
+          "old_english": "Ðonne he ðæs fácnes fintan sceáwaþ",
+          "latin": null,
+          "english": "when he sees the consequence of treachery",
+          "citations": "Exon. 83b; Th. 315, 17; Mód. 32: Exon. 74b; Th. 278, 31; Jul. 606"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "of an action; cons&e-short;quentia :-- Ðonne he ðæs fácnes fintan sceáwaþ when he sees the consequence of treachery, Exon. 83b; Th. 315, 17; Mód. 32: Exon. 74b; Th. 278, 31; Jul. 606."
+}

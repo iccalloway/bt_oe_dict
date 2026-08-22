@@ -1,0 +1,28 @@
+{
+  "citation_form": "weg-lísu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Icel. vega-leysi want of roads.",
+      "meaning": "Want of road",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Welise ( = wílésu?) devium",
+          "latin": null,
+          "english": null,
+          "citations": "Kent. Gl. 432"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "weg-lísu (?); f. Want of road :-- Welise ( = wílésu?) devium, Kent. Gl. 432. [Cf. Icel. vega-leysi want of roads.] v. preceding words."
+}

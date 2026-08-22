@@ -1,0 +1,36 @@
+{
+  "citation_form": "æg-lím",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "æg an egg, lím lime, glue",
+      "meaning": "EGG-LIME, the sticky part or white of an egg",
+      "latin": "ovi viscum",
+      "quotations": [
+        {
+          "old_english": "Æglíra glara",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 81; Som. 72,119"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "æg-lím, es; m. [æg an egg, lím lime, glue] EGG-LIME, the sticky part or white of an egg; ovi viscum :-- Æglíra glara, Ælfc. Gl. 81; Som. 72,119."
+  ]
+}

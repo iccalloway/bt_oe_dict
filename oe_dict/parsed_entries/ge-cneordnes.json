@@ -1,0 +1,50 @@
+{
+  "citation_form": "ge-cneordnes",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "(1)",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic hine þe befæste mid heálicre gecneordnisse on Crístes gewitnysse",
+          "latin": null,
+          "english": "I most earnestly commend him to you calling Christ to witness",
+          "citations": "Ælfc. T. Grn. 16, 47"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "(2)",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nánes fracodes gecneor(d)nysse ne gewilnion hí",
+          "latin": "nequaquam fraudis cuiusque studium appetant",
+          "english": null,
+          "citations": "Chrd. 76, 33"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-cneordnes; (1) add :-- Ic hine þe befæste mid heálicre gecneordnisse on Crístes gewitnysse I most earnestly commend him to you calling Christ to witness, Ælfc. T. Grn. 16, 47. (2) add :-- Nánes fracodes gecneor(d)nysse ne gewilnion hí nequaquam fraudis cuiusque studium appetant, Chrd. 76, 33."
+  ]
+}

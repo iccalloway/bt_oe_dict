@@ -1,0 +1,81 @@
+{
+  "citation_form": "sǽtere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a robber",
+      "latin": "latro",
+      "quotations": [
+        {
+          "old_english": "Þeáf and séttere",
+          "latin": "fur et latro",
+          "english": null,
+          "citations": "Jn. Skt. Lind. 10, 1"
+        },
+        {
+          "old_english": "Þeáfas and sétteras",
+          "latin": "fures et latrones",
+          "english": null,
+          "citations": "10, 8"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "fig. one who acts insidiously",
+      "latin": "insidiator, seductor",
+      "quotations": [
+        {
+          "old_english": "Se sǽtere (insidiator), ðæt is se dióful, hé hine spænþ on wóh",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 53, 7; Swt. 417, 23"
+        },
+        {
+          "old_english": "Ðonne cymþ se lytega sǽtere (seductor) tó ðæm sláwan móde, and áteleþ him eall ðæt hé ǽr tó góde gedyde",
+          "latin": null,
+          "english": null,
+          "citations": "65, 2; Swt. 463, 12"
+        },
+        {
+          "old_english": "Hí sendon séteras (insidiatores) ðætte genómo hine on word",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. Lind. 20, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "sǽt",
+    "sǽtian"
+  ],
+  "source_text": "sǽtere, es; m. One that lies in wait, one that waylays. I. a robber; latro :-- Þeáf and séttere fur et latro, Jn. Skt. Lind. 10, 1. Þeáfas and sétteras fures et latrones, 10, 8. II. fig. one who acts insidiously; insidiator, seductor :-- Se sǽtere (insidiator), ðæt is se dióful, hé hine spænþ on wóh, Past. 53, 7; Swt. 417, 23. Ðonne cymþ se lytega sǽtere (seductor) tó ðæm sláwan móde, and áteleþ him eall ðæt hé ǽr tó góde gedyde, 65, 2; Swt. 463, 12. Hí sendon séteras (insidiatores) ðætte genómo hine on word, Lk. Skt. Lind. 20, 20. v. sǽt, sǽtian."
+}

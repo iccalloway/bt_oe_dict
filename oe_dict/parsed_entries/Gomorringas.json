@@ -1,0 +1,28 @@
+{
+  "citation_form": "Gomorringas",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The people of Gomorrha",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eorþe gomorringa",
+          "latin": "terra Gomorræorum",
+          "english": null,
+          "citations": "Mt. Kmbl. Rush. 10, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "Gomorringas; pl. a The people of Gomorrha :-- Eorþe gomorringa terra Gomorræorum, Mt. Kmbl. Rush. 10, 15."
+}

@@ -1,0 +1,38 @@
+{
+  "citation_form": "smitta",
+  "variant_forms": [
+    "-e"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A smear, blot, mark, spot",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Bútan smittan",
+          "latin": "sine macula",
+          "english": null,
+          "citations": "R. Ben. Interl. 4, 3"
+        },
+        {
+          "old_english": "Smyttena",
+          "latin": "naevorum, notarum",
+          "english": null,
+          "citations": "Hpt. Gl. 421, 56"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "smitte"
+  ],
+  "source_text": "smitta (-e; f.?), an; m. A smear, blot, mark, spot:--Bútan smittan sine macula, R. Ben. Interl. 4, 3. Smyttena naevorum, notarum, Hpt. Gl. 421, 56. v. next word."
+}

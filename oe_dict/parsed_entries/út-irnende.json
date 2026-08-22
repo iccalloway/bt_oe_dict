@@ -1,0 +1,87 @@
+{
+  "citation_form": "út-irnende",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Running out of the body",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "of medicine, purging, purgative",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Wyrtdrenc ðe ne bið útyrnende",
+              "latin": null,
+              "english": null,
+              "citations": "Lchdm. ii. 282, 9: 170, 25"
+            },
+            {
+              "old_english": "Sele him wyrtdrenc útyrnende",
+              "latin": null,
+              "english": null,
+              "citations": "280, 17"
+            },
+            {
+              "old_english": "Útyrnendne",
+              "latin": null,
+              "english": null,
+              "citations": "336, 1"
+            },
+            {
+              "old_english": "Mid swelcum útyrnendum drencum",
+              "latin": null,
+              "english": null,
+              "citations": "222, 25: 82, 17"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "of a disease, diarrhoeic",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðisse ádle fruman mon mæg gelácnian on ða ilcan wísan ðe ða útyrnendan",
+              "latin": null,
+              "english": null,
+              "citations": "Lchdm. ii. 232, 17"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": "of persons, suffering from diarrhoea or dysentery",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hú mon ða útyrnendan men scyle lácnian",
+              "latin": null,
+              "english": null,
+              "citations": "Lchdm. ii. 278, 16"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "út-ryne"
+  ],
+  "source_text": [
+    "út-irnende; adj. Running out of the body. (1) of medicine, purging, purgative :-- Wyrtdrenc ðe ne bið útyrnende, Lchdm. ii. 282, 9: 170, 25. Sele him wyrtdrenc útyrnende, 280, 17. Útyrnendne, 336, 1. Mid swelcum útyrnendum drencum, 222, 25: 82, 17. (2) of a disease, diarrhoeic :-- Ðisse ádle fruman mon mæg gelácnian on ða ilcan wísan ðe ða útyrnendan, Lchdm. ii. 232, 17. (3) of persons, suffering from diarrhoea or dysentery :-- Hú mon ða útyrnendan men scyle lácnian, Lchdm. ii. 278, 16. v. út-ryne, and next word."
+  ]
+}

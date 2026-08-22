@@ -1,0 +1,50 @@
+{
+  "citation_form": "þegen-wer",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The wer-gild of a thane",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé sý þegenweres and þegenrihtes wyrðe",
+          "latin": null,
+          "english": null,
+          "citations": "L. Eth. v. 9; Th. i. 306, 21: vi. 5; Th. i. 316, 14"
+        },
+        {
+          "old_english": "Gif weofodþén be bóca tǽcinge his ágen líf rihtlíce fadige, ðonne sí hé fulles þegnweres and weorðscipes wurðe",
+          "latin": null,
+          "english": null,
+          "citations": "ix. 28; Th. i. 346, 18"
+        },
+        {
+          "old_english": "Mǽsseþegnes and woruldþegnes wergyld is .ii. þúsend þrymsa",
+          "latin": null,
+          "english": null,
+          "citations": "L. Wg. 5; Th. i. 186, l0"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "þegen-riht"
+  ],
+  "source_text": [
+    "þegen-wer, es; m. The wer-gild of a thane :-- Hé sý þegenweres and þegenrihtes wyrðe, L. Eth. v. 9; Th. i. 306, 21: vi. 5; Th. i. 316, 14. Gif weofodþén be bóca tǽcinge his ágen líf rihtlíce fadige, ðonne sí hé fulles þegnweres and weorðscipes wurðe, ix. 28; Th. i. 346, 18. Cf. Mǽsseþegnes and woruldþegnes wergyld is .ii. þúsend þrymsa, L. Wg. 5; Th. i. 186, l0. v. þegen-riht."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "citation_form": "-estre",
+  "variant_forms": [
+    "-istre",
+    "-ystre"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "affix",
+        "kind": "suffix"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the feminine terminations of nouns of action, same as the Latin -ix and English -ess",
+      "latin": "-ix",
+      "quotations": [
+        {
+          "old_english": "Fiðelestre a female fiddler",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 73, 62"
+        },
+        {
+          "old_english": "hleápestre a female dancer",
+          "latin": null,
+          "english": null,
+          "citations": "73, 71"
+        },
+        {
+          "old_english": "lǽrestre an instructress",
+          "latin": null,
+          "english": null,
+          "citations": null
+        },
+        {
+          "old_english": "myltestre",
+          "latin": "meretrix vel scortum",
+          "english": null,
+          "citations": "Wrt. Voc. 86, 72"
+        },
+        {
+          "old_english": "rǽdistre a female reader",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 72, 7"
+        },
+        {
+          "old_english": "sangestre [MS. sangystre] a songstress",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 72, 5"
+        },
+        {
+          "old_english": "seámestre a seamstress",
+          "latin": null,
+          "english": null,
+          "citations": "74, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "-estre, -istre, -ystre, an; f. are the feminine terminations of nouns of action, same as the Latin -ix and English -ess; as Fiðelestre a female fiddler. Wrt. Voc. 73, 62: hleápestre a female dancer, 73, 71: lǽrestre an instructress: myltestre meretrix vel scortum, Wrt. Voc. 86, 72: rǽdistre a female reader, Wrt. Voc. 72, 7: sangestre [MS. sangystre] a songstress, Wrt. Voc. 72, 5: seámestre a seamstress, 74, 13."
+  ]
+}

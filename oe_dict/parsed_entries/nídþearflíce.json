@@ -1,0 +1,30 @@
+{
+  "citation_form": "nídþearflíce",
+  "variant_forms": [
+    "nédþearflíce",
+    "nýdþearflíce",
+    "neádþearflíce"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Necessarily",
+      "latin": "necessario",
+      "quotations": [
+        {
+          "old_english": "Nédþearflíce (níd-, nýd-, neád-) necessario",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 38; Som. 41, 37"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "nídþearflíce; adv. Necessarily :-- Nédþearflíce (níd-, nýd-, neád-) necessario, Ælfc. Gr. 38; Som. 41, 37."
+}

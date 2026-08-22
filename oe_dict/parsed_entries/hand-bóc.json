@@ -1,0 +1,42 @@
+{
+  "citation_form": "hand-bóc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Ger. hand-buch.",
+      "meaning": "A hand-book, manual",
+      "latin": "manualis",
+      "quotations": [
+        {
+          "old_english": "Hand-bóc manualis",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 81, 46"
+        },
+        {
+          "old_english": "Ða hálgan béc saltere and pistolbóc ... sangbóc and handbóc",
+          "latin": null,
+          "english": "the holy books: psalter and epistle-book ... book of canticles and manual",
+          "citations": "L. Ælf. C. 21; Th. ii. 350, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hand-bóc, e; f. A hand-book, manual :-- Hand-bóc manualis, Wrt. Voc. 81, 46. Ða hálgan béc saltere and pistolbóc ... sangbóc and handbóc the holy books: psalter and epistle-book ... book of canticles and manual, L. Ælf. C. 21; Th. ii. 350, 14. [Ger. hand-buch.]"
+  ]
+}

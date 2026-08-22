@@ -1,0 +1,28 @@
+{
+  "citation_form": "for-slægen",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "slain",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 882; Erl. 82, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "for-sleán"
+  ],
+  "source_text": "for-slægen slain, Chr. 882; Erl. 82, 13; pp. of for-sleán."
+}

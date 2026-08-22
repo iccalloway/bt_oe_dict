@@ -1,0 +1,48 @@
+{
+  "citation_form": "á-hátian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. ar-heizén incalescere, exardescere.",
+      "meaning": "To become hot",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Áhátode concaluit, exardescit",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 136, 44"
+        },
+        {
+          "old_english": "Áhátode heorte mín concaluit cor meum",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. L. 38, 4"
+        },
+        {
+          "old_english": "Sé cymð of þám swíðe ácólodan magan oþþe of þám tó swíðe áhátodan",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 60, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "á-hátian; p. ode To become hot:--Áhátode concaluit, exardescit, Wrt. Voc. ii. 136, 44. Áhátode heorte mín concaluit cor meum, Ps. L. 38, 4. Sé cymð of þám swíðe ácólodan magan oþþe of þám tó swíðe áhátodan, Lch. ii. 60, 19. [O. H. Ger. ar-heizén incalescere, exardescere.]"
+  ]
+}

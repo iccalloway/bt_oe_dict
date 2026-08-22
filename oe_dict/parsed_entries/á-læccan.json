@@ -1,0 +1,34 @@
+{
+  "citation_form": "á-læccan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-læhte",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To get hold of, catch",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se kyng álehte him betwux his earmes",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1123; P. 251, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "á-læccan; p. -læhte To get hold of, catch:--Se kyng álehte him betwux his earmes, Chr. 1123; P. 251, 9."
+}

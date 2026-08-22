@@ -1,0 +1,48 @@
+{
+  "citation_form": "micgern",
+  "variant_forms": [
+    "mycgern"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "v. N. E. D. midgem. O. L. Ger. (Gallée) mid-garni aruina : O. H. Ger. mitti-garni.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Of micgerne aruina . i. adeps &l-bar; pinguedo",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 2, 105"
+        },
+        {
+          "old_english": "Mycgernne seuo",
+          "latin": null,
+          "english": null,
+          "citations": "2763"
+        },
+        {
+          "old_english": "Micgernu exugiam",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. i. lxxiv. 3"
+        },
+        {
+          "old_english": "Midirnan",
+          "latin": null,
+          "english": null,
+          "citations": "lxx. 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "micgern. Take here mycgern, where for bracket substitute: [v. N. E. D. midgem. O. L. Ger. (Gallée) mid-garni aruina : O. H. Ger. mitti-garni.], and add :-- Of micgerne aruina . i. adeps &l-bar; pinguedo, An. Ox. 2, 105. Mycgernne seuo, 2763. Micgernu exugiam, Lch. i. lxxiv. 3. Midirnan, lxx. 2."
+}

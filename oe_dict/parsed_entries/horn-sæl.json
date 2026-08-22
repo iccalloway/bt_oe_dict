@@ -1,0 +1,43 @@
+{
+  "citation_form": "horn-sæl",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A hall having 'horns' in its roof",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hornsalu",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 2318; An. 1160"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 101 b; Th. 383, 10; Rä. 4, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "horn-reced",
+    "horn-sele"
+  ],
+  "source_text": "horn-sæl, es; n. A hall having 'horns' in its roof :-- Hornsalu, Andr. Kmbl. 2318; An. 1160 : Exon. 101 b; Th. 383, 10; Rä. 4, 8. v. horn-reced, -sele."
+}

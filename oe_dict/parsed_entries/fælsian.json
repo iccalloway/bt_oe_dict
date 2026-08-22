@@ -1,0 +1,48 @@
+{
+  "citation_form": "fælsian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To cleanse, purify",
+      "latin": "lustrāre",
+      "quotations": [
+        {
+          "old_english": "Ðæt ic móte Heorot fælsian",
+          "latin": null,
+          "english": "that I may purify Heorot",
+          "citations": "Beo. Th. 869; B. 432"
+        },
+        {
+          "old_english": "He Hróþgáres sele fælsode",
+          "latin": null,
+          "english": "he had purified Hrothgar's hall",
+          "citations": "Beo. Th. 4694; B. 2352"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-fælsian"
+  ],
+  "source_text": "fælsian; p. ode; pp. od To cleanse, purify; lustr&a-long;re :-- Ðæt ic móte Heorot fælsian that I may purify Heorot, Beo. Th. 869; B. 432. He Hróþgáres sele fælsode he had purified Hrothgar's hall, Beo. Th. 4694; B. 2352. DER. ge-fælsian."
+}

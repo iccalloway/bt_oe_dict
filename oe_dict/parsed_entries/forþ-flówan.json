@@ -1,0 +1,48 @@
+{
+  "citation_form": "forþ-flówan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-fleów",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-fleówon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-flówen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To flow forth",
+      "latin": "effluere",
+      "quotations": [
+        {
+          "old_english": "Genihtsum wæter forþflóweþ",
+          "latin": null,
+          "english": "plentiful water flows forth",
+          "citations": "Bd. 5, 10; S. 625, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "forþ-flówan; p. -fleów, pl. -fleówon; pp. -flówen To flow forth; efflu&e-short;re :-- Genihtsum wæter forþflóweþ plentiful water flows forth, Bd. 5, 10; S. 625, 24."
+  ]
+}

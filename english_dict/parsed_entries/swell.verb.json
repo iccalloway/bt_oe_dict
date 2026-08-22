@@ -1,0 +1,28 @@
+{
+  "english_lemma": "swell",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "swell.v.03",
+      "definition": "expand abnormally",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-þindan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "intumescere",
+            "tumida æquora placavit"
+          ],
+          "attestations": [
+            "Bd. 5, 1; S. 614, 8",
+            "Herb. 1, 21 : Lchdm. i. 76, 27",
+            "Ps. Th. 106, 25"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

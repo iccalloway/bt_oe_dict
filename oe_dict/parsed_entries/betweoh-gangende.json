@@ -1,0 +1,26 @@
+{
+  "citation_form": "betweoh-gangende",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "separating",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Betwihgongendes lég",
+          "latin": "intercidentis flammam",
+          "english": null,
+          "citations": "Ps. Srt. 28, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "betweoh-gangende separating :-- Betwihgongendes lég intercidentis flammam, Ps. Srt. 28, 7."
+}

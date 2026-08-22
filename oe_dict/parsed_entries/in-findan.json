@@ -1,0 +1,54 @@
+{
+  "citation_form": "in-findan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-fand",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To find, discover",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Soecaþ gé and gé infindes",
+          "latin": "quærite et invenietis",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 7, 7"
+        },
+        {
+          "old_english": "Infund restende",
+          "latin": "invenit vacantem",
+          "english": null,
+          "citations": "12, 44"
+        },
+        {
+          "old_english": "Ic ne infand in him intinga",
+          "latin": "ego non invenio in eo causam",
+          "english": null,
+          "citations": "Jn. Skt. Rush. 19, 6"
+        },
+        {
+          "old_english": "Infunden wæs",
+          "latin": "inventa est",
+          "english": null,
+          "citations": "Mt. Kmbl. Lind. 1, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "on-findan"
+  ],
+  "source_text": "in-findan; p. -fand To find, discover :-- Soecaþ gé and gé infindes quærite et invenietis, Mt. Kmbl. Lind. 7, 7. Infund restende invenit vacantem, 12, 44. Ic ne infand in him intinga ego non invenio in eo causam, Jn. Skt. Rush. 19, 6. Infunden wæs inventa est, Mt. Kmbl. Lind. 1, 18. v. on-findan."
+}

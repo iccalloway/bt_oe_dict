@@ -1,0 +1,40 @@
+{
+  "citation_form": "eft-cyme",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A coming again, return",
+      "latin": "réditus, reversio",
+      "quotations": [
+        {
+          "old_english": "Ðæt eorlwerod sæt on wénum eftcymes leófes monnes",
+          "latin": null,
+          "english": "the warrior band sat in expectation of the return of the dear man",
+          "citations": "Beo. Th. 5785; B. 2896: Exon. 121 b; Th. 466, 33; Hö. 130"
+        },
+        {
+          "old_english": "Treófugla tuddor tácnum cýðdon cádges eftcyme",
+          "latin": null,
+          "english": "the tree-fowls' offspring by signs made known the blessed man's return",
+          "citations": "Exon. 43 a; Th. 146, 11; Gú. 708"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "eft-cyme, es; m. A coming again, return; r&e-short;d&i-short;tus, reversio :-- Ðæt eorlwerod sæt on wénum eftcymes leófes monnes the warrior band sat in expectation of the return of the dear man, Beo. Th. 5785; B. 2896: Exon. 121 b; Th. 466, 33; Hö. 130. Treófugla tuddor tácnum cýðdon cádges eftcyme the tree-fowls' offspring by signs made known the blessed man's return, Exon. 43 a; Th. 146, 11; Gú. 708."
+}

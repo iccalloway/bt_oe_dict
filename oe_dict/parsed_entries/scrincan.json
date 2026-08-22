@@ -1,0 +1,106 @@
+{
+  "citation_form": "scrincan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "scranc",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "scruncon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "scruncen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "of a plant, to wither away, dry up, shrivel",
+      "latin": "marcescere",
+      "quotations": [
+        {
+          "old_english": "Mid ðam mǽstan bleó hy (the male and female pennyroyal) blówaþ ðonne neálíce óðre wyrta scrincaþ and weorniaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 204, 13"
+        },
+        {
+          "old_english": "Scrincan marcescere",
+          "latin": null,
+          "english": null,
+          "citations": "Hpt. Gl. 419, 74"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": "[Þu scalt scrinchin (de&yogh;e, 2nd MS. ), Laym. 2278. Heo scrynketh for shome, P. S. 158, 7.]",
+      "meaning": "of a living being, to pine away, become weak",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé scrinceþ arescit",
+          "latin": null,
+          "english": "he pineth away (A. V. )",
+          "citations": "Mk. Skt. Lind. 9, 18"
+        },
+        {
+          "old_english": "Ðá wearð se cyning (Belshazzar) tó ðan swíðe áfyrht, ðæt hé eal scranc (cf. Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another, Dan. 5, 6)",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 436, 2"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "to contract, shrink",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá tán scrincaþ (-eð, MS. ) up",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 48, 28"
+        },
+        {
+          "old_english": "Gif sino scrince . . . oððe gif monnes fót tó hommum scrimme and scrince",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 6, 13-15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "á-scrincan",
+    "for-scrincan",
+    "ge-scrincan"
+  ],
+  "source_text": ". scrincan; p. scranc, pl. scruncon; pp. scruncen. I. of a plant, to wither away, dry up, shrivel :-- Mid ðam mǽstan bleó hy (the male and female pennyroyal) blówaþ ðonne neálíce óðre wyrta scrincaþ and weorniaþ, Lchdm. i. 204, 13. Scrincan marcescere, Hpt. Gl. 419, 74. II. of a living being, to pine away, become weak :-- Hé scrinceþ arescit; he pineth away (A. V. ), Mk. Skt. Lind. 9, 18. Ðá wearð se cyning (Belshazzar) tó ðan swíðe áfyrht, ðæt hé eal scranc (cf. Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another, Dan. 5, 6), Homl. Th. ii. 436, 2. [Þu scalt scrinchin (de&yogh;e, 2nd MS. ), Laym. 2278. Heo scrynketh for shome, P. S. 158, 7.] III. to contract, shrink :-- Ðá tán scrincaþ (-eð, MS. ) up. Lchdm. iii. 48, 28. Gif sino scrince . . . oððe gif monnes fót tó hommum scrimme and scrince, ii. 6, 13-15. v. á-, for-, ge-scrincan."
+}

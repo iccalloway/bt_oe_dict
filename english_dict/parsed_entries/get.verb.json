@@ -1,0 +1,28 @@
+{
+  "english_lemma": "get",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "arrive.v.01",
+      "definition": "reach a destination; arrive by movement or progress",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-standan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "exsurgere, resurgere, surgere",
+            "exsurrexit repente"
+          ],
+          "attestations": [
+            "Bd. 2, 9 ; S. 511, 20",
+            "Exon. 96 a ; Th. 358, 4 ; Pa, 40",
+            "24 b; Th. 71, 18; Cri. 1157"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

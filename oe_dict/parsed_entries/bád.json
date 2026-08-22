@@ -1,0 +1,98 @@
+{
+  "citation_form": "bád",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "from bǽdan compellere",
+      "meaning": "A pledge, stake, a thing distrained",
+      "latin": "pignus",
+      "quotations": [
+        {
+          "old_english": "Gif bád genumen sý, ðonne begyte ða báde hám",
+          "latin": null,
+          "english": "if a pledge be taken, then shall he obtain the pledge home again, or back",
+          "citations": "L. O. D. 3; Th. i. 354, 6, 7"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a pledge",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Be bádum",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 354, 5"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "expectation, waiting",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hwet is bád (expectatio) mín ?",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Srt. 38, 8"
+        },
+        {
+          "old_english": "Hé generede mé of þǽre báde (expectatione) Judéa folces",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 107, 26"
+        },
+        {
+          "old_english": "For þǽre báde his ændes",
+          "latin": null,
+          "english": null,
+          "citations": "282, 10"
+        },
+        {
+          "old_english": "Hit neálǽhte þǽre tíde his deáþes . . . Hine þá on þǽre sáwle báde ácsode his wíf",
+          "latin": null,
+          "english": "while the soul expected its departure",
+          "citations": "301, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wed",
+    "wedd"
+  ],
+  "source_text": [
+    "bád, e; f. [from bǽdan compellere] A pledge, stake, a thing distrained; pignus :-- Gif bád genumen sý, ðonne begyte ða báde hám if a pledge be taken, then shall he obtain the pledge home again, or back, L. O. D. 3; Th. i. 354, 6, 7. DER. bádian; néd-bád; nýd. v. wed, wedd.",
+    "bád. Add: I. a pledge:--Be bádum, Ll. Th. i. 354, 5. II. expectation, waiting:--Hwet is bád (expectatio) mín ?, Ps. Srt. 38, 8. Hé generede mé of þǽre báde (expectatione) Judéa folces, Gr. D. 107, 26. For þǽre báde his ændes, 282, 10. Hit neálǽhte þǽre tíde his deáþes . . . Hine þá on þǽre sáwle báde (while the soul expected its departure) ácsode his wíf, 301, 25."
+  ]
+}

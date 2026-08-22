@@ -1,0 +1,28 @@
+{
+  "english_lemma": "weigh",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "weigh.v.03",
+      "definition": "determine the weight of",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-wegan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "appendere",
+            "Abraham appendit quadringentos siclos argenti",
+            "utinam appenderentur peccata mea et calamitas in statera"
+          ],
+          "attestations": [
+            "Gen. 23, 16",
+            "Job 6, 2 ; Thw. 167, 18"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

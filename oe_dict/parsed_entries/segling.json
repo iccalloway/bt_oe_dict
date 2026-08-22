@@ -1,0 +1,40 @@
+{
+  "citation_form": "segling",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Sailing",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt wé ne mid seglinge ne mid równesse ówiht fremian mihte",
+          "latin": "ut neque velo neque remigio quicquam proficere valeremus",
+          "english": null,
+          "citations": "Bd. 5, 1 ; S. 613, 25"
+        },
+        {
+          "old_english": "Hé mid seglunge binnon ánum dæge com tó Antiochian",
+          "latin": null,
+          "english": null,
+          "citations": "Ap. Th. 6, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "segling, e ; f. Sailing :--Ðæt wé ne mid seglinge ne mid równesse ówiht fremian mihte ut neque velo neque remigio quicquam proficere valeremus, Bd. 5, 1 ; S. 613, 25. Hé mid seglunge binnon ánum dæge com tó Antiochian, Ap. Th. 6, 27."
+}

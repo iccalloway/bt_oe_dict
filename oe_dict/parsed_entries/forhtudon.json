@@ -1,0 +1,33 @@
+{
+  "citation_form": "forhtudon",
+  "variant_forms": [
+    "forhtodon"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "trepidāvērunt",
+      "latin": "trepidāvērunt",
+      "quotations": [
+        {
+          "old_english": "forhtudon",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 13, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "forhtian"
+  ],
+  "source_text": [
+    "forhtudon = forhtodon tr&e-short;p&i-short;d&a-long;v&e-long;runt, Ps. Spl. 13, 9; p. of forhtian to fear, tremble."
+  ]
+}

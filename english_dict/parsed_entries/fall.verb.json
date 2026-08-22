@@ -1,0 +1,52 @@
+{
+  "english_lemma": "fall",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "fall.v.23",
+      "definition": "lose an upright position suddenly",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hreósan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "irruere, mere, corruere, decidere",
+            "flaverunt venti et irruerunt in domum illam"
+          ],
+          "attestations": [
+            "Mt. Bos. 7, 25",
+            "Homl. Th. i. 72, 2, 5",
+            "Homl. Th. i. 192, 20"
+          ],
+          "quotations": [
+            {
+              "old_english": "On Godes naman ahreóse ðís tempel",
+              "english": "in God's name let this temple fall down",
+              "citations": "Homl. Th. i. 72, 2, 5"
+            }
+          ]
+        },
+        {
+          "oe_lemma": "BERSTAN",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "cum fragore dissilire, corruere, rumpi, frangi",
+            "muri illico corruerunt"
+          ],
+          "attestations": [
+            "Exon. 21 b; Th. 58, 10; Cri. 933",
+            "Beo. Th. 1640; B. 818",
+            "Cd. 167; Th. 208, 15; Exod. 483",
+            "Jos. 6, 20 : Ors. 1, 7; Bos. 29, 38",
+            "L. Ed. 3; Th. i. 160, 20"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

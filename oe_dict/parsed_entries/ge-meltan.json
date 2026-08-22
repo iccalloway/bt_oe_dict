@@ -1,0 +1,56 @@
+{
+  "citation_form": "ge-meltan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to melt (intrans.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mín heorte is gemolten swá þæt weax",
+          "latin": "factum est cor meum tamquam cera liquescens",
+          "english": null,
+          "citations": "Ps. Th. 21, 12"
+        },
+        {
+          "old_english": "Gemolten",
+          "latin": "liquefacta",
+          "english": null,
+          "citations": "Bl. Gl."
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to digest (intrans.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tácn ádeádodes magan, hú þ-bar; ne gemylt þ-bar; hé þigeþ",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 158, 15: 186, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-miltan"
+  ],
+  "source_text": [
+    "ge-meltan. Add: I. to melt (intrans.) :-- Mín heorte is gemolten swá þæt weax factum est cor meum tamquam cera liquescens, Ps. Th. 21, 12. Gemolten liquefacta, Bl. Gl. II. to digest (intrans. ) :- -- Tácn ádeádodes magan, hú þ-bar; ne gemylt þ-bar; hé þigeþ, Lch. ii. 158, 15: 186, 21. v. ge-miltan."
+  ]
+}

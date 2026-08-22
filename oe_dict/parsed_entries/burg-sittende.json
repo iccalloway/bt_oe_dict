@@ -1,0 +1,46 @@
+{
+  "citation_form": "burg-sittende",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "city-dwelling, inhabiting a city",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cd. 52; Th. 66, 24; Gen. 1089"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 12b; Th. 21, 20; Cri. 337"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "53a; Th. 186, 14; Az. 19"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "106b; Th. 407, 10; Rä. 26, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "burh-sittende"
+  ],
+  "source_text": "burg-sittende city-dwelling, inhabiting a city, Cd. 52; Th. 66, 24; Gen. 1089: Exon. 12b; Th. 21, 20; Cri. 337: 53a; Th. 186, 14; Az. 19: 106b; Th. 407, 10; Rä. 26, 3. v. burh-sittende."
+}

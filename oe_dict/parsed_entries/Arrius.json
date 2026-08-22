@@ -1,0 +1,36 @@
+{
+  "citation_form": "Arrius",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "ii",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Arius",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "L. Ælf. C. 3; Th. ii. 344, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Aríus"
+  ],
+  "source_text": "Arrius, ii; m. Arius, L. Ælf. C. 3; Th. ii. 344, 3. v. Aríus."
+}

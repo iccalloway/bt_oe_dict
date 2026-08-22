@@ -1,0 +1,36 @@
+{
+  "citation_form": "stíge",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A path",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Faestin vel ánstígan, festin (-s, MS.) vel ánstíga termofilas",
+          "latin": null,
+          "english": null,
+          "citations": "Txts. 104, 1042"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "stíg"
+  ],
+  "source_text": "stíga (?), an; m.: stíge (?), an; f. A path:--Faestin vel ánstígan, festin (-s, MS.) vel ánstíga termofilas, Txts. 104, 1042. v. stíg."
+}

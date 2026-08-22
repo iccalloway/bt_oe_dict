@@ -1,0 +1,26 @@
+{
+  "citation_form": "ge-tal",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. ge-zal agilis, rapidus, alacer.",
+      "meaning": "Quick, ready, active",
+      "latin": "agilis, velox, expeditus",
+      "quotations": [
+        {
+          "old_english": "Wǽron hyra tungan getale teónan gehwylcre and to yfele gehwám ungemet scearpe",
+          "latin": "lingua eorum machæra acuta",
+          "english": "their tongues were swift to every wrong and to every evil exceeding sharp",
+          "citations": "Ps. Th. 56, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-tal; adj. Quick, ready, active; agilis, velox, expeditus :-- Wǽron hyra tungan getale teónan gehwylcre and to yfele gehwám ungemet scearpe their tongues were swift to every wrong and to every evil exceeding sharp; lingua eorum machæra acuta, Ps. Th. 56, 5. [O. H. Ger. ge-zal agilis, rapidus, alacer.]"
+}

@@ -1,0 +1,25 @@
+{
+  "english_lemma": "concern",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "refer.v.02",
+      "definition": "be relevant to",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-behófian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "decere"
+          ],
+          "attestations": [
+            "Chr. 1093; Th. 360, 4"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

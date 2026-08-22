@@ -1,0 +1,69 @@
+{
+  "citation_form": "þúr",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "A. R. þurs-dei.",
+      "meaning": "Thor, the god who most nearly corresponded to Jupiter; hence Jupiter is translated by Þúr",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þunor oððe Ðúr Joppiter",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 47, 33"
+        },
+        {
+          "old_english": "Þúres módur Latona",
+          "latin": null,
+          "english": null,
+          "citations": "53, 4"
+        },
+        {
+          "old_english": "On Galienus dagum ðæs káseres hét Necetius Róme burge geréfa hí lǽdan tó Þúres deófulgeldum",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 128, 9"
+        },
+        {
+          "old_english": "Ðys godspel sceal on Þúres-dæg",
+          "latin": null,
+          "english": null,
+          "citations": "Rubc. Jn. 7, 40"
+        },
+        {
+          "old_english": "On Þúrs-dæg",
+          "latin": null,
+          "english": null,
+          "citations": "Rubc. Jn. 5, 30"
+        },
+        {
+          "old_english": "Ðúres-leáh, Ðúrgártún",
+          "latin": null,
+          "english": "The word is found also in local names",
+          "citations": "Cod. Dip. Kmbl. vi. 342"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Þunor",
+    "Þór"
+  ],
+  "source_text": [
+    "þúr, es; m. Thor, the god who most nearly corresponded to Jupiter; hence Jupiter is translated by Þúr :-- Þunor oððe Ðúr Joppiter, Wrt. Voc. ii. 47, 33. Þúres módur Latona, 53, 4. On Galienus dagum ðæs káseres hét Necetius Róme burge geréfa hí lǽdan tó Þúres deófulgeldum, Shrn. 128, 9. Ðys godspel sceal on Þúres-dæg, Rubc. Jn. 7, 40. On Þúrs-dæg, Rubc. Jn. 5, 30. The word is found also in local names, e.g. Ðúres-leáh, Ðúrgártún, Cod. Dip. Kmbl. vi. 342. [A. R. þurs-dei.] v. Þunor, Þór."
+  ]
+}

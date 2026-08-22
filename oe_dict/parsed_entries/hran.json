@@ -1,0 +1,66 @@
+{
+  "citation_form": "hran",
+  "variant_forms": [
+    "hron"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A whale, a mussel [?]",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hran ballena",
+          "latin": "ballena",
+          "english": null,
+          "citations": "Wrt. Voc. 65, 62"
+        },
+        {
+          "old_english": "Hron ballena vel pilina",
+          "latin": "ballena vel pilina",
+          "english": null,
+          "citations": "281, 55"
+        },
+        {
+          "old_english": "Hran musculus",
+          "latin": "musculus",
+          "english": null,
+          "citations": "Ælfc. Gl. 102; Som. 77, 78; Wrt. Voc. 56, 1"
+        },
+        {
+          "old_english": "On huntunge hranes",
+          "latin": "in venationem balenæ",
+          "english": null,
+          "citations": "Coll. Monast. Th. 24, 25"
+        },
+        {
+          "old_english": "Hér beóþ oft fangene seolas and hronas and mereswýn",
+          "latin": "capiuntur sæpissime et vituli marini, et delphines necnon et ballenæ",
+          "english": null,
+          "citations": "Bd. 1, 1; L. 473, 16"
+        },
+        {
+          "old_english": "Hronesnæs",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 5603, 6264; B. 2805, 3136"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hran, hron, es; m. A whale, a mussel [?] :-- Hran ballena, Wrt. Voc. 65, 62. Hron ballena vel pilina, 281, 55. Hran musculus, Ælfc. Gl. 102; Som. 77, 78; Wrt. Voc. 56, 1. On huntunge hranes in venationem balenæ, Coll. Monast. Th. 24, 25. Hér beóþ oft fangene seolas and hronas and mereswýn capiuntur sæpissime et vituli marini, et delphines necnon et ballenæ, Bd. 1, 1; L. 473, 16. Hronesnæs, Beo. Th. 5603, 6264; B. 2805, 3136."
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-deftlice",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Fitly, moderately",
+      "latin": "dēcenter",
+      "quotations": [
+        {
+          "old_english": "Gif ðú wile hál beón, drinc ðé gedeftlice",
+          "latin": null,
+          "english": "if thou wilt be healthy, drink in moderation",
+          "citations": "Prov. Kmbl. 61"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-dæftlíce"
+  ],
+  "source_text": "ge-deftlice; adv. Fitly, moderately; d&e-short;center :-- Gif ðú wile hál beón, drinc ðé gedeftlice if thou wilt be healthy, drink in moderation, Prov. Kmbl. 61. v. ge-dæftlíce."
+}

@@ -1,0 +1,63 @@
+{
+  "citation_form": "ymb-sǽtnung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a siege",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Emsǽtnungum",
+          "latin": "obsidione",
+          "english": null,
+          "citations": "Hpt. Gl. 525, 40"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a sedition",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mið ðý gié gehéreþ gefehto and ymbsétnungo (-e, Rush.) ymb burgum",
+          "latin": "cum audieritis proelia et seditiones",
+          "english": null,
+          "citations": "Lk. Skt. Lind. 21, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ymb",
+    "sǽtnung"
+  ],
+  "source_text": "ymb-sǽtnung, e ; f. I. a siege: -- Emsǽtnungum obsidione, Hpt. Gl. 525, 40. II. a sedition :-- Mið ðý gié gehéreþ gefehto and ymbsétnungo (-e, Rush.) ymb burgum (v. ymb, I. 1 e, and sǽtnung: or under I?) cum audieritis proelia et seditiones, Lk. Skt. Lind. 21, 9."
+}

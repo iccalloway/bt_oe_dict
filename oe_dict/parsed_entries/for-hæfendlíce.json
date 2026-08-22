@@ -1,0 +1,28 @@
+{
+  "citation_form": "for-hæfendlíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "continently",
+      "latin": "continenter",
+      "quotations": [
+        {
+          "old_english": "þ-bar; hí forhæfendlícast libbon",
+          "latin": "ut continentius uiuant",
+          "english": null,
+          "citations": "Chrd. 42, 29"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "for-hæfendlíce continently :-- þ-bar; hí forhæfendlícast libbon ut continentius uiuant, Chrd. 42, 29."
+  ]
+}

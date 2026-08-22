@@ -1,0 +1,54 @@
+{
+  "citation_form": "ge-tídan",
+  "variant_forms": [
+    "-týdan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "tídan to betide",
+      "meaning": "To betide, happen",
+      "latin": "contingere",
+      "quotations": [
+        {
+          "old_english": "Getídeþ oft it often happens",
+          "latin": null,
+          "english": "it often happens",
+          "citations": "Bt. 33, 2; Fox 124, 13"
+        },
+        {
+          "old_english": "Ðé-læs ðe ðé on sumum þingum wyrs getíde",
+          "latin": "ne deterius tibi āliquid contingat",
+          "english": null,
+          "citations": "Jn. Bos. 5, 14"
+        },
+        {
+          "old_english": "Getýdde hit, ðæt ...",
+          "latin": null,
+          "english": "it happened that...",
+          "citations": "Bt. 16, 2; Fox 52, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-tídan, -týdan; p. de; pp. ed [tídan to betide] To betide, happen; contingere :-- Getídeþ oft it often happens, Bt. 33, 2; Fox 124, 13. Ðé-læs ðe ðé on sumum þingum wyrs getíde ne deterius tibi &a-short;l&i-short;quid contingat, Jn. Bos. 5, 14. Getýdde hit, ðæt ... it happened that..., Bt. 16, 2; Fox 52, 34."
+}

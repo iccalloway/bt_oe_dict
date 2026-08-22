@@ -1,0 +1,59 @@
+{
+  "citation_form": "ELN",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": "This is the Heb. HEBREW [amma] a cubit: the Lat. c&u-short;b&i-short;tus a cubit, ulna an ell. Liddell and Scott say GREEK = c&u-short;b&i-short;tus, and ulna an ell properly contain twenty-four GREEK [GREEK the breadth of a finger, about 3/4 of an English inch]",
+      "meaning": "an ELL, a measure of length, the space from the point of the elbow to the end of the middle finger, eighteen inches",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "hwylc eówer mæg sóþlíce geþencan ðæt he ge-eácnige áne elne to hys anlícnesse?",
+          "latin": "quis autem vestrum c&o-long;g&i-short;tans p&o-short;test adj&i-short;c&e-short;re ad st&a-short;t&u-long;ram suam c&u-short;b&i-short;tum &u-long;num?",
+          "english": null,
+          "citations": "Mt. Bos. 6, 27; Mt. Vulg. 6, 27"
+        },
+        {
+          "old_english": "Hí wǽron unfeor fram lande, swylce hit wǽre twá hund elna",
+          "latin": "non longe &e-short;rant a terra, sed qu&a-short;si c&u-short;b&i-short;tis d&u-short;centis [18 in. × 200 ÷ 12 = 300 ft.]",
+          "english": null,
+          "citations": "Jn. Bos. 21, 8"
+        },
+        {
+          "old_english": "Fíftena stód deóp ofer dúnum se drenceflód monnes elna",
+          "latin": null,
+          "english": "the deluge stood deep over the downs, fifteen ells of man",
+          "citations": "Cd. 69; Th. 84, 17; Gen. 1399"
+        },
+        {
+          "old_english": "Eln ulna",
+          "latin": null,
+          "english": null,
+          "citations": "Glos. Brux. Recd. 38, 62; Wrt. Voc. 64, 71"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "the Royal",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ELN, e; f. I. an ELL, a measure of length, the space from the point of the elbow to the end of the middle finger, eighteen inches. This is the Heb. HEBREW [amma] a cubit: the Lat. c&u-short;b&i-short;tus a cubit, ulna an ell. Liddell and Scott say GREEK = c&u-short;b&i-short;tus, and ulna an ell properly contain twenty-four GREEK [GREEK the breadth of a finger, about 3/4 of an English inch] :-- GREEK; Mt. 6, 27; &i-long;p whas &i-long;zwara maurnands mag anaaukan ana wahstu seinana aleina aina? Mt. Bos. Goth. 6, 27; quis autem vestrum c&o-long;g&i-short;tans p&o-short;test adj&i-short;c&e-short;re ad st&a-short;t&u-long;ram suam c&u-short;b&i-short;tum &u-long;num? Mt. Vulg. 6, 27; hwylc eówer mæg sóþlíce geþencan ðæt he ge-eácnige áne elne to hys anlícnesse? Mt. Bos. 6, 27; Wycl. says cubite; Tynd. cubit. It is therefore presumed that the Grk. GREEK = Heb. HEBREW was eighteen inches; for twenty-four GREEK × by 3/4 = [.75] = eighteen inches. In the parallel passage, Lk. Bos. 12, 25, there is not any Gothic; the Grk. Lat. and A. Sax. are the same as in the preceding verse. Lk. Bos. 12, 25 is, therefore, not quoted. Hí wǽron unfeor fram lande, swylce hit wǽre twá hund elna non longe &e-short;rant a terra, sed qu&a-short;si c&u-short;b&i-short;tis d&u-short;centis [18 in. × 200 ÷ 12 = 300 ft.], Jn. Bos. 21, 8. Fíftena stód deóp ofer dúnum se drenceflód monnes elna the deluge stood deep over the downs, fifteen ells of man, Cd. 69; Th. 84, 17; Gen. 1399. Eln ulna, Glos. Brux. Recd. 38, 62; Wrt. Voc. 64, 71. II. the Royal"
+}

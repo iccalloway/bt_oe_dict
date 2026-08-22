@@ -1,0 +1,46 @@
+{
+  "citation_form": "weorc-hús",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Werkehowse artificina, opificium, Prompt. Parv. 522. A shoppe or a werkehous operarium, Wülck. Gl. 599, 11.",
+      "meaning": "A workshop",
+      "latin": "officina",
+      "quotations": [
+        {
+          "old_english": "Weorchús officina",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 58, 23"
+        },
+        {
+          "old_english": "ergasterium vel operatorium",
+          "latin": null,
+          "english": null,
+          "citations": "59, 6"
+        },
+        {
+          "old_english": "Werchús ergasterium",
+          "latin": null,
+          "english": null,
+          "citations": "34, 54"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "weorc-hús, es; n. A workshop: -- Weorchús officina, Wrt. Voc. i. 58, 23: ergasterium vel operatorium, 59, 6. Werchús ergasterium, 34, 54. [Werkehowse artificina, opificium, Prompt. Parv. 522. A shoppe or a werkehous operarium, Wülck. Gl. 599, 11.]"
+}

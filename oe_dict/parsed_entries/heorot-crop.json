@@ -1,0 +1,28 @@
+{
+  "citation_form": "heorot-crop",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Genim heorotcrop neobeweardne",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 50. II."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "heorot-crop. Add :-- Genim heorotcrop neobeweardne, Lch. ii. 50. II."
+}

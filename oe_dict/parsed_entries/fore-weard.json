@@ -1,0 +1,67 @@
+{
+  "citation_form": "fore-weard",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ymb þá foreward þe wǽron geworhte ... And sé ðe þás foreward tóbreke",
+          "latin": null,
+          "english": null,
+          "citations": "C.D. iv. 263, 13-21"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "(1)",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hí mid forewerdum tán stæppað",
+          "latin": "uix imprimunt summa uestigia",
+          "english": null,
+          "citations": "Chrd. 64, 35"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "¶.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif hí standað on foreweardan on ðǽre sprǽce",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. Z. 241, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fore-weard. Dele'(?)', and add :-- Ymb þá foreward þe wǽron geworhte ... And sé ðe þás foreward tóbreke, C.D. iv. 263, 13-21.",
+    "fore-weard; (1) add :-- Hí mid forewerdum tán stæppað uix imprimunt summa uestigia, Chrd. 64, 35. ¶. add :-- Gif hí standað on foreweardan on ðǽre sprǽce, Ælfc. Gr. Z. 241, 10."
+  ]
+}

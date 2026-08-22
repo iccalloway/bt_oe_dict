@@ -1,0 +1,36 @@
+{
+  "citation_form": "sweor-sceacel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A neck-shackle, pillory",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fótcopsa[s] vel sweorscacul nerui, boia",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 21, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "sweor-cops"
+  ],
+  "source_text": "sweor-sceacel, es; m. A neck-shackle, pillory:?-Fótcopsa[s] vel sweorscacul nerui, boia, Wrt. Voc. i. 21, 15. v. sweor-cops."
+}

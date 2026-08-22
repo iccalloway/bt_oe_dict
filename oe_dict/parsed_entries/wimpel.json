@@ -1,0 +1,56 @@
+{
+  "citation_form": "wimpel",
+  "variant_forms": [
+    "winpel"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Sum seið þ-bar; hit limpeð to ene wummon cundeliche forte were wimpel. Nai: wimpel. . . ne nemned hali write, ah wriheles of heuet . . . Wrihen, þe Apostel seið, naut wimplin, A. R. 420, note a. Hyre body wyþ a mantel, a wympel aboute her heued, R. Glouc. 338, 4. Ful semely hire wympel ipynched was, Chauc. Prol. 151. O. H. Ger. wimpal theristrum: Icel. vimpill a hood, veil.",
+      "meaning": "An article of woman's dress, a wimple",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Winpel vel orl ricinum",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 17, I"
+        },
+        {
+          "old_english": "Winpel anabala",
+          "latin": "anaboladium amictorium lineum feminarum, quo humeri operiuntur",
+          "english": null,
+          "citations": "26, I"
+        },
+        {
+          "old_english": "Wimple goldgewefenum cyclade auro texta",
+          "latin": "cyclade auro texta",
+          "english": null,
+          "citations": "Hpt. Gl. 506, 63"
+        },
+        {
+          "old_english": "Wimplum cycladibus",
+          "latin": null,
+          "english": null,
+          "citations": "480, 71: 486, 41: mafortibus, i. velaminibus, 526, 52 : Anglia xiii. 37, 293"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "wimpel, winpel, es; m. An article of woman's dress, a wimple :-- Winpel vel orl ricinum, Wrt. Voc. i. 17, I. Winpel anabala (cf. anaboladium amictorium lineum feminarum, quo humeri operiuntur, Migne), 26, I. Wimple goldgewefenum cyclade auro texta, Hpt. Gl. 506, 63. Wimplum cycladibus, 480, 71: 486, 41: mafortibus, i. velaminibus, 526, 52 : Anglia xiii. 37, 293. [Sum seið þ-bar; hit limpeð to ene wummon cundeliche forte were wimpel. Nai: wimpel. . . ne nemned hali write, ah wriheles of heuet . . . Wrihen, þe Apostel seið, naut wimplin, A. R. 420, note a. Hyre body wyþ a mantel, a wympel aboute her heued, R. Glouc. 338, 4. Ful semely hire wympel ipynched was, Chauc. Prol. 151. O. H. Ger. wimpal theristrum: Icel. vimpill a hood, veil.]"
+  ]
+}

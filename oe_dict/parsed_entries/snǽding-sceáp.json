@@ -1,0 +1,36 @@
+{
+  "citation_form": "snǽding-sceáp",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A sheep to be killed for eating",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hý teohhiaþ ús him tó snǽdincgsceápum",
+          "latin": "aestimati sumus ut oves occisionis",
+          "english": null,
+          "citations": "Ps. Th. 43, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "snǽding-sceáp, es; n. A sheep to be killed for eating:--Hý teohhiaþ ús him tó snǽdincgsceápum aestimati sumus ut oves occisionis, Ps. Th. 43, 23."
+  ]
+}

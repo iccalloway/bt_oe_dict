@@ -1,0 +1,28 @@
+{
+  "citation_form": "eal-mihtig",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "All-mighty",
+      "latin": "omn&i-short;p&o-short;tens",
+      "quotations": [
+        {
+          "old_english": "On Godes ealmihtiges naman",
+          "latin": null,
+          "english": "in the name of almighty God",
+          "citations": "Th. Diplm. A.D. 886-899; 138, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "eall-mihtig"
+  ],
+  "source_text": "eal-mihtig; adj. All-mighty; omn&i-short;p&o-short;tens :-- On Godes ealmihtiges naman in the name of almighty God, Th. Diplm. A.D. 886-899; 138, 34. v. eall-mihtig."
+}

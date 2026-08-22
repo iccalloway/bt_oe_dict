@@ -1,0 +1,175 @@
+{
+  "citation_form": "oþþe",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "conjunction"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "a particle co-ordinating words, phrases, or clauses, between which there is an alternative",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": null,
+              "meaning": "words",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Feorran oððe neán",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 1047"
+                },
+                {
+                  "old_english": "Æ-acute;r oððe síþ",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Cri. 1053"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": null,
+              "meaning": "phrases",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Wís on gewitte oððe on wordcwidum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Crä. 13"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(c)",
+              "heading": null,
+              "meaning": "clauses",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þonne þæt mód ymbe hwæt tweónode, oðþe hit hwæs wilnode tó witanne",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Solil. H. 2, 22"
+                },
+                {
+                  "old_english": "Hú mæg ic ládigan láðan sprǽce oððe andsware ǽnige findan ?",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Cri. 184"
+                },
+                {
+                  "old_english": "Oðþo",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bd. 1, 27; Sch. 74, 14"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "where an alternative is not expressed",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé wolde fandian hú longe þæt land norþryhte lǽge, oþþe hwæðer ǽnig mon benorðan þǽm wéstenne búde",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 1, 1; S. 17, 8"
+            },
+            {
+              "old_english": null,
+              "latin": null,
+              "english": "introducing each question in a series where the subjects are not alternative",
+              "citations": "Bd. 1, 27; Sch. 76, 1-20"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "conjunction"
+      },
+      "sense_label": "I b.",
+      "supplemental": null,
+      "meaning": "used after hwæþer",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hwæþer sceal geeácnad wíf fulwad beón, oððe æfter þon þe heó bearn cenneð?",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 1, 27; Sch. 75, 20"
+        },
+        {
+          "old_english": "Beseah Drihten . . . hwæðer his mihta andgyt ǽnig hæfde, oððe God wolde sécan",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 52, 3"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "conjunction"
+      },
+      "sense_label": "II b.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eálá, wǽre hé áuðer oððe hát, oððe ceald",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 445, 36"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "conjunction"
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "after a primary statement, appending a secondary alternative or consequence of setting aside the primary statement",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé áxode hig hwæðer hire fæder wǽre hál . . . oððe hwæðer hé lifode",
+          "latin": "interrogavit eos dicens, 'Salvusne est pater vester. . . ? adhuc vivit ?",
+          "english": null,
+          "citations": "Gen. 43, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "oþþe. I. add: a particle co-ordinating words, phrases, or clauses, (1) between which there is an alternative, (a) words :-- Feorran oððe neán, Gen. 1047. Æ-acute;r oððe síþ, Cri. 1053. (b) phrases :-- Wís on gewitte oððe on wordcwidum, Crä. 13. (c) clauses :-- Þonne þæt mód ymbe hwæt tweónode, oðþe hit hwæs wilnode tó witanne, Solil. H. 2, 22. Hú mæg ic ládigan láðan sprǽce oððe andsware ǽnige findan ?, Cri. 184. Oðþo, Bd. 1, 27; Sch. 74, 14. (2) where an alternative is not expressed :-- Hé wolde fandian hú longe þæt land norþryhte lǽge, oþþe hwæðer ǽnig mon benorðan þǽm wéstenne búde, Ors. 1, 1; S. 17, 8. ¶ introducing each question in a series where the subjects are not alternative, Bd. 1, 27; Sch. 76, 1-20. I b. used after hwæþer :-- Hwæþer sceal geeácnad wíf fulwad beón, oððe æfter þon þe heó bearn cenneð?, Bd. 1, 27; Sch. 75, 20. Beseah Drihten . . . hwæðer his mihta andgyt ǽnig hæfde, oððe God wolde sécan, Ps. Th. 52, 3. II b. add :-- Eálá, wǽre hé áuðer oððe hát, oððe ceald, Past. 445, 36. III. after a primary statement, appending a secondary alternative or consequence of setting aside the primary statement :-- Hé áxode hig hwæðer hire fæder wǽre hál . . . oððe hwæðer hé lifode interrogavit eos dicens, 'Salvusne est pater vester. . . ? adhuc vivit ?, Gen. 43, 27."
+  ]
+}

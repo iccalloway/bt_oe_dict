@@ -1,0 +1,27 @@
+{
+  "english_lemma": "mark",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "mark.n.04",
+      "definition": "a visible indication made on a surface",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "DYNT",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "contusio, impressio, sonus"
+          ],
+          "attestations": [
+            "L. Ethb. 58; Th. i. 18, 1",
+            "Salm. Kmbl. 245; Sal. 122",
+            "Bt. 38, 2; Fox 198, 9"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "fót-sceamel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "[O.H. Ger. fuoz-scamal: Icel. fót-skemill.]",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fótscoemel",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. L. 5, 35"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fót-sceamel. Add :-- Fótscoemel, Mt. L. 5, 35. [O.H. Ger. fuoz-scamal: Icel. fót-skemill.]"
+}

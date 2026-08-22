@@ -1,0 +1,38 @@
+{
+  "citation_form": "smeaþancollíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé him swýðe smeáþancollíce getǽhte þá syndrigan stówa",
+          "latin": "loca singula subtiliter designavit",
+          "english": null,
+          "citations": "Gr. D. 148, 15"
+        },
+        {
+          "old_english": "Hé smeáþancollíce áxiende oncneów",
+          "latin": "requirens subtiliter agnovit",
+          "english": null,
+          "citations": "172, 14"
+        },
+        {
+          "old_english": "Hí embe þæt heofonlice líf geornlíce smeádon swýðe smeáþancollíce",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 3, 509"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "smeaþancollíce. Add :-- Hé him swýðe smeáþancollíce getǽhte þá syndrigan stówa loca singula subtiliter designavit, Gr. D. 148, 15. Hé smeáþancollíce áxiende oncneów requirens subtiliter agnovit, 172, 14. Hí embe þæt heofonlice líf geornlíce smeádon swýðe smeáþancollíce, Hml. S. 3, 509."
+}

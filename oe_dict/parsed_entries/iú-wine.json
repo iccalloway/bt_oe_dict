@@ -1,0 +1,34 @@
+{
+  "citation_form": "iú-wine",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A friend of old or former times",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wát his iúwine eorþan forgiefene",
+          "latin": null,
+          "english": "knows that his friends of old are committed to earth",
+          "citations": "Exon. 82 b; Th. 311, 15 ; Seef. 92"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "iú-wine, es ; m. A friend of old or former times :-- Wát his iúwine eorþan forgiefene knows that his friends of old are committed to earth, Exon. 82 b; Th. 311, 15 ; Seef. 92."
+}

@@ -1,0 +1,36 @@
+{
+  "citation_form": "sige-méce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A victorious sword, a sword wielded by a victor's hand",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 93, 24 ; Cri. 1531"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "sige-méce, es ; m. A victorious sword, a sword wielded by a victor's hand, Exon. Th. 93, 24 ; Cri. 1531."
+  ]
+}

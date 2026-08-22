@@ -1,0 +1,196 @@
+{
+  "citation_form": "ā-slīdan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Āslād and gefióll",
+          "latin": "labat",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 50, 62"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "literal, to slip, fall",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sceal ðæt heáfod gíman ðæt ðā fēt ne āslīden",
+              "latin": null,
+              "english": null,
+              "citations": "Past. 133, I"
+            },
+            {
+              "old_english": "Hē sceolde āslīdan on þā eá",
+              "latin": null,
+              "english": null,
+              "citations": "Gr. D. 319, 13"
+            },
+            {
+              "old_english": "His fōt wearð āsliden",
+              "latin": null,
+              "english": null,
+              "citations": "320, 9: 81, 25"
+            },
+            {
+              "old_english": "Se cniht feóll of ðām munte . . . hwǣr se līchama þæs āslidenan cnihtes mihte beón funden",
+              "latin": null,
+              "english": null,
+              "citations": "212, 29"
+            },
+            {
+              "old_english": "Gastas hwīlum on heánnesse upp worpene, hwīlum eft āslidene on grund",
+              "latin": null,
+              "english": null,
+              "citations": "Bd. 5, 12 ; S. 628, 25"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "Ia.",
+              "heading": null,
+              "meaning": "to fall, be removed to an unfavourable place",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ne lǣt mē āslīdon on þā firenfullan eardungstōwe",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Angl. xii. 503, 5"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "figurative",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "to fall into sin, lapse, relapse",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þæs mannes mōd āslīt tō ðǣre geðafunge",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. i. 176, 2"
+                },
+                {
+                  "old_english": "Wē āslīdað on ðæm unþeáwe",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Past. 313, 17"
+                },
+                {
+                  "old_english": "On lust āslād",
+                  "latin": "in luxum labescit",
+                  "english": null,
+                  "citations": "An. Ox. 4651"
+                },
+                {
+                  "old_english": "Mīn fōt āslād",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. ii. 392, 10"
+                },
+                {
+                  "old_english": "Þæt ic ne āslīde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ps. Th. 16, 5"
+                },
+                {
+                  "old_english": "Gif se man æfter his fulluhte āslīde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. i. 292, 23"
+                },
+                {
+                  "old_english": "Gif wē hwǣr āslīdon",
+                  "latin": null,
+                  "english": null,
+                  "citations": "170, 18"
+                },
+                {
+                  "old_english": "Þā þe ǣne āslidan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 31, 740"
+                },
+                {
+                  "old_english": "Āslidenum",
+                  "latin": "lapsis",
+                  "english": null,
+                  "citations": "Hy. Srt. 7, II"
+                },
+                {
+                  "old_english": "Āslidenum",
+                  "latin": "relapsis",
+                  "english": null,
+                  "citations": "An. Ox. 4746: Hml. Th. i. 492, II"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "to fall, be hurt or destroyed",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Fram deóflum forbrōden hē āslāt (cf. occubuit. Ald. 60, 26)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Shrn. 56, 12"
+                },
+                {
+                  "old_english": "Gif hit þ̄ wǣre þ̄ þīn dohtor on ǣnig lāð āsliden wǣre",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. S. 33, 223"
+                },
+                {
+                  "old_english": "Āsliden and gewǣht",
+                  "latin": "elisa et labefacta",
+                  "english": null,
+                  "citations": "An. Ox. 4789: Wrt. Voc. ii. 86, 44"
+                },
+                {
+                  "old_english": "Ealle āslidene",
+                  "latin": "omnes elisos",
+                  "english": null,
+                  "citations": "Ps. L. 144, 14"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "&a-long;-sl&i-long;dan. Add :-- &A-long;sl&a-long;d and gefióll labat, Wrt. Voc. ii. 50, 62. I. literal, to slip, fall :-- Sceal &d-bar;æt heáfod g&i-long;man &d-bar;æt &d-bar;&a-long; f&e-long;t ne &a-long;sl&i-long;den, Past. 133, I. H&e-long; sceolde &a-long;sl&i-long;dan on þ&a-long; eá, Gr. D. 319, 13. His f&o-long;t wear&d-bar; &a-long;sliden, 320, 9: 81, 25. Se cniht feóll of &d-bar;&a-long;m munte . . . hwæ-long;r se l&i-long;chama þæs &a-long;slidenan cnihtes mihte beón funden, 212, 29. Gastas hw&i-long;lum on heánnesse upp worpene, hw&i-long;lum eft &a-long;slidene on grund, Bd. 5, 12 ; S. 628, 25. Ia. to fall, be removed to an unfavourable place :-- Ne læ-long;t m&e-long; &a-long;sl&i-long;don on þ&a-long; firenfullan eardungst&o-long;we, Angl. xii. 503, 5. II. figurative, (l) to fall into sin, lapse, relapse :-- Þæs mannes m&o-long;d &a-long;sl&i-long;t t&o-long; &d-bar;æ-long;re ge&d-bar;afunge, Hml. Th. i. 176, 2. W&e-long; &a-long;sl&i-long;da&d-bar; on &d-bar;æ-long;m un&d-bar;eáwe. Past. 313, 17. On lust &a-long;sl&a-long;d in luxum labescit, An. Ox. 4651. M&i-long;n f&o-long;t &a-long;sl&a-long;d. Hml. Th. ii. 392, 10. Þæt ic ne &a-long;sl&i-long;de, Ps. Th. 16, 5. Gif se man æfter his fulluhte &a-long;sl&i-long;de, Hml. Th. i. 292, 23. Gif w&e-long; hwæ-long;r &a-long;sl&i-long;don, 170, 18. Þ&a-long; þe æ-long;ne &a-long;slidan, Hml. S. 31, 740. &A-long;slidenum lapsis, Hy. Srt. 7, II: relapsis, An. Ox. 4746: Hml. Th. i. 492, II. (2) to fall, be hurt or destroyed :-- Fram deóflum forbr&o-long;den h&e-long; &a-long;sl&a-long;t (cf. occubuit. Ald. 60, 26), Shrn. 56, 12. Gif hit þ-bar; wæ-long;re þ-bar; þ&i-long;n dohtor on æ-long;nig l&a-long;&d-bar; &a-long;sliden wæ-long;re, Hml. S. 33, 223. &A-long;sliden and gewæ-long;ht elisa et labefacta, An. Ox. 4789: Wrt. Voc. ii. 86, 44. Ealle &a-long;slidene omnes elisos, Ps. L. 144, 14."
+  ]
+}

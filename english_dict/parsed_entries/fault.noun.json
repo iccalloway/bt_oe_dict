@@ -1,0 +1,23 @@
+{
+  "english_lemma": "fault",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "demerit.n.02",
+      "definition": "the quality of being inadequate or falling short of perfection",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "LEAHTER",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "vitium"
+          ],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

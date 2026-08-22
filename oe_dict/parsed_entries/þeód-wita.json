@@ -1,0 +1,68 @@
+{
+  "citation_form": "þeód-wita",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "I a.",
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Rǽdborena &l-bar; þeódwitena",
+              "latin": "iurisperitorum",
+              "english": null,
+              "citations": "An. Ox. 8, 349"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "II b.",
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þeodwitan",
+              "latin": "philosophi",
+              "english": null,
+              "citations": "Scint. 106, 6"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "þeód-wita. I. add: cf. þeód; I a. :-- Rǽdborena &l-bar; þeódwitena iurisperitorum, An. Ox. 8, 349. II b. add :-- Þeodwitan philosophi, Scint. 106, 6."
+  ]
+}

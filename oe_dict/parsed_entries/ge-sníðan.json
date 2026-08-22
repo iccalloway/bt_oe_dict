@@ -1,0 +1,27 @@
+{
+  "citation_form": "ge-sníðan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to lie down",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Dætte gesniða [Rush. gesnide] gedydon alle ut accumbere facerent omnes",
+          "latin": "accumbere facerent omnes",
+          "english": null,
+          "citations": "Mk. Skt. Lind. 6, 39"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-sníðan [?] to lie down :-- Dætte gesniða [Rush. gesnide] gedydon alle ut accumbere facerent omnes, Mk. Skt. Lind. 6, 39."
+}

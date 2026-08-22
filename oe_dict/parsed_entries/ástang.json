@@ -1,0 +1,29 @@
+{
+  "citation_form": "ástang",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "Goth. us-stiggan.",
+      "meaning": "he stabbed himself to death with his sword",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "ástang",
+          "latin": null,
+          "english": "he stabbed himself to death with his sword",
+          "citations": "Nor. 48, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ástang he stabbed himself to death with his sword. Nor. 48, 24. [Goth. us-stiggan.]"
+  ]
+}

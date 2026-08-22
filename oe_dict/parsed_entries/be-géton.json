@@ -1,0 +1,29 @@
+{
+  "citation_form": "be-géton",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "begot; p. of be-gitan",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "be-géton",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. 223; Th. 294, 20; Sat. 474"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-gitan"
+  ],
+  "source_text": "be-géton begot, Cd. 223; Th. 294, 20; Sat. 474; p. of be-gitan."
+}

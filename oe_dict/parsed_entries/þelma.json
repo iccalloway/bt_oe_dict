@@ -1,0 +1,38 @@
+{
+  "citation_form": "þelma",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A trap",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þelman tendiculum",
+          "latin": null,
+          "english": null,
+          "citations": "Hpt. Gl. 429, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "þel"
+  ],
+  "source_text": [
+    "þelma, an; m. A trap :-- Þelman tendiculum, Hpt. Gl. 429, 17. Cf. (?) þel"
+  ]
+}

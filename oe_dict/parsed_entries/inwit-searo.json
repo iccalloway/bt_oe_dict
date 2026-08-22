@@ -1,0 +1,30 @@
+{
+  "citation_form": "inwit-searo",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Malicious or treacherous artifice",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 2206; B. 1101"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "inwit-searo; n. Malicious or treacherous artifice, Beo. Th. 2206; B. 1101."
+  ]
+}

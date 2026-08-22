@@ -1,0 +1,28 @@
+{
+  "citation_form": "ge-treminc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a fort, fortress",
+      "latin": "munimentum",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Prov. 12, Lye."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-treminc a fort, fortress; munimentum, Prov. 12, Lye."
+}

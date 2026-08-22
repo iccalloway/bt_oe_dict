@@ -1,0 +1,21 @@
+{
+  "english_lemma": "revenge",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "retaliation.n.01",
+      "definition": "action taken in return for an injury or offense",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "GYRN-WRACU",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

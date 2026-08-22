@@ -1,0 +1,42 @@
+{
+  "citation_form": "bíge",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A bending, turning, bend, an angle, a corner",
+      "latin": "flexus, sinus, angulus",
+      "quotations": [
+        {
+          "old_english": "Se engel eóde into ánum nyrwette, ðe he ne mihte forbúgan on náðere healfe, forðamðe ðǽr nán bíge næs",
+          "latin": "angelus ad locum angustum transivit, ubi nec ad dexteram nec ad sinistram poterat deviare",
+          "english": null,
+          "citations": "Num. 22, 26"
+        },
+        {
+          "old_english": "Bíge limes",
+          "latin": "fractura membri",
+          "english": null,
+          "citations": "Fulg. 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "býge"
+  ],
+  "source_text": "bíge, es; m. A bending, turning, bend, an angle, a corner; flexus, sinus, angulus :-- Se engel eóde into ánum nyrwette, ðe he ne mihte forbúgan on náðere healfe, forðamðe ðǽr nán bíge næs angelus ad locum angustum transivit, ubi nec ad dexteram nec ad sinistram poterat deviare, Num. 22, 26. Bíge limes fractura membri, Fulg. 19. v. býge."
+}

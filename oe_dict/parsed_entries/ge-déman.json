@@ -1,0 +1,84 @@
+{
+  "citation_form": "ge-déman",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Goth. ga-dómjan.",
+      "meaning": "To deem, judge, determine, ordain, decree, doom, condemn",
+      "latin": "jūdicāre, decernĕre, sancīre, condemnāre",
+      "quotations": [
+        {
+          "old_english": "He wile gedéman dǽda gehwylce",
+          "latin": null,
+          "english": "he will judge each deed",
+          "citations": "Exon. 15 b; Th. 33, 13; Cri. 525"
+        },
+        {
+          "old_english": "Ðæt he ǽghwelcne on riht gedémeþ",
+          "latin": null,
+          "english": "that he judge every one righteously",
+          "citations": "L. Alf. 49; Th. i. 56, 30 : Ps. Th. 57, 10"
+        },
+        {
+          "old_english": "He gedémde úrne Drihten to deáþe",
+          "latin": null,
+          "english": "he condemned our Lord to death",
+          "citations": "Ors. 6, 3; Bos. 117, 42"
+        },
+        {
+          "old_english": "Gedémdon [MS. gedémden]",
+          "latin": "sanxērunt",
+          "english": null,
+          "citations": "Mone B. 1940"
+        },
+        {
+          "old_english": "Se ðe undóm gedéme",
+          "latin": null,
+          "english": "he who shall doom unjust doom",
+          "citations": "L. C. S. 15; Th. i. 384, 7"
+        },
+        {
+          "old_english": "Swá gedémed is",
+          "latin": null,
+          "english": "as is ordained",
+          "citations": "Exon. 58 a; Th. 207, 26; Ph. 147"
+        },
+        {
+          "old_english": "He gedémed hæfde ðæt Ceólwulf æfter hint cyning wǽre",
+          "latin": "successōrem fore Ceoluulfum decrēvisset",
+          "english": null,
+          "citations": "Bd. 5, 23; S. 646, 1 : Cd. 186; Th. 231, 11; Dan. 245"
+        },
+        {
+          "old_english": "Fýnd syndon eówere gedémed to deáþe",
+          "latin": null,
+          "english": "your enemies are condemned to death",
+          "citations": "Judth. 11; Thw. 24, 19; Jud. 196"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-déman; p. de; pp. ed To deem, judge, determine, ordain, decree, doom, condemn; j&u-long;d&i-short;c&a-long;re, decern&e-short;re, sanc&i-long;re, condenm&a-long;re :-- He wile gedéman dǽda gehwylce he will judge each deed, Exon. 15 b; Th. 33, 13; Cri. 525. Ðæt he ǽghwelcne on riht gedémeþ that he judge every one righteously, L. Alf. 49; Th. i. 56, 30 : Ps. Th. 57, 10. He gedémde úrne Drihten to deáþe he condemned our Lord to death, Ors. 6, 3; Bos. 117, 42. Gedémdon [MS. gedémden] sanx&e-long;runt, Mone B. 1940. Se ðe undóm gedéme he who shall doom unjust doom, L. C. S. 15; Th. i. 384, 7. Swá gedémed is as is ordained, Exon. 58 a; Th. 207, 26; Ph. 147. He gedémed hæfde ðæt Ceólwulf æfter hint cyning wǽre success&o-long;rem fore Ceoluulfum decr&e-long;visset, Bd. 5, 23; S. 646, 1 : Cd. 186; Th. 231, 11; Dan. 245. Fýnd syndon eówere gedémed to deáþe your enemies are condemned to death, Judth. 11; Thw. 24, 19; Jud. 196. [Goth. ga-dómjan.]"
+  ]
+}

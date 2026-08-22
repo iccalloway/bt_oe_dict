@@ -1,0 +1,78 @@
+{
+  "citation_form": "æt-bredan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ætbryt",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-bræd",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-brudon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-broden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "-breden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To take away, withdraw, set at liberty, to enlarge, release, rescue",
+      "latin": "tollere, eri-pere",
+      "quotations": [
+        {
+          "old_english": "Se deófol ætbryt ðæt word",
+          "latin": "diabolus tollit verbum",
+          "english": null,
+          "citations": "Lk. Bos. 8, 12"
+        },
+        {
+          "old_english": "Ge ætbrudon ðæs ingehýdes cǽge",
+          "latin": "tulistis clavem scientiæ",
+          "english": null,
+          "citations": "11, 52"
+        },
+        {
+          "old_english": "Ðæt ðe he hæfþ him biþ ætbroden",
+          "latin": "quod habet auferetur ab eo",
+          "english": null,
+          "citations": "Mt. Bos. 13, 12: 21, 43: Ex. 22, 10"
+        },
+        {
+          "old_english": "Ðe hys wealas him ætbrudon",
+          "latin": "quem abstulerant servi ejus",
+          "english": null,
+          "citations": "Gen. 21, 25"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bredan"
+  ],
+  "source_text": "æt-bredan, he ætbryt; p. -bræd, pl. -brudon; pp. -broden, -breden; v. a. To take away, withdraw, set at liberty, to enlarge, release, rescue; tollere, eri-pere. -- Se deófol ætbryt ðæt word diabolus tollit verbum, Lk. Bos. 8, 12. Ge ætbrudon ðæs ingehýdes cǽge tulistis clavem scientiæ, 11, 52. Ðæt ðe he hæfþ him biþ ætbroden quod habet auferetur ab eo, Mt. Bos. 13, 12: 21, 43: Ex. 22, 10. Ðe hys wealas him ætbrudon quem abstulerant servi ejus, Gen. 21, 25. DER. bredan."
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "emn-líce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Equally, evenly",
+      "latin": "æquāliter, æque",
+      "quotations": [
+        {
+          "old_english": "Ðæt hine ealle emnlíce hérian",
+          "latin": null,
+          "english": "that all praise him equally",
+          "citations": "Ps. Th. 32, 1: Bt. 13 ; Fox 38, 34, MS. Cot."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "efenr-líce"
+  ],
+  "source_text": "emn-líce; adv. Equally, evenly; æqu&a-long;l&i-short;ter, æque :-- Ðæt hine ealle emnlíce hérian that all praise him equally, Ps. Th. 32, 1: Bt. 13 ; Fox 38, 34, MS. Cot. v. efenr-líce."
+}

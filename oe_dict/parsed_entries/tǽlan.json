@@ -1,0 +1,48 @@
+{
+  "citation_form": "tǽlan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tǽlan carpere (strophoso rictu) &l-bar; vituperare",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 15, 2"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tǽlede derogemur (strophosae sugillationis ludibrio)",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 8, 393"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "tǽlan. II. add :-- Tǽlan carpere (strophoso rictu) &l-bar; vituperare, An. Ox. 15, 2. III. add :-- Tǽlede derogemur (strophosae sugillationis ludibrio), An. Ox. 8, 393."
+  ]
+}

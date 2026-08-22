@@ -1,0 +1,34 @@
+{
+  "citation_form": "hæring",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hæring sordino",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 281, 64"
+        },
+        {
+          "old_english": "Heringas sardinas",
+          "latin": null,
+          "english": null,
+          "citations": "Txts. 94, 910"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hæring. Add :-- Hæring sordino, Wrt. Voc. i. 281, 64. Heringas sardinas, Txts. 94, 910."
+}

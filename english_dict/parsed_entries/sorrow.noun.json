@@ -1,0 +1,21 @@
+{
+  "english_lemma": "sorrow",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "sorrow.n.01",
+      "definition": "an emotion of great sadness associated with loss or bereavement",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "G",
+          "pos": "noun",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

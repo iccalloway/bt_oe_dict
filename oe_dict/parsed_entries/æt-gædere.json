@@ -1,0 +1,58 @@
+{
+  "citation_form": "æt-gædere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": "æt, gædrian = gadrian to gather",
+      "meaning": "Together",
+      "latin": "una, simul",
+      "quotations": [
+        {
+          "old_english": "Twá beóþ ætgædere grmdende.",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Bos. 17, 35"
+        },
+        {
+          "old_english": "tweye [wym-men] schulen be gryndinge to gidere,",
+          "latin": null,
+          "english": null,
+          "citations": "Wyc."
+        },
+        {
+          "old_english": "His mǽgþe biþ ætgædere",
+          "latin": null,
+          "english": "his kindred is together",
+          "citations": "Bt. Met. Fox 20, 320; Met. 20, 160"
+        },
+        {
+          "old_english": "Gáras stódon samod ætgædere",
+          "latin": null,
+          "english": "the javelins stood altogether",
+          "citations": "Beo. Th. 664; Bi 329"
+        },
+        {
+          "old_english": "Blod and wæter bu tú ætgædre",
+          "latin": null,
+          "english": "blood and water both together",
+          "citations": "Exon. 70a; Th. 260, 5; Ju. 292"
+        },
+        {
+          "old_english": "Bismærede ungket [ = uncit] men, bá ætgædre",
+          "latin": null,
+          "english": "they [men] reviled us two, both together",
+          "citations": "Runic Inscrip. Kmbl, 354, 30"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gædere"
+  ],
+  "source_text": "æt-gædere; adv. [æt, gædrian = gadrian to gather] Together; una, simul :-- Twá beóþ ætgædere grmdende. Lk. Bos. 17, 35; tweye [wym-men] schulen be gryndinge to gidere,Wyc. His mǽgþe biþ ætgædere his kindred is together. Bt. Met. Fox 20, 320; Met. 20, 160. Gáras stódon samod ætgædere the javelins stood altogether. Beo. Th. 664; Bi 329. Blod and wæter bu tú ætgædre blood and water both together, Exon. 70a; Th. 260,5; Ju'- 292- Bismærede ungket [ = uncit] men, bá ætgædre they [men] reviled us two, both together. Runic Inscrip. Kmbl, 354, 30. DER. gædere."
+}

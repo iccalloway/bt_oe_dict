@@ -1,0 +1,30 @@
+{
+  "citation_form": "foran-lencten",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the early part of Lent, early spring",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Blód bið gód tó lǽtenne on foranlenctene",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 256, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "foran-lencten the early part of Lent, early spring :-- Blód bið gód tó lǽtenne on foranlenctene, Lch. ii. 256, 1."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "english_lemma": "attention",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "attention.n.01",
+      "definition": "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "GÝME",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

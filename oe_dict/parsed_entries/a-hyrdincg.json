@@ -1,0 +1,29 @@
+{
+  "citation_form": "a-hyrdincg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A hardening",
+      "latin": "induratio",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-heardung"
+  ],
+  "source_text": "a-hyrdincg, e; f. A hardening; induratio, App. Scint. v. a-heardung."
+}

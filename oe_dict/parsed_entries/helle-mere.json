@@ -1,0 +1,42 @@
+{
+  "citation_form": "helle-mere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The lake of hell, Styx",
+      "latin": "styx",
+      "quotations": [
+        {
+          "old_english": "Hellemere hæc styx",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9; Som. 14, 13"
+        },
+        {
+          "old_english": "Helemere Styx",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 54; Som. 66, 99; Wrt. Voc. 36, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "helle-mere, es; m. The lake of hell, Styx :-- Hellemere hæc styx, Ælfc. Gr. 9; Som. 14, 13. Helemere Styx, Ælfc. Gl. 54; Som. 66, 99; Wrt. Voc. 36, 22."
+  ]
+}

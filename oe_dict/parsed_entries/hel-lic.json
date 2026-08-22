@@ -1,0 +1,89 @@
+{
+  "citation_form": "hel-lic",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "referring to classical mythology",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þǽm hellicum gorgoneo (maculata cruore. Aid. 208, 21)",
+              "latin": null,
+              "english": null,
+              "citations": "Wrt. Voc. ii. 961 83"
+            },
+            {
+              "old_english": "gorgoneis (molitur damna venenis, Aid. 166, n)",
+              "latin": null,
+              "english": null,
+              "citations": "92, 66 : 41, 44"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "of hell",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On þám blindan cwearterne þǽre hellican súsle",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. A. 8, 205"
+        },
+        {
+          "old_english": "On ðám hellican líge",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 17, 34"
+        },
+        {
+          "old_english": "Ætwindan þáam hellicum wítum",
+          "latin": null,
+          "english": null,
+          "citations": "Hml A. 34, 2"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "worthy of hell, infernal, diabolic, exceedingly wicked",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Æ-acute;lcne crístenne man warnian wið þás egeslican and þás deófollican coðe, þ-bar; ys wyð þás hellican unþeáwas",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 337, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hel-lic. Add: I. referring to classical mythology. Cf. hell; I. 2 :-- Þǽm hellicum gorgoneo (maculata cruore. Aid. 208, 21), Wrt. Voc. ii. 961 83 : gorgoneis (molitur damna venenis, Aid. 166, n), 92, 66 : 41, 44. II. of hell. Cf. hell; II :-- On þám blindan cwearterne þǽre hellican súsle, Hml. A. 8, 205. On ðám hellican líge, Hml. S. 17, 34. Ætwindan þáam hellicum wítum, Hml A. 34, 2. si. III. worthy of hell, infernal, diabolic, exceedingly wicked :-- Æ-acute;lcne crístenne man warnian wið þás egeslican and þás deófollican coðe, þ-bar; ys wyð þás hellican unþeáwas, Angl. viii. 337, 7."
+}

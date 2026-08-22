@@ -1,0 +1,40 @@
+{
+  "citation_form": "un-hálwendlíc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Incurable",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Fyll unhálwendlic",
+          "latin": "casus insanabilis",
+          "english": null,
+          "citations": "Scint. 80, 8"
+        },
+        {
+          "old_english": "Þeáh man sý on hwylcre unhálwendlícre ádle",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 328, 21"
+        },
+        {
+          "old_english": "Hira wín is dracena gealla and næddrena áttor unhálwendlíce",
+          "latin": "fel draconum vinum eorum et venenum aspidum insanabile",
+          "english": null,
+          "citations": "Deut. 32, 33"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "un-hálwendlíc; adj. Incurable :-- Fyll unhálwendlic casus insanabilis, Scint. 80, 8. Þeáh man sý on hwylcre unhálwendlícre ádle, Lchdm. i. 328, 21. Hira wín is dracena gealla and næddrena áttor unhálwendlíce fel draconum vinum eorum et venenum aspidum insanabile, Deut. 32, 33."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english_lemma": "purse",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "purse.n.03",
+      "definition": "a small bag for carrying money",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BELG",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [
+            "belig",
+            "bylg",
+            "bylig",
+            "bilig",
+            "bælg",
+            "bælig"
+          ],
+          "latin_glosses": [
+            "bulga, follis, siliqua, uter"
+          ],
+          "attestations": [
+            "Cot. 27",
+            "Ælfc. Gl. 27; Wrt. Voc. 86, 15",
+            "Ps. Spl. M. 118, 83"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

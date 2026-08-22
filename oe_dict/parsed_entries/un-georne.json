@@ -1,0 +1,44 @@
+{
+  "citation_form": "un-georne",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "unwillingly, reluctantly",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá on ðæm tweón ðe hié swá ungeorne his willan fulleodon",
+          "latin": "qui fastidiose ducem in disponendo bello audientes",
+          "english": null,
+          "citations": "Ors 3, 11; Swt. 146, 24"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "without diligence, negligently",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt hé tó ungeorne bewiste hwæt hé on þeóstrum dyde",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 183, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "un-georne; adv. I. unwillingly, reluctantly :-- Ðá on ðæm tweón ðe hié swá ungeorne his willan fulleodon qui fastidiose ducem in disponendo bello audientes, Ors 3, 11; Swt. 146, 24. II. without diligence, negligently :-- Ðæt hé tó ungeorne bewiste hwæt hé on þeóstrum dyde, Blickl. Homl. 183, 23. [O. H. Ger. un-gerno: Ger. un-gern: Icel. ú-gjarna unwillingly.]"
+}

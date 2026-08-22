@@ -1,0 +1,27 @@
+{
+  "english_lemma": "withdraw",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "withdraw.v.01",
+      "definition": "pull back or move away or backward",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-lǽdan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "ducere, producere, educere",
+            "eduxi te de terra"
+          ],
+          "attestations": [
+            "Ps. Spl. 80, 9: Ps. Th. 80, 10: 142, 12: 103, 14: Cd. 73; Th. 90, 15; Gen. 1495",
+            "Cd. 217; Th. 275, 27; Sat. 178: Ps. Spl. 108, 22"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

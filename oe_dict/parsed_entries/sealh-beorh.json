@@ -1,0 +1,28 @@
+{
+  "citation_form": "sealh-beorh",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a hill where sallows grow",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tó sahlbeorge",
+          "latin": null,
+          "english": null,
+          "citations": "Cod. Dip. Kmbl. iii. 451, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sealh-beorh a hill where sallows grow:--Tó sahlbeorge, Cod. Dip. Kmbl. iii. 451, 17."
+}

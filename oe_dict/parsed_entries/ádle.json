@@ -1,0 +1,36 @@
+{
+  "citation_form": "ádle",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hú ðeós ádle scyle ende gesettan?",
+          "latin": null,
+          "english": null,
+          "citations": "Gú. 995"
+        },
+        {
+          "old_english": "Ádle Rä. 44, 4 might be pl.",
+          "latin": null,
+          "english": null,
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ádle. Add:--Hú ðeós ádle scyle ende gesettan? Gú. 995. (Ádle Rä. 44, 4 might be pl.)"
+  ]
+}

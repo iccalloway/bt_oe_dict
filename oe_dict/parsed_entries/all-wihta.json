@@ -1,0 +1,37 @@
+{
+  "citation_form": "all-wihta",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "all beings",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Helm allwihta",
+          "latin": null,
+          "english": "Protector of all creatures",
+          "citations": "Cd. 64; Th. 78, 9; Gen. 1290"
+        },
+        {
+          "old_english": "Meotud allwihta",
+          "latin": null,
+          "english": "Lord of all creatures",
+          "citations": "Exon. 53a; Th. 185, 9; Az. 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "eall-wihta",
+    "wiht"
+  ],
+  "source_text": "all-wihta all beings :-- Helm allwihta Protector of all creatures. Cd. 64; Th. 78, 9; Gen. 1290. Meotud allwihta Lord of all creatures, Exon. 53a; Th. 185, 9; Az. 5. v. eall-wihta, wiht I, for nom. pl. wihta."
+}

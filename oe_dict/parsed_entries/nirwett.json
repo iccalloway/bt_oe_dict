@@ -1,0 +1,46 @@
+{
+  "citation_form": "nirwett",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Rómáne on ungewis on án nirewett befóran",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 3, 8; S. 120, 29"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": null,
+          "meaning": "a place of confinement",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Godes Sunu wæs geléd on nearuwre binne, tó ðí þæt hé ús fram hellicum nyrwette (the prison (or (?) confinement) of hell) álýsde",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 34, 32"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "breóst-nirwett"
+  ],
+  "source_text": "nirwett; n. (not m.) II. add :-- Rómáne on ungewis on án nirewett befóran, Ors. 3, 8; S. 120, 29. II a. a place of confinement :-- Godes Sunu wæs geléd on nearuwre binne, tó ðí þæt hé ús fram hellicum nyrwette (the prison (or (?) confinement) of hell) álýsde, Hml. Th. i. 34, 32. v. breóst-nirwett."
+}

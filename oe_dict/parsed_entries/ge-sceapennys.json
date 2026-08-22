@@ -1,0 +1,69 @@
+{
+  "citation_form": "ge-sceapennys",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "creation",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Mennisc gesceapennys is on feówer wíson. Adam næs gestrýned ne ácenned, ac God hine gesceóp. Seó óðer gesceapennys wæs swá þæt God gesceóp Euan of hire weres sídan. Ne sind þás twá gesceapennyssa nánum óðrum gelíce. Seó ðridde gesceapennys is þæt men beóð gestrýnede þurh wer and þurh wíf, Seó feórðe gesceapennys wæs swá þæt Críst wearð ácenned of mǽdene búton were",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 8, 22-30"
+            },
+            {
+              "old_english": "Genesis ne spricð ná be þǽra engla gesceapenisse",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. T. Grn. 23, 8"
+            },
+            {
+              "old_english": "God gesceóp æt fruman twégen men and hé geswác ðá þǽra gesceapennyssa",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 206, 22"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "disposition, ordering of events",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nán yfel þing næs on þám englum, ne nán yfel ne cóm þurh Godes gesceapennisse",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. T. Grn. 2, 28"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-sceapennys. Add: I. creation :-- Mennisc gesceapennys is on feówer wíson. Adam næs gestrýned ne ácenned, ac God hine gesceóp. Seó óðer gesceapennys wæs swá þæt God gesceóp Euan of hire weres sídan. Ne sind þás twá gesceapennyssa nánum óðrum gelíce. Seó ðridde gesceapennys is þæt men beóð gestrýnede þurh wer and þurh wíf, Seó feórðe gesceapennys wæs swá þæt Críst wearð ácenned of mǽdene búton were, Hml. Th. ii. 8, 22-30. Genesis ne spricð ná be þǽra engla gesceapenisse, Ælfc. T. Grn. 23, 8. God gesceóp æt fruman twégen men and hé geswác ðá þǽra gesceapennyssa, Hml. Th. ii. 206, 22. II. disposition, ordering of events :-- Nán yfel þing næs on þám englum, ne nán yfel ne cóm þurh Godes gesceapennisse, Ælfc. T. Grn. 2, 28."
+}

@@ -1,0 +1,40 @@
+{
+  "citation_form": "fyndel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A device, invention",
+      "latin": "ad inventionem",
+      "quotations": [
+        {
+          "old_english": "Tó fyndele",
+          "latin": "ad inventionem",
+          "english": null,
+          "citations": "Scint. 108, 12"
+        },
+        {
+          "old_english": "Gyf hí hyra fyndele (adinuentionem) þrístfulle gecuran",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. xiii. 369, 54"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fyndel, e; f. A device, invention:--Tó fyndele ad inventionem, Scint. 108, 12. Gyf hí hyra fyndele (adinuentionem) þrístfulle gecuran, Angl. xiii. 369, 54."
+}

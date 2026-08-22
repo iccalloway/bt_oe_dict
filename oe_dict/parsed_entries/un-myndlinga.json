@@ -1,0 +1,88 @@
+{
+  "citation_form": "un-myndlinga",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "where an act is not intended or expected by the doer of it, undesignedly, without meaning to do something",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nis hit nán wundor ðeáh hwá wéne ðæt swylces hwæt unmyndlinga gebyrige, þonne hé ne can ongitan for hwí God swylc geþafaþ",
+          "latin": "nec mirum, si quid ordinis ignorata ratione, temerarium confusumque credatur",
+          "english": null,
+          "citations": "Bt. 39, 2; Fox 214, 9"
+        },
+        {
+          "old_english": "Gif hé unmyndlunge ceáp áredige út on hwylcere fare",
+          "latin": null,
+          "english": "without having previously intended to do it",
+          "citations": "L. Edg. S. 8; Th. i. 274, 23"
+        },
+        {
+          "old_english": "Maurus arn uppon ðam streáme unmyndlunge, swilce hé on fæstre eorðan urne ... undergeat æt néxtan ðæt hé uppon ðæm wætere arn, and ðæs micclum wundrode",
+          "latin": null,
+          "english": "unaware of what he was doing",
+          "citations": "Homl. Th. ii. 160, 9"
+        },
+        {
+          "old_english": "Hí unmyndlinga swíðe fæsthealdne weorcstán upp áhwylfdon",
+          "latin": null,
+          "english": "unintentionally",
+          "citations": "Homl. Skt. i. 23, 423"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "where an act is unexpected by the object of it, unexpectedly",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé hiene spón ðæt hé on Umenis unmyndlenga mid here becóme",
+          "latin": "de insperato",
+          "english": null,
+          "citations": "Ors. 3, 11; Swt. 146, 8"
+        },
+        {
+          "old_english": "Bútan hit swá limpe ðæt hwylc cuma unmyndlunega cume",
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. 67, 12"
+        },
+        {
+          "old_english": "Gif him ǽfre unmendlinga geberede ðæt...",
+          "latin": null,
+          "english": null,
+          "citations": "Met. 25, 30"
+        },
+        {
+          "old_english": "Hire wone is to cumen bi stale, ferliche and unmundlunge hwen me least weneð",
+          "latin": null,
+          "english": null,
+          "citations": "O. E. Homl. i. 249, 20"
+        },
+        {
+          "old_english": "Þe &yogh;eape wrastlare mid þen ilke turn mei his fere unmunlunge aworpen",
+          "latin": null,
+          "english": null,
+          "citations": "A. R. 280, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "un-myndlinga; adv. I. where an act is not intended or expected by the doer of it, undesignedly, without meaning to do something :-- Nis hit nán wundor ðeáh hwá wéne ðæt swylces hwæt unmyndlinga gebyrige, þonne hé ne can ongitan for hwí God swylc geþafaþ nec mirum, si quid ordinis ignorata ratione, temerarium confusumque credatur, Bt. 39, 2; Fox 214, 9. Gif hé unmyndlunge (without having previously intended to do it) ceáp áredige út on hwylcere fare, L. Edg. S. 8; Th. i. 274, 23. Maurus arn uppon ðam streáme unmyndlunge (unaware of what he was doing), swilce hé on fæstre eorðan urne ... undergeat æt néxtan ðæt hé uppon ðæm wætere arn, and ðæs micclum wundrode, Homl. Th. ii. 160, 9. Hí unmyndlinga (unintentionally) swíðe fæsthealdne weorcstán upp áhwylfdon, Homl. Skt. i. 23, 423. II. where an act is unexpected by the object of it, unexpectedly :-- Hé hiene spón ðæt hé on Umenis unmyndlenga (de insperato) mid here becóme, Ors. 3, 11; Swt. 146, 8. Bútan hit swá limpe ðæt hwylc cuma unmyndlunega cume, R. Ben. 67, 12. Gif him ǽfre unmendlinga geberede ðæt..., Met. 25, 30. [Hire wone is to cumen bi stale, ferliche and unmundlunge hwen me least weneð, O. E. Homl. i. 249, 20. Þe &yogh;eape wrastlare mid þen ilke turn mei his fere unmunlunge aworpen, A. R. 280, 10.]"
+  ]
+}

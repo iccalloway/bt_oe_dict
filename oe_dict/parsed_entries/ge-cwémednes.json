@@ -1,0 +1,50 @@
+{
+  "citation_form": "ge-cwémednes",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On gecwémednessum heora",
+          "latin": "in beneplacitis eorum",
+          "english": null,
+          "citations": "Ps. L. 140, 5"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "¶",
+          "heading": "ánum tó gecwemednesse to the delight of a person, so as to please a person",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Heó plegode him eallum tó gecwémednysse",
+              "latin": "cum saltasset et placuisset Herodi simulque recumbentibus",
+              "english": null,
+              "citations": "Mk. 6, 22), Hml. Th. i. 480, 31"
+            },
+            {
+              "old_english": "Sé ðe leahtras begǽð deófle tó gecwémednysse",
+              "latin": null,
+              "english": null,
+              "citations": "ii. 110, 27: S. 13, 271"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-cwémednes. Add :-- On gecwémednessum heora in beneplacitis eorum, Ps. L. 140, 5. ¶ ánum tó gecwemednesse to the delight of a person, so as to please a person :-- Heó plegode him eallum tó gecwémednysse (cf. cum saltasset et placuisset Herodi simulque recumbentibus, Mk. 6, 22), Hml. Th. i. 480, 31. Sé ðe leahtras begǽð deófle tó gecwémednysse, ii. 110, 27: S. 13, 271."
+}

@@ -1,0 +1,83 @@
+{
+  "citation_form": "ge-serífan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-scráf",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-screáf",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-scrifen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to judge, deem, assign, impose, appoint",
+      "latin": "judicare, assignare, imponere, designare",
+      "quotations": [
+        {
+          "old_english": "Se ðe him gescráf weán",
+          "latin": null,
+          "english": "who to him had assigned misery",
+          "citations": "Cd. 148; Th. 186, 16; Exod. 139"
+        },
+        {
+          "old_english": "Swá him wyrd gescráf",
+          "latin": null,
+          "english": "so fate assigned to him",
+          "citations": "Beo. Th. 5142; B. 2574: Elen. Grm. 1047: Bt. Met. Fox 1, 58; Met. 1, 29"
+        },
+        {
+          "old_english": "Hió me lytle læs láðe woldan ðisses eorþweges ende gescrífan",
+          "latin": "paulo minus consummaverunt me in terra",
+          "english": null,
+          "citations": "Ps. Th. 118, 87"
+        },
+        {
+          "old_english": "Siððan gé agifen habbaþ sceattas gescrifene",
+          "latin": null,
+          "english": "when you have given the appointed sum",
+          "citations": "Andr. Kmbl. 593; An. 297"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to shrive, impose penance, censure",
+      "latin": "pœnitentiam imponere, reprehendere",
+      "quotations": [
+        {
+          "old_english": "Manna sáwla lǽce sceal geþencan, hú he mannum heora dǽda gescrífe and hí þeáh-hwæðere ne fordéme",
+          "latin": null,
+          "english": "the physician of men's souls must consider how he shall shrive their deeds and yet not condemn them",
+          "citations": "L. de. Cf. 1; Th. ii. 260, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-serífan; p. -scráf, -screáf; pp. -scrifen. I. to judge, deem, assign, impose, appoint; judicare, assignare, imponere, designare :-- Se ðe him gescráf weán who to him had assigned misery, Cd. 148; Th. 186, 16; Exod. 139. Swá him wyrd gescráf so fate assigned to him, Beo. Th. 5142; B. 2574: Elen. Grm. 1047: Bt. Met. Fox 1, 58; Met. 1, 29. Hió me lytle læs láðe woldan ðisses eorþweges ende gescrífan paulo minus consummaverunt me in terra, Ps. Th. 118, 87. Siððan gé agifen habbaþ sceattas gescrifene when you have given the appointed sum, Andr. Kmbl. 593; An. 297. II. to shrive, impose penance, censure; pœnitentiam imponere, reprehendere :-- Manna sáwla lǽce sceal geþencan, hú he mannum heora dǽda gescrífe and hí þeáh-hwæðere ne fordéme the physician of men's souls must consider how he shall shrive their deeds and yet not condemn them, L. de. Cf. 1; Th. ii. 260, 14."
+}

@@ -1,0 +1,32 @@
+{
+  "citation_form": "dys-líce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Foolishly",
+      "latin": "stulte",
+      "quotations": [
+        {
+          "old_english": "Se Godes cunnaþ ful dyslíce",
+          "latin": null,
+          "english": "he tempteth God very foolishly",
+          "citations": "Salm. Kmbl. 455; Sal. 228"
+        },
+        {
+          "old_english": "Dyslíce ðú dydest",
+          "latin": "stulte op&e-short;r&a-long;tus es",
+          "english": null,
+          "citations": "Gen. 31, 28"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "dys-líce; adv. Foolishly; stulte :-- Se Godes cunnaþ ful dyslíce he tempteth God very foolishly. Salm. Kmbl. 455; Sal. 228. Dyslíce ðú dydest stulte op&e-short;r&a-long;tus es, Gen. 31, 28."
+}

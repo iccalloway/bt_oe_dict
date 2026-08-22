@@ -1,0 +1,54 @@
+{
+  "citation_form": "laur-berige",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A berry of the laurel",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Lauberigan",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 122, 22: 6, 16"
+        },
+        {
+          "old_english": "Laurberigie",
+          "latin": null,
+          "english": null,
+          "citations": "106, 1"
+        },
+        {
+          "old_english": "Lauwinberigean",
+          "latin": null,
+          "english": null,
+          "citations": "136, 28"
+        },
+        {
+          "old_english": "Lauwerberian",
+          "latin": null,
+          "english": null,
+          "citations": "i. 376, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "laur-berige, an; f. A berry of the laurel :-- Lauberigan, Lchdm. iii. 122, 22: 6, 16. Laurberigie, 106, 1. Lauwinberigean, 136, 28. Lauwerberian, i. 376, 6."
+  ]
+}

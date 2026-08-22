@@ -1,0 +1,38 @@
+{
+  "citation_form": "gagol-bǽrnes",
+  "variant_forms": [
+    "gægl-bǽrnes",
+    "-bérnes",
+    "-ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Wantonness, luxury, riot",
+      "latin": "lascivia, luxuria",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 118"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "gagol-bǽrnes, gægl-bǽrnes, -bérnes, -ness, e; f. Wantonness, luxury, riot; lasc&i-long;via, lux&u-short;ria, Cot. 118."
+}

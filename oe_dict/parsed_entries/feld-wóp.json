@@ -1,0 +1,46 @@
+{
+  "citation_form": "feld-wóp",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O. L. Ger. feld-hoppo bradigabo: widu-hoppo upupa.",
+      "meaning": "A peewit (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Felduuóp, felduóp bradigabo",
+          "latin": null,
+          "english": null,
+          "citations": "Txts. 44, 131"
+        },
+        {
+          "old_english": "Feldwuóp",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 11, 45"
+        },
+        {
+          "old_english": "Feldwóp bradigatio, ploratio campi",
+          "latin": null,
+          "english": null,
+          "citations": "127, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fold-swop. Substitute: feld-wóp, es; m. A peewit (?) :-- Felduuóp, felduóp bradigabo, Txts. 44, 131. Feldwuóp, Wrt. Voc. ii. 11, 45. Feldwóp bradigatio, ploratio campi, 127, 16. [Cf. O. L. Ger. feld-hoppo bradigabo: widu-hoppo upupa.]"
+}

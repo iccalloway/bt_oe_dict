@@ -1,0 +1,30 @@
+{
+  "citation_form": "ge-beden",
+  "variant_forms": [
+    "ge-béded"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "compulsus",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "ge-beden compulsus",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 4580"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-beded, Hpt. Gl. 503, 75. l. ge-beden. v. An. Ox. 4152: ge-beden compulsus, An. Ox. 4580. l. (?) ge-béded (-= ge-bǽded): gebed-gíht. l. -gíht, and add: Bedgoing. Cf. sunn-gíhte. [Cf. Goth. gáhts.]"
+  ]
+}

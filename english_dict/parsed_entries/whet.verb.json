@@ -1,0 +1,25 @@
+{
+  "english_lemma": "whet",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "whet.v.01",
+      "definition": "make keen or more acute",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hwettan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "excitare, accendere"
+          ],
+          "attestations": [
+            "Andr. Kmbl. 606; An. 303"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

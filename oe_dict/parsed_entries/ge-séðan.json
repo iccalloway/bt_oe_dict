@@ -1,0 +1,153 @@
+{
+  "citation_form": "ge-séðan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic gesébe vel áfæstnie confirmo, i. astruo",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 133, 28"
+        },
+        {
+          "old_english": "Geséþ conprobat",
+          "latin": null,
+          "english": null,
+          "citations": "10"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "to declare true, state as a fact, assert, affirm",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé geworhte twá mycle leóhtfatu swá Genesis geséð",
+              "latin": null,
+              "english": null,
+              "citations": "Angl. viii. 299, 14"
+            },
+            {
+              "old_english": "Geséðað contendunt, i. dicunt (eundem in sarcofago vitaliter quiescere contendunt, Aid. 25, 26)",
+              "latin": null,
+              "english": null,
+              "citations": "An. Ox. 7, 100"
+            },
+            {
+              "old_english": "Wé magon þ-bar; tó sóðe geséðan, þ-bar; hyt swá wæs, for ðon wé habbað trume gewitnysse",
+              "latin": null,
+              "english": null,
+              "citations": "Angl. viii. 307, 3"
+            },
+            {
+              "old_english": "Ús gedafenað þæt wé hit wénon swíðor þonne wé unrǽdlíce hit geséðan",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 440, 31"
+            },
+            {
+              "old_english": "Ealdorlicnesse is geséþed auctoritate asstipulatur &l-bar; adfirmatur",
+              "latin": null,
+              "english": null,
+              "citations": "An. Ox. 217"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "to shew by evidence the truth of a statement, to prove",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Mid áfundennyssum wé geséþaþ experimentis i. argumentis astipulabimur",
+              "latin": null,
+              "english": null,
+              "citations": "An. Ox. 3897"
+            },
+            {
+              "old_english": "Hé geséðde þæt heora (the Jews') forðfæderas Godes frýnd gecígede wǽron",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. i. 558, 20"
+            },
+            {
+              "old_english": "Gif þú geséþan miht þ-bar; ǽnig deáþlic man swelces hwæt ágnes áhte",
+              "latin": "si cujusquam mortalium proprium quid horum esse monstraveris",
+              "english": null,
+              "citations": "Bt. 7, 3; F. 20, 7"
+            },
+            {
+              "old_english": "Ðú hit hæfst geséþed mid gesceádwíslicre race",
+              "latin": "cuncta firmissimis nexa rationibus constant",
+              "english": null,
+              "citations": "34, 9 ; F. 146, 7"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(II a.)",
+              "heading": null,
+              "meaning": "where a forecast is proved correct by the event",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þæs gehátes and þæs wítedómes sóð se afterfylgenda becyme þára wísena geséðde and getrymede (astruxit)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bd. 4, 29; Sch. 530, 13"
+                },
+                {
+                  "old_english": "Wyrd wæs geworden, swefn geséðed",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Dan. 654"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "III.",
+          "heading": null,
+          "meaning": "to attest, bear witness to what one has seen or knows",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þysse wyrte onfundelnysse manega ealdras geséðað",
+              "latin": null,
+              "english": null,
+              "citations": "Lch. i. 140, 10"
+            },
+            {
+              "old_english": "Geséþendum (ipso) adtestante",
+              "latin": null,
+              "english": null,
+              "citations": "An. Ox. 1326"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ge-sóþian"
+  ],
+  "source_text": [
+    "ge-séðan. Add :-- Ic gesébe vel áfæstnie confirmo, i. astruo, Wrt. Voc. ii. 133, 28. Geséþ conprobat, 10. I. to declare true, state as a fact, assert, affirm :-- Hé geworhte twá mycle leóhtfatu swá Genesis geséð, Angl. viii. 299, 14. Geséðað contendunt, i. dicunt (eundem in sarcofago vitaliter quiescere contendunt, Aid. 25, 26), An. Ox. 7, 100. Wé magon þ-bar; tó sóðe geséðan, þ-bar; hyt swá wæs, for ðon wé habbað trume gewitnysse, Angl. viii. 307, 3. Ús gedafenað þæt wé hit wénon swíðor þonne wé unrǽdlíce hit geséðan, Hml. Th. i. 440, 31. Ealdorlicnesse is geséþed auctoritate asstipulatur &l-bar; adfirmatur, An. Ox. 217. II. to shew by evidence the truth of a statement, to prove :-- Mid áfundennyssum wé geséþaþ experimentis i. argumentis astipulabimur, An. Ox. 3897. Hé geséðde þæt heora (the Jews') forðfæderas Godes frýnd gecígede wǽron, Hml. Th. i. 558, 20. Gif þú geséþan miht þ-bar; ǽnig deáþlic man swelces hwæt ágnes áhte si cujusquam mortalium proprium quid horum esse monstraveris, Bt. 7, 3; F. 20, 7. Ðú hit hæfst geséþed mid gesceádwíslicre race cuncta firmissimis nexa rationibus constant, 34, 9 ; F. 146, 7. II a. where a forecast is proved correct by the event :-- Þæs gehátes and þæs wítedómes sóð se afterfylgenda becyme þára wísena geséðde and getrymede (astruxit), Bd. 4, 29; Sch. 530, 13. Wyrd wæs geworden, swefn geséðed, Dan. 654. III. to attest, bear witness to what one has seen or knows :-- Þysse wyrte onfundelnysse manega ealdras geséðað, Lch. i. 140, 10. Geséþendum (ipso) adtestante, An. Ox. 1326. v. ge-sóþian."
+  ]
+}

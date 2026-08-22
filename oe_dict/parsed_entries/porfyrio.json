@@ -1,0 +1,48 @@
+{
+  "citation_form": "porfyrio",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. felefor, -fer onocrotalus.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "porfyrio",
+          "latin": null,
+          "english": null,
+          "citations": "88, 807"
+        },
+        {
+          "old_english": "Fealfor",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 68, 28"
+        },
+        {
+          "old_english": "Fealefor onocratulus",
+          "latin": null,
+          "english": null,
+          "citations": "63, 44"
+        },
+        {
+          "old_english": "Fealuor porphyrio",
+          "latin": null,
+          "english": null,
+          "citations": "i. 280, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "feloferþ"
+  ],
+  "source_text": "porfyrio, 88, 807. Fealfor, Wrt. Voc. ii. 68, 28. Fealefor onocratulus, 63, 44. Fealuor porphyrio, i. 280, 17. ¶ feolufor torax. v. feloferþ. [O. H. Ger. felefor, -fer onocrotalus.]"
+}

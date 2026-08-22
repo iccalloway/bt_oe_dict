@@ -1,0 +1,30 @@
+{
+  "citation_form": "Lygean-burh",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "See Green's Making of England, pp. 118 sqq.",
+      "meaning": "Lenborough, near Buckingham",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hér Cúþwulf genom Lygeanburg",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 571; Erl. 18, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "Lygean-burh, Lenborough, near Buckingham :-- Hér Cúþwulf genom Lygeanburg, Chr. 571; Erl. 18, 13. See Green's Making of England, pp. 118 sqq."
+  ]
+}

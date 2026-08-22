@@ -1,0 +1,124 @@
+{
+  "citation_form": "dúru",
+  "variant_forms": [
+    "dúre"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "e",
+            "case": "dative",
+            "number": "singular"
+          },
+          {
+            "ending": "a",
+            "case": "dative",
+            "number": "singular"
+          },
+          {
+            "ending": "e",
+            "case": "accusative",
+            "number": "singular"
+          },
+          {
+            "ending": "a",
+            "case": "accusative",
+            "number": "singular"
+          },
+          {
+            "ending": "u",
+            "case": "accusative",
+            "number": "singular"
+          },
+          {
+            "ending": "a",
+            "case": "nominative",
+            "number": "plural"
+          },
+          {
+            "ending": "ena",
+            "case": "genitive",
+            "number": "plural"
+          },
+          {
+            "ending": "um",
+            "case": "dative",
+            "number": "plural"
+          },
+          {
+            "ending": "a",
+            "case": "accusative",
+            "number": "plural"
+          },
+          {
+            "ending": "u",
+            "case": "accusative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "DER. eág-dúru, fóre-, helle-, hlín-: dúru-leás, -stod, -þegn, m. -þínen = þignen, f. -weard: dýr: ge-dýre, ofer-gedýre. v. dór, n.",
+      "meaning": "An opening, a door, the door of a house",
+      "latin": "ostium, j&a-long;nua, f&o-short;ris",
+      "quotations": [
+        {
+          "old_english": "Dúru ymbstandennesse welerum mínum",
+          "latin": null,
+          "english": "keep the door [opening ostium] of my lips",
+          "citations": "Eng. versn. Ps. Lamb. 140, 3"
+        },
+        {
+          "old_english": "Seó dúru wæs belocen",
+          "latin": "clausa erat j&a-long;nua",
+          "english": null,
+          "citations": "Mt. Bos. 25, l0"
+        },
+        {
+          "old_english": "Dúru sóna on arn",
+          "latin": null,
+          "english": "soon he rushed on the door",
+          "citations": "Beo. Th. 1447; B. 721"
+        },
+        {
+          "old_english": "Dúra",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 1998; An. l001"
+        },
+        {
+          "old_english": "Ðá ða dúra wǽron belocene",
+          "latin": "cum fores essent clausæ",
+          "english": null,
+          "citations": "Jn. Bos. 20, 19"
+        },
+        {
+          "old_english": "Of ðære dúra",
+          "latin": null,
+          "english": "from the door",
+          "citations": "Mt. Bos. 26, 71"
+        },
+        {
+          "old_english": "Belocenum dúrum",
+          "latin": "januis clausis",
+          "english": null,
+          "citations": "Jn. Bos. 20, 26"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "dór"
+  ],
+  "source_text": "dúru; gen. e; dat. e, a; acc. e, a, u; pl. nom. a; gen. ena; dat. um; acc. a, u; f: dúre, an; f. An opening, a door, the door of a house; ostium, j&a-long;nua, f&o-short;ris :-- Dúru ymbstandennesse welerum mínum 'keep the door [opening ostium] of my lips,' Eng. versn. Ps. Lamb. 140, 3. Seó dúru wæs belocen clausa erat j&a-long;nua, Mt. Bos. 25, l0. Dúru sóna on arn soon he rushed on the door, Beo. Th. 1447; B. 721. Dúra, Andr. Kmbl. 1998; An. l001. Ðá ða dúra wǽron belocene cum fores essent clausæ, Jn. Bos. 20, 19. Of ðære dúra from the door, Mt. Bos. 26, 71. Belocenum dúrum januis clausis, Jn. Bos. 20, 26. DER. eág-dúru, fóre-, helle-, hlín-: dúru-leás, -stod, -þegn, m. -þínen = þignen, f. -weard: dýr: ge-dýre, ofer-gedýre. v. dór, n."
+}

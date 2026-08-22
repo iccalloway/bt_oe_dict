@@ -1,0 +1,28 @@
+{
+  "english_lemma": "piece",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "piece.n.01",
+      "definition": "a separate part of a whole",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "CLÚT",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "pittacium, commissura, lamina"
+          ],
+          "attestations": [
+            "Glos. Epnl. Recd. 161, 19",
+            "Ælfc. Gl. 28; Som. 61, 4; Wrt. Voc. 26, 3: 82, 2",
+            "Homl. Th. i. 424, 19",
+            "Homl. Th. i. 424, 35"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

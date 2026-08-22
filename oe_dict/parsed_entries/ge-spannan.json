@@ -1,0 +1,50 @@
+{
+  "citation_form": "ge-spannan",
+  "variant_forms": [
+    "-sponnan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-speón",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-spannen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. gi-spannan tendere, conjungere.",
+      "meaning": "To join, span, clasp, fasten",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gúþweard grímhelm gespeón",
+          "latin": null,
+          "english": "the leader clasped his helm",
+          "citations": "Cd. 151; Th. 188, 27; Exod. 174"
+        },
+        {
+          "old_english": "Ðá héht cásere gesponnan fiówer wildo hors to scride",
+          "latin": null,
+          "english": "then the emperor ordered to harness four wild horses to a chariot",
+          "citations": "Shrn. 71, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "spannan"
+  ],
+  "source_text": "ge-spannan, -sponnan; p. -speón; pp. -spannen To join, span, clasp, fasten :-- Gúþweard grímhelm gespeón the leader clasped his helm, Cd. 151; Th. 188, 27; Exod. 174. Ðá héht cásere gesponnan fiówer wildo hors to scride then the emperor ordered to harness four wild horses to a chariot, Shrn. 71, 34. [O. H. Ger. gi-spannan tendere, conjungere.] v. spannan."
+}

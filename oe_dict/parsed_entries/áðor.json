@@ -1,0 +1,42 @@
+{
+  "citation_form": "áðor",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "pronoun"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Either the one or the other, both",
+      "latin": "alter, alteruter, uterque",
+      "quotations": [
+        {
+          "old_english": "And se ðe áðor fulbrece",
+          "latin": null,
+          "english": "and he who violates either",
+          "citations": "L. C. E. 2 ; Th. i. 358, 20 : L. Ed. 2 ; Th. i. 160, 11 : Hy. 10, 42; Hy. Grn. ii. 293, 42"
+        },
+        {
+          "old_english": "On áðrum",
+          "latin": null,
+          "english": "on both",
+          "citations": "Cot. 214"
+        },
+        {
+          "old_english": "On áðre hand",
+          "latin": null,
+          "english": "on either hand",
+          "citations": "Ors. 1, 14; Bos. 37, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "áwðer"
+  ],
+  "source_text": [
+    "áðor; pron. Either the one or the other, both; alter, alteruter, uter&dash-uncertain;que :-- And se ðe áðor fulbrece and he who violates either, L. C. E. 2 ; Th. i. 358, 20 : L. Ed. 2 ; Th. i. 160, 11 : Hy. 10, 42; Hy. Grn. ii. 293, 42. On áðrum on both, Cot. 214. On áðre hand on either hand, Ors. 1, 14; Bos. 37, 32. v. áwðer."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "citation_form": "cneórisn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A generation, race, family",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Cneórisn Caines. . . mé þæt cynn hafað ábolgen",
+          "latin": null,
+          "english": null,
+          "citations": "Gen. 1256"
+        },
+        {
+          "old_english": "Þus wæs Crístes cneóres (cneórisn, v. l.)",
+          "latin": "Christi generatio sic erat",
+          "english": null,
+          "citations": "Mt. 1, 18"
+        },
+        {
+          "old_english": "Mín Drihten, wé ealle forléton úre cneórisne and wǽron þé fylgende",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 229, 21"
+        },
+        {
+          "old_english": "Mé eádige cwǽdon ealle cneórisna",
+          "latin": null,
+          "english": null,
+          "citations": "7, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "cneórisn, e; f. A generation, race, family:--Cneórisn Caines. . . mé þæt cynn hafað ábolgen, Gen. 1256. Þus wæs Crístes cneóres (cneórisn, v. l.) Christi generatio sic erat, Mt. 1, 18. Mín Drihten, wé ealle forléton úre cneórisne and wǽron þé fylgende, Bl. H. 229, 21. Mé eádige cwǽdon ealle cneórisna, 7, 5."
+}

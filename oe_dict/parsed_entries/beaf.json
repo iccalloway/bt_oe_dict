@@ -1,0 +1,28 @@
+{
+  "citation_form": "beaf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a gad-fly; ?strus",
+      "latin": "οἴστρος",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Leo 118"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "beaf a gad-fly; ?strus = ο&iota-tonos;στροs, Leo 118."
+}

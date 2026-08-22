@@ -1,0 +1,52 @@
+{
+  "citation_form": "in-stæppan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To step, in, enter",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic ne instæppe oððe ingá oððe ic ne fare",
+          "latin": "non introibo",
+          "english": null,
+          "citations": "Ps. Lamb. 25, 4"
+        },
+        {
+          "old_english": "Insteppaþ oððe ingáþ on gesihþe his",
+          "latin": "introite in conspectu ejus",
+          "english": null,
+          "citations": "99, 2"
+        },
+        {
+          "old_english": "On unscyldignysse mínre instæppende ic eom",
+          "latin": "in innocentia mea ingressus sum",
+          "english": null,
+          "citations": "25, 11"
+        },
+        {
+          "old_english": "Hí sume gesáwon englas instæppende",
+          "latin": null,
+          "english": "some of them saw angels entering",
+          "citations": "Homl. Th. ii. 546, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "in-stæppan; p. te To step, in, enter :-- Ic ne instæppe oððe ingá oððe ic ne fare non introibo, Ps. Lamb. 25, 4. Insteppaþ oððe ingáþ on gesihþe his introite in conspectu ejus, 99, 2. On unscyldignysse mínre instæppende ic eom in innocentia mea ingressus sum, 25, 11. Hí sume gesáwon englas instæppende some of them saw angels entering, Homl. Th. ii. 546, 23."
+}

@@ -1,0 +1,34 @@
+{
+  "citation_form": "matt",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "from Latin matta.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tó bedreáfe genihtsumige tó haebbenne meatte and hwítel and bedfelt and heáfodbolster",
+          "latin": "stramenta lectorum sufficiant matta et sagum, lena et capitula",
+          "english": null,
+          "citations": "R. Ben. 90, 15"
+        },
+        {
+          "old_english": "Þ-bar; hine man álegde on þá meattan þe hé him on gebæd",
+          "latin": "praecepit eum in psiathio, quo vulgo matta vocatur, in quo orare consueverat, projici",
+          "english": null,
+          "citations": "Gr. D. 125, 26"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "matt. Add :-- Tó bedreáfe genihtsumige tó haebbenne meatte and hwítel and bedfelt and heáfodbolster stramenta lectorum sufficiant matta et sagum, lena et capitula, R. Ben. 90, 15. Þ-bar; hine man álegde on þá meattan þe hé him on gebæd praecepit eum in psiathio, quo vulgo matta vocatur, in quo orare consueverat, projici, Gr. D. 125, 26. [from Latin matta.]"
+}

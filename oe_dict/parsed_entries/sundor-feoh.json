@@ -1,0 +1,28 @@
+{
+  "citation_form": "sundor-feoh",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Private property, private estate",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mín sundorfeoh on ðam neoþeran Hysseburnan",
+          "latin": null,
+          "english": null,
+          "citations": "Chart. Th. 488, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sundor-feoh; n. Private property, private estate:?-Mín sundorfeoh on ðam neoþeran Hysseburnan, Chart. Th. 488, 10."
+}

@@ -1,0 +1,54 @@
+{
+  "citation_form": "be-weaxan",
+  "variant_forms": [
+    "bi-weaxan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-weóx",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-weóxon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-weaxen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To overgrow, cover over",
+      "latin": "obducere, obserere",
+      "quotations": [
+        {
+          "old_english": "Sindon burgtúnas brérum beweaxene [MS. beweaxne]",
+          "latin": null,
+          "english": "the city-dwellings are overgrown with briers",
+          "citations": "Exon. 115 b; Th. 443,17; Kl. 31"
+        },
+        {
+          "old_english": "Scyllum biweaxen",
+          "latin": null,
+          "english": "overgrown with scales",
+          "citations": "60 a; Th. 219, 21; Ph. 310"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "be-weaxan, bi-weaxan; p. -weóx, pl. -weóxon; pp. -weaxen To overgrow, cover over; obducere, obserere :-- Sindon burgtúnas brérum beweaxene [MS. beweaxne] the city-dwellings are overgrown with briers, Exon. 115 b; Th. 443,17; Kl. 31. Scyllum biweaxen overgrown with scales, 60 a; Th. 219, 21; Ph. 310."
+}

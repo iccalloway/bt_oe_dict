@@ -1,0 +1,28 @@
+{
+  "citation_form": "welig-stedende",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Making rich",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Uoeligstydende (printed uoeglig-) locupletans",
+          "latin": null,
+          "english": null,
+          "citations": "Rtl. 98, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "stede"
+  ],
+  "source_text": "welig-stedende; ptcpl. Making rich:--Uoeligstydende (printed uoeglig-) locupletans, Rtl. 98, 18. Cf. stede."
+}

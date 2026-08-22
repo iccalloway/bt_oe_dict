@@ -1,0 +1,38 @@
+{
+  "citation_form": "fóstor-leán",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Remuneration for fostering",
+      "latin": "nutrīcii merces",
+      "quotations": [
+        {
+          "old_english": "Hæfde Nergend fóstorleán fǽmnan forgolden, éce to ealdre",
+          "latin": null,
+          "english": "the Saviour had repaid the virgin the reward for fostering, in eternal life",
+          "citations": "Menol. Fox 301; Men. 152"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fóster-leán"
+  ],
+  "source_text": [
+    "fóstor-leán, es; n. Remuneration for fostering; nutr&i-long;cii merces :-- Hæfde Nergend fóstorleán fǽmnan forgolden, éce to ealdre the Saviour had repaid the virgin the reward for fostering, in eternal life. Menol. Fox 301; Men. 152. v. fóster-leán."
+  ]
+}

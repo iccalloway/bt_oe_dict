@@ -1,0 +1,99 @@
+{
+  "citation_form": "Wiht",
+  "variant_forms": [
+    "Wiht-land",
+    "Wiht (Wihte) eáland"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "From Latin Vecta or Vectis.",
+      "meaning": "the Isle of Wight",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Seó mæ-long;i&d-bar; &d-bar;e n&u-long; eardaþ on Wiht",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 449; Th. i. 20, col. I: Cod. Dip. Kmbl. iii. 431, 16, 24: v. 82, 19: vi. 196, 8"
+        },
+        {
+          "old_english": "C&a-long;mon sex scipu t&o-long; Wiht",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 897 ; Th. i. 176, 7"
+        },
+        {
+          "old_english": "Into Wiht (Wihtlande, v.ll.)",
+          "latin": null,
+          "english": null,
+          "citations": "1006; Th. i. 257, col. 2"
+        },
+        {
+          "old_english": "T&o-long; Wiht (Wihtlande, v. l.)",
+          "latin": null,
+          "english": null,
+          "citations": "1022; Th. i. 286, col. I"
+        },
+        {
+          "old_english": "On Wihtlande",
+          "latin": null,
+          "english": null,
+          "citations": "998 ; Th. i. 246, 24"
+        },
+        {
+          "old_english": "Int&o-long; Wihtlande",
+          "latin": null,
+          "english": null,
+          "citations": "1001 ; Th. i. 250, 13"
+        },
+        {
+          "old_english": "H&e-long; on Wiht gehergade",
+          "latin": null,
+          "english": null,
+          "citations": "661 ; Th. i. 54, 24"
+        },
+        {
+          "old_english": "Hié Wieht (Wiht, v. l. ) forhergedon",
+          "latin": null,
+          "english": null,
+          "citations": "681; Th. i. 62, col. I"
+        },
+        {
+          "old_english": "H&e-long;r Cerdic and Cynr&i-long;c gen&a-long;mon Wihte eálond (Wihtland, Wiht &d-bar;æt eáland, v. ll.)",
+          "latin": null,
+          "english": null,
+          "citations": "530; Th. i. 26, 33"
+        },
+        {
+          "old_english": "Hié sealdon hiera nefum Wiht eáland (Wihte eáland, Wiht &d-bar;æt &e-long;gland, Wihtland, v. ll.)",
+          "latin": null,
+          "english": null,
+          "citations": "534 ; Th. i. 28, col. I"
+        },
+        {
+          "old_english": "Ymbe Wiht &d-bar;æt &i-long;gland (Wiht-land, v. l.)",
+          "latin": "Vectae insulae",
+          "english": null,
+          "citations": "Bd. pref. ; S. 472, 14"
+        },
+        {
+          "old_english": "Seó &d-bar;eód &d-bar;e Wiht &d-bar;æt eálond (Wihtland, v. l.) oneardaþ",
+          "latin": "gens quae Vectam tenet insulam",
+          "english": null,
+          "citations": "I. 15; S. 483, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "Wiht, Wiht-land, Wiht (Wihte) eáland the Isle of Wight :-- Seó mæ-long;i&d-bar; &d-bar;e n&u-long; eardaþ on Wiht, Chr. 449; Th. i. 20, col. I: Cod. Dip. Kmbl. iii. 431, 16, 24: v. 82, 19: vi. 196, 8. C&a-long;mon sex scipu t&o-long; Wiht, Chr. 897 ; Th. i. 176, 7. Into Wiht (Wihtlande,v.ll.), 1006; Th. i. 257, col. 2. T&o-long; Wiht (Wihtlande, v. l.), 1022; Th. i. 286, col. I. On Wihtlande, 998 ; Th. i. 246, 24. Int&o-long; Wihtlande, 1001 ; Th. i. 250, 13. H&e-long; on Wiht gehergade, 661 ; Th. i. 54, 24. Hié Wieht (Wiht, v. l. ) forhergedon, 681; Th. i. 62, col. I. H&e-long;r Cerdic and Cynr&i-long;c gen&a-long;mon Wihte eálond (Wihtland, Wiht &d-bar;æt eáland, v. ll.), 530; Th. i. 26, 33. Hié sealdon hiera nefum Wiht eáland (Wihte eáland, Wiht &d-bar;æt &e-long;gland, Wihtland, v. ll.), 534 ; Th. i. 28, col. I. Ymbe Wiht &d-bar;æt &i-long;gland (Wiht-land, v. l.) Vectae insulae. Bd. pref. ; S. 472, 14. Seó &d-bar;eód &d-bar;e Wiht &d-bar;æt eálond (Wihtland, v. l.) oneardaþ gens quae Vectam tenet insulam, I. 15; S. 483, 22. [From Latin Vecta or Vectis.]"
+  ]
+}

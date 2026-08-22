@@ -1,0 +1,32 @@
+{
+  "citation_form": "ná-hwǽrn",
+  "variant_forms": [
+    "-wérn"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "No-where",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Náwem",
+          "latin": "non usquam",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 61, 9 : 95, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ǽgwérn"
+  ],
+  "source_text": [
+    "ná-hwǽrn (?), -wérn; adv. No-where :-- Náwem non usquam, Wrt. Voc. ii. 61, 9 : 95, 8. Cf. ǽgwérn, Ors. Swt. 154, 22."
+  ]
+}

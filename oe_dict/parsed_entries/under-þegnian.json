@@ -1,0 +1,27 @@
+{
+  "citation_form": "under-þegnian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": "subministrare",
+      "quotations": [
+        {
+          "old_english": "Underþénaþ subministrat",
+          "latin": "subministrat",
+          "english": null,
+          "citations": "Scint. 5, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "under-þegnian glosses subministrare in: Underþénaþ subministrat, Scint. 5, 6."
+}

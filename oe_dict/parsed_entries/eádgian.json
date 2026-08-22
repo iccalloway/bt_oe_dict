@@ -1,0 +1,83 @@
+{
+  "citation_form": "eádgian",
+  "variant_forms": [
+    "eádigian",
+    "eádigan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to make happy",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hand unhál wíf seó þe ná eádigað wer hyre",
+          "latin": "manus debilis mulier quae nan beatificat uirum suum",
+          "english": null,
+          "citations": "Scint. 224, 4"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to bless, enrich with something (gen.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sé þe eádgað ús siges, óðrum forwyrneð wlitigan wilsíðes",
+          "latin": null,
+          "english": null,
+          "citations": "Cri. 20"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": "Goth. audagjan to call blessed: O. H. Ger. gi-ótagón ditare: Icel. auðga to make happy; to enrich.",
+      "meaning": "to call blessed",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hí (the Virgin Mary) englas eádigað and ealle þeóda",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. A. 136, 690"
+        },
+        {
+          "old_english": "Heó is ús tó herianne and tó eádgienne, for þon þe heó engla þreátas eádige bodedon",
+          "latin": null,
+          "english": null,
+          "citations": "Bl. H. 11, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-eádgian"
+  ],
+  "source_text": "eádgian. Substitute: eádgian, eádigian, eádigan; p. ode. I. to make happy :-- Hand unhál wíf seó þe ná eádigað wer hyre manus debilis mulier quae nan beatificat uirum suum, Scint. 224, 4. II. to bless, enrich with something (gen.) :-- Sé þe eádgað ús siges, óðrum forwyrneð wlitigan wilsíðes, Cri. 20. III. to call blessed :-- Hí (the Virgin Mary) englas eádigað and ealle þeóda, Hml. A. 136, 690. Heó is ús tó herianne and tó eádgienne, for þon þe heó engla þreátas eádige bodedon, Bl. H. 11, 11. [Goth. audagjan to call blessed: O. H. Ger. gi-ótagón ditare: Icel. auðga to make happy; to enrich.] v. ge-eádgian."
+}

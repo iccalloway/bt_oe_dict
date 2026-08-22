@@ -1,0 +1,34 @@
+{
+  "citation_form": "leásung-spell",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A false or foolish story, a fable",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá hæfdon monige unwíse menn him tó worde and tó leásungspelle ðæt sió hǽte nǽre for hiora synnum ac sǽdon ðæt hió wǽre for Fetontis forscapunge",
+          "latin": "ex quo quidam, dum non concedunt Deo potentiam, suas inanes ratiunculas conquirentes, ridiculum Phaetontis fabulam texuerunt",
+          "english": null,
+          "citations": "Ors. 1, 7; Swt. 40, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "leásung-spell, es; n. A false or foolish story, a fable :-- Ðá hæfdon monige unwíse menn him tó worde and tó leásungspelle ðæt sió hǽte nǽre for hiora synnum ac sǽdon ðæt hió wǽre for Fetontis forscapunge ex quo quidam, dum non concedunt Deo potentiam, suas inanes ratiunculas conquirentes, ridiculum Phaetontis fabulam texuerunt, Ors. 1, 7; Swt. 40, 8."
+}

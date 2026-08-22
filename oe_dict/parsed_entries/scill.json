@@ -1,0 +1,186 @@
+{
+  "citation_form": "scill",
+  "variant_forms": [
+    "scell",
+    "scyll"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a shell, shell-fish",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Musclan scil conca",
+          "latin": "conca",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 15, 35"
+        },
+        {
+          "old_english": "Scel.",
+          "latin": null,
+          "english": null,
+          "citations": "105, 37"
+        },
+        {
+          "old_english": "Scel echinus, i. piscis, cancer",
+          "latin": null,
+          "english": null,
+          "citations": "142, 24: 106, 75"
+        },
+        {
+          "old_english": "Musclan &l-bar; scille de concha",
+          "latin": "de concha",
+          "english": null,
+          "citations": "Hpt. Gl. 417, 10"
+        },
+        {
+          "old_english": "Scille vel sǽsnæglas conchae vel cochleae",
+          "latin": "conchae vel cochleae",
+          "english": null,
+          "citations": "Wrt. Voc. i. 56, 7"
+        },
+        {
+          "old_english": "Scellum concis",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 15, 18"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "the shell of an egg",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se rodor ymbféhþ útan eall þás niðerlícan gescæfte, swá seó scell ymbféhþ ðæt ǽg",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 63, 10: Met. 20, 174"
+        },
+        {
+          "old_english": "Fæger swylce hé of ǽgerum út álǽde, scír of scylle",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 214, 4; Ph. 234"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "a scale of a fish, serpent, etc.",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hió dyde sciella tó bisene his heor neohtum and ðus cwæð: Æ-acute;lces fisces sciell biþ tó oðerre geféged",
+          "latin": "sub squamarum specie de ejus satellitibus perhibetur: Una uni conjungitur",
+          "english": null,
+          "citations": "Past. 47, 3; Swt. 361, 17"
+        },
+        {
+          "old_english": "Sumum (serpents) scinan ða scilla swylce hié wǽron gyldene.",
+          "latin": null,
+          "english": null,
+          "citations": "Nar. 13, 19"
+        },
+        {
+          "old_english": "Ðonne hié (the serpent) mon slóg oððe sceát, ðonne glád hit on ðǽm scyllum, swelce hit wǽre sméðe ísen.",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 4, 6; Swt. 174, 8"
+        },
+        {
+          "old_english": "Sindon ða scancan scyllum biweaxen",
+          "latin": "crura tegunt squamae",
+          "english": null,
+          "citations": "Exon. Th. 219, 21; Ph. 310"
+        },
+        {
+          "old_english": "Ne ete gé nánne fisc búton ða ðe habbaþ finnas and scilla",
+          "latin": null,
+          "english": null,
+          "citations": "Lev. 11, 9"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "IV.",
+      "supplemental": "Goth. skalja a tile: Icel. skel a shell.",
+      "meaning": "a shell-shaped dish (?) or simply a shell",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nim león gelynde, mylt on scylle (a dish or a shell?)",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 364, 24"
+        },
+        {
+          "old_english": "Wyrme on scille",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 42, 16: 310, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ǽg-scill",
+    "oster-scill",
+    "sǽ-scill",
+    "weolc-scill"
+  ],
+  "source_text": "scill, scell, scyll, e; f. I. a shell, shell-fish:?-Musclan scil conca, Wrt. Voc. ii. 15, 35. Scel. 105, 37. Scel echinus, i. piscis, cancer, 142, 24: 106, 75. Musclan &l-bar; scille de concha, Hpt. Gl. 417, 10. Scille vel sǽsnæglas conchae vel cochleae, Wrt. Voc. i. 56, 7. Scellum concis, ii. 15, 18. II. the shell of an egg:--Se rodor ymbféhþ útan eall þás niðerlícan gescæfte, swá seó scell ymbféhþ ðæt ǽg, Shrn. 63, 10: Met. 20, 174. Fæger swylce hé of ǽgerum út álǽde, scír of scylle, Exon. Th. 214, 4; Ph. 234. III. a scale of a fish, serpent, etc.:--Hió dyde sciella tó bisene his heor neohtum and ðus cwæð: Æ-acute;lces fisces sciell biþ tó oðerre geféged sub squamarum specie de ejus satellitibus perhibetur: Una uni conjungitur, Past. 47, 3; Swt. 361, 17. Sumum (serpents) scinan ða scilla swylce hié wǽron gyldene. Nar. 13, 19. Ðonne hié (the serpent) mon slóg oððe sceát, ðonne glád hit on ðǽm scyllum, swelce hit wǽre sméðe ísen. Ors. 4, 6; Swt. 174, 8. Sindon ða scancan scyllum biweaxen crura tegunt squamae, Exon. Th. 219, 21; Ph. 310. Ne ete gé nánne fisc búton ða ðe habbaþ finnas and scilla, Lev. 11, 9. IV. a shell-shaped dish (?) or simply a shell:?-Nim león gelynde, mylt on scylle (a dish or a shell?), Lchdm. i. 364, 24. Wyrme on scille, ii. 42, 16: 310, 6. [Goth. skalja a tile: Icel. skel a shell.] v. ǽg-, oster-, sǽ-, weolc-scill."
+}

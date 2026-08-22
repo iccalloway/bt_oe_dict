@@ -1,0 +1,58 @@
+{
+  "citation_form": "astíðian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ude",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "ud",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "a intensive, stíðian to become hard",
+      "meaning": "To become hard, dry, dry up, wither",
+      "latin": "indurare, arescere",
+      "quotations": [
+        {
+          "old_english": "Astíðude swá swá tigle miht mín",
+          "latin": null,
+          "english": "my strength dried up as a tile",
+          "citations": "Ps. Spl. 21, 14"
+        },
+        {
+          "old_english": "Hit astiðaþ and drugaþ",
+          "latin": "induret et arescat",
+          "english": null,
+          "citations": "89, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "astíðian; p. ode, ude; pp. od, ud [a intensive, stíðian to become hard] To become hard, dry, dry up, wither; indurare, arescere :-- Astíðude swá swá tigle miht mín my strength dried up as a tile, Ps. Spl. 21, 14. Hit astiðaþ and drugaþ induret et arescat, 89, 6."
+}

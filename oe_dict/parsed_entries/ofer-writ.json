@@ -1,0 +1,30 @@
+{
+  "citation_form": "ofer-writ",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a superscription",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Oferwriotum áwriten",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. R. 23, 38"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ofer-writ. Add: a superscription :-- Oferwriotum áwriten, Lk. R. 23, 38."
+  ]
+}

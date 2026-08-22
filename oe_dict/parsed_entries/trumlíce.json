@@ -1,0 +1,74 @@
+{
+  "citation_form": "trumlíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "firmly, strongly, steadfastly",
+      "latin": "firmiter",
+      "quotations": [
+        {
+          "old_english": "Trumlíce firmiter",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 38; Zup. 236, 8"
+        },
+        {
+          "old_english": "Ða gódan weorc, ðeáh ðe hié beforan monna eágum ðyncen trumlíce gedón",
+          "latin": "etiam quae humanis oculis fortia videntur",
+          "english": null,
+          "citations": "Past. 34; Swt. 237, 2"
+        },
+        {
+          "old_english": "Ð æt leód and lagu trumlíce stande",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 74, 8"
+        },
+        {
+          "old_english": "Eahta sweras syndon ðe rihtlícne cynedom trum&dash-uncertain;líce up wegaþ",
+          "latin": null,
+          "english": null,
+          "citations": "L.I. P. 3 ; Th. ii. 306, 19"
+        },
+        {
+          "old_english": "Trumlícor firmius",
+          "latin": null,
+          "english": null,
+          "citations": "Rtl. 34, 26"
+        },
+        {
+          "old_english": "Freóndscype trumlícust (firmissimé) wunaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Sciut. 197, 18"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "in a way that encourages (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ungeleáffullnise trumlíce- strongly (?); but the Latin is clementer geðreáð bið",
+          "latin": null,
+          "english": null,
+          "citations": "Mk. Skt. p. 5, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "trumlíce; adv. I. firmly, strongly, steadfastly :-- Trumlíce firmiter, Ælfc. Gr. 38; Zup. 236, 8. Ða gódan weorc, ðeáh ðe hié beforan monna eágum ðyncen trumlíce gedón etiam quae humanis oculis fortia videntur, Past. 34; Swt. 237, 2. Ð æt leód and lagu trumlíce stande, Wulfst. 74, 8. Eahta sweras syndon ðe rihtlícne cynedom trum&dash-uncertain;líce up wegaþ, L.I. P. 3 ; Th. ii. 306, 19. Trumlícor firmius, Rtl. 34, 26. Freóndscype trumlícust (firmissimé) wunaþ, Sciut. 197, 18. II. in a way that encourages (?) :-- Ungeleáffullnise trumlíce- strongly (?); but the Latin is clementer geðreáð bið, Mk. Skt. p. 5, 13."
+}

@@ -1,0 +1,42 @@
+{
+  "citation_form": "for-mengan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Dut. Ger. ver-mengen to mix, mingle, confuse.",
+      "meaning": "To join together, mingle",
+      "latin": "conjungĕre",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Past. 21, 1? Lye"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "mengan"
+  ],
+  "source_text": "for-mengan; p. de; pp. ed To join together, mingle; conjung&e-short;re, Past. 21, 1? Lye. [Dut. Ger. ver-mengen to mix, mingle, confuse.] v. mengan."
+}

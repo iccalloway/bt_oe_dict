@@ -1,0 +1,29 @@
+{
+  "citation_form": "breác",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "enjoyed; p. of brúcan",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 77 a; Th. 289, 7; Wand. 44"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "brúcan"
+  ],
+  "source_text": "breác enjoyed, Exon. 77 a; Th. 289, 7; Wand. 44; p. of brúcan."
+}

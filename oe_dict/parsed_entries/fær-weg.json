@@ -1,0 +1,42 @@
+{
+  "citation_form": "fær-weg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Ger. fahr-weg.",
+      "meaning": "A cart-road",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Andlang þǽre díc tó cnictes ferwege ; of þám wege on ealdan stánwege",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. B. i. 417, 15"
+        },
+        {
+          "old_english": "Ondlong heges on færweg",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iii. 213, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fær-weg, es; m. A cart-road :-- Andlang þǽre díc tó cnictes ferwege ; of þám wege on ealdan stánwege, C. D. B. i. 417, 15. Ondlong heges on færweg, C. D. iii. 213, 1. [Ger. fahr-weg.]"
+  ]
+}

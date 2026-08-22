@@ -1,0 +1,36 @@
+{
+  "citation_form": "líhting",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "shining",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Swá micel swá þæs dæges líhting geþafige",
+          "latin": "quantum hora permittit",
+          "english": null,
+          "citations": "R. Ben. 67, 8"
+        },
+        {
+          "old_english": "Ealle þás þing þurh lífes líht-incge gefyllan",
+          "latin": "haec omnia per hanc lucis viam (has vitani been read?)",
+          "english": null,
+          "citations": "5, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "rodor-líhting"
+  ],
+  "source_text": "líhting shining. Add :-- Swá micel swá þæs dæges líhting geþafige quantum hora permittit, R. Ben. 67, 8. Ealle þás þing þurh lífes líht-incge gefyllan haec omnia per hanc lucis viam (has vitani been read?), 5, 8. v. rodor-líhting."
+}

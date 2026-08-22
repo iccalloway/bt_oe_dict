@@ -1,0 +1,34 @@
+{
+  "citation_form": "bátwá",
+  "variant_forms": [
+    "bútá",
+    "bútú",
+    "bútwú"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "bá both, twá two",
+      "meaning": "BOTH THE TWO, both",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Bátwá Adam and Eue",
+          "latin": null,
+          "english": "both Adam and Eve",
+          "citations": "Cd. 37; Th. 47, 24; Gen. 765: Gen. 26, 35"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "begen"
+  ],
+  "source_text": [
+    "bátwá, bútá, bútú, bútwú; adj. [bá both, twá two] BOTH THE TWO, both:-Bátwá Adam and Eue both Adam and Eve, Cd. 37; Th. 47, 24; Gen. 765: Gen. 26, 35. v. begen."
+  ]
+}

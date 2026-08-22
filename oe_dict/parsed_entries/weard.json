@@ -1,0 +1,59 @@
+{
+  "citation_form": "weard",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Ward in to-ward; the form occurs in combination with tó (v. tó-weard; prep. II. 3) and wiþ (v. wiþ, IX)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hié wǽron wið ðæs fýres weard",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 4, 10; Swt. 200, 16"
+        },
+        {
+          "old_english": "Hé wið Róme weard farende wæs",
+          "latin": null,
+          "english": null,
+          "citations": "5, 11; Swt. 236, 9, 15, 21"
+        },
+        {
+          "old_english": "Ðá ongan seó leó fægnian wið ðæs ealdan weard",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. ii. 23 b, 778"
+        },
+        {
+          "old_english": "Heó teáh hyne wiþ hyre weard",
+          "latin": null,
+          "english": null,
+          "citations": "Judth. Thw. 23, 1; Jud. 99"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "tó-weard",
+    "wiþ",
+    "eást-weard",
+    "for-weard",
+    "forþ-weard",
+    "hám-weard",
+    "hider-weard",
+    "hindan-weard",
+    "norþ-weard",
+    "súþ-weard",
+    "þider-weard",
+    "west-weard"
+  ],
+  "source_text": [
+    "weard; adv. Ward in to-ward; the form occurs in combination with tó (v. tó-weard; prep. II. 3) and wiþ (v. wiþ, IX):--Hié wǽron wið ðæs fýres weard, Ors. 4, 10; Swt. 200, 16. Hé wið Róme weard farende wæs, 5, 11; Swt. 236, 9, 15, 21. Ðá ongan seó leó fægnian wið ðæs ealdan weard, Homl. Skt. ii. 23 b, 778. Heó teáh hyne wiþ hyre weard, Judth. Thw. 23, 1; Jud. 99. v. eást-, for-, forþ-, hám-, hider-, hindan-, norþ-, súþ-, þider-, west-weard."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "citation_form": "be-feón",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-feód",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To deprive of property (feoh), to confiscate",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þ-bar; hé wǽre benǽmed, befeód (-fiód, Hpt. Gl. 480, 53)",
+          "latin": "infiscaretur, i. fraudaretur",
+          "english": null,
+          "citations": "An. Ox. 3157"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "be-feón; pp. -feód To deprive of property (feoh), to confiscate:--Þ-bar; hé wǽre benǽmed, befeód (-fiód, Hpt. Gl. 480, 53) infiscaretur, i. fraudaretur, An. Ox. 3157."
+}

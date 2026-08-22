@@ -1,0 +1,307 @@
+{
+  "citation_form": "be-seón",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "intrans. To look",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "absolute",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "physical",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ne beseoh þú underbæc",
+                  "latin": "noli respicere post tergum",
+                  "english": null,
+                  "citations": "Gen. 19, 17"
+                },
+                {
+                  "old_english": "Mann þe hys hand ásett on hys sulh and on bæc besyhð",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lk. 9, 62"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "mental",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Beseoh (respice) and gehýr mé",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ps. Spl. 12, 3"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": "with preps.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "physical",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Beseó hé upp tó þǽre nǽddran, and hé leofað, swá hé besihð on hig",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Num. 21, 8"
+                },
+                {
+                  "old_english": "Swá ðá eágan on besióð",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 41, 4; F. 252, 13"
+                },
+                {
+                  "old_english": "Of heofenum beseah Drihten",
+                  "latin": "Dominus de coelo prospexit",
+                  "english": null,
+                  "citations": "Ps. Th. 52, 3"
+                },
+                {
+                  "old_english": "þæt folc beseah on Faraones here",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ex. 14, 10"
+                },
+                {
+                  "old_english": "Hé beseah tó heofenum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Hml. Th. i. 62, 9: Ap. Th. 11, 18"
+                },
+                {
+                  "old_english": "Hé underbæc beseah wið þæs wælfylles",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 2562"
+                },
+                {
+                  "old_english": "þonne hié besáwon on þá burg",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ors. 2, 8 ; S. 92, 32"
+                },
+                {
+                  "old_english": "Beó se canon him ætforan eágum, beseó tó",
+                  "latin": null,
+                  "english": null,
+                  "citations": "LK Th. ii. 250, 24"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "mental, to look with favour, attention, expectation, &c.",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hé nǽfre ne besyhð to ðǽre uplican are",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Past. 67, 14"
+                },
+                {
+                  "old_english": "Beseah Drihten tó Abele and tó his lácum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 4, 4, 5"
+                },
+                {
+                  "old_english": "Hé beseah wið mín, and gehýrde mín gebed",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ps. Th. 39, 1"
+                },
+                {
+                  "old_english": "Ealle heó on áne ídelnesse symle beségan",
+                  "latin": "omnes declinaverunt, simul inutiles facti sunt",
+                  "english": null,
+                  "citations": "52, 4"
+                },
+                {
+                  "old_english": "Beseoh tó mé",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ps. Th. 12, 3: 21, 1"
+                },
+                {
+                  "old_english": "Beseoh mé tó fultume",
+                  "latin": "intende in adjutorium meum",
+                  "english": null,
+                  "citations": "37, 21"
+                },
+                {
+                  "old_english": "Beseoh þi mé on fultun",
+                  "latin": "respice in auxilium meum",
+                  "english": null,
+                  "citations": "70, 11"
+                },
+                {
+                  "old_english": "Beseoh tó ús",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 47, 25"
+                },
+                {
+                  "old_english": "þéh Godes bydel misdó, ne beseó man ná þǽrtó ealles tó swýðe",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Wlfst. 178, 11"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "reflexive",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "absolute",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "þá hé hyne beseah, þá geseah hé olfendas",
+              "latin": "cum elevasset oculos, vidit camelos",
+              "english": null,
+              "citations": "Gen. 24, 63: 33, 1: Hml. S. 23 b, 772"
+            },
+            {
+              "old_english": "Þá beseah hé hyne ymbútan hider and þider",
+              "latin": "cum circumspexisset huc atque illuc",
+              "english": null,
+              "citations": "Ex. 2, 12"
+            },
+            {
+              "old_english": "Ne beseoh þú þe ná",
+              "latin": null,
+              "english": null,
+              "citations": "Lch. i. 202, 17"
+            },
+            {
+              "old_english": "þ-bar; hé hine underbæc ne besáwe",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 35, 6; F. 170, 9"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "with prep.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Beseah hé hine underbæc wiþ ðæs wífes",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 35, 6 ; F. 170, 14"
+            },
+            {
+              "old_english": "þ-bar; hé hine ne besió tó his ealdun yfelum",
+              "latin": null,
+              "english": null,
+              "citations": "17"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": "[Goth. bi-saihwan : O. Frs. bi-sia : O. Sax. be-sehan: O. H. Ger. pi&dash-uncertain;sehan.]",
+      "meaning": "trans. To see about, care for, attend to, provide for",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ealle fata and spéde hé sceal beseón",
+          "latin": "omnia vasa cunctamque substantiam conspiciat",
+          "english": null,
+          "citations": "R. Ben. 55, 1"
+        },
+        {
+          "old_english": "Hé wæs wel besewen on reáfe and yfele on þeáwum",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 534, 3"
+        },
+        {
+          "old_english": "Hláf well besewen and well gesyfled",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iv. 278, 4"
+        },
+        {
+          "old_english": "Behealde hé þæt his oflétan ne beón yfele besewene",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. ii. 360, 27"
+        },
+        {
+          "old_english": "Manega mid upplicre besawene gyfe",
+          "latin": "multi superna respecti gratia",
+          "english": null,
+          "citations": "Scint. 46, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "be-seón. Add: I. intrans. To look. (1) absolute, (a) physical :-- Ne beseoh þú underbæc noli respicere post tergum, Gen. 19, 17. (b) mental :-- Mann þe hys hand ásett on hys sulh and on bæc besyhð, Lk. 9, 62. Beseoh (respice) and gehýr mé, Ps. Spl. 12, 3. (2) with preps. (a) physical :-- Beseó hé upp tó þǽre nǽddran, and hé leofað, swá hé besihð on hig, Num. 21, 8. Swá ðá eágan on besióð, Bt. 41, 4; F. 252, 13. Of heofenum beseah Drihten Dominus de coelo prospexit, Ps. Th. 52, 3. þæt folc beseah on Faraones here, Ex. 14, 10. Hé beseah tó heofenum, Hml. Th. i. 62, 9: Ap. Th. 11, 18. Hé underbæc beseah wið þæs wælfylles, Gen. 2562. þonne hié besáwon on þá burg, Ors. 2, 8 ; S. 92, 32. Beó se canon him ætforan eágum, beseó tó, LK Th. ii. 250, 24. (b) mental, to look with favour, attention, expectation, &c. :-- Hé nǽfre ne besyhð to ðǽre uplican are, Past. 67, 14. Beseah Drihten tó Abele and tó his lácum, Gen. 4, 4, 5. Hé beseah wið mín, and gehýrde mín gebed, Ps. Th. 39, 1. Ealle heó on áne ídelnesse symle beségan omnes declinaverunt, simul inutiles facti sunt 52, 4. Beseoh tó mé, Ps. Th. 12, 3: 21, 1. Beseoh mé tó fultume intende in adjutorium meum, 37, 21. Beseoh þi mé on fultun. respice in auxilium meum, 70, 11, Beseoh tó ús, Gen. 47, 25. þéh Godes bydel misdó, ne beseó man ná þǽrtó ealles tó swýðe, Wlfst. 178, 11. II. reflexive, (1) absolute :-- þá hé hyne beseah, þá geseah hé olfendas cum elevasset oculos, vidit camelos. Gen. 24, 63: 33, 1: Hml. S. 23 b, 772. Þá beseah hé hyne ymbútan hider and þider cum circum-spexisset huc atque illuc, Ex. 2, 12. Ne beseoh þú þe ná, Lch. i. 202, 17. þ-bar; hé hine underbæc ne besáwe. Bt. 35, 6; F. 170, 9. (2) with prep. :-- Beseah hé hine underbæc wiþ ðæs wífes. Bt. 35, 6 ; F. 170, 14. þ-bar; hé hine ne besió tó his ealdun yfelum, 17. III. trans. To see about, care for, attend to, provide for :-- Ealle fata and spéde hé sceal beseón omnia vasa cunctamque substantiam conspiciat, R. Ben. 55, 1. Hé wæs wel besewen on reáfe and yfele on þeáwum, Hml. Th. i. 534, 3. Hláf well besewen and well gesyfled, C. D. iv. 278, 4. Behealde hé þæt his oflétan ne beón yfele besewene, Ll. Th. ii. 360, 27. Manega mid upplicre besawene gyfe multi superna respecti gratia, Scint. 46, 15; [Goth. bi-saihwan : O. Frs. bi-sia : O. Sax. be-sehan: O. H. Ger. pi&dash-uncertain;sehan.]"
+  ]
+}

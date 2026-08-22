@@ -1,0 +1,36 @@
+{
+  "citation_form": "mearc-hlinc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A boundary hlinc (q. v.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eást tó mearchlince; and swá eást be ðæs bisceopes mearce, . . . be Byrhtswýðe mearce",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. vi. 33, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hlinc"
+  ],
+  "source_text": "mearc-hlinc, es; m. A boundary hlinc (q. v.) :-- Eást tó mearchlince; and swá eást be ðæs bisceopes mearce, . . . be Byrhtswýðe mearce, C. D. vi. 33, 32."
+}

@@ -1,0 +1,51 @@
+{
+  "citation_form": "birging",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Tasting, taste",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Byrgincg (gustus) swéte út ánýdde of neorxena wonge",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 57, 2"
+        },
+        {
+          "old_english": "Hnesce on æthrine and weredre on byrigincge (biriginge, byrincge, v. ll.)",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. i. 108, 2"
+        },
+        {
+          "old_english": "On byrgynge",
+          "latin": null,
+          "english": null,
+          "citations": "250, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "on-birging",
+    "býrging"
+  ],
+  "source_text": [
+    "birging, e; f. Tasting, taste :-- Byrgincg (gustus) swéte út ánýdde of neorxena wonge, Scint. 57, 2. Hnesce on æthrine and weredre on byrigincge (biriginge, byrincge, v. ll.), Lch. i. 108, 2. On byrgynge, 250, 22. v. on-birging, and býrging (l. byrging) in Dict."
+  ]
+}

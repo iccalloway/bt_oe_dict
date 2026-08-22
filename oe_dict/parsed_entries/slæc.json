@@ -1,0 +1,195 @@
+{
+  "citation_form": "slæc",
+  "variant_forms": [
+    "sleac",
+    "slec"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": "v. slæcness",
+      "meaning": "Slack",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "inactive, slothful, lazy, not willing to make an effort",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Slæc reses",
+              "latin": null,
+              "english": null,
+              "citations": "Wrt. Voc. ii. 118, 77"
+            },
+            {
+              "old_english": "Sleac piger",
+              "latin": null,
+              "english": null,
+              "citations": "i. 74, 33: lentus vel piger, 49, 35"
+            },
+            {
+              "old_english": "Sleac vel slaw pigras vel lentus",
+              "latin": null,
+              "english": null,
+              "citations": "16, 48"
+            },
+            {
+              "old_english": "Ðú yfela þeówa and sleac thou wicked and slothful servant.",
+              "latin": null,
+              "english": "thou wicked and slothful servant.",
+              "citations": "Homl. Th. ii. 554, 7"
+            },
+            {
+              "old_english": "Sægdon ðæt hé sleac wǽre, æðeling unfrom.",
+              "latin": null,
+              "english": null,
+              "citations": "Beo. Th. 4381; B. 2187"
+            },
+            {
+              "old_english": "Ðæt ðæm sleacan preóste ne þince tó mycel geswinc, ðæt hé undó his eágan",
+              "latin": null,
+              "english": null,
+              "citations": "Anglia viii. 317, 4"
+            },
+            {
+              "old_english": "Tó swilcum sleacum cweð se hírédes ealdor: ' Tó hwí stande gé hér ealne dæg ýdele?'",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 78, 10"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "careless, negligent, remiss, not strict in the performance of duty",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne tó stræc on ðære láre ne tó slæc on ðære mildheortnesse",
+              "latin": "ne aut districtio rigida, oue pietas remissa.",
+              "english": null,
+              "citations": "Past. 17, 10; Swt. 125, 1"
+            },
+            {
+              "old_english": "Se ðe sleac wǽre tó gódnesse",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 100, 22"
+            },
+            {
+              "old_english": "Se biþ wacigende .. . se biþ sleac and slǽpende",
+              "latin": null,
+              "english": null,
+              "citations": "Btwk. 220, 32"
+            },
+            {
+              "old_english": "Sleaces socordis",
+              "latin": null,
+              "english": null,
+              "citations": "Germ. 388, 34"
+            },
+            {
+              "old_english": "Ne beón gé tó slápole ne tó sleace, ac scyldaþ eów georne wið deófles dare.",
+              "latin": null,
+              "english": null,
+              "citations": "Wulfst. 40, 21"
+            },
+            {
+              "old_english": "Sleace to ǽnig wyrcenne gód pigre ad aliquod operandum bonum",
+              "latin": null,
+              "english": null,
+              "citations": "Anglia xi. 117, 36"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "languid, ill",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Slæce egra",
+              "latin": null,
+              "english": null,
+              "citations": "Wrt. Voc. ii. 107, 8 : 29, 18"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "of things",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "of physical movement, slow, gentle",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sum munuc mid sleaccre stalcunge his fótswaðum filigde",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 138, 6"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "that makes inactive, sluggish",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Wé sceolon ásceacan ðone sleacan slǽp ús fram",
+              "latin": null,
+              "english": null,
+              "citations": "i. 602, 15"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "not attended with effort",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hit is ealles tó sleac munuca . þeówdóm",
+              "latin": "nimis iners seruilium",
+              "english": "gif hié læsse singaþ",
+              "citations": "R. Ben. 44, 18"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "slæcness"
+  ],
+  "source_text": [
+    "slæc, sleac, slec (v. slæcness); adj. Slack. I. of persons (1) inactive, slothful, lazy, not willing to make an effort :-- Slæc reses, Wrt. Voc. ii. 118, 77. Sleac piger, i. 74, 33: lentus vel piger, 49, 35. Sleac vel slaw pigras vel lentus, 16, 48. Ðú yfela þeówa and sleac thou wicked and slothful servant. Homl. Th. ii. 554, 7. Sægdon ðæt hé sleac wǽre, æðeling unfrom. Beo. Th. 4381; B. 2187. Ðæt ðæm sleacan preóste ne þince tó mycel geswinc, ðæt hé undó his eágan, Anglia viii. 317, 4. Tó swilcum sleacum cweð se hírédes ealdor: ' Tó hwí stande gé hér ealne dæg ýdele?' Homl. Th. ii. 78, 10. (2) careless, negligent, remiss, not strict in the performance of duty :-- Ne tó stræc on ðære láre ne tó slæc on ðære mildheortnesse ne aut districtio rigida, oue pietas remissa. Past. 17, 10; Swt. 125, 1. Se ðe sleac wǽre tó gódnesse, Homl. Th. ii. 100, 22. Se biþ wacigende .. . se biþ sleac and slǽpende, Btwk. 220, 32. Sleaces socordis, Germ. 388, 34. Ne beón gé tó slápole ne tó sleace, ac scyldaþ eów georne wið deófles dare. Wulfst. 40, 21. Sleace to ǽnig wyrcenne gód pigre ad aliquod operandum bonum, Anglia xi. 117, 36. (3) languid, ill :-- Slæce egra, Wrt. Voc. ii. 107, 8 : 29, 18. II. of things, (1) of physical movement, slow, gentle :-- Sum munuc mid sleaccre stalcunge his fótswaðum filigde, Homl. Th. ii. 138, 6. (2) that makes inactive, sluggish :-- Wé sceolon ásceacan ðone sleacan slǽp ús fram, i. 602, 15. (3) not attended with effort :-- Hit is ealles tó sleac munuca . þeówdóm (nimis iners seruilium), gif hié læsse singaþ, R. Ben. 44, 18."
+  ]
+}

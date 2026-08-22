@@ -1,0 +1,321 @@
+{
+  "citation_form": "þurh-wunian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to continue, last, not to come to an end, not to pass away",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Godes ege þurhwunaþ á worlda world",
+          "latin": "timor Domini permanens in seculum seculi",
+          "english": null,
+          "citations": "Ps. Th. 58, 8"
+        },
+        {
+          "old_english": "His ríce þurhwunaþ on écnesse",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 65, 16"
+        },
+        {
+          "old_english": "Hús rihtwísra þurhwunaþ (permanebit)",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 73, 2, 16"
+        },
+        {
+          "old_english": "Heora gemyud þurhwunaþ á tó worulde",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. T. Grn. 1, 11"
+        },
+        {
+          "old_english": "God, se ðe ǽfre þurhwunode búton ǽlcum anginne",
+          "latin": null,
+          "english": null,
+          "citations": "2, 3"
+        },
+        {
+          "old_english": "Þurhwunedan",
+          "latin": "duraverunt",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 28, 58: Wülck. Gl. 256, 2"
+        },
+        {
+          "old_english": "Úre ná þurh-wunedun fæderas",
+          "latin": "nostri non mansere parentes",
+          "english": null,
+          "citations": "6"
+        },
+        {
+          "old_english": "Þa leornian on eorþan ðæra ús cýþ þurhwunige on heofenum",
+          "latin": "illa discere in terris quorum nobis notitia perseueret in coelis",
+          "english": null,
+          "citations": "Scint. 218, 13"
+        },
+        {
+          "old_english": "Lang mid þingum úrum þurhwunian (durare) wé ná magan",
+          "latin": null,
+          "english": null,
+          "citations": "183, 4"
+        },
+        {
+          "old_english": "Ádl þurhwunigende",
+          "latin": "languor perseuerans",
+          "english": null,
+          "citations": "153, 17"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to continue in a place, with a person, to remain, not to leave",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic þurhwunode (perseveravi) on ðam munte feówertig daga and feówertig nihta",
+          "latin": null,
+          "english": null,
+          "citations": "Deut. 9, 9"
+        },
+        {
+          "old_english": "Gé synt ðe mid mé þurhwunedon (ðerhwunadon(-un) permansistis, Lind., Rush.) on mínum geswincum",
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Skt. 22, 28"
+        },
+        {
+          "old_english": "Þurhwunedan munecas on Xpes cyrican",
+          "latin": "permanserunt",
+          "english": "monks have continued to live in Christchurch",
+          "citations": "Chr. 995; Th. 1. 244, 29"
+        },
+        {
+          "old_english": "Ðæt hé symle on ús eardige, and wé on him þurhwunian (permaneamus)",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 16, 11"
+        },
+        {
+          "old_english": "Ðæt gé þuthwunion lange on ðam lande",
+          "latin": null,
+          "english": null,
+          "citations": "Deut. 4, 40"
+        },
+        {
+          "old_english": "Eálá wǽran ða ancras swá trume and swá þurhwuniende, ðonne mihte wé ðý éþ geþolian swá hwæt earfoþnessa swá ús on becóme",
+          "latin": "haereant ancorae, precor; illis namque manentibus, utcumque se res habeant, enatabimus",
+          "english": null,
+          "citations": "Bt. 10; Fox 30, 10"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "to continue in a condition, not to change; where purpose or effort is implied, to persevere, persist, hold out",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "absolute",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se þurhwunaþ (ðerhwunes &l-bar; ðerhwunia wælla, Lind.) óð ende, se byþ hál",
+              "latin": "qui perseveraverit usque in finem, hic salvus erit",
+              "english": null,
+              "citations": "Mt. Knbl. 10, 22: Scint. 90, 2: Blickl. Homl. 21, 36"
+            },
+            {
+              "old_english": "Se ðe óð ende þurhwunaþ (sustenuerit)",
+              "latin": null,
+              "english": null,
+              "citations": "Mk. Skt. 13, 13"
+            },
+            {
+              "old_english": "Ná ongynnendum méd ys beháten ac þurhwunigendum (perseverantibus) ys geseald",
+              "latin": null,
+              "english": null,
+              "citations": "Scint. 91, 3, 1"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "where the condition is given by a complementary noun or adjective",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Æ-acute;fre hé biþ ánes módes, and glæd þurhwunaþ",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. i. 456, 25"
+            },
+            {
+              "old_english": "Heó þurhwunode mǽden",
+              "latin": null,
+              "english": null,
+              "citations": "24, 27"
+            },
+            {
+              "old_english": "Heó onwealg on hiere onwalde æfter þurhwunade",
+              "latin": "manet adhuc et regnat incolumis",
+              "english": null,
+              "citations": "Ors. 2, 1; Swt. 62, 24"
+            },
+            {
+              "old_english": "Heó á clǽne þurhwunode",
+              "latin": null,
+              "english": null,
+              "citations": "Blickl. Homl. 3, 18"
+            },
+            {
+              "old_english": "Hé þurhwunode unspecende and mihteleás forð óð ðone Ðunresdæg",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1053; Erl. 186, 23"
+            },
+            {
+              "old_english": "Is rihtost ðæt hé ðananforð wydewa þurhwunige",
+              "latin": null,
+              "english": null,
+              "citations": "L. I. P. 22; Th. ii. 332, 32"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(3)",
+          "heading": "where the condition is given in a phrase",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On góde on ðam hé ongan óþ ende hé þurhwunaþ",
+              "latin": "in bono quo coepit usque in finem perdurat",
+              "english": null,
+              "citations": "Scint. 227, 55"
+            },
+            {
+              "old_english": "Gyt git þurhwuniaþ on incre ánwilnesse",
+              "latin": null,
+              "english": "ye still persist in your obstinacy",
+              "citations": "Blickl. Homl. 187, 33"
+            },
+            {
+              "old_english": "His (Adam's) bendas wǽron onlýsde ... Eua ðágyt on bendum þurhwunode",
+              "latin": null,
+              "english": null,
+              "citations": "89, 6"
+            },
+            {
+              "old_english": "Hié þurhwunian on rihtum geleáfan",
+              "latin": null,
+              "english": null,
+              "citations": "77, 19"
+            },
+            {
+              "old_english": "Hé nolde þurhwunian on ðære sóðfæstnisse ðæs sóðfæstan Godes sunu",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. T. Grn. 2, 41"
+            },
+            {
+              "old_english": "Se ðe on ðám gesǽlþum ðurhwunian ne mót",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 2; Fox 4, 15"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "IV.",
+      "supplemental": "[An lond þer he mihte þurhwunian (wonie, 2nd MS.), Laym. 5384. Þu wið Godd þurhwunest in alre worlde world, Kath. 663. Cf. Goth. þairh-wisan manere, permanere.]",
+      "meaning": "to continue an action, persevere with or in, not to desist from, not to leave off",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eua ðágyt on wópe þurhwunode",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 89, 6"
+        },
+        {
+          "old_english": "Hié forþ on heora yfelum þurhwunedon",
+          "latin": null,
+          "english": null,
+          "citations": "79, 8"
+        },
+        {
+          "old_english": "Ðá hig þurhwunedon (perseuerarent) hine áxsiende",
+          "latin": null,
+          "english": null,
+          "citations": "Jn. Skt. 8, 7"
+        },
+        {
+          "old_english": "On ðam gewinne þurhwunian",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 37, 1; Fox 186, 31: Met. 25, 70"
+        },
+        {
+          "old_english": "Þurhwunian on fulfremedlícum weorcum",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 77, 19"
+        },
+        {
+          "old_english": "Þurhwunian his béne",
+          "latin": "persistere petitioni sue",
+          "english": null,
+          "citations": "R. Ben. Interl. 95, 16"
+        },
+        {
+          "old_english": "Hé þurhwunigende mid gebedum wæs Drihtnes lóf singende",
+          "latin": null,
+          "english": null,
+          "citations": "Blickl. Homl. 231, 9"
+        },
+        {
+          "old_english": "Drihten eallum mannum þurhwuniggendum on sóþre andetnesse cwæþ",
+          "latin": null,
+          "english": null,
+          "citations": "171, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "þurh-wunian. I. to continue, last, not to come to an end, not to pass away :-- Godes ege þurhwunaþ á worlda world timor Domini permanens in seculum seculi, Ps. Th. 58, 8. His ríce þurhwunaþ on écnesse, Blickl. Homl. 65, 16. Hús rihtwísra þurhwunaþ (permanebit), Scint. 73, 2, 16. Heora gemyud þurhwunaþ á tó worulde, Ælfc. T. Grn. 1, 11. God, se ðe ǽfre þurhwunode búton ǽlcum anginne, 2, 3. Þurhwunedan duraverunt, Wrt. Voc. ii. 28, 58: Wülck. Gl. 256, 2. Úre ná þurh-wunedun fæderas nostri non mansere parentes, 6. Þa leornian on eorþan ðæra ús cýþ þurhwunige on heofenum illa discere in terris quorum nobis notitia perseueret in coelis, Scint. 218, 13. Lang mid þingum úrum þurhwunian (durare) wé ná magan, 183, 4. Ádl þurhwunigende languor perseuerans, 153, 17. II. to continue in a place, with a person, to remain, not to leave :-- Ic þurhwunode (perseveravi) on ðam munte feówertig daga and feówertig nihta, Deut. 9, 9. Gé synt ðe mid mé þurhwunedon (ðerhwunadon(-un) permansistis, Lind., Rush.) on mínum geswincum, Lk. Skt. 22, 28. Þurhwunedan munecas on Xpes cyrican monks have continued to live (permanserunt) in Christchurch, Chr. 995; Th. 1. 244, 29. Ðæt hé symle on ús eardige, and wé on him þurhwunian (permaneamus), Scint. 16, 11. Ðæt gé þuthwunion lange on ðam lande, Deut. 4, 40. Eálá wǽran ða ancras swá trume and swá þurhwuniende, ðonne mihte wé ðý éþ geþolian swá hwæt earfoþnessa swá ús on becóme haereant ancorae, precor; illis namque manentibus, utcumque se res habeant, enatabimus, Bt. 10; Fox 30, 10. III. to continue in a condition, not to change; where purpose or effort is implied, to persevere, persist, hold out, (1) absolute :-- Se þurhwunaþ (ðerhwunes &l-bar; ðerhwunia wælla, Lind.) óð ende, se byþ hál qui perseveraverit usque in finem, hic salvus erit, Mt. Knbl. 10, 22: Scint. 90, 2: Blickl. Homl. 21, 36. Se ðe óð ende þurhwunaþ (sustenuerit), Mk. Skt. 13, 13. Ná ongynnendum méd ys beháten ac þurhwunigendum (perseverantibus) ys geseald, Scint. 91, 3, 1. (2) where the condition is given by a complementary noun or adjective :-- Æ-acute;fre hé biþ ánes módes, and glæd þurhwunaþ, Homl. Th. i. 456, 25. Heó þurhwunode mǽden, 24, 27. Heó onwealg on hiere onwalde æfter þurhwunade manet adhuc et regnat incolumis, Ors. 2, 1; Swt. 62, 24. Heó á clǽne þurhwunode, Blickl. Homl. 3, 18. Hé þurhwunode unspecende and mihteleás forð óð ðone Ðunresdæg, Chr. 1053; Erl. 186, 23. Is rihtost ðæt hé ðananforð wydewa þurhwunige, L. I. P. 22; Th. ii. 332, 32. (3) where the condition is given in a phrase :-- On góde on ðam hé ongan óþ ende hé þurhwunaþ in bono quo coepit usque in finem perdurat, Scint. 227, 55. Gyt git þurhwuniaþ on incre ánwilnesse ye still persist in your obstinacy, Blickl. Homl. 187, 33. His (Adam's) bendas wǽron onlýsde ... Eua ðágyt on bendum þurhwunode, 89, 6. Hié þurhwunian on rihtum geleáfan, 77, 19. Hé nolde þurhwunian on ðære sóðfæstnisse ðæs sóðfæstan Godes sunu, Ælfc. T. Grn. 2, 41. Se ðe on ðám gesǽlþum ðurhwunian ne mót, Bt. 2; Fox 4, 15. IV. to continue an action, persevere with or in, not to desist from, not to leave off :-- Eua ðágyt on wópe þurhwunode, Blickl. Homl. 89, 6. Hié forþ on heora yfelum þurhwunedon, 79, 8. Ðá hig þurhwunedon (perseuerarent) hine áxsiende, Jn. Skt. 8, 7. On ðam gewinne þurhwunian, Bt. 37, 1; Fox 186, 31: Met. 25, 70. Þurhwunian on fulfremedlícum weorcum, Blickl. Homl. 77, 19. Þurhwunian his béne persistere petitioni sue, R. Ben. Interl. 95, 16. Hé þurhwunigende mid gebedum wæs Drihtnes lóf singende, Blickl. Homl. 231, 9. Drihten eallum mannum þurhwuniggendum on sóþre andetnesse cwæþ, 171, 15. [An lond þer he mihte þurhwunian (wonie, 2nd MS.), Laym. 5384. Þu wið Godd þurhwunest in alre worlde world, Kath. 663. Cf. Goth. þairh-wisan manere, permanere.]"
+}

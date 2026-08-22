@@ -1,0 +1,46 @@
+{
+  "citation_form": "agén-gehweorfan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-gehwearf",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-gehwurfon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-gehworfen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To change again, to return",
+      "latin": "redire",
+      "quotations": [
+        {
+          "old_english": "Ðá híg agén-gehwurfon",
+          "latin": "cum redirent",
+          "english": null,
+          "citations": "Lk. Bos. 2, 43"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "agén-gehweorfan; p. -gehwearf, pl. -gehwurfon; pp. -gehworfen To change again, to return; redire :-- Ðá híg agén-gehwurfon cum redirent. Lk. Bos. 2, 43."
+}

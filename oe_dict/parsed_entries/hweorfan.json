@@ -1,0 +1,367 @@
+{
+  "citation_form": "hweorfan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "hwearf",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "hwurfon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "hweorfon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "hworfen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "where there is motion from one place to another",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to move about, wander",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þá gástas þe for Gode hweorfað",
+              "latin": null,
+              "english": null,
+              "citations": "Gn. C. 59"
+            },
+            {
+              "old_english": "Lond-rihtes &dash-uncertain; mót monna ǽghwylc ídel hweorfan",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2888"
+            },
+            {
+              "old_english": "Holt hweorfende",
+              "latin": null,
+              "english": null,
+              "citations": "Rä, 57, 3"
+            },
+            {
+              "old_english": "Hweorfende",
+              "latin": "spatiantes",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 83, 74"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "(1 a)",
+              "heading": "fig. of non-material objects",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Mín hyge hweorfeð ofer hreðer locan, mín módsefa. . . hweorfeð wíde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Seef. 58-60"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "where the point to or from which motion is directed is marked",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "of living creatures",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Hwiðer hweorfað wé (whither shall we turn) . . . gif wé swícað þé ?",
+                  "latin": null,
+                  "english": null,
+                  "citations": "An. 405"
+                },
+                {
+                  "old_english": "Hwearf hé tó healle swá hé hraðost meahte",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Az. 166: Sat. 190"
+                },
+                {
+                  "old_english": "Hwurfon hæleð geonge tó þám hǽðenan foran",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Dan. 434"
+                },
+                {
+                  "old_english": "Hé wæs miclum geswenced ǽr hé þanon hwurfe",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Chr. 982 ; P. 124, 29"
+                },
+                {
+                  "old_english": "Þú scealt hweorfan of earde þínum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 1018 : Wal. 81"
+                },
+                {
+                  "old_english": "Hweorfan tó þis enge lond",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Cri. 31"
+                },
+                {
+                  "old_english": "Þider hweorfan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Dan. 203"
+                },
+                {
+                  "old_english": "Hé him siþþan hwearf tó Róme",
+                  "latin": "postea quam Roman venit",
+                  "english": null,
+                  "citations": "Ors. 5, 12 ; S. 242, 27"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "of an inanimate object",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Þæt fýr scýde tó þám þe þá scylde worhton, hwearf (hweorf, MS. ) on þá hǽðenan hæftas fram þám hálgum cnihton",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Dan. 267"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(2 α)",
+              "heading": "where the point to which is that from which motion originally took place, to return, go back",
+              "meaning": null,
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gǽstas hweorfað in bánfatu",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ph. 519"
+                },
+                {
+                  "old_english": "Hé siþþan hwearf hámweard tó Babylonia",
+                  "latin": "post Babylonian rediit",
+                  "english": null,
+                  "citations": "Ors. 3, 9; S. 136, 3"
+                },
+                {
+                  "old_english": "Paulinus huerf eft tó Cantwarum (hwearf eft tó Cent rediit Cantiam, Bd. 2, 20 ; Sch. 186, 24)",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Chr. 633 ; P. 24, 20"
+                },
+                {
+                  "old_english": "Þá hwearf sé ána in tó him",
+                  "latin": "rediit ipse solus",
+                  "english": null,
+                  "citations": "Bd. 4, 3; Sch. 357, 21: 5, 19; Sch. 660, 22"
+                },
+                {
+                  "old_english": "His geféran hwurfan tó cyricean",
+                  "latin": "sociis ad ecclesiam reuersis",
+                  "english": null,
+                  "citations": "4, 3 ; Sch. 352, 14"
+                },
+                {
+                  "old_english": "Hwurfon wíf on willan",
+                  "latin": null,
+                  "english": "the women returned with delight",
+                  "citations": "Gen. 2086"
+                },
+                {
+                  "old_english": "Gé nú eft hweorfað (hwurfað, v. l.) and biddað",
+                  "latin": "reuertentes dicite",
+                  "english": null,
+                  "citations": "Bd. 4, 3; Sch. 357, 8"
+                },
+                {
+                  "old_english": "Þonne hé eft tó his éðle hweorfan (hwurfan, v. l.) wolde",
+                  "latin": "cum patriam reuerteretur",
+                  "english": null,
+                  "citations": "5, 19; Sch. 659, 23"
+                },
+                {
+                  "old_english": "Wæs Maria eft hweorfende tó hire húse",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bl. H. 139, 3"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(3)",
+          "heading": null,
+          "meaning": "where the space through which or into which, or the line along which, motion is directed is given",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Mægen monna cynnes hweorfað on wídne lég",
+              "latin": null,
+              "english": null,
+              "citations": "Cri. 958 : Gú. 784"
+            },
+            {
+              "old_english": "Hwearf heo bí bence",
+              "latin": null,
+              "english": null,
+              "citations": "B. 1188"
+            },
+            {
+              "old_english": "Hæleða bearn sculon on þæt líg tó þé hweorfan",
+              "latin": null,
+              "english": null,
+              "citations": "Gen. 754: Sat. 419"
+            },
+            {
+              "old_english": "Wand hé him úp þanon, hwearf him þurh þá helldora",
+              "latin": null,
+              "english": null,
+              "citations": "Gen. 447"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(4)",
+          "heading": null,
+          "meaning": "of the passage to the next world",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gástas hweorfon, sóhtou swegles dreámas",
+              "latin": null,
+              "english": null,
+              "citations": "An. 640"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "of the course of events, to proceed",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif seó wyrd swá hweorfan mót on yfelra manna gewill",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 4; F. 8, 18"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "to turn",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "of persons, to direct the mind to or from a person or subject",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Búton se mon hweorfe tó góde",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 31, 2 ; F. 112, 28"
+            },
+            {
+              "old_english": "Lǽtaþ hine eft hweorfan tó minium lárum",
+              "latin": null,
+              "english": null,
+              "citations": "3, 1; F. 4, 24"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "of things, to pass to or from the possession of a person",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þonne þá þing hwám from hweorfende beóð, hé hí sceal mid þám mǽstan sáre his módes forlǽtan. . . And hý þé willaþ on murcnunga gebringan þonne hié þé fram hweorfaþ",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 7, 2 ; F. 18, 16-20"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "IV.",
+      "supplemental": null,
+      "meaning": "to change (intrans. and trans. )",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hweorfan. Add: p. hwearf, pl. hwurfon, hweorfon; pp. hworfen. I. where there is motion from one place to another. (1) to move about, wander :-- Þá gástas þe for Gode hweorfað, Gn. C. 59. Lond-rihtes &dash-uncertain; mót monna ǽghwylc ídel hweorfan, B. 2888. Holt hweorfende, Rä, 57, 3. Hweorfende spatiantes, Wrt. Voc. ii. 83, 74. (1 a) fig. of non-material objects :-- Mín hyge hweorfeð ofer hreðer locan, mín módsefa. . . hweorfeð wíde, Seef. 58-60. (2) where the point to or from which motion is directed is marked. (a) of living creatures :-- Hwiðer hweorfað wé (whither shall we turn) . . . gif wé swícað þé ?, An. 405. Hwearf hé tó healle swá hé hraðost meahte, Az. 166: Sat. 190. Hwurfon hæleð geonge tó þám hǽðenan foran, Dan. 434. Hé wæs miclum geswenced ǽr hé þanon hwurfe, Chr. 982 ; P. 124, 29. Þú scealt hweorfan of earde þínum, Gen. 1018 : Wal. 81. Hweorfan tó þis enge lond, Cri. 31. Þider hweorfan, Dan. 203. ¶ with reflexive dative :-- Hé him siþþan hwearf tó Róme postea quam Roman venit, Ors. 5, 12 ; S. 242, 27. (b) of an inanimate object :-- Þæt fýr scýde tó þám þe þá scylde worhton, hwearf (hweorf, MS. ) on þá hǽðenan hæftas fram þám hálgum cnihton, Dan. 267. (2 α) where the point to which is that from which motion originally took place, to return, go back :-- Gǽstas hweorfað in bánfatu, Ph. 519. Hé siþþan hwearf hámweard tó Babylonia post Babylonian rediit, Ors. 3, 9; S. 136, 3. Paulinus huerf eft tó Cantwarum (hwearf eft tó Cent rediit Cantiam, Bd. 2, 20 ; Sch. 186, 24), Chr. 633 ; P. 24, 20. Þá hwearf sé ána in tó him rediit ipse solus, Bd. 4, 3; Sch. 357, 21: 5, 19; Sch. 660, 22. His geféran hwurfan tó cyricean sociis ad ecclesiam reuersis, 4, 3 ; Sch. 352, 14. Hwurfon wíf on willan the women returned with delight, Gen. 2086. Gé nú eft hweorfað (hwurfað, v. l.) and biddað reuertentes dicite, Bd. 4, 3; Sch. 357, 8. Þonne hé eft tó his éðle hweorfan (hwurfan, v. l.) wolde cum patriam reuerteretur, 5, 19; Sch. 659, 23. Wæs Maria eft hweorfende tó hire húse, Bl. H. 139, 3. (3) where the space through which or into which, or the line along which, motion is directed is given :-- Mægen monna cynnes hweorfað on wídne lég, Cri. 958 : Gú. 784. Hwearf heo bí bence, B. 1188. Hæleða bearn sculon on þæt líg tó þé hweorfan, Gen. 754: Sat. 419. ¶ with reflex, dat. :-- Wand hé him úp þanon, hwearf him þurh þá helldora, Gen. 447. (4) of the passage to the next world :-- Gástas hweorfon, sóhtou swegles dreámas, An. 640. II. of the course of events, to proceed :-- Gif seó wyrd swá hweorfan mót on yfelra manna gewill, Bt. 4; F. 8, 18. III. to turn. (1) of persons, to direct the mind to or from a person or subject :-- Búton se mon hweorfe tó góde, Bt. 31, 2 ; F. 112, 28. Lǽtaþ hine eft hweorfan tó minium lárum, 3, 1; F. 4, 24. (2) of things, to pass to or from the possession of a person :-- Þonne þá þing hwám from hweorfende beóð, hé hí sceal mid þám mǽstan sáre his módes forlǽtan. . . And hý þé willaþ on murcnunga gebringan þonne hié þé fram hweorfaþ, Bt. 7, 2 ; F. 18, 16-20. IV. to change (intrans. and trans. ) :-- Swá"
+}

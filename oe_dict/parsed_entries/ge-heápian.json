@@ -1,0 +1,98 @@
+{
+  "citation_form": "ge-heápian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To heap together, pile up",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Geheápodan",
+          "latin": "coacervassent",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 15, 12"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "to heap up material (used figuratively)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðæt se gítsere him on geheápige ða byrðenne eorðlicra æhta",
+              "latin": "avaro . . . terrena lucra cum pondere peccati cumulare",
+              "english": null,
+              "citations": "Past. 329, 20"
+            },
+            {
+              "old_english": "Gód gemet and full, geheápod",
+              "latin": "mensuram bonam confertam et coagitatam",
+              "english": null,
+              "citations": "Lk. 6, 38: Wrt. Voc. ii. 133, 13"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "to accumulate, get a large amount of",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Geheápað",
+              "latin": "coacervat (divitias usuris)",
+              "english": null,
+              "citations": "Kent, Gl. 1045"
+            },
+            {
+              "old_english": "Gihappia ( = ?giheápie)",
+              "latin": "accumulet",
+              "english": null,
+              "citations": "Rtl. 85, 29"
+            },
+            {
+              "old_english": "Geheápod",
+              "latin": "concinuatas (cf. concinnatas (i. multiplicatas) factiones (i. falsitates), Ald. 38, 15, congregatas",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 136, 20"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "III.",
+          "heading": null,
+          "meaning": "to gather together (?), assemble (v. heáp a number of people)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Geheápod",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 175, 17"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-heápod. Substitute: ge-heápian; p. ode To heap together, pile up: -- Geheápodan coacervassent. Wrt. Voc. ii. 15, 12. I. to heap up material (used figuratively) :-- Ðæt se g&i-long;tsere him on geheápige &d-bar;&a-long; byr&d-bar;enne eor&d-bar;licra æ-long;hta avaro . . . terrena lucra cum pondere peccati cumulare, Past. 329, 20. G&o-long;d gemet and full, geheápod mensuram bonam confertam et coagitatam, Lk. 6, 38: Wrt. Voc. ii. 133, 13. II. to accumulate, get a large amount of :-- Geheápa&d-bar; coacervat (divitias usuris), Kent, Gl. 1045, Gihappia ( = ?giheápie) accumulet, Rtl. 85, 29. Geheápod concinuatas (cf. concinnatas (i. multiplicatas) factiones (i. falsitates), Ald. 38, 15, congregatas, Wrt. Voc. ii. 136, 20. III. to gather together (?), assemble (v. heáp a number of people) :-- Geheápod Bl. H. 175, 17. [O. H. Ger. ge-houf&o-long;n accumulare.]"
+}

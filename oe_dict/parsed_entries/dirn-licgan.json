@@ -1,0 +1,41 @@
+{
+  "citation_form": "dirn-licgan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to fornicate, commit adultery",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Alle ðá dernliggað",
+          "latin": "omnes qui fornicantur",
+          "english": null,
+          "citations": "Ps. Srt. 72, 27"
+        },
+        {
+          "old_english": "Þ-bar; ðú ne dernelice",
+          "latin": "ne adulteris",
+          "english": null,
+          "citations": "Mk. L. R. 10, 19"
+        },
+        {
+          "old_english": "Dyrnlicendra",
+          "latin": "mecharum",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 55, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "dyrn-licgan"
+  ],
+  "source_text": "dirn-licgan to fornicate, commit adultery:--Alle ðá dernliggað omnes qui fornicantur, Ps. Srt. 72, 27. Þ-bar; ðú ne dernelice ne adulteris, Mk. L. R. 10, 19. Dyrnlicendra mecharum, Wrt. Voc. ii. 55, 12. v. dyrn-licgan in Dict."
+}

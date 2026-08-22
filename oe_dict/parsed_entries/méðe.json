@@ -1,0 +1,118 @@
+{
+  "citation_form": "méðe",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "weary, exhausted (with labour, hunger, disease, etc.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé hine ðǽr hwíle reste, méðe æfter ðam miclan gewinne",
+          "latin": null,
+          "english": null,
+          "citations": "Rood Kmbl. 129; Kr. 65"
+        },
+        {
+          "old_english": "Méðe and meteleás",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 1220; El. 612: 1392; El. 698: Exon. 90 b; Th. 340, 15; Gn. Ex. 111"
+        },
+        {
+          "old_english": "Méðe for ðám miclan bysgum",
+          "latin": null,
+          "english": "exhausted by disease",
+          "citations": "49 a; Th. 168, 25; Gú. 1083"
+        },
+        {
+          "old_english": "Mé swá méðum",
+          "latin": null,
+          "english": "exhausted from want of food",
+          "citations": "Elen. Kmbl. 1620; El. 812"
+        },
+        {
+          "old_english": "Méðne fessum",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 38, 26: Exon. 47 b; Th. 163, 3; Gú. 988: 49 b; Th. 171, 23; Gú. 1131"
+        },
+        {
+          "old_english": "Méðe stódon, hungre gehæfte",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 2316; An. 1159: 78; An. 39"
+        },
+        {
+          "old_english": "Hié slǽp ofereode méðe be mæste",
+          "latin": null,
+          "english": null,
+          "citations": "929; An. 465"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "weary in mind, troubled, sad",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðé unrótne, méðne, módseócne",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 51 a; Th. 177, 30; Gú. 1235"
+        },
+        {
+          "old_english": "Hyge geómurne, méðne módsefan",
+          "latin": null,
+          "english": null,
+          "citations": "52 a; Th. 182, 16; Gú. 1311"
+        },
+        {
+          "old_english": "Ongunnon sorhleóþ galan, ðá hié woldon síðian méðe fram ðam mǽran þeódne",
+          "latin": null,
+          "english": null,
+          "citations": "Rood Kmbl. 137; Kr. 69"
+        },
+        {
+          "old_english": "Méðra fréfrend",
+          "latin": null,
+          "english": "comforter of the weary-hearted",
+          "citations": "Exon. 62 a; Th. 227, 13; Ph. 422"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "III.",
+      "supplemental": "[O. Sax. móði: Icel. móðr weary, exhausted: O. H. Ger. muodi fessus, fatigatus, lassus: Ger. müde.]",
+      "meaning": "troublesome, causing weariness",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Nelle ðú mé moeðe &l-bar; hefig wosa",
+          "latin": "noli mihi molestus esse",
+          "english": null,
+          "citations": "Lk. Skt. Rush. 11, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "méðe; adj. I. weary, exhausted (with labour, hunger, disease, etc.) :-- Hé hine ðǽr hwíle reste, méðe æfter ðam miclan gewinne, Rood Kmbl. 129; Kr. 65. Méðe and meteleás, Elen. Kmbl. 1220; El. 612: 1392; El. 698: Exon. 90 b; Th. 340, 15; Gn. Ex. 111. Méðe for ðám miclan bysgum exhausted by disease, 49 a; Th. 168, 25; Gú. 1083. Mé swá méðum (exhausted from want of food), Elen. Kmbl. 1620; El. 812. Méðne fessum, Wrt. Voc. ii. 38, 26: Exon. 47 b; Th. 163, 3; Gú. 988: 49 b; Th. 171, 23; Gú. 1131. Méðe stódon, hungre gehæfte, Andr. Kmbl. 2316; An. 1159: 78; An. 39. Hié slǽp ofereode méðe be mæste, 929; An. 465. II. weary in mind, troubled, sad :-- Ðé unrótne, méðne, módseócne, Exon. 51 a; Th. 177, 30; Gú. 1235. Hyge geómurne, méðne módsefan, 52 a; Th. 182, 16; Gú. 1311. Ongunnon sorhleóþ galan, ðá hié woldon síðian méðe fram ðam mǽran þeódne, Rood Kmbl. 137; Kr. 69. Méðra fréfrend comforter of the weary-hearted, Exon. 62 a; Th. 227, 13; Ph. 422. III. troublesome, causing weariness :-- Nelle ðú mé moeðe &l-bar; hefig wosa noli mihi molestus esse, Lk. Skt. Rush. 11, 7. [O. Sax. móði: Icel. móðr weary, exhausted: O. H. Ger. muodi fessus, fatigatus, lassus: Ger. müde.]"
+  ]
+}

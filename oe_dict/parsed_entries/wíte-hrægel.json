@@ -1,0 +1,36 @@
+{
+  "citation_form": "wíte-hrægel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A garment worn as a punishment, sackcloth",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic míne gewǽda on wítehrægl cyrde",
+          "latin": "posui vestimentum meum cilicium",
+          "english": null,
+          "citations": "Ps. Th. 68, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "wíte-hrægel, es; n. A garment worn as a punishment, sackcloth :-- Ic míne gewǽda on wítehrægl cyrde posui vestimentum meum cilicium, Ps. Th. 68, 11."
+  ]
+}

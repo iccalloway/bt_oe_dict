@@ -1,0 +1,36 @@
+{
+  "citation_form": "wer-met",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "In both cases stauram is printed; but the former is a gloss on Mt. 6, 27. v. Wülck. Gl. 479, 23.",
+      "meaning": "A man's measure, stature of a man",
+      "latin": "ad staturam",
+      "quotations": [
+        {
+          "old_english": "Tó wermete",
+          "latin": "ad staturam",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 72, 23: 8, 70"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "wer-met, es; n. A man's measure, stature of a man:--Tó wermete ad staturam, Wrt. Voc. ii. 72, 23: 8, 70. (In both cases stauram is printed; but the former is a gloss on Mt. 6, 27. v. Wülck. Gl. 479, 23.)"
+  ]
+}

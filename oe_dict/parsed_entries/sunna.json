@@ -1,0 +1,34 @@
+{
+  "citation_form": "sunna",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wlitetorht scíneð sunna",
+          "latin": null,
+          "english": null,
+          "citations": "Met. 28, 61"
+        },
+        {
+          "old_english": "Æþele tungol . . . sunna and móne",
+          "latin": null,
+          "english": null,
+          "citations": "29, 37"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sunna. Add :-- Wlitetorht scíneð sunna, Met. 28, 61. Æþele tungol . . . sunna and móne, 29, 37."
+}

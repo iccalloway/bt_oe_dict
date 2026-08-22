@@ -1,0 +1,34 @@
+{
+  "citation_form": "leáh-hrycg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The ridge of a lea",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tó ðæm ealdan lǽghrycge",
+          "latin": null,
+          "english": null,
+          "citations": "Cod. Dip. Kmbl. iii. 437, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "leáh-hrycg, es; m. The ridge of a lea :-- Tó ðæm ealdan lǽghrycge, Cod. Dip. Kmbl. iii. 437, 17."
+}

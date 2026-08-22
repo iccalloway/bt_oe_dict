@@ -1,0 +1,50 @@
+{
+  "citation_form": "ádlian",
+  "variant_forms": [
+    "-igan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To ail, to be sick, to languish",
+      "latin": "ægrotare, languere",
+      "quotations": [
+        {
+          "old_english": "Ðæt se ylca biscop án ádliende mæden gebiddende gehǽlde",
+          "latin": "ut idem episcopus puellam languentem orando sanaverit",
+          "english": null,
+          "citations": "Bd. 5, 3; S. 615, 35"
+        },
+        {
+          "old_english": "Ic ádlige",
+          "latin": "langueo",
+          "english": null,
+          "citations": "Ælfc. Gr. 26, 2; Som. 28, 46"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ádlian, -igan; p. ode; pp. od To ail, to be sick, to languish; ægrotare, languere :-- Ðæt se ylca biscop án ádliende mæden gebiddende gehǽlde ut idem episcopus puellam languentem orando sanaverit, Bd. 5, 3; S. 615, 35. Ic ádlige langueo, Ælfc. Gr. 26, 2; Som. 28, 46."
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "citation_form": "fágian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "to grow dark (of a stormy sky)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Tódæg stearm, fágas for ðon unrótlic heofon",
+              "latin": "hodie tempestas, rutilat enim triste coelum",
+              "english": null,
+              "citations": "Mt. L. 16, 3"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "to vary",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Swá hit nú fágað, Freán eald geweorc þætte winnende wiðerweard gesceaft fæste sibbe forð anhealdað (cf. swá hí hit fágiaþ þ-bar; . . . , Bt. 21 ; F. 74, 13)",
+              "latin": "quod mundus stabili fide concordes variat vices, quod pugnantia semina foedus perpetuum tenent",
+              "english": null,
+              "citations": "Met. 11, 40"
+            },
+            {
+              "old_english": "Ðæt fágas",
+              "latin": "quod variat",
+              "english": null,
+              "citations": "Mt. p. 1, 11"
+            },
+            {
+              "old_english": "Betwih him fágas &l-bar; fágegas",
+              "latin": "inter se variant",
+              "english": null,
+              "citations": "p. 1, 2"
+            },
+            {
+              "old_english": "Ánfealde wíse bið witena gehwylcum weorðlicre micle þonne hé his wísan fágige tó swíðe",
+              "latin": null,
+              "english": null,
+              "citations": "Ll. Th. ii. 318, 40"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "ge-fágod",
+    "fágettan"
+  ],
+  "source_text": [
+    "fágian. Substitute: (1) to grow dark (of a stormy sky) :-- Tódæg stearm, fágas for ðon unrótlic heofon hodie tempestas, rutilat enim triste coelum, Mt. L. 16, 3. (2) to vary :-- Swá hit nú fágað, Freán eald geweorc þætte winnende wiðerweard gesceaft fæste sibbe forð anhealdað (cf. swá hí hit fágiaþ þ-bar; . . . , Bt. 21 ; F. 74, 13) quod mundus stabili fide concordes variat vices, quod pugnantia semina foedus perpetuum tenent, Met. 11, 40. Ðæt fágas quod variat, Mt. p. 1, 11. Betwih him fágas &l-bar; fágegas inter se variant, p. 1, 2. Ánfealde wíse bið witena gehwylcum weorðlicre micle þonne hé his wísan fágige tó swíðe, Ll. Th. ii. 318, 40. v. ge-fágod, and cf. fágettan."
+  ]
+}

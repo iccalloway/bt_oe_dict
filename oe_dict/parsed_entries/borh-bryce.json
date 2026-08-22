@@ -1,0 +1,50 @@
+{
+  "citation_form": "borh-bryce",
+  "variant_forms": [
+    "borg-bryce"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "borh a pledge, bryce a breaking",
+      "meaning": "A pledge-breaking, violation of a bail",
+      "latin": "fidejussionis violatio",
+      "quotations": [
+        {
+          "old_english": "Be borh-bryce",
+          "latin": null,
+          "english": "concerning a pledge-breaking",
+          "citations": "L. AIf. pol. 3; Th. i. 62, 7, note 10"
+        },
+        {
+          "old_english": "Borh-bryce",
+          "latin": null,
+          "english": null,
+          "citations": "L. In. 31; Th. i. 122, note 20"
+        },
+        {
+          "old_english": "Borg-bryce",
+          "latin": null,
+          "english": null,
+          "citations": "L. Alf. pol. 1; Th. i. 60, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "borh-bryce, borg-bryce, es; m. [borh a pledge, bryce a breaking] A pledge-breaking, violation of a bail; fidejussionis violatio :-- Be borh-bryce concerning a pledge-breaking, L. AIf. pol. 3; Th. i. 62, 7, note 10. Borh-bryce, L. In. 31; Th. i. 122, note 20. Borg-bryce, L. Alf. pol. 1; Th. i. 60, 19."
+  ]
+}

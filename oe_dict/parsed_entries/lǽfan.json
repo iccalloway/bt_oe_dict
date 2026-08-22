@@ -1,0 +1,149 @@
+{
+  "citation_form": "lǽfan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to leave",
+      "latin": "relinquere",
+      "quotations": [
+        {
+          "old_english": "Ic lǽfe eów sibbe",
+          "latin": "relinquo vobis",
+          "english": null,
+          "citations": "Jn. Skt. 14, 27"
+        },
+        {
+          "old_english": "Ic léfe lego",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 49, 66"
+        },
+        {
+          "old_english": "Gif hwæs bróðor deád biþ and lǽfþ his wíf",
+          "latin": "si cujus frater mortuus fuerit et dimiserit uxorem",
+          "english": null,
+          "citations": "Mk. Skt. 12, 19"
+        },
+        {
+          "old_english": "Hig ne lǽfaþ on ðé stán ofer stáne",
+          "latin": "non relinquent in te lapidem super lapidem",
+          "english": null,
+          "citations": "Lk. Skt. 19, 44"
+        },
+        {
+          "old_english": "Se forma lǽfde his bróðer his wíf",
+          "latin": "primus reliquit uxorem suam fratri suo",
+          "english": null,
+          "citations": "Mt Kmbl. 22, 25"
+        },
+        {
+          "old_english": "Ða men ðe hé beæftan him lǽfde ǽr",
+          "latin": null,
+          "english": "those men that before he had left behind him",
+          "citations": "Chr. 755; Erl. 50, 13"
+        },
+        {
+          "old_english": "Hié hegeáton welan and ús lǽfdon",
+          "latin": null,
+          "english": "they got wealth and left it us",
+          "citations": "Past. pref; Swt. 5, 15"
+        },
+        {
+          "old_english": "Swá hit his yldran begeáton and létan and lǽfdon ðam tó gewealde ðe hý wel úðan",
+          "latin": null,
+          "english": null,
+          "citations": "L. O. 14; Th. i. 184, 3"
+        },
+        {
+          "old_english": "Ðínum mágum lǽf folc and ríce",
+          "latin": null,
+          "english": "leave to thy kinsmen people and power",
+          "citations": "Beo. Th. 2361; B. 1178"
+        },
+        {
+          "old_english": "Ðonne him forþsíð gebyrige gýme his hláford ðæs hé lǽfe",
+          "latin": null,
+          "english": "when his death happens, let his lord take charge of what he leaves",
+          "citations": "L. R. S. 4; Th. i. 434, 28: 5; Th. i. 436, 9"
+        },
+        {
+          "old_english": "Ne biþ lǽfed stán uppan stáne",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Kmbl. 24, 2"
+        },
+        {
+          "old_english": "Án byþ genumen and óðer byþ lǽfed",
+          "latin": null,
+          "english": null,
+          "citations": "24, 41"
+        },
+        {
+          "old_english": "Heora landáre ðe him lǽfed wæs",
+          "latin": null,
+          "english": "their landed property that was left them",
+          "citations": "Homl. Skt. 4, 82"
+        },
+        {
+          "old_english": "Ná lǽfedum sǽde",
+          "latin": "non relicto semine",
+          "english": null,
+          "citations": "Mk. Skt. 12, 20"
+        },
+        {
+          "old_english": "Ðæt ða bán áne beón lǽfed",
+          "latin": null,
+          "english": "so that the bones only are left",
+          "citations": "L. Med. ex Quad. 3, 11; Lchdm. i. 340, 26"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": "[Goth. bi-laibjan to remain: O Sax. farle&b-bar;ian to remain; lé&b-bar;ón to be left: O. Frs. léva to leave: Icel. leifa to leave: O. H. Ger. leibjan relinquere: leibén to remain.]",
+      "meaning": "to remain, be left remaining",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif hwæt lǽfde",
+          "latin": null,
+          "english": "if anything remained",
+          "citations": "Homl. Th. ii. 40, 14"
+        },
+        {
+          "old_english": "Hia lǽfdun",
+          "latin": "superaverunt",
+          "english": null,
+          "citations": "Jn. Skt. Rush. 6, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "be-lǽfan",
+    "ge-lǽfan",
+    "ofer-lǽfan"
+  ],
+  "source_text": [
+    "lǽfan; p. de. I. to leave :-- Ic lǽfe eów sibbe percent relinquo vobis, Jn. Skt. 14, 27. Ic léfe lego, Wrt. Voc. ii. 49, 66. Gif hwæs bróðor deád biþ and lǽfþ his wíf si cujus frater mortuus fuerit et dimiserit uxorem, Mk. Skt. 12, 19. Hig ne lǽfaþ on ðé stán ofer stáne non relinquent in te lapidem super lapidem, Lk. Skt. 19, 44. Se forma lǽfde his bróðer his wíf primus reliquit uxorem suam fratri suo, Mt Kmbl. 22, 25. Ða men ðe hé beæftan him lǽfde ǽr those men that before he had left behind him, Chr. 755; Erl. 50, 13. Hié hegeáton welan and ús lǽfdon they got wealth and left it us, Past. pref; Swt. 5, 15. Swá hit his yldran begeáton and létan and lǽfdon ðam tó gewealde ðe hý wel úðan, L. O. 14; Th. i. 184, 3. Ðínum mágum lǽf folc and ríce leave to thy kinsmen people and power. Beo. Th. 2361; B. 1178. Ðonne him forþsíð gebyrige gýme his hláford ðæs hé lǽfe when his death happens, let his lord take charge of what he leaves, L. R. S. 4; Th. i. 434, 28: 5; Th. i. 436, 9. Ne biþ lǽfed stán uppan stáne, Mt. Kmbl. 24, 2. Án byþ genumen and óðer byþ lǽfed, 24, 41. Heora landáre ðe him lǽfed wæs their landed property that was left them, Homl. Skt. 4, 82. Ná lǽfedum sǽde non relicto semine, Mk. Skt. 12, 20. Ðæt ða bán áne beón lǽfed so that the bones only are left, L. Med. ex Quad. 3, 11; Lchdm. i. 340, 26. II. to remain, be left remaining :-- Gif hwæt lǽfde if anything remained, Homl. Th. ii. 40, 14. Hia lǽfdun superaverunt, Jn. Skt. Rush. 6, 12. [Goth. bi-laibjan to remain: O Sax. farle&b-bar;ian to remain; lé&b-bar;ón to be left: O. Frs. léva to leave: Icel. leifa to leave: O. H. Ger. leibjan relinquere: leibén to remain.] DER. be-, ge-, ofer-lǽfan."
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "citation_form": "tó-lúcan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-leác",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-lucon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-locen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "To tear to pieces, wrench asunder, dislocate",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "literal",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ðæs ne wéndon witan Scyldinga, ðæt hit (the hall) manna ǽnig tóbrecan meahte, listum tólúcan",
+              "latin": null,
+              "english": null,
+              "citations": "Beo. Th. 1566; B. 781"
+            },
+            {
+              "old_english": "Forðon ðe míne innoþas on ðam fylle tólocene wǽron",
+              "latin": "eo quod interanea essent ruendo convulsa",
+              "english": null,
+              "citations": "Bd. 5, 6; S. 619, 31"
+            },
+            {
+              "old_english": "Sint mé leoð tólocen, líc sáre gebrocen",
+              "latin": null,
+              "english": null,
+              "citations": "Andr. Kmbl. 2807; An. 1406"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-leác",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-lucon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-locen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": "Hwil þ-bar; Marherete spec þus, me toleac hire, swa þ-bar; te reue fir þe stronge rune of þ-bar; blodi stream ne mahte for muchele grure lokin þiderweardes, Marh. 7, ii. Wá is us þ-bar; we iseoð þi softe lich toluken swa ladliche, 6, 7. &YOGH;ef mi lich is toloken, 6, 12. Heo toluken þene king, and his leomen todrowen, Laym. 2602. Wilde deor limmel toluken ham, & tolimeden eauer euch lið from þe lire, Jul. 79, 5. Ich schal leoten toluken þi flesch þe fuheles of þe lufte carries volatilibus dilacerandas reiciam, Kath. 2092. O. H. Ger. zi-lochan, -lohhan devulsus, revulsus.",
+      "meaning": "figurative, to root out, destroy",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic hæbbe ðé gesetne ofer ríce and ofer ðióda ðæt ðú hí tólúce and tóweorpe and forspilde and tóstence",
+          "latin": "constitui te super gentes et super regna, ut evellas et destruas et disperdas et dissipes",
+          "english": null,
+          "citations": "Past. 58; Swt. 441, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "tó-hlecan"
+  ],
+  "source_text": "tó-lúcan; p. -leác, pl. -lucon; pp. -locen To tear to pieces, wrench asunder, dislocate. I. literal :-- Ðæs ne wéndon witan Scyldinga, ðæt hit (the hall) manna ǽnig tóbrecan meahte, listum tólúcan, Beo. Th. 1566; B. 781. Forðon ðe míne innoþas on ðam fylle tólocene wǽron eo quod interanea essent ruendo convulsa, Bd. 5, 6; S. 619, 31. Sint mé leoð tólocen, líc sáre gebrocen, Andr. Kmbl. 2807; An. 1406. v. tó-hlecan. II. figurative, to root out, destroy :-- Ic hæbbe ðé gesetne ofer ríce and ofer ðióda ðæt ðú hí tólúce and tóweorpe and forspilde and tóstence constitui te super gentes et super regna, ut evellas et destruas et disperdas et dissipes, Past. 58; Swt. 441, 31. [Hwil þ-bar; Marherete spec þus, me toleac hire, swa þ-bar; te reue fir þe stronge rune of þ-bar; blodi stream ne mahte for muchele grure lokin þiderweardes, Marh. 7, ii. Wá is us þ-bar; we iseoð þi softe lich toluken swa ladliche, 6, 7. &YOGH;ef mi lich is toloken, 6, 12. Heo toluken þene king, and his leomen todrowen, Laym. 2602. Wilde deor limmel toluken ham, & tolimeden eauer euch lið from þe lire, Jul. 79, 5. Ich schal leoten toluken þi flesch þe fuheles of þe lufte carries volatilibus dilacerandas reiciam, Kath. 2092. O. H. Ger. zi-lochan, -lohhan devulsus, revulsus.]"
+}

@@ -1,0 +1,36 @@
+{
+  "citation_form": "rihtæþel-cwén",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A legitimate wife",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt syndon Godes wiðersacan . . . unrihthǽmeras ... and ða ðe habbaþ má ðonne heora rihtæþelcwéne",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 298, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "rihtæþel-cwén, e; f. A legitimate wife :-- Ðæt syndon Godes wiðersacan . . . unrihthǽmeras ... and ða ðe habbaþ má ðonne heora rihtæþelcwéne, Wulfst. 298, 18."
+  ]
+}

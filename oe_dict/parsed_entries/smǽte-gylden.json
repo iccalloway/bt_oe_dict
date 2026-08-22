@@ -1,0 +1,34 @@
+{
+  "citation_form": "smǽte-gylden",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Of refined gold",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Smǽtegyldne",
+          "latin": "obridzum",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 89, 25"
+        },
+        {
+          "old_english": "Ða smǽtegyldenan clá þas",
+          "latin": "auri obriza lammina",
+          "english": null,
+          "citations": "2, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "smǽte-gylden; adj. Of refined gold :-- Smǽtegyldne obridzum. Wrt. Voc. ii. 89, 25. Ða smǽtegyldenan clá þas auri obriza lammina, 2, 7."
+  ]
+}

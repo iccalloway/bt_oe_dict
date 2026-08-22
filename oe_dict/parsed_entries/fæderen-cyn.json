@@ -1,0 +1,43 @@
+{
+  "citation_form": "fæderen-cyn",
+  "variant_forms": [
+    "fædren-cyn",
+    "-cynn"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "cyn a race, kin",
+      "meaning": "A paternal kin or race",
+      "latin": "paternum genus",
+      "quotations": [
+        {
+          "old_english": "Hiera ryht fæderencyn [fædrencynn, Th. 87, 14, col. 1] gǽþ to Cerdice",
+          "latin": null,
+          "english": "their direct paternal kin goes to Cerdic",
+          "citations": "Chr. 755 Th. 86, 14, col. 1"
+        },
+        {
+          "old_english": "We areccan ne mágon ðæt fædrencynn",
+          "latin": null,
+          "english": "we cannot tell the paternal kin",
+          "citations": "Exon. 11 b ; Th. 16, 4 ; Cri. 248"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "fæderen-cyn, fædren-cyn, -cynn, es ; n. [cyn a race, kin] A paternal kin or race; p&a-short;ternum g&e-short;nus :-- Hiera ryht fæderencyn [fædrencynn, Th. 87, 14, col. 1] gǽþ to Cerdice their direct paternal kin goes to Cerdic, Chr. 755 Th. 86, 14, col. 1. We areccan ne mágon ðæt fædrencynn we cannot tell the paternal kin, Exon. 11 b ; Th. 16, 4 ; Cri. 248."
+}

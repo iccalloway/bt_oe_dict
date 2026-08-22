@@ -1,0 +1,40 @@
+{
+  "citation_form": "hádung-dæg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The anniversary of a person's ordination",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þá gelamp hit embe geáres ryne þ-bar; hit wæs þæs abbodes hádingdæg. Þá sende ánne brððor tó Pafnuntie and laþode hine tó þǽre symbelnesse",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 33, 59"
+        },
+        {
+          "old_english": "Hádungdæg",
+          "latin": null,
+          "english": null,
+          "citations": "91"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hádung-dæg, es; m. The anniversary of a person's ordination :-- Þá gelamp hit embe geáres ryne þ-bar; hit wæs þæs abbodes hádingdæg. Þá sende ánne brððor tó Pafnuntie and laþode hine tó þǽre symbelnesse, Hml. S. 33, 59. Hádungdæg, 91."
+}

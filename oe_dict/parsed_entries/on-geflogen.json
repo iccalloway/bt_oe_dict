@@ -1,0 +1,28 @@
+{
+  "citation_form": "on-geflogen",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Attacked with disease",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif men his leoþu acen oððe [hé] ongeflogen sý",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 86, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "on-flyge"
+  ],
+  "source_text": "on-geflogen; part. Attacked with disease:--Gif men his leoþu acen oððe [hé] ongeflogen sý, Lchdm. i. 86, 21. Cf. on-flyge."
+}

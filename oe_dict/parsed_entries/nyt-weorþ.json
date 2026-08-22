@@ -1,0 +1,42 @@
+{
+  "citation_form": "nyt-weorþ",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Forgife mé se wilega gifola þæt mé tó ǽgðrum onhagige, ge hér nytwyrðe tó beónne (cf. Alfred's words in the translation of Boethius: Ic wilnode weorþfullíce tó libbanne þá hwíle þe ic lifede, Bt. 17 ; F. 60, 14), ge húru þider tó cumane",
+          "latin": null,
+          "english": null,
+          "citations": "Solil. H. 2, 16"
+        },
+        {
+          "old_english": "Ic lufige ǽlc ðing be ðám dǽle þe ic hyt nytwyrðe ongyte",
+          "latin": null,
+          "english": null,
+          "citations": "43, 1"
+        },
+        {
+          "old_english": "Hwæþer þæt (anweald) nú sié tó talianne wáclic and unnyt þ-bar;te nytwyrþost is eallra ðissa woruldþinga ?",
+          "latin": "num imbecillum ac sine viribus aestimandum est, quod (potentia) omnibus rebus constat esse praestantius?",
+          "english": null,
+          "citations": "Bt. 25, 4; F. 86, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-nytwirþe"
+  ],
+  "source_text": [
+    "nyt-weorþ. Add :-- Forgife mé se wilega gifola þæt mé tó ǽgðrum onhagige, ge hér nytwyrðe tó beónne (cf. Alfred's words in the translation of Boethius: Ic wilnode weorþfullíce tó libbanne þá hwíle þe ic lifede, Bt. 17 ; F. 60, 14), ge húru þider tó cumane, Solil. H. 2, 16. Ic lufige ǽlc ðing be ðám dǽle þe ic hyt nytwyrðe ongyte, 43, 1. Hwæþer þæt (anweald) nú sié tó talianne wáclic and unnyt þ-bar;te nytwyrþost is eallra ðissa woruldþinga ? num imbecillum ac sine viribus aestimandum est, quod (potentia) omnibus rebus constat esse praestantius?, Bt. 25, 4; F. 86, 16. v. un-nytwirþe."
+  ]
+}

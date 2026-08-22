@@ -1,0 +1,36 @@
+{
+  "citation_form": "in-gefeoht",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. in-gewinn.",
+      "meaning": "Intestine or civil war",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðætte Bryttas sume tíd gestildon fram útgefeohte and hie sylfe þræston on ingefeohtum",
+          "latin": "ut Brittones quiescentibus ad tempus exteris, civilibus sese bellis contriverint",
+          "english": null,
+          "citations": "Bd. 1, 22; S. 485, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "in-gewinn"
+  ],
+  "source_text": "in-gefeoht, es; n. Intestine or civil war :-- Ðætte Bryttas sume tíd gestildon fram útgefeohte and hie sylfe þræston on ingefeohtum ut Brittones quiescentibus ad tempus exteris, civilibus sese bellis contriverint, Bd. 1, 22; S. 485, 12. [Cf. in-gewinn.]"
+}

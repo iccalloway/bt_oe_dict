@@ -1,0 +1,27 @@
+{
+  "citation_form": "in-feccan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to fetch in",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá héht hé ðone drý infeccan beforan hine",
+          "latin": null,
+          "english": "he ordered the sorcerer to be fetched into his presence",
+          "citations": "Blickl. Homl. 175, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "in-feccan to fetch in :-- Ðá héht hé ðone drý infeccan beforan hine he ordered the sorcerer to be fetched into his presence, Blickl. Homl. 175, 1."
+}

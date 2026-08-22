@@ -1,0 +1,52 @@
+{
+  "citation_form": "bealo(-u)",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Swá inc se balewa hét handþegen helle",
+          "latin": null,
+          "english": null,
+          "citations": "Sat. 484"
+        },
+        {
+          "old_english": "Uton gescyldan ús wið þá bealewan synne",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 145, 18"
+        },
+        {
+          "old_english": "Ic bealuwara weorc gebiden hæbbe, sárra sorga",
+          "latin": null,
+          "english": null,
+          "citations": "Kr. 79"
+        },
+        {
+          "old_english": "Hine sár hafað befongen balwon bendum (cf. bealo-bend)",
+          "latin": null,
+          "english": null,
+          "citations": "B. 977"
+        },
+        {
+          "old_english": "Sé inc forgeaf balewe geþóhtas",
+          "latin": null,
+          "english": null,
+          "citations": "Sat. 488"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "bealo(-u); adj. Add:--Swá inc se balewa hét handþegen helle, Sat. 484. Uton gescyldan ús wið þá bealewan synne, Wlfst. 145, 18. Ic bealuwara weorc gebiden hæbbe, sárra sorga, Kr. 79. Hine sár hafað befongen balwon bendum (cf. bealo-bend), B. 977. Sé inc forgeaf balewe geþóhtas, Sat. 488."
+  ]
+}

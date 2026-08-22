@@ -1,0 +1,31 @@
+{
+  "citation_form": "ge-þweorod",
+  "variant_forms": [
+    "-þweór-"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": "In both the metre and the prose ge-þwǽrian might have been expected to render convenire; but for form see ge-þweoraþ under ge-þwǽrian; II. 2 b α.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þeáh ánra hwilc sié gebunden gesiblíce tógædre, þ-bar;te heora ǽnig óðres ne dorste mearce ofergangan, ac geþweorod sint ðegnas tógædre, cele wið hǽto, hǽt wið drýgum; winnað hwæðre",
+          "latin": "tu numeris elementa ligas, ut frigora flammis, arida conveniant liquidis",
+          "english": null,
+          "citations": "Met. 20, 72"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-þrowian",
+    "ge-þwǽrian"
+  ],
+  "source_text": "ge-þweorod (-þweór- ? according to the metre the syllable is long) :-- Þeáh ánra hwilc sié gebunden gesiblíce tógædre, þ-bar;te heora ǽnig óðres ne dorste mearce ofergangan, ac geþweorod sint ðegnas tógædre, cele wið hǽto, hǽt wið drýgum; winnað hwæðre tu numeris elementa ligas, ut frigora flammis, arida conveniant liquidis (for the prose rendering of this see ge-þrowian; III a), Met. 20, 72. [In both the metre and the prose ge-þwǽrian might have been expected to render convenire; but for form see ge-þweoraþ under ge-þwǽrian; II. 2 b α.]"
+}

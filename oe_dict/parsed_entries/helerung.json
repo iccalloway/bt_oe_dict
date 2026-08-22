@@ -1,0 +1,38 @@
+{
+  "citation_form": "helerung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The turning of a balance",
+      "latin": "trutinæ inclinatio",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Cot. 136, Lye"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "helur-bled",
+    "heolorian",
+    "heolra"
+  ],
+  "source_text": "helerung, e; f. The turning of a balance; trutinæ inclinatio, Cot. 136, Lye. v. helur-bled, heolorian, heolra."
+}

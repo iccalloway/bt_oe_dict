@@ -1,0 +1,38 @@
+{
+  "citation_form": "steóres-mann",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Steres-men rulers of ten men, Gen. and Ex. 3417. Twelue scipen weoren forloren, þa oðere weoren al todriuen, nes þer na steoresmon þat æuere aht cuðe þer on, Laym. 11985. Þe steoressmann aȝȝ lokeþþ till an steorrne, Orm. 2135. Swed. styres-man a chief, ruler.",
+      "meaning": "A steersman, one who guides a vessel, the captain of a vessel",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Be ðon ðe mon on scipe bereáfod sý. Gif man beó æt his ǽhtan bereáfod, and hé wite of hwilcum scipe, ágyfe steóresman ða ǽhta",
+          "latin": null,
+          "english": null,
+          "citations": "L. Eth. ii. 4; Th. i. 286, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "steór-mann"
+  ],
+  "source_text": [
+    "steóres-mann, es; m. A steersman, one who guides a vessel, the captain of a vessel:?-Be ðon ðe mon on scipe bereáfod sý. Gif man beó æt his ǽhtan bereáfod, and hé wite of hwilcum scipe, ágyfe steóresman ða ǽhta, L. Eth. ii. 4; Th. i. 286, 17. [Steres-men rulers of ten men, Gen. and Ex. 3417. Twelue scipen weoren forloren, þa oðere weoren al todriuen, nes þer na steoresmon þat æuere aht cuðe þer on, Laym. 11985. Þe steoressmann a&yogh;&yogh; lokeþþ till an steorrne, Orm. 2135. Swed. styres&dash-uncertain;man a chief, ruler.] v. steór-mann."
+  ]
+}

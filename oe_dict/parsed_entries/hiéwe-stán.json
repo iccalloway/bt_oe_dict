@@ -1,0 +1,36 @@
+{
+  "citation_form": "hiéwe-stán",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A hewn stone",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ǽlcne biéwestan tobeátan",
+          "latin": null,
+          "english": "beat to pieces every hewn stone",
+          "citations": "Ors. 4, 13; Bos. 100. 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hiéwe-stán, es; m. A ewn stone:-- Æ-acute;lcne biéwestan tobeátan. UNCERTAIN beat to pieces every hewn stone, Ors. 4, 13; Bos. 100. 10."
+  ]
+}

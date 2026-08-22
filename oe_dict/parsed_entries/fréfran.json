@@ -1,0 +1,73 @@
+{
+  "citation_form": "fréfran",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To comfort, console",
+      "latin": "consōlāri",
+      "quotations": [
+        {
+          "old_english": "Ic findan meahte ðone ðe mec freóndleásne fréfran wolde",
+          "latin": null,
+          "english": "I might find one who would comfort me friendless",
+          "citations": "Exon. 76 b; Th. 288, 9; Wand. 28: Andr. Kmbl. 733; An. 367"
+        },
+        {
+          "old_english": "Hwílum ic fréfre ða ic ǽr winne on",
+          "latin": null,
+          "english": "sometimes I comfort those whom ere I war against",
+          "citations": "Exon. 102 b; Th. 389, 13; Rä. 7, 7: 27 b; Th. 82, 19; Cri. 1341"
+        },
+        {
+          "old_english": "Hí earme fréfraþ",
+          "latin": null,
+          "english": "they comfort the poor",
+          "citations": "33 b; Th. 106, 29; Gú. 48"
+        },
+        {
+          "old_english": "Ðu me fréfredest",
+          "latin": "tu me consōlātus es",
+          "english": null,
+          "citations": "Ps. Th. 85, 17: Blickl. Homl. 135, 23"
+        },
+        {
+          "old_english": "Cwæþ he ðæt gewunalíce word ðara fréfrendra",
+          "latin": "dixit solito consolantium sermone",
+          "english": null,
+          "citations": "Bd. 5, 5; S. 681, 9"
+        },
+        {
+          "old_english": "Fréfrede",
+          "latin": "consōlāti",
+          "english": null,
+          "citations": "Ps. Spl. 125, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-fréfran",
+    "fréfrian"
+  ],
+  "source_text": "fréfran; p. ede; pp. ed To comfort, console; cons&o-long;l&a-long;ri :-- Ic findan meahte ðone ðe mec freóndleásne fréfran wolde I might find one who would comfort me friendless, Exon. 76 b; Th. 288, 9; Wand. 28: Andr. Kmbl. 733; An. 367. Hwílum ic fréfre ða ic ǽr winne on sometimes I comfort those whom ere I war against, Exon. 102 b; Th. 389, 13; Rä. 7, 7: 27 b; Th. 82, 19; Cri. 1341. Hí earme fréfraþ they comfort the poor, 33 b; Th. 106, 29; Gú. 48. Ðu me fréfredest tu me cons&o-long;l&a-long;tus es, Ps. Th. 85, 17: Blickl. Homl. 135, 23. Cwæþ he ðæt gewunalíce word ðara fréfrendra dixit s&o-short;l&i-short;to cons&o-long;lantium serm&o-long;ne, Bd. 5, 5; S. 681, 9. Fréfrede cons&o-long;l&a-long;ti, Ps. Spl. 125, 1. DER. ge-fréfran. v. fréfrian."
+}

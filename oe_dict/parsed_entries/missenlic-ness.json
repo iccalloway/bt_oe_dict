@@ -1,0 +1,34 @@
+{
+  "citation_form": "missenlic-ness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þ UNCERTAIN is án eádignes þe hí þǽr onfóþ, and ungelíc missenlicnes þæs edleánes",
+          "latin": "dispar retributionis qualitas",
+          "english": null,
+          "citations": "Gr. D. 315, 24"
+        },
+        {
+          "old_english": "Seó missenlicnes (diversitas) manna líchamena . . . seó missenlicnes manna synna",
+          "latin": null,
+          "english": null,
+          "citations": "333, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "missenlic-ness. Add :-- Þ UNCERTAIN is án eádignes þe hí þǽr onfóþ, and ungelíc missenlicnes þæs edleánes (dispar retributionis qualitas), Gr. D. 315, 24. Seó missenlicnes (diversitas) manna líchamena . . . seó missenlicnes manna synna, 333, 23."
+}

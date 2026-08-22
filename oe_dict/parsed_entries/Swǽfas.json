@@ -1,0 +1,56 @@
+{
+  "citation_form": "Swǽfas",
+  "variant_forms": [
+    "Swǽfe"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "um diese zeit (4th cent.) pflegt an die stelle des alten Suevennamens die benennung Alamannen einzutreten,' Grmm. D. S. 348",
+      "meaning": "A Germanic people, the Suevi or Alamanni, the Swabians",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Swǽfas forhergodon ealle Galliam",
+          "latin": "Alamanni Gallias pervagantes",
+          "english": null,
+          "citations": "Ors. 6, 24; Swt. 276, 3"
+        },
+        {
+          "old_english": "Wið norþan Donua ǽwielme and be eástan Ríne sindon Eást-Francan; and be súþan him sindon Swǽfas, on óþre healfe ðære ié Donua; and be súþan him and be eástan sindon Bægware, se dǽl ðe mon Regnesburg hǽtt . . . Tó ðǽm beorgan ðe mon Alpis hǽtt licgaþ Begwara landgemǽro and Swǽfa",
+          "latin": null,
+          "english": null,
+          "citations": "1, 1; Swt. 16, 1-14"
+        },
+        {
+          "old_english": "Engle and Swǽfe",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 321, 10; Wíd. 44"
+        },
+        {
+          "old_english": "Mid Englum ic wæs and mid Swǽfum",
+          "latin": null,
+          "english": null,
+          "citations": "322, 10; Wíd. 61"
+        },
+        {
+          "old_english": "Witta weóld Swǽfum",
+          "latin": null,
+          "english": null,
+          "citations": "319, 34; Wíd. 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "Swǽfas, Swǽfe; pl. A Germanic people, the Suevi or Alamanni ('um diese zeit (4th cent.) pflegt an die stelle des alten Suevennamens die benennung Alamannen einzutreten,' Grmm. D. S. 348), the Swabians :-- Swǽfas forhergodon ealle Galliam Alamanni Gallias pervagantes, Ors. 6, 24; Swt. 276, 3. Wið norþan Donua ǽwielme and be eástan Ríne sindon Eást-Francan; and be súþan him sindon Swǽfas, on óþre healfe ðære ié Donua; and be súþan him and be eástan sindon Bægware, se dǽl ðe mon Regnesburg hǽtt . . . Tó ðǽm beorgan ðe mon Alpis hǽtt licgaþ Begwara landgemǽro and Swǽfa, 1, 1; Swt. 16, 1-14. Engle and Swǽfe, Exon. Th. 321, 10; Wíd. 44. Mid Englum ic wæs and mid Swǽfum. 322, 10; Wíd. 61. Witta weóld Swǽfum, 319, 34; Wíd. 22. [O. H. Ger. Suáb Alamannus, Suába, Suápa Suevi.]"
+  ]
+}

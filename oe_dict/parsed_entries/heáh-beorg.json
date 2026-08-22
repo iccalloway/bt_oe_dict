@@ -1,0 +1,36 @@
+{
+  "citation_form": "heáh-beorg",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Icel. hábjarg a high rock; há-fjall a high fell.",
+      "meaning": "A high mountain",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé ðás heáhbeorgas healdeþ swylce",
+          "latin": "et altitudines montium ipse conspicit",
+          "english": null,
+          "citations": "Ps. Th. 94, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "heáh-beorg, es; m. A high mountain :-- Hé ðás heáhbeorgas healdeþ swylce et altitudines montium ipse conspicit, Ps. Th. 94, 4. [Icel. hábjarg a high rock; há-fjall a high fell.]"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "citation_form": "ge-hywian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to form, fashion",
+      "latin": "fingĕre",
+      "quotations": [
+        {
+          "old_english": "Se ðe gehywode synderlíce heortan heora",
+          "latin": "qui finxit singillātim corda eōrum",
+          "english": null,
+          "citations": "Ps. Lamb. 32, 15"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to seem, pretend",
+      "latin": "simŭlāre",
+      "quotations": [
+        {
+          "old_english": "Ðeáh ðe hit swá gehywod wǽre",
+          "latin": null,
+          "english": "though it seemed so",
+          "citations": "Job Thw. 166, 6"
+        },
+        {
+          "old_english": "Mid gehywedan móde",
+          "latin": null,
+          "english": "with feigned mind",
+          "citations": "Th. Ap. 3, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-hiwian"
+  ],
+  "source_text": [
+    "ge-hywian; p. ode; pp. od. I. to form, fashion; fing&e-short;re :-- Se ðe gehywode synderlíce heortan heora qui finxit singill&a-long;tim corda e&o-long;rum, Ps. Lamb. 32, 15. II. to seem, pretend; s&i-short;m&u-short;l&a-long;re :-- Ðeáh ðe hit swá gehywod wǽre though it seemed so, Job Thw. 166, 6. Mid gehywedan móde with feigned mind, Th. Ap. 3, 2. v. ge-hiwian."
+  ]
+}

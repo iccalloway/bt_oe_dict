@@ -1,0 +1,97 @@
+{
+  "citation_form": "for-gnídan",
+  "variant_forms": [
+    "-gnýdan",
+    "-cnídan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-gnít",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-gnád",
+            "person": "1",
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-gnád",
+            "person": "3",
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-gnide",
+            "person": "2",
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-gnidon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-gniden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "for-, gnídan to rub",
+      "meaning": "To rub together, dash or throw down, break",
+      "latin": "contĕrĕre, allīdĕre, elīdĕre",
+      "quotations": [
+        {
+          "old_english": "He forgnád oððe he tobrytte treów gemǽru heora",
+          "latin": "contrīvit lignum fīnium eōrum",
+          "english": null,
+          "citations": "Ps. Lamb. 104, 33, 16: Ps. Spl. 106, 16"
+        },
+        {
+          "old_english": "Grin forgniden is, and we alýsde synd",
+          "latin": "laqueus contrītus est, et nos līběrāti sŭmus",
+          "english": null,
+          "citations": "Ps. Spl. 123, 7"
+        },
+        {
+          "old_english": "Heorte forgnidene God ná beheóld",
+          "latin": "cor contrītum Deus non despĭcies",
+          "english": null,
+          "citations": "Ps. Spl. 50, 18"
+        },
+        {
+          "old_english": "He forgnít hine",
+          "latin": "allīdit illum",
+          "english": null,
+          "citations": "Mk. Bos. 9, 18"
+        },
+        {
+          "old_english": "Forðon ðú forgnide me",
+          "latin": "quia allīsisti me",
+          "english": null,
+          "citations": "Ps. Spl. 101, 11"
+        },
+        {
+          "old_english": "Drihten arǽreþ ealle forgnidene",
+          "latin": "Dŏmĭnus erĭgit omnes elīsos",
+          "english": null,
+          "citations": "Ps. Spl. 144, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-gnídan, -gnýdan, -cnídan; he -gnít; p. ic, he -gnád, ðú -gnide, pl. -gnidon; pp. -gniden [for-, gnídan to rub] To rub together, dash or throw down, break; cont&e-short;r&e-short;re, all&i-long;d&e-short;re, el&i-long;d&e-short;re :-- He forgnád oððe he tobrytte treów gemǽru heora contr&i-long;vit lignum f&i-long;nium e&o-long;rum, Ps. Lamb. 104, 33, 16: Ps. Spl. 106, 16. Grin forgniden is, and we alýsde synd l&a-short;queus contr&i-long;tus est, et nos l&i-long;b&e-short;r&a-long;ti s&u-short;mus, Ps. Spl. 123, 7. Heorte forgnidene God ná beheóld cor contr&i-long;tum Deus non desp&i-short;cies. Ps. Spl. 50, 18. He forgnít hine all&i-long;dit illum, Mk. Bos. 9, 18. Forðon ðú forgnide me quia all&i-long;sisti me, Ps. Spl. 101, 11. Drihten arǽreþ ealle forgnidene D&o-short;m&i-short;nus er&i-short;git omnes el&i-long;sos, Ps. Spl. 144, 15."
+}

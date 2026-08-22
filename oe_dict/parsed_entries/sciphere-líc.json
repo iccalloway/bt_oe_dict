@@ -1,0 +1,28 @@
+{
+  "citation_form": "sciphere-líc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Relating to a fleet, naval",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Scipherelícum",
+          "latin": "classicis",
+          "english": null,
+          "citations": "Hpt. Gl. 406, 40"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "sciphere-líc; adj. Relating to a fleet, naval:--Scipherelícum classicis, Hpt. Gl. 406, 40."
+  ]
+}

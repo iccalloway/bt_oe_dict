@@ -1,0 +1,44 @@
+{
+  "citation_form": "regn-þeóf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. also O. Sax. regin-skaðo.",
+      "meaning": "An arch-thief",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Regnþeóf ne lǽt [mé] on sceade sceððan",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 453, 14; Hy 4, 14"
+        },
+        {
+          "old_english": "Swá nú regnþeófas ríce dǽlaþ",
+          "latin": "cf. regintheoƀos farstelad (Mat. vi. 19). Hel. 1646",
+          "english": null,
+          "citations": "Cd. Th. 212, 12; Exod. 538"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "regn-"
+  ],
+  "source_text": [
+    "regn-þeóf, es; m. An arch-thief :-- Regnþeóf ne lǽt [mé] on sceade sceððan, Exon. Th. 453, 14; Hy 4, 14. Swá nú regnþeófas ríce dǽlaþ (cf. regintheo&b-bar;os farstelad (Mat. vi. 19). Hel. 1646), Cd. Th. 212, 12; Exod. 538. [Cf. also O. Sax. regin-skaðo.] v. regn-."
+  ]
+}

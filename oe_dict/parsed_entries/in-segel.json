@@ -1,0 +1,106 @@
+{
+  "citation_form": "in-segel",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": "in Dict.",
+      "meaning": "a seal attached to a document as evidence of authenticity",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 176, 10"
+        },
+        {
+          "old_english": "Seó sprǽc wearð ðám cynge cúð. Ðá ðá him seó talu cúð wæs, ðá sende hé gewrit and his insegl tó ðám arcebisceope",
+          "latin": null,
+          "english": null,
+          "citations": "C.D. iv. 266, 19"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a seal placed on a lock, receptacle, &c., so that an opening cannot be effected without breaking it",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé beleác þæt wínern and ásette his ágen insegl on þ-bar; loc and forlét hit swá belocen",
+          "latin": "apothecam clausit, atque impresso sigillo proprio munitam reliquit",
+          "english": null,
+          "citations": "Gr. D. 59, 5"
+        },
+        {
+          "old_english": "Þá insægla wǽron tó swutelunge ... þá féng se portgeréfa tó þǽre tége, and hé hí uninsæglode",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. B. 758-765"
+        },
+        {
+          "old_english": "Hí ðæt gewrit mid twám sylfrenan inseglum (insæglan, 756) on ánre teáge geinsegledon",
+          "latin": null,
+          "english": null,
+          "citations": "343"
+        },
+        {
+          "old_english": "Cóm tácn of heofenum, and þæt bearn swytelíce mid inseglum beclýsde",
+          "latin": "Omnitenens sigillum manifestandi militis sui in aeternae memorationis indicium praemisit",
+          "english": null,
+          "citations": "Guth. Gr. 104, 13"
+        },
+        {
+          "old_english": "Unýðe þé wæs þæt þú hit eall ne mihtest mid inseglum beclýsan",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 259, 20"
+        },
+        {
+          "old_english": "Bóc mid seofon inseglum (sigillis) geinseglode ... þá bóc untýnan and hire inseglu tóbrecan",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 332, 22-24"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "III.",
+      "supplemental": "v. N.E.D. inseil.",
+      "meaning": "a seal, an engraved stamp of hard material to make an impression upon wax, &c.",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þonne wé sceáwiað þá inseglu and onlícnessa þe þonne gýt fullfremedlíce ne beóð ágrafene",
+          "latin": "sicut necdum perfecte sculpta sigilla conspicimus",
+          "english": null,
+          "citations": "Gr. D. 283, 23"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "in-segel. Add: I. a seal attached to a document as evidence of authenticity, Shrn. 176, 10 (in Dict.). Seó sprǽc wearð ðám cynge cúð. Ðá ðá him seó talu cúð wæs, ðá sende hé gewrit and his insegl tó ðám arcebisceope, C.D. iv. 266, 19. II. a seal placed on a lock, receptacle, &c., so that an opening cannot be effected without breaking it :-- Hé beleác þæt wínern and ásette his ágen insegl on þ-bar; loc and forlét hit swá belocen apothecam clausit, atque impresso sigillo proprio munitam reliquit, Gr. D. 59, 5. Þá insægla wǽron tó swutelunge ... þá féng se portgeréfa tó þǽre tége, and hé hí uninsæglode, Hml. S. B. 758-765. Hí ðæt gewrit mid twám sylfrenan inseglum (insæglan, 756) on ánre teáge geinsegledon, 343. Cóm tácn of heofenum, and þæt bearn swytelíce mid inseglum beclýsde Omnitenens sigillum manifestandi militis sui in aeternae memorationis indicium praemisit, Guth. Gr. 104, 13. Unýðe þé wæs þæt þú hit eall ne mihtest mid inseglum beclýsan, Wlfst. 259, 20. Bóc mid seofon inseglum (sigillis) geinseglode ... þá bóc untýnan and hire inseglu tóbrecan, Gr. D. 332, 22-24. III. a seal, an engraved stamp of hard material to mate an impression upon wax, &c. :-- Þonne wé sceáwiað þá inseglu and onlícnessa þe þonne gýt fullfremedlíce ne beóð ágrafene sicut necdum perfecte sculpta sigilla conspicimus. Gr. D. 283, 23. [v. N.E.D. inseil.]"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "citation_form": "heal",
+  "variant_forms": [
+    "hal"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. we beth honted from hale to hurne, Pot. Songs Wrt. 150, 17. In one swiþe di&yogh;ele hale, O. and N. 2.",
+      "meaning": "A corner, an angle, a secret place[?]",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Heal oððe hyrne angulus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 80, 73"
+        },
+        {
+          "old_english": "Æ-acute;lc wag biþ gebiéged twiefeald on ðæm heale",
+          "latin": "duplex semper est in angulis paries",
+          "english": null,
+          "citations": "Past. 35, 5; Swt. 245, 13"
+        },
+        {
+          "old_english": "Ðá gemétte hé hine hleonian on ðam hale his cyrcan wið ðam weofode",
+          "latin": null,
+          "english": "he found him leaning in the corner of his church against the altar",
+          "citations": "Guthl. 20; Gdwin. 82, 22"
+        },
+        {
+          "old_english": "On halum",
+          "latin": "in abditis",
+          "english": null,
+          "citations": "Ps. Spl. 16, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "heal, hal, es; m. n.[?] A corner, an angle, a secret place[?] :-- Heal oððe hyrne angulus, Wrt. Voc. 80, 73. Æ-acute;lc wag biþ gebiéged twiefeald on ðæm heale duplex semper est in angulis paries, Past. 35, 5; Swt. 245, 13. Ðá gemétte hé hine hleonian on ðam hale his cyrcan wið ðam weofode he found him leaning in the corner of his church against the altar, Guthl. 20; Gdwin. 82, 22. On halum in abditis, Ps. Spl. 16, 13. [Cf. we beth honted from hale to hurne, Pot. Songs Wrt. 150, 17. In one swiþe di&yogh;ele hale, O. and N. 2.]"
+}

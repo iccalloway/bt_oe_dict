@@ -1,0 +1,28 @@
+{
+  "citation_form": "nam-bóc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A book in which names are written, a register",
+      "latin": "albo",
+      "quotations": [
+        {
+          "old_english": "Nombéc albo",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 3, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "nam-bóc; f. A book in which names are written, a register :-- Nombéc albo, Wrt. Voc. ii. 3, 1."
+}

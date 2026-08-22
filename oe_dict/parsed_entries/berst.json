@@ -1,0 +1,30 @@
+{
+  "citation_form": "berst",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "loss",
+      "latin": "damnum, malum, ruina",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Lupi Serm. i. 2 : Wulfstani Archiepiscopi Ebor. Admonitio sive Parænesis, 8. etc."
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "byrst"
+  ],
+  "source_text": "berst loss; damnum, malum, ruina, Lupi Serm. i. 2 : Wulfstani Archiepiscopi Ebor. Admonitio sive Parænesis, 8. etc. DER. berstan. v. byrst."
+}

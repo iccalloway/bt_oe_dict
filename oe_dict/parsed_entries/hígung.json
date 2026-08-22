@@ -1,0 +1,39 @@
+{
+  "citation_form": "hígung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Striving, endeavour, effort",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se flǽscbana hæfde þ-bar; getogene sweord on his handa and mid stranglice hígunge áhóf þone earm upp in heánesse and mynte sleán þone Godes wer",
+          "latin": "nisu forti",
+          "english": null,
+          "citations": "Gr. D. 254, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "tó-hígung",
+    "hígþ"
+  ],
+  "source_text": [
+    "hígung, e; f. Striving, endeavour, effort :-- Se flǽscbana hæfde þ-bar; getogene sweord on his handa and mid stranglice hígunge (nisu forti) áhóf þone earm upp in heánesse and mynte sleán þone Godes wer, Gr. D. 254, 34. v. tó-hígung; hígþ."
+  ]
+}

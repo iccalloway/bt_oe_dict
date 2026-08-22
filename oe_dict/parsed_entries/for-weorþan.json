@@ -1,0 +1,144 @@
+{
+  "citation_form": "for-weorþan",
+  "variant_forms": [
+    "-wurþan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-weorþe",
+            "person": "1",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-weorþest",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-wyrst",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-weorþeþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-wyrþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "-weorþaþ",
+            "person": null,
+            "number": "plural",
+            "tense": "present"
+          },
+          {
+            "form": "-wyrþaþ",
+            "person": null,
+            "number": "plural",
+            "tense": "present"
+          },
+          {
+            "form": "-wearþ",
+            "person": "1",
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wearþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wurde",
+            "person": "2",
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-wurdon",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-worden",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To become nothing, to be undone, to perish, die",
+      "latin": "ad nihilum devēnīre, pērīre, interīre, deficére",
+      "quotations": [
+        {
+          "old_english": "Swá sceal ǽlce sáwl forweorþan æfter ðam unrihthǽmede, búton se mon hweorfe to góde",
+          "latin": null,
+          "english": "so shall every soul perish after unlawful lust, unless the man turn to good",
+          "citations": "Bt. 31, 2; Fox 112, 27: 34, 9; Fox 148, 12"
+        },
+        {
+          "old_english": "Sceolon hig ealle samod forweorþan",
+          "latin": "pērībunt simul?",
+          "english": null,
+          "citations": "Gen. 18, 24: Ps. Th. 118, 176"
+        },
+        {
+          "old_english": "Ðú forwyrst",
+          "latin": "pērībis,",
+          "english": null,
+          "citations": "Ex. 9, 15"
+        },
+        {
+          "old_english": "Óþ-ðæt ðiós eorþe eall forweorþeþ",
+          "latin": null,
+          "english": "until this earth shall all perish",
+          "citations": "Bt. Met. Fox 11, 170; Met. 11, 85"
+        },
+        {
+          "old_english": "Síþfæt árleásra forwyrþ oððe losaþ",
+          "latin": "iter impiōrum pērībit.",
+          "english": null,
+          "citations": "Ps. Lamb. 1, 6"
+        },
+        {
+          "old_english": "Hi forweorþaþ",
+          "latin": "pērībunt,",
+          "english": null,
+          "citations": "Ps. Spl. 79, 17: Ps. Th. 63, 5: 67, 2: 72, 22"
+        },
+        {
+          "old_english": "Hig forwyrþab oððe losiaþ",
+          "latin": "ipsi pērībunt,",
+          "english": null,
+          "citations": "Ps. Lamb. 101, 27"
+        },
+        {
+          "old_english": "Seó mænegeo forwearþ",
+          "latin": null,
+          "english": "the multitude perished",
+          "citations": "Cd. 121; Th. 156, 14; Gen. 2588: 213"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-weorþan, -wurþan; ic -weorþe, ðú -weorþest, -wyrst, he -weorþeþ, -wyrþ, pl. -weorþaþ, -wyrþaþ; p. ic, he -wearþ, ðú -wurde, pl. -wurdon; pp. -worden To become nothing, to be undone, to perish, die; ad nihilum dev&e-short;n&i-long;re, p&e-short;r&i-long;re, interlre, deficére :-- Swá sceal ǽlce sáwl forweorþan æfter ðam unrihthǽmede, búton se mon hweorfe to góde so shall every soul perish after unlawful lust, unless the man turn to good, Bt. 31, 2; Fox 112, 27: 34, 9; Fox 148, 12. Sceolon hig ealle samod forweorþan p&e-short;r&i-long;bunt s&i-short;mul? Gen. 18, 24: Ps. Th. 118, 176. Ðú forwyrst p&e-short;r&i-long;bis, Ex. 9, 15. Óþ-ðæt ðiós eorþe eall forweorþeþ until this earth shall all perish, Bt. Met. Fox 11, 170; Met. 11, 85. Síþfæt árleásra forwyrþ oððe losaþ &i-short;ter impi&o-long;rum p&e-short;r&i-long;bit. Ps. Lamb. 1, 6. Hi forweorþaþ p&e-short;r&i-long;bunt, Ps. Spl. 79, 17: Ps. Th. 63, 5: 67, 2: 72, 22. Hig forwyrþab oððe losiaþ ipsi p&e-short;r&i-long;bunt, Ps. Lamb. 101, 27. Seó mænegeo forwearþ the multitude perished, Cd. 121; Th. 156, 14; Gen. 2588: 213;"
+}

@@ -1,0 +1,30 @@
+{
+  "citation_form": "tó-dǽlness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tódǽlnisse dydon alle discumbere",
+          "latin": "fecerunt omnes",
+          "english": null,
+          "citations": "Lk. L. 9, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "tó-dǽlness. Add :-- Tódǽlnisse dydon alle discumbere fecerunt omnes, Lk. L. 9, 15."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "citation_form": "bi-þearf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "I need",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "bi-þearf ic",
+          "latin": null,
+          "english": "I need",
+          "citations": "Exon. 76 a; Th. 285, 17; Jul. 715"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bi-þurfan",
+    "be-"
+  ],
+  "source_text": "bi-þearf ic I need, Exon. 76 a; Th. 285, 17; Jul. 715. v. bi-þurfan, be-."
+}

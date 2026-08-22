@@ -1,0 +1,25 @@
+{
+  "english_lemma": "shake",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "shake.v.01",
+      "definition": "move or cause to move back and forth",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-wegan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Bt. 12; Fox 36, 18",
+            "Bt. Met. Fox 7, 48; Met. 7, 24",
+            "Mt. Bos. 11, 7"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

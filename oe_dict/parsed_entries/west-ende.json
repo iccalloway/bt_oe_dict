@@ -1,0 +1,34 @@
+{
+  "citation_form": "west-ende",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tó ðæs clifes westende",
+          "latin": null,
+          "english": null,
+          "citations": "C. D. iii. 419, 6: 449, 14"
+        },
+        {
+          "old_english": "On ðæs hlincæs wæstændæ",
+          "latin": null,
+          "english": null,
+          "citations": "v. 242, 32"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "west-ende. Add :-- Tó ðæs clifes westende, C. D. iii. 419, 6: 449, 14. On ðæs hlincæs wæstændæ, v. 242, 32."
+}

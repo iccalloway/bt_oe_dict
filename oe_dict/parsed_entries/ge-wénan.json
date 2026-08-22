@@ -1,0 +1,27 @@
+{
+  "citation_form": "ge-wénan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gewénedre ǽfentýde",
+          "latin": "estimata uespertina hora",
+          "english": null,
+          "citations": "Chrd. 114, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-wénan; I. add :-- Gewénedre ǽfentýde estimata uespertina hora, Chrd. 114, 20."
+}

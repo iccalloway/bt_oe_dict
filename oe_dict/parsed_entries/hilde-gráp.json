@@ -1,0 +1,42 @@
+{
+  "citation_form": "hilde-gráp",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "In the latter passage Thorpe and Kemble take gráp to be a verb.",
+      "meaning": "Hostile grasp",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 2896; B. 1446"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "5007; B. 2507"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hilde-gráp, e; f. Hostile grasp, Beo. Th. 2896; B. 1446: 5007; B. 2507. In the latter passage Thorpe and Kemble take gráp to be a verb."
+  ]
+}

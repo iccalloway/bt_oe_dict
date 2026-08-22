@@ -1,0 +1,42 @@
+{
+  "citation_form": "hearm-loca",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "An enclosed place where hurt or affliction is suffered, a prison",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wræcstówe under hearmlocan gefóran",
+          "latin": null,
+          "english": "they reached their place of exile in hell",
+          "citations": "Cd. 5; Th. 6, 19; Gen. 91"
+        },
+        {
+          "old_english": "Hé his maguþegne under hearmlocan hǽlo ábeád",
+          "latin": null,
+          "english": "he announced safety to his servant in prison",
+          "citations": "Andr. Kmbl. 189; An. 95: 2058; An. 1031: Elen. Kmbl. 1386; El. 695"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hearm-loca, an; m. An enclosed place where hurt or affliction is suffered, a prison :-- Wræcstówe under hearmlocan gefóran they reached their place of exile in hell, Cd. 5; Th. 6, 19; Gen. 91. Hé his maguþegne under hearmlocan hǽlo ábeád he announced safety to his servant in prison, Andr. Kmbl. 189; An. 95: 2058; An. 1031: Elen. Kmbl. 1386; El. 695."
+  ]
+}

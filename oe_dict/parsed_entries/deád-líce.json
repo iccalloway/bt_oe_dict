@@ -1,0 +1,42 @@
+{
+  "citation_form": "deád-líce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "So as to cause death, mortally",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Deádlíce loetaliter",
+          "latin": "loetaliter",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 52, 38"
+        },
+        {
+          "old_english": "Dǽdlíce letaliter, i. mortaliter",
+          "latin": "letaliter, i. mortaliter",
+          "english": null,
+          "citations": "An. Ox. 379"
+        },
+        {
+          "old_english": "Þá beóð ádwealde þe wénað þæt se man scyle deádlíce swyltan (die and have no life after death), efne swá nýten",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 5, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "deád-lic"
+  ],
+  "source_text": [
+    "deád-líce. Substitute: So as to cause death, mortally. v. deád&dash-uncertain;lic, I:--Deádlíce loetaliter, Wrt. Voc. ii. 52, 38. Dǽdlíce letaliter, i. mortaliter, An. Ox. 379. Þá beóð ádwealde þe wénað þæt se man scyle deádlíce swyltan (die and have no life after death), efne swá nýten, Wlfst. 5, 9."
+  ]
+}

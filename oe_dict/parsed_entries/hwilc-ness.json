@@ -1,0 +1,36 @@
+{
+  "citation_form": "hwilc-ness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O. H. Ger. hweolíhi, hweolíh-nissi qualitas.",
+      "meaning": "Quality",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sume synd qualitalis ðe getácniaþ hwilcnysse",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 38; Som. 40, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-hwilcness"
+  ],
+  "source_text": "hwilc-ness, e; f. Quality :-- Sume synd qualitalis ðe getácniaþ hwilcnysse, Ælfc. Gr. 38; Som. 40, 31. [Cf. O. H. Ger. hweolíhi, hweolíh-nissi qualitas.] v. ge-hwilcness."
+}

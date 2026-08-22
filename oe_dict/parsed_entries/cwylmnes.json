@@ -1,0 +1,32 @@
+{
+  "citation_form": "cwylmnes",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "torment",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 4, 9; S. 577, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "cwealmnes"
+  ],
+  "source_text": [
+    "cwylmnes torment, Bd. 4, 9; S. 577, 10. v. cwealmnes."
+  ]
+}

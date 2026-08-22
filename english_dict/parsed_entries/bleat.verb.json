@@ -1,0 +1,39 @@
+{
+  "english_lemma": "bleat",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "bleat.v.02",
+      "definition": "cry plaintively",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BLǼTAN",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "balare",
+            "ovis balat"
+          ],
+          "attestations": [
+            "Exon. 106 b; Th. 406,17; Rä. 25, 2",
+            "Ælfc. Gr. 22; Som. 24, 9",
+            "22; Som. 24, 12"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ic blǽte swá gát",
+              "english": "I bleat as a goat",
+              "citations": "Exon. 106 b; Th. 406,17; Rä. 25, 2"
+            },
+            {
+              "old_english": "Hit biþ swíðe dyslíc ðæt se man beorce oððe blǽte",
+              "english": "it is very foolish that the man bark or bleat",
+              "citations": "22; Som. 24, 12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

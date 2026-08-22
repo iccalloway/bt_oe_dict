@@ -1,0 +1,116 @@
+{
+  "citation_form": "wær-scipe",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Belin wes swiðe wis, and warscipe him folweden, Laym. 5603. Dumbe bestes habbeð þeos warschipe, þet hwon heo beað asailed, heo þrungeð alle togederes, A. R. 252, 6. Warschipe a&yogh;aines unþeawes, H. M. 41, 7. Warsipe and wisedom wið deuel, Misc. 14, 426.",
+      "meaning": "Prudence, caution, circumspection, wisdom, in a bad sense, cunning, astuteness",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wærscipe cautela, i. astutia",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 129, 77"
+        },
+        {
+          "old_english": "Ðæt hié geícen ða gód hira ánfealdnesse mid wærscipe, and suá tilige ðære orsorgnesse mid ðære ánfealdnesse ðætte hé ðone ymbeðonc ðæs wærscipes ne forlǽte . . . Ðære culfran biliwitnesse sceal gemetgian ðære nædran wærscipe, ðý læs hine se wærscipe gelǽde on tó micle hátheortnesse",
+          "latin": "ut simplicitatis bono prudentiam adjungant, quatenus sic securitatem de simplicitate possideant, ut circumspectionem prudentiae non amittant . . . Debet serpentis astutiam columbae simplicitas temperare, quatenus nec seducti per prudentiam calleant",
+          "english": null,
+          "citations": "Past. 35; Swt. 237, 15-24"
+        },
+        {
+          "old_english": "Wísdóm is se héhsta cræft, and hæfþ on him feówer óþre cræftas; ðara is án wærscipe",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 27, 2; Fox 96, 34: 34, 6; Fox 140, 35: Shrn. 175, 27"
+        },
+        {
+          "old_english": "Á geríst bisceopum wísdóm and wærscype",
+          "latin": null,
+          "english": null,
+          "citations": "L. I. P. 9; Th. ii. 314, 28"
+        },
+        {
+          "old_english": "Se swicola hæfð éce wíte, for ðan ðe his wærscype ne dohte",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. i. 19, 177"
+        },
+        {
+          "old_english": "Þúhte wísast se ðe wæs swicolost . . . ac wá heom ðæs wærscipes",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 268, 19"
+        },
+        {
+          "old_english": "Hý lǽtaþ ðæt tó wærscype, ðæt hý óðre magan swicollíce pǽcan",
+          "latin": null,
+          "english": null,
+          "citations": "55, 2, 15"
+        },
+        {
+          "old_english": "Mid micelum wærscype lufian",
+          "latin": "cum magna cautela diligere",
+          "english": null,
+          "citations": "Anglia xiii. 374, 125"
+        },
+        {
+          "old_english": "For wísdóme and wærscipe",
+          "latin": "consilio",
+          "english": null,
+          "citations": "Past. 20; Swt. 149, 16"
+        },
+        {
+          "old_english": "Búton wærscipe",
+          "latin": null,
+          "english": "unadvisedly",
+          "citations": "Homl. Skt. i. 11, 361"
+        },
+        {
+          "old_english": "Mid máran fultume and mid máran wærscipe",
+          "latin": "circumspectiore cura ac magis instructo adparatu",
+          "english": null,
+          "citations": "Ors. 3, 8; Swt. 120, 25"
+        },
+        {
+          "old_english": "Hé hæfde Ýrlande mid his werscipe gewunnon, and wiðútan ǽlcon wǽpnon",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1086; Erl. 222, 18"
+        },
+        {
+          "old_english": "Ongiet mínne wísdóm and mínne wærscipe",
+          "latin": "prudentiam",
+          "english": null,
+          "citations": "Past. 38; Swt. 273, 9"
+        },
+        {
+          "old_english": "Ðes sunder-hálga hæfde opene eágan tó ælmesdǽdum, ac hé næfde nǽnne wærscipe ðæt hé ða sóðan eádmódnysse on his weldǽdum geheólde",
+          "latin": null,
+          "english": "he had not the wisdom to observe true humility in his benefactions",
+          "citations": "Homl. Th. ii. 432, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-wær-scipe"
+  ],
+  "source_text": [
+    "wær-scipe, es; m. Prudence, caution, circumspection, wisdom, in a bad sense, cunning, astuteness:--Wærscipe cautela, i. astutia, Wrt. Voc. ii. 129, 77. Ðæt hié geícen ða gód hira ánfealdnesse mid wærscipe, and suá tilige ðære orsorgnesse mid ðære ánfealdnesse ðætte hé ðone ymbeðonc ðæs wærscipes ne forlǽte . . . Ðære culfran biliwitnesse sceal gemetgian ðære nædran wærscipe, ðý læs hine se wærscipe gelǽde on tó micle hátheortnesse ut simplicitatis bono prudentiam adjungant, quatenus sic securitatem de simplicitate possideant, ut circumspectionem prudentiae non amittant . . . Debet serpentis astutiam columbae simplicitas temperare, quatenus nec seducti per prudentiam calleant, Past. 35; Swt. 237, 15-24. Wísdóm is se héhsta cræft, and hæfþ on him feówer óþre cræftas; ðara is án wærscipe, Bt. 27, 2; Fox 96, 34: 34, 6; Fox 140, 35: Shrn. 175, 27. Á geríst bisceopum wísdóm and wærscype, L. I. P. 9; Th. ii. 314, 28. Se swicola hæfð éce wíte, for ðan ðe his wærscype ne dohte, Homl. Skt. i. 19, 177. Þúhte wísast se ðe wæs swicolost . . . ac wá heom ðæs wærscipes, Wulfst. 268, 19. Hý lǽtaþ ðæt tó wærscype, ðæt hý óðre magan swicollíce pǽcan, 55, 2, 15. Mid micelum wærscype lufian cum magna cautela diligere, Anglia xiii. 374, 125. For wísdóme and wærscipe consilio, Past. 20; Swt. 149, 16. Búton wærscipe unadvisedly, Homl. Skt. i. 11, 361. Mid máran fultume and mid máran wærscipe circumspectiore cura ac magis instructo adparatu, Ors. 3, 8; Swt. 120, 25. Hé hæfde Ýrlande mid his werscipe gewunnon, and wiðútan ǽlcon wǽpnon, Chr. 1086; Erl. 222, 18. Ongiet mínne wísdóm and mínne wærscipe (prudentiam), Past. 38; Swt. 273, 9. Ðes sunder-hálga hæfde opene eágan tó ælmesdǽdum, ac hé næfde nǽnne wærscipe ðæt hé ða sóðan eádmódnysse on his weldǽdum geheólde (he had not the wisdom to observe true humility in his benefactions), Homl. Th. ii. 432, 1. [Belin wes swiðe wis, and warscipe him folweden, Laym. 5603. Dumbe bestes habbeð þeos warschipe, þet hwon heo beað asailed, heo þrungeð alle togederes, A. R. 252, 6. Warschipe a&yogh;aines unþeawes, H. M. 41, 7. Warsipe and wisedom wið deuel, Misc. 14, 426.] v. un-wær&dash-uncertain;scipe."
+  ]
+}

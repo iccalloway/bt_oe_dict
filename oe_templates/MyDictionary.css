@@ -157,3 +157,36 @@ p.xref a.xref-target {
   border-bottom: 1px dotted #888;
 }
 
+/* Reverse-dictionary entries (English → OE) — one <li> per WordNet synset,
+   nested <ul> lists the OE equivalents that fell under that sense. */
+p.pos {
+  font-style: italic;
+  color: #666;
+  font-size: 90%;
+  margin: 0.1em 0 0.4em 0;
+}
+
+ol.en-senses {
+  list-style-type: decimal;
+}
+
+ol.en-senses > li {
+  margin: 0.4em 0;
+}
+
+ul.en-equivs {
+  list-style: none;
+  padding-left: 1em;
+  margin: 0.2em 0;
+}
+
+ul.en-equivs > li {
+  margin: 0.2em 0;
+}
+
+ul.en-equivs > li > a.xref-target {
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
+}
+

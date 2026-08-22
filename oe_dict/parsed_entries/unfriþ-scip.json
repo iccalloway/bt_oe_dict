@@ -1,0 +1,60 @@
+{
+  "citation_form": "unfriþ-scip",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a ship which is carrying on hostilities",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðam cynge com word ðæt unnfriðscipa lǽgen be westan and hergodon",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1046; Erl. 173, 5"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a ship belonging to a hostile country",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Æ-acute;lc ceápscip frið hæbbe ðe binnan múðan cuman(-e?), þéh hit unfriðscyp sý, gyf hit undrifen bið",
+          "latin": "omnis ceapscip, i.e. navis institoris, pacem habeat, quae in portum veniet, licet navis sit inimicorum, si non sit abacta tempestatibus (Lat. vers.)",
+          "english": null,
+          "citations": "L. Eth. ii. 2; Th. i. 286, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "unfriþ-scip, es; n. I. a ship which is carrying on hostilities :-- Ðam cynge com word ðæt unnfriðscipa lǽgen be westan and hergodon, Chr. 1046; Erl. 173, 5. II. a ship belonging to a hostile country :-- Æ-acute;lc ceápscip frið hæbbe ðe binnan múðan cuman(-e?), þéh hit unfriðscyp sý, gyf hit undrifen bið omnis ceapscip, i.e. navis institoris, pacem habeat, quae in portum veniet, licet navis sit inimicorum, si non sit abacta tempestatibus (Lat. vers.), L. Eth. ii. 2; Th. i. 286, 21."
+}

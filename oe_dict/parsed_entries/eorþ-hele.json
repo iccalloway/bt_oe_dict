@@ -1,0 +1,36 @@
+{
+  "citation_form": "eorþ-hele",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A heap",
+      "latin": "tumulus",
+      "quotations": [
+        {
+          "old_english": "Wæs ðæt deáw abútan ða fyrdwíc, swilce hit hagoles eorþhele wǽre",
+          "latin": null,
+          "english": "the dew was about the camp, as it were a heap of hail",
+          "citations": "Ex. 10, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "eorþ-hele, es; m. A heap; t&u-short;m&u-short;lus :-- Wæs ðæt deáw abútan ða fyrdwíc, swilce hit hagoles eorþhele wǽre the dew was about the camp, as it were a heap of hail, Ex. 10, 14."
+  ]
+}

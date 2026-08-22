@@ -1,0 +1,40 @@
+{
+  "citation_form": "ell-þeód",
+  "variant_forms": [
+    "ell-þiéd"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A strange people, foreign nation",
+      "latin": "peregrina gens",
+      "quotations": [
+        {
+          "old_english": "Hý fóron on ellþiéde",
+          "latin": null,
+          "english": "they went into a foreign land",
+          "citations": "Ors. 4, 4; Bos. 81, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "el-þeód"
+  ],
+  "source_text": [
+    "ell-þeód, ell-þiéd, e; f. A strange people, foreign nation; p&e-short;regr&i-long;na gens :-- Hý fóron on ellþiéde they went into a foreign land, Ors. 4, 4; Bos. 81, 6. v. el-þeód."
+  ]
+}

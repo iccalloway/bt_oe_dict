@@ -1,0 +1,39 @@
+{
+  "citation_form": "īdel-georn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "frivolous, useless, unprofitable",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sē ðe wǣre īdelgeorn, weorðe sē notgeorn",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 72, 9"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "lazy",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "īdel"
+  ],
+  "source_text": "&i-long;del-georn. Add: I. frivolous, useless, unprofitable, v. &i-long;del; n. I :-- S&e-long; &d-bar;e wæ-long;re &i-long;delgeorn, weor&d-bar;e s&e-long; notgeorn, Wlfst. 72, 9. II. lazy. v. &i-long;del; n. II. See examples in Dict."
+}

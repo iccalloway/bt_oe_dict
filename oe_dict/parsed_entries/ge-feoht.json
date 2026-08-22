@@ -1,0 +1,293 @@
+{
+  "citation_form": "ge-feoht",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "O. H. Ger. ge-feht pugna, praelium, bellum, certamen.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gefeoht bellum vel pugna",
+          "latin": "bellum vel pugna",
+          "english": null,
+          "citations": "Wrt. Voc. i. 84, 15"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "fighting",
+          "meaning": "fighting",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "in a military sense, war",
+              "meaning": "in a military sense, war",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gefeohtes bodan praefeciales",
+                  "latin": "praefeciales",
+                  "english": null,
+                  "citations": "Wrt. Voc. i. 36, 7"
+                },
+                {
+                  "old_english": "Gefeohtes duelli",
+                  "latin": "duelli",
+                  "english": null,
+                  "citations": "ii. 96, 27: 27, 28"
+                },
+                {
+                  "old_english": "Hí cómon fǽrlíce mid gefeohte tó Judan",
+                  "latin": null,
+                  "english": "they suddenly attacked Judas",
+                  "citations": "Hml. S. 25, 653: 670"
+                },
+                {
+                  "old_english": "Þá nán man mid gefeohte ne gefór",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ors. 1. 2; S. 30, 20"
+                },
+                {
+                  "old_english": "Mid gefeohte sécan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "3, 1; S. 98, 11"
+                },
+                {
+                  "old_english": "Mid gefeohte cnyssan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "S. 96, 8"
+                },
+                {
+                  "old_english": "Ymb gefeoht sprecan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Met. 8, 32"
+                }
+              ],
+              "sub_senses": [
+                {
+                  "label": "(a α)",
+                  "heading": "rendering the personification Mars",
+                  "meaning": "rendering the personification Mars",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Wíg oððe gefeoht Mavors",
+                      "latin": "Mavors",
+                      "english": null,
+                      "citations": "Wrt. Voc. ii. 55, 37"
+                    },
+                    {
+                      "old_english": "Gefeoht Martem",
+                      "latin": "Martem",
+                      "english": null,
+                      "citations": "94, 18: 96, 23: 57, 14"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "(b)",
+              "heading": "fighting between two or more persons",
+              "meaning": "fighting between two or more persons",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Be préosta gefeohte. Gif preóst óðerne man ofsleá",
+                  "latin": null,
+                  "english": "of fighting by priests. If a priest slay a man.",
+                  "citations": "Ll. Th. i. 74, 18"
+                },
+                {
+                  "old_english": "Be gefeohte. Gif hwá gefeohte on cyninges húse ... Gif hwá on mynstre gefeohte ... And þeáh hit sié on middum felda gefohten",
+                  "latin": null,
+                  "english": null,
+                  "citations": "106, 1-10"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(2)",
+          "heading": "a fight, combat, battle, war",
+          "meaning": "a fight, combat, battle, war",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(a)",
+              "heading": "military, between opposing forces",
+              "meaning": "military, between opposing forces",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Næs ná mid Rómánum ǽr ne siþþan swá heard gefeoht (pugna) swá þǽr wæs",
+                  "latin": "pugna",
+                  "english": null,
+                  "citations": "Ors. 5, 7; S. 230, 13"
+                },
+                {
+                  "old_english": "On þǽre frymþe þæs gefeohtes",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bl. H. 203, 5"
+                },
+                {
+                  "old_english": "Se eádiga Michael þǽr wæs tóweard him tó fultome ðá hwíle ðe hié æt þǽm gefeohte wǽron",
+                  "latin": null,
+                  "english": null,
+                  "citations": "205, 3"
+                },
+                {
+                  "old_english": "Æfter þissum gefeohte",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Chr. 871; P. 72, 5"
+                },
+                {
+                  "old_english": "On folces gefeohte in bello publico",
+                  "latin": "in bello publico",
+                  "english": null,
+                  "citations": "Ll. Th. ii. 150, 32: 386, 16"
+                },
+                {
+                  "old_english": "Ne gehérde nón mon ymbe nán gefeoht sprecan",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bt. 15; F. 48, 15"
+                },
+                {
+                  "old_english": "Ungelimplico gefeoht",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Bl. H. 107, 28"
+                },
+                {
+                  "old_english": "Gefeoht bella",
+                  "latin": "bella",
+                  "english": null,
+                  "citations": "Wülck. Gl. 255, 6"
+                },
+                {
+                  "old_english": "Synd feówer cynna gefeoht iustum, iniustum, ciuile, plusquam ciuile. Iustum bellum is rihtlic gefeoht wið da réðan flotmenu",
+                  "latin": "iustum, iniustum, ciuile, plusquam ciuile. Iustum bellum",
+                  "english": null,
+                  "citations": "Hml. S. 25, 705"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "(b)",
+              "heading": "a fight between two or more persons",
+              "meaning": "a fight between two or more persons",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Gif man beforan æðelinge gefeoht áginneð, mid .CL. scillinga gebéte",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ll. Th. i. 332, 3"
+                },
+                {
+                  "old_english": "Mé egleð swýðe and ús eallum þá unrihtlican and mænigfealdan gefeoht þe betwux ús sylfum syndan; þonne cwǽde wé: Gif hwá ǽnigne man ofsleá ...",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ll. Th. i. 246, 24"
+                },
+                {
+                  "old_english": "Be gefeohtum",
+                  "latin": null,
+                  "english": null,
+                  "citations": "106, 1 note"
+                },
+                {
+                  "old_english": "Sé þe gefeohtu gesihð, blisse hit openað",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Lch. iii. 200, 7"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "(3)",
+          "heading": "figurative, conflict, struggle for victory",
+          "meaning": "figurative, conflict, struggle for victory",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gefeoht commissio, conflictus",
+              "latin": "commissio, conflictus",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 132, 22"
+            },
+            {
+              "old_english": "Gefeohte conflictu (vitiorum)",
+              "latin": "conflictu (vitiorum)",
+              "english": null,
+              "citations": "77, 1"
+            },
+            {
+              "old_english": "Sé ðe gifehtað in gefeht qui certat in agone",
+              "latin": "qui certat in agone",
+              "english": null,
+              "citations": "Rtl. 60, 15"
+            },
+            {
+              "old_english": "Iornia wé forárǽden ús gifeht curramus propositum nobis certamen",
+              "latin": "curramus propositum nobis certamen",
+              "english": null,
+              "citations": "27, 29"
+            },
+            {
+              "old_english": "Gifeht gástlices wóghfulnisse impugnatione spiritalis nequitiae",
+              "latin": "impugnatione spiritalis nequitiae",
+              "english": null,
+              "citations": "121, 9"
+            },
+            {
+              "old_english": "Bið á wið firenum in gefeoht gearo",
+              "latin": null,
+              "english": null,
+              "citations": "Crä. 90"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "flet-gefeoht",
+    "folc-gefeoht",
+    "in-gefeoht",
+    "on-gefeoht",
+    "scip-gefeoht",
+    "sige-gefeoht",
+    "þurh-gefeoht",
+    "út-gefeoht",
+    "weorold-gefeoht",
+    "ge-feaht"
+  ],
+  "source_text": "ge-feoht. Add :-- Gefeoht bellum vel pugna, Wrt. Voc. i. 84, 15. (1) fighting, (a) in a military sense, war: -- Gefeohtes bodan praefeciales, Wrt. Voc. i. 36, 7. Gefeohtes duelli, ii. 96, 27: 27, 28. Hí cómon fǽrlíce mid gefeohte tó Judan they suddenly attacked Judas, Hml. S. 25, 653: 670. Þá nán man mid gefeohte ne gefór, Ors. 1. 2; S. 30, 20. Mid gefeohte sécan, 3, 1; S. 98, 11. Mid gefeohte cnyssan, S. 96, 8. Ymb gefeoht sprecan, Met. 8, 32. (a α) rendering the personification Mars :-- Wíg oððe gefeoht Mavors, Wrt. Voc. ii. 55, 37. Gefeoht Martem, 94, 18: 96, 23: 57, 14. (b) fighting between two or more persons :-- Be préosta gefeohte. Gif preóst óðerne man ofsleá of fighting by priests. If a priest slay a man. Ll. Th. i. 74, 18. Be gefeohte. Gif hwá gefeohte on cyninges húse ... Gif hwá on mynstre gefeohte ... And þeáh hit sié on middum felda gefohten, 106, 1-10. (2) a fight, combat, battle, war. (a) military, between opposing forces :-- Næs ná mid Rómánum ǽr ne siþþan swá heard gefeoht (pugna) swá þǽr wæs, Ors. 5, 7; S. 230, 13. On þǽre frymþe þæs gefeohtes, Bl. H. 203, 5. Se eádiga Michael þǽr wæs tóweard him tó fultome ðá hwíle ðe hié æt þǽm gefeohte wǽron, 205, 3. Æfter þissum gefeohte, Chr. 871; P. 72, 5. On folces gefeohte in bello publico, Ll. Th. ii. 150, 32: 386, 16. Ne gehérde nón mon ymbe nán gefeoht sprecan, Bt. 15; F. 48, 15. Ungelimplico gefeoht, Bl. H. 107, 28. Gefeoht bella, Wülck. Gl. 255, 6. Synd feówer cynna gefeoht iustum, iniustum, ciuile, plusquam ciuile. Iustum bellum is rihtlic gefeoht wið da réðan flotmenu, Hml. S. 25, 705. (b) a fight between two or more persons :-- Gif man beforan æðelinge gefeoht áginneð, mid .CL. scillinga gebéte, Ll. Th. i. 332, 3. Mé egleð swýðe and ús eallum þá unrihtlican and mænigfealdan gefeoht þe betwux ús sylfum syndan; þonne cwǽde wé: Gif hwá ǽnigne man ofsleá ..., Ll. Th. i. 246, 24. Be gefeohtum, 106, 1 note. Sé þe gefeohtu gesihð, blisse hit openað, Lch. iii. 200, 7. (3) figurative, conflict, struggle for victory :-- Gefeoht commissio, conflictus, Wrt. Voc. ii. 132, 22. Gefeohte conflictu (vitiorum), 77, 1. Sé ðe gifehtað in gefeht qui certat in agone, Rtl. 60, 15. Iornia wé forárǽden ús gifeht curramus propositum nobis certamen, 27, 29. Gifeht gástlices wóghfulnisse impugnatione spiritalis nequitiae, 121, 9. Bið á wið firenum in gefeoht gearo, Crä. 90. [O. H. Ger. ge-feht pugna, praelium, bellum, certamen.] v. flet-, folc-, in-, on-, scip-, sige-, þurh-, út-, weorold-gefeoht, and ge-feaht in Dict."
+}

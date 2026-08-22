@@ -1,0 +1,26 @@
+{
+  "english_lemma": "myrrh",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "myrrh.n.01",
+      "definition": "aromatic resin that is burned as incense and used in perfume",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "MIRRA",
+          "pos": "noun",
+          "gender": "f",
+          "variants": [],
+          "latin_glosses": [
+            "myrrha"
+          ],
+          "attestations": [
+            "Wrt. Voc. i. 67, 21",
+            "Wrt. Voc. ii. 125, 13"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "a-swunden",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": "pp. of a-swindan",
+      "meaning": "weakened, slothful",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9, 26; Som. 11, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-swindan"
+  ],
+  "source_text": "a-swunden weakened, slothful, Ælfc. Gr. 9, 26; Som. 11, 11; pp. of a-swindan."
+}

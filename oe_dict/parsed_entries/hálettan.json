@@ -1,0 +1,49 @@
+{
+  "citation_form": "hálettan",
+  "variant_forms": [
+    "hǽlettan"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": "[O. H. Ger. heilazen salutare.]",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif gé hálettaþ (salutaveritis) eówre bróþer",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. R. 5, 47"
+        },
+        {
+          "old_english": "Hǽleteþ þæt hús",
+          "latin": "salutate domum",
+          "english": null,
+          "citations": "10, 12"
+        },
+        {
+          "old_english": "Þá se biscop tó mé cwóm, ðá grétte hé mé sóna and [h]álette his leódþeáwe",
+          "latin": "cum me more rituque salutaret",
+          "english": null,
+          "citations": "Nar. 27, 17"
+        },
+        {
+          "old_english": "Ic, Béda, Crístes ðeów and mæssepreóst, sende grétan þone leófastan cyning and hálettan Ceólwulf",
+          "latin": "gloriosissimo regi Ceoluulfo Baeda famulus Christi et Presbyter",
+          "english": null,
+          "citations": "Bd. praef.; Sch. 1. 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-hálettan"
+  ],
+  "source_text": "hálettan. Add: , hǽlettan :-- Gif gé hálettaþ (salutaveritis) eówre bróþer, Mt. R. 5, 47. Hǽleteþ þæt hús salutate domum, 10, 12. Þá se biscop tó mé cwóm, ðá grétte hé mé sóna and [h]álette his leódþeáwe cum me more rituque salutaret, Nar. 27, 17. Ic, Béda, Crístes ðeów and mæssepreóst, sende grétan þone leófastan cyning and hálettan Ceólwulf gloriosissimo regi Ceoluulfo Baeda famulus Christi et Presbyter, Bd. praef.; Sch. 1. 3. [O. H. Ger. heilazen salutare.] v. ge-hálettan."
+}

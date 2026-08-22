@@ -1,0 +1,46 @@
+{
+  "citation_form": "eów",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "pronoun"
+      },
+      "sense_label": null,
+      "supplemental": "dat. acc. pl. of ðú",
+      "meaning": "to you, YOU",
+      "latin": "vōbis, vos",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ex. 6, 8"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Bos. 6, 16"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "5, 46"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Bos. 12, 28"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "gé"
+  ],
+  "source_text": "eów to you, YOU ; v&o-long;bis, vos; GREEK, GREEK pers. pron; dat. acc. pl. of ðú, Ex. 6, 8: Mt. Bos. 6, 16: 5, 46 : Lk. Bos. 12, 28. v. gé."
+}

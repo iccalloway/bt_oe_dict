@@ -1,0 +1,35 @@
+{
+  "english_lemma": "husband",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "husband.n.01",
+      "definition": "a married man; a woman's partner in marriage",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "CEORL",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "vir, maritus",
+            "voca virum [husband] tuum"
+          ],
+          "attestations": [
+            "Chr. 1020; Erl. 160, 23",
+            "Bt. 36, 5; Fox 180, 7",
+            "Jn. Bos. 4, 16, 17",
+            "4, 18"
+          ],
+          "quotations": [
+            {
+              "old_english": "Ðú hæfdest fíf ceorlas",
+              "english": "thow hast had five husbands",
+              "citations": "4, 18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

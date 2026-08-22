@@ -1,0 +1,70 @@
+{
+  "citation_form": "a-syndran",
+  "variant_forms": [
+    "-syndrian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "asyndrige",
+            "person": "1",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "a from, syndrian to sunder, part",
+      "meaning": "To put ASUNDER, to separate, disjoin, sever",
+      "latin": "separare",
+      "quotations": [
+        {
+          "old_english": "Ic com mann asyndrian ongén his fæder",
+          "latin": "veni separare hominem adversus patrem suum",
+          "english": null,
+          "citations": "Mt. Bos. 10, 35: Ps. Spl. 67, 10"
+        },
+        {
+          "old_english": "Se deáþ asyndreþ líc and sáwle",
+          "latin": null,
+          "english": "death sunders body and soul",
+          "citations": "Soul Kmbl. 7 ; Seel. 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-sundrian"
+  ],
+  "source_text": [
+    "a-syndran, -syndrian; íc asyndrige; p. ede, ode; pp. ed, od [a from, syndrian to sunder, part] To put ASUNDER, to separate, disjoin, sever; separare :-- Ic com mann asyndrian ongén his fæder veni separare hominem adversus patrem suum, Mt. Bos. 10, 35: Ps. Spl. 67, 10. Se deáþ asyndreþ líc and sáwle death sunders body and soul, Soul Kmbl. 7 ; Seel. 4. v. a-sundrian."
+  ]
+}

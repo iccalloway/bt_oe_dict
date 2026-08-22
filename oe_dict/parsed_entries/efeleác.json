@@ -1,0 +1,27 @@
+{
+  "citation_form": "efeleác",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Som. Ben. Lye",
+      "meaning": "An onion, a scallion",
+      "latin": "cæpa",
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "efeleác, es; n. An onion, a scallion; cæpa, Som. Ben. Lye."
+}

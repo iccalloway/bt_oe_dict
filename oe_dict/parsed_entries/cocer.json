@@ -1,0 +1,40 @@
+{
+  "citation_form": "cocer",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a quiver",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Coker faretra",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 35, 23"
+        },
+        {
+          "old_english": "Seó lufu cocor (faretram) and bogan and flán forlét",
+          "latin": null,
+          "english": null,
+          "citations": "Prud. 51"
+        },
+        {
+          "old_english": "Hí fyllaþ heora coceras mid flánum",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Th. 10, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "cocer a quiver. Add:--Coker faretra, Wrt. Voc. i. 35, 23. Seó lufu cocor (faretram) and bogan and flán forlét, Prud. 51. Hí fyllaþ heora coceras mid flánum, Ps. Th. 10, 2."
+}

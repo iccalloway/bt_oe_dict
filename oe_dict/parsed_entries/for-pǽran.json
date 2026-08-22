@@ -1,0 +1,64 @@
+{
+  "citation_form": "for-pǽran",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To turn away, pervert, ruin, destroy",
+      "latin": "pervertěre, perděre",
+      "quotations": [
+        {
+          "old_english": "He ðæs óðres sáwle forpǽrþ þurh his yfelum tihtingum",
+          "latin": null,
+          "english": "he perverts the other's soul by his evil instigations",
+          "citations": "Homl. Th. ii. 226, 31: 208, 20"
+        },
+        {
+          "old_english": "Hie forpǽraþ ðæm edleáne",
+          "latin": "měritis pervertunt",
+          "english": null,
+          "citations": "Past. 39, 3; Hat. MS. 53 b, 8"
+        },
+        {
+          "old_english": "Gif we us sylfe ne forpǽraþ",
+          "latin": null,
+          "english": "if we do not destroy ourselves",
+          "citations": "Homl. Th. i. 216, 9: ii. 50, 5"
+        },
+        {
+          "old_english": "Adam us forpǽrde þurh ánes æpples þigene",
+          "latin": null,
+          "english": "Adam ruined us by the eating of an apple",
+          "citations": "Homl. Th. ii. 330, 32"
+        },
+        {
+          "old_english": "Ðæt he ðone man forpǽre",
+          "latin": null,
+          "english": "that he may destroy the man",
+          "citations": "Boutr. Scrd. 20, 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "for-pǽran; p. de; pp. ed To turn away, pervert, ruin, destroy; pervert&e-short;re, perd&e-short;re :-- He ðæs óðres sáwle forpǽrþ þurh his yfelum tihtingum he perverts the other's soul by his evil instigations, Homl. Th. ii. 226, 31: 208, 20. Hie forpǽraþ ðæm edleáne m&e-short;r&i-short;tum pervertunt. Past. 39, 3; Hat. MS. 53 b, 8. Gif we us sylfe ne forpǽraþ if we do not destroy ourselves, Homl. Th. i. 216, 9: ii. 50, 5. Adam us forpǽrde þurh ánes æpples þigene Adam ruined us by the eating of an apple, Homl. Th. ii. 330, 32. Ðæt he ðone man forpǽre that he may destroy the man, Boutr. Scrd. 20, 20."
+}

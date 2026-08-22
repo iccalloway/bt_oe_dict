@@ -1,0 +1,28 @@
+{
+  "citation_form": "efen-þrowung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Be efenþrowunge níhstan",
+          "latin": "de compassione proximi",
+          "english": null,
+          "citations": "Scint. 147, 8: 148, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "efen-þrowung. Add:--Be efenþrowunge níhstan de compassione proximi, Scint. 147, 8: 148, 12."
+}

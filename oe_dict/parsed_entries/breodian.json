@@ -1,0 +1,42 @@
+{
+  "citation_form": "breodian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To cry out",
+      "latin": "vociferari",
+      "quotations": [
+        {
+          "old_english": "He breodaþ",
+          "latin": null,
+          "english": "he cries out",
+          "citations": "Exon. 83 b; Th. 315, 8; Mód. 28"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "breodian; p. ode; pp. od To cry out; vociferari :-- He breodaþ he cries out, Exon. 83 b; Th. 315, 8; Mód. 28."
+  ]
+}

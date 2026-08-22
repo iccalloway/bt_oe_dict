@@ -1,0 +1,28 @@
+{
+  "citation_form": "fremedlíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Perfectly",
+      "latin": "perfecte",
+      "quotations": [
+        {
+          "old_english": "Þurh þæt fremedlíce (perfecte) ys ge-herud",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 129, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "full-fremedlíce"
+  ],
+  "source_text": "fremedlíce; adv. Perfectly :-- Þurh þæt fremedlíce (perfecte) ys ge-herud, Scint. 129, 3. v. full-fremedlíce."
+}

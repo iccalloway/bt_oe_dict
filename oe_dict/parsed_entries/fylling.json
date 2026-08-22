@@ -1,0 +1,64 @@
+{
+  "citation_form": "fylling",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": null,
+          "meaning": "filling of a vessel, &c.",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Mid þáre cillan fyliinge (cyllfyllinge, v. l.)",
+              "latin": null,
+              "english": null,
+              "citations": "Gr. D. 250, 27"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": null,
+          "meaning": "completion, complement",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "vi fliccen and óþer vi tó fyllincge",
+              "latin": null,
+              "english": null,
+              "citations": "Nap. 55, 33"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "bytt-fylling",
+    "cyll-fylling",
+    "ge-fylling"
+  ],
+  "source_text": [
+    "fylling, e; f. (1) filling of a vessel, &c.:--Mid þáre cillan fyliinge (cyllfyllinge, v. l.), Gr. D. 250, 27. (2) completion, complement:--vi fliccen and óþer vi tó fyllincge, Nap. 55, 33. v. bytt-, cyll-, ge-fylling."
+  ]
+}

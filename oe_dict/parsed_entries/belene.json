@@ -1,0 +1,52 @@
+{
+  "citation_form": "belene",
+  "variant_forms": [
+    "beolone",
+    "belone"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Henbane is so called from the baneful effects of its seed upon poultry, of which Matthioli says that 'birds, especially gallinaceous birds, that have eaten the seeds perish soon after, as do fishes also.' The A. Sax. belene and beolone, Ger. bilse, O. Ger. belisa, Pol. bielún, Hung. belénd, Rus. belená are words derived (according to Zeuss, p. 34) from an ancient Celtic god Belenus, corresponding to the Apollo of the Latins : 'Dem Belenus war das Bilsenkraut heilig, das von ihm Belisa and Apollinaris hiess,' Prior 109.",
+      "meaning": "Henbane",
+      "latin": "hyoscyamus niger",
+      "quotations": [
+        {
+          "old_english": "Belenan meng wið rysele",
+          "latin": null,
+          "english": "mix henbane with lard",
+          "citations": "L. M. 1, 31; Lchdm. ii. 72, 1"
+        },
+        {
+          "old_english": "Dó belenan seáw",
+          "latin": null,
+          "english": "apply the juice of henbane",
+          "citations": "3, 3; Lchdm. ii. 310, 7"
+        },
+        {
+          "old_english": "Genim beolonan sǽd",
+          "latin": null,
+          "english": "take the seed of henbane",
+          "citations": "1, 2; Lchdm. ii. 38, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "beolone",
+    "henne-belle"
+  ],
+  "source_text": "belene, beolone, belone, an; f. Henbell, henbane; hyoscyamus niger :-- Belenan meng wið rysele mix henbane with lard, L. M. 1, 31; Lchdm. ii. 72, 1. Dó belenan seáw apply the juice of henbane, 3, 3; Lchdm. ii. 310, 7. Genim beolonan sǽd take the seed of henbane, 1, 2; Lchdm. ii. 38, 1. v. beolone, henne-belle. [Henbane is so called from the baneful effects of its seed upon poultry, of which Matthioli says that 'birds, especially gallinaceous birds, that have eaten the seeds perish soon after, as do fishes also.' The A. Sax. belene and beolone, Ger. bilse, O. Ger. belisa, Pol. bielún, Hung. belénd, Rus. belená are words derived (according to Zeuss, p. 34) from an ancient Celtic god Belenus, corresponding to the Apollo of the Latins : 'Dem Belenus war das Bilsenkraut heilig, das von ihm Belisa and Apollinaris hiess,' Prior 109.]"
+}

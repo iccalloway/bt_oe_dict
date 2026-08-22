@@ -1,0 +1,44 @@
+{
+  "citation_form": "feordian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To be at war",
+      "latin": "bellum gěrěre",
+      "quotations": [
+        {
+          "old_english": "Hí feordodan wið Ætlan Húna cininge",
+          "latin": null,
+          "english": "they were at war with Ætla king of the Huns",
+          "citations": "Chr. 443: Erl. 11, 35"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fyrdian"
+  ],
+  "source_text": [
+    "feordian; p. ode; pp. od To be at war; bellum g&e-short;r&e-short;re :-- Hí feordodan wið Ætlan Húna cininge they were at war with Ætla king of the Huns, Chr. 443: Erl. 11, 35. v. fyrdian."
+  ]
+}

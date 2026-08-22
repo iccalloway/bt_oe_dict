@@ -1,0 +1,35 @@
+{
+  "citation_form": "forþ-feran",
+  "variant_forms": [
+    "-féran"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Forðférende obeuntem, morientem",
+          "latin": "obeuntem, morientem",
+          "english": null,
+          "citations": "Hpt. Gl. 501, 31"
+        },
+        {
+          "old_english": "Ðá ðe wǽron forðférede for hund geárum oððon gyt firnor",
+          "latin": null,
+          "english": null,
+          "citations": "Wlfst. 96, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "forþ-feran. l. -féran, and add :-- Forðférende obeuntem, morientem, Hpt. Gl. 501, 31. Ðá ðe wǽron forðférede for hund geárum oððon gyt firnor, Wlfst. 96, 7."
+}

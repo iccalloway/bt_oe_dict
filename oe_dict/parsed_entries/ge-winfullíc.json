@@ -1,0 +1,36 @@
+{
+  "citation_form": "ge-winfullíc",
+  "variant_forms": [
+    "-winnfullíc"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Laborious, toilsome",
+      "latin": "laboriōsus",
+      "quotations": [
+        {
+          "old_english": "Ðæt hí ne þorftan in swá frǽcne síþfætt, and on swá gewinfullícne, and on swá uncúþe ællþeódignysse féran",
+          "latin": "ne tam periculōsam, tam incertam peregrinātionem adīre debērent",
+          "english": null,
+          "citations": "Bd. 1, 23; S. 485, 37"
+        },
+        {
+          "old_english": "Ðæt hí nó má ne mihton swá gewinnfullícum fyrdum swencte beón",
+          "latin": "non se ultra tam laboriōsis expedītiōnibus posse fatīgārī",
+          "english": null,
+          "citations": "1, 12; S. 481, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-winfullíc, -winnfullíc; adj, Laborious, toilsome; labori&o-long;sus :-- Ðæt hí ne þorftan in swá frǽcne síþfætt, and on swá gewinfullícne, and on swá uncúþe ællþeódignysse féran ne tam pericul&o-long;sam, tam incertam peregrin&a-long;ti&o-long;nem ad&i-long;re deb&e-long;rent, Bd. 1, 23; S. 485, 37. Ðæt hí nó má ne mihton swá gewinnfullícum fyrdum swencte beón non se ultra tam labori&o-long;sis exped&i-long;ti&o-long;nibus posse fat&i-long;g&a-long;ri, 1, 12; S. 481, 4."
+  ]
+}

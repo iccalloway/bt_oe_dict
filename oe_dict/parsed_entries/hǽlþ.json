@@ -1,0 +1,111 @@
+{
+  "citation_form": "hǽlþ",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "(good) health",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "of body",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé cwæit þæt hire cild gesund beón sceolde, and eal hire híwisc hǽlðe brúcan",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. Th. ii. 150, 19"
+            },
+            {
+              "old_english": "Gif þú gesihst þé on wætere cealdan þw[e]án, hǽlde líchaman (sanitatem carports) getácnaþ",
+              "latin": null,
+              "english": null,
+              "citations": "Lch. iii. 214, 14"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "of soul, salvation",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Eallon þám tó écere hǽlðe þe his líchaman séceað",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1023 ; P. 156, 25"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "healing",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "physical",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Heó árás andsund of þám bedde . . . þá wundrode se Þegn his wífes hǽlðe",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 22, 55"
+            },
+            {
+              "old_english": "Hé sumne blindne man gehǽlde . . . and manega gelýfdon þurh ðæs mannes hǽlðe",
+              "latin": null,
+              "english": null,
+              "citations": "34"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "spiritual",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "On hálwendlican þínum &l-bar; hǽlðe",
+              "latin": "in salutare tuum",
+              "english": null,
+              "citations": "Ps. L. 118, 81"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "un-hǽlþ",
+    "wan-hǽlþ"
+  ],
+  "source_text": "hǽlþ- Add: I. (good) health (1) of body :-- Hé cwæit þæt hire cild gesund beón sceolde, and eal hire híwisc hǽlðe brúcan, Hml. Th. ii. 150, 19. Gif þú gesihst þé on wætere cealdan þw[e]án, hǽlde líchaman (sanitatem carports) getácnaþ, Lch. iii. 214, 14. (2) of soul, salvation :-- Eallon þám tó écere hǽlðe þe his líchaman séceað, Chr. 1023 ; P. 156, 25. II. healing, (1) physical :-- Heó árás andsund of þám bedde . . . þá wundrode se Þegn his wífes hǽlðe, Hml. S. 22, 55. Hé sumne blindne man gehǽlde . . . and manega gelýfdon þurh ðæs mannes hǽlðe, 34. (2) spiritual :-- On hálwendlican þínum &l-bar; hǽlðe in salutare tuum, Ps. L. 118, 81. v. un-, wan-hǽlþ."
+}

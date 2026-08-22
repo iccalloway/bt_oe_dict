@@ -1,0 +1,47 @@
+{
+  "citation_form": "husc",
+  "variant_forms": [
+    "hucs",
+    "hux"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "cf. hosp. [Laym. hux and hoker : O. L. Ger. hosc subsannatio : O. H. Ger. hosc sugillatio.]",
+      "meaning": "Insult, scorn, scoffing, mockery",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Abraham mid hucse bewand ða hleóðorcwidas on hige sínum",
+          "latin": null,
+          "english": "cf. Sarah laughed within herself, Gen. 18, 12",
+          "citations": "Cd. 107; Th. 140, 34; Gen. 2337 : 109; Th. 143, 21; Gen. 2382"
+        },
+        {
+          "old_english": "Þurh hucx",
+          "latin": "per ironiam",
+          "english": null,
+          "citations": "Cot. 186, Lye"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hux-líc"
+  ],
+  "source_text": [
+    "husc, hucs, hux, es; m. [cf. hosp.] Insult, scorn, scoffing, mockery :-- Abraham mid hucse bewand ða hleóðorcwidas on hige sínum [cf. Sarah laughed within herself, Gen. 18, 12], Cd. 107; Th. 140, 34; Gen. 2337 : 109; Th. 143, 21; Gen. 2382. Þurh hucx per ironiam, Cot. 186, Lye. [Laym. hux and hoker : O. L. Ger. hosc subsannatio : O. H. Ger. hosc sugillatio.] v. hux-líc."
+  ]
+}

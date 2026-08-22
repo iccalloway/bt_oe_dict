@@ -1,0 +1,28 @@
+{
+  "english_lemma": "rule",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "rule.n.09",
+      "definition": "any one of a systematic body of regulations defining the way of life of members of a religious order",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "CANON",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "regula, canon"
+          ],
+          "attestations": [
+            "L. Ælf. P. 31; Th. ii. 376, 26",
+            "Bd. 5, 23; S. 648, 43",
+            "L. Ælf. P. 31; Th. ii. 376, 20",
+            "Bd. 4, 24; S. 598, 13"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

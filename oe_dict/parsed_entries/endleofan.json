@@ -1,0 +1,45 @@
+{
+  "citation_form": "endleofan",
+  "variant_forms": [
+    "endlufon",
+    "endlyfun"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": "end = an one; unus; leof=lif, from lífan to leave; relinquére, Grm. ii. 947, or end = án one; lif ten; decem; existing in Teutonic languages only in the words for 11 and 12; A. Sax. end-lif and twé-lf = twá-lf= twá-lif, Grm. Gsch. §246",
+      "meaning": "ELEVEN",
+      "latin": "undecim",
+      "quotations": [
+        {
+          "old_english": "Ósréd ðæt rice hæfde endleofan wintra",
+          "latin": null,
+          "english": "Osred held the kingdom for eleven years",
+          "citations": "Bd. 5, 18; S. 635, 20"
+        },
+        {
+          "old_english": "Mid híra endlufon sunum",
+          "latin": "cum undecim filiis",
+          "english": null,
+          "citations": "Gen. 32, 22"
+        },
+        {
+          "old_english": "Endleofan steorran",
+          "latin": null,
+          "english": "eleven stars",
+          "citations": "Gen. 37, 9: Chr. 71; Th. 13, 3, col. 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "twelf"
+  ],
+  "source_text": [
+    "endleofan, endlufon, endlyfun, inflected cases of endleof, endluf, endlyf [end = an one; unus; leof=lif, from lífan to leave; relinqu&e-short;re, Grm. ii. 947, or end = án one; lif ten; d&e-short;cem; existing in Teutonic languages only in the words for 11 and 12; A. Sax. end-lif and twé-lf = twá-lf= twá-lif, Grm. Gsch. §246] ELEVEN ; und&e-short;cim = GREEK :-- Ósréd ðæt rice hæfde endleofan wintra Osred held the kingdom for eleven years, Bd. 5, 18; S. 635, 20. Mid híra endlufon sunum cum undecim filiis, Gen. 32, 22. Endleofan steorran eleven stars, Gen. 37, 9: Chr. 71; Th. 13, 3, col. 3. [Wyc. enleuene, enleuen, enleue: R. Glouc. endleve: Laym. elleoue, elleouen: Plat. elv, elwen: O. Sax. ellevan; Frs. alve, alue: O. Frs. andlova, elleva: Dat. elf: Ger. eilf, elf: M. H. Ger. einlif, einlef: O. H. Ger. einlif: Goth. ainlif: Dan. elleve: Swed. elfva: Icel. ellifu.] v. twelf."
+  ]
+}

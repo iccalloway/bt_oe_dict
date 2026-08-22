@@ -1,0 +1,40 @@
+{
+  "citation_form": "CAPÚN",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Plat, kappuun: Dut. kapoen, m: Kil. kappuyn, kaphoen: Ger. kapaun, m: M. H. Ger. kapún , m: Dan. Swed, kapun, m: O. Nrs. kapún, m. Rask Hald: from the Lat. capo: Grk. GREEK .",
+      "meaning": "A CAPON",
+      "latin": "gallinaceus, capo",
+      "quotations": [
+        {
+          "old_english": "Capún gallinaceus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 63, 9: Ælfc. Gl. 39; Som. 63, 48: Wrt. Voc. 30, 3"
+        },
+        {
+          "old_english": "Capún capo",
+          "latin": null,
+          "english": null,
+          "citations": "39; Som. 63, 46; Wrt. Voc. 30, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "CAPÚN, es; m. A CAPON; gallinaceus, cape = GREEK :-- Capún gallinaceus, Wrt. Voc. 63, 9: Ælfc. Gl. 39; Som. 63, 48: Wrt. Voc. 30, 3. Capún capo, 39; Som. 63, 46; Wrt. Voc. 30, 1. [Plat, kappuun: Dut. kapoen, m: Kil. kappuyn, kaphoen: Ger. kapaun, m: M. H. Ger. kapún , m: Dan. Swed, kapun, m: O. Nrs. kapún, m. Rask Hald: from the Lat. capo: Grk. GREEK .]"
+}

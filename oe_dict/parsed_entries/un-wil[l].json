@@ -1,0 +1,98 @@
+{
+  "citation_form": "un-wil[l]",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Absence of good will, dislike, despite, repugnance, reluctance; the genitive, with adverbial force, against one's will, not willingly, without one's consent, without intention, involuntarily, is (almost) the only case used.",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "alone",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif hé hit dide unwilles",
+              "latin": "si praeter voluntatem id fecerit",
+              "english": null,
+              "citations": "L. Ecg. P. ii. 1; Th. ii. 182, 13"
+            },
+            {
+              "old_english": "Unwilles wé magon forleósan ða hwílwendlícan gód, ac wé ne forleósaþ nǽfre unwilles ða écan gód",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. i. 576, 7-9: Hexam. 17; Norm. 26, 3"
+            },
+            {
+              "old_english": "Gif ðú mé unwilles gewemman dést",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Skt. i. 9, 90"
+            },
+            {
+              "old_english": "Hé ðǽr wunode ða niht unwilles, se ðe sylfwilles nolde",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 184, 13: L. Eth. vi. 52; Th. i. 328, 21"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "with pronouns",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Þeáh ðú mé geoffrige mínes unwilles, ic beó þeáh unscyldig",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Skt. i. 9, 87"
+            },
+            {
+              "old_english": "Hire unwilles",
+              "latin": "invita ipsa",
+              "english": null,
+              "citations": "L. Ecg. P. ii. 15, tit.; Th. ii, 180, 27"
+            },
+            {
+              "old_english": "Heó wæs hire unwilles fram him",
+              "latin": "ab eo invita aberat",
+              "english": null,
+              "citations": "15; Th. ii. 186, 29"
+            },
+            {
+              "old_english": "Heora unwilles",
+              "latin": null,
+              "english": null,
+              "citations": "L. Edg. S. 2; Th, i. 274, 5"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "un-willes"
+  ],
+  "source_text": [
+    "un-wil[l], es; n, Absence of good will, dislike, despite, repugnance, reluctance; the genitive, with adverbial force, against one's will, not willingly, without one's consent, without intention, involuntarily, is (almost) the only case used. (1) alone :-- Gif hé hit dide unwilles si praeter voluntatem id fecerit, L. Ecg. P. ii. 1; Th. ii. 182, 13. Unwilles wé magon forleósan ða hwílwendlícan gód, ac wé ne forleósaþ nǽfre unwilles ða écan gód, Homl. Th. i. 576, 7-9: Hexam. 17; Norm. 26, 3. Gif ðú mé unwilles gewemman dést, Homl. Skt. i. 9, 90. Hé ðǽr wunode ða niht unwilles, se ðe sylfwilles nolde, Homl. Th. ii. 184, 13: L. Eth. vi. 52; Th. i. 328, 21. (2) with pronouns :-- Þeáh ðú mé geoffrige mínes unwilles, ic beó þeáh unscyldig, Homl. Skt. i. 9, 87. Hire unwilles invita ipsa, L. Ecg. P. ii. 15, tit.; Th. ii, 180, 27. Heó wæs hire unwilles fram him ab eo invita aberat, 15; Th. ii. 186, 29. Heora unwilles, L. Edg. S. 2; Th, i. 274, 5. [Ich mot nede, ant neoðeles min unwil hit is to don al þ-bar; ti wil is, Marh. 13, 3. Ha wes him ihondsald þah hit hire unwil were, Jul. 7, 12. Heo wes ihondsald al hire unwilles, 6, 5.] v. next word."
+  ]
+}

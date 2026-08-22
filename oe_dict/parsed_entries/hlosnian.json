@@ -1,0 +1,58 @@
+{
+  "citation_form": "hlosnian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O. H. Ger. hlosen audire, attendere, obedire, auscultari: hlosenti adtonitus.",
+      "meaning": "To listen, be silent in expectation of hearing, listen for the coming of a person, watch, await, be on the look out",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ða on sumere nihte hlosnode sum óðer munuc his færeldes and mid sleaccre stalcunge his fótswaðum filigde",
+          "latin": null,
+          "english": "then one night another monk was on the watch for his going, and with stealthy tread followed his footsteps",
+          "citations": "Homl. Th. ii. 138, 5"
+        },
+        {
+          "old_english": "Eoda ðá tó mæssan and hlosnode georne be ðære líflícan onsægednesse",
+          "latin": null,
+          "english": "he went then to mass and waited eagerly for the living sacrifice",
+          "citations": "Homl. Swt. 3, 157"
+        },
+        {
+          "old_english": "Æfter ðissum wordum weorud hlosnode swígodon ealle",
+          "latin": null,
+          "english": "after these words the multitude listened [astonished or expectant], all were silent",
+          "citations": "Andr. Kmbl. 1522; An. 762"
+        },
+        {
+          "old_english": "Ðæt folc hlosnende wæs gehérde hine",
+          "latin": "populus suspensus erat audiens ilium",
+          "english": null,
+          "citations": "Lk. Skt. Lind. 19, 48"
+        },
+        {
+          "old_english": "Hlosniend",
+          "latin": "attonitus",
+          "english": null,
+          "citations": "Cot. 3, Lye"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hlosnian; p. ode To listen, be silent in expectation of hearing, listen for the coming of a person, watch, await, be on the look out :-- Ða on sumere nihte hlosnode sum óðer munuc his færeldes and mid sleaccre stalcunge his fótswaðum filigde then one night another monk was on the watch for his going, and with stealthy tread followed his footsteps, Homl. Th. ii. 138, 5. Eoda ðá tó mæssan and hlosnode georne be ðære líflícan onsægednesse he went then to mass and waited eagerly for the living sacrifice, Homl. Swt. 3, 157. Æfter ðissum wordum weorud hlosnode swígodon ealle after these words the multitude listened [astonished or expectant], all were silent, Andr. Kmbl. 1522; An. 762. Ðæt folc hlosnende wæs gehérde hine populus suspensus erat audiens ilium, Lk. Skt. Lind. 19, 48. Hlosniend attonitus, Cot. 3, Lye. [Cf. O. H. Ger. hlosen audire, attendere, obedire, auscultari: hlosenti adtonitus.]"
+}

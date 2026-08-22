@@ -1,0 +1,58 @@
+{
+  "citation_form": "weorold-sceamu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Æfter muchel weorldscome (worliche same, 2nd MS.) wurðscipe, Laym. 8323.",
+      "meaning": "Worldly shame, disgrace among men",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wála ðære woruldscame, ðe nú habbaþ Engle. . . . Oft twégen sǽmen oððe þrý drífaþ ða dráfe cristenra manna fram sǽ tó sǽ. . . ús eallum tó woruldscame",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 163, 3-7"
+        },
+        {
+          "old_english": "Ða ðe for ege oððe lufe oððe ǽnigre worldscame eargiaþ and wandiaþ Godes riht tó sprecanne",
+          "latin": null,
+          "english": null,
+          "citations": "191, 5"
+        },
+        {
+          "old_english": "For woruldsceame",
+          "latin": null,
+          "english": null,
+          "citations": "L. I. P. 12 ; Th. ii. 320, 22"
+        },
+        {
+          "old_english": "Gif wíf be óðrum were forlicge, and hit open weorðe, geweorðe heó tó woruldsceame hire sylfre",
+          "latin": null,
+          "english": null,
+          "citations": "L. C. S. 54; Th. i. 406, 7"
+        },
+        {
+          "old_english": "Tó woroldscame",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 168, 14"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "weorold-sceamu, e; f. Worldly shame, disgrace among men:-- Wála ðære woruldscame, ðe nú habbaþ Engle. . . . Oft twégen sǽmen oððe þrý drífaþ ða dráfe cristenra manna fram sǽ tó sǽ. . . ús eallum tó woruldscame, Wulfst. 163, 3-7. Ða ðe for ege oððe lufe oððe ǽnigre worldscame eargiaþ and wandiaþ Godes riht tó sprecanne, 191, 5. For woruldsceame, L. I. P. 12 ; Th. ii. 320, 22. Gif wíf be óðrum were forlicge, and hit open weorðe, geweorðe heó tó woruldsceame hire sylfre, L. C. S. 54; Th. i. 406, 7. Tó woroldscame, Wulfst. 168, 14, [Æfter muchel weorldscome (worliche same, 2nd MS.) wurðscipe, Laym. 8323.]"
+}

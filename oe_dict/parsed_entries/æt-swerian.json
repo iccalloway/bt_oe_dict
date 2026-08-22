@@ -1,0 +1,31 @@
+{
+  "citation_form": "æt-swerian",
+  "variant_forms": [
+    "oþ-swerian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 80, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "oþ-swerian"
+  ],
+  "source_text": "æt-swerian (= oþ-swerian, q.v.). Add: Ll. Th. i. 80, 16"
+}

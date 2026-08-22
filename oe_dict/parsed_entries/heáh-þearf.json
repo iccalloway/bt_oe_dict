@@ -1,0 +1,34 @@
+{
+  "citation_form": "heáh-þearf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Great need",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Æt heáhþearfe",
+          "latin": null,
+          "english": "at my greatest need",
+          "citations": "Ps. Th. 117, 16, 20, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "heáh-þearf, e; f. Great need :-- Æt heáhþearfe at my greatest need, Ps. Th. 117, 16, 20, 27."
+}

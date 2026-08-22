@@ -1,0 +1,148 @@
+{
+  "citation_form": "be-cweþan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to say",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þæt fægere becweðe folca ǽghwylc, 'Wese swá, wese swá'",
+          "latin": "dicat omnis populus, 'Fiat, fiat,'",
+          "english": null,
+          "citations": "Ps. Th. 105, 37"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I a.",
+          "heading": "with the idea of remonstrance or reproach; cf. be-sprecan",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Gif hwelc iów bicweðes, 'Hwæt dóað gé?', cueoðas ðætte Drihtne nédþarf is",
+              "latin": null,
+              "english": null,
+              "citations": "Mk. R. 11, 3"
+            },
+            {
+              "old_english": "Cweþað him þæt edwít feóndas þíne, fæste ætwítað; and þæt þínum críste becweþað swíðe",
+              "latin": "quod exprobraverunt inimici tui; quod exprobraverunt commutationem christi tui",
+              "english": null,
+              "citations": "Ps. Th. 88, 44"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "I b.",
+          "heading": null,
+          "meaning": "to urge, press",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": null,
+              "latin": "Inculcare, sepe repetere, et aliquando inculcare est in becweðan",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 49, 43"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to speak for, pray for",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá cómon þá gebróðra tó ðí þæt hí his sáwle becwǽdon (cf. the same incident in Gr. D. 324, 16: Þá bróðra woldon hine scyldan mid heora gebedum and fore gebiddan (orando protegere))",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 534, 10"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": "[O. H. Ger. bi-quethan praedicere.]",
+      "meaning": "to bequeathe, grant by will (cwide)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hit becwæð sé ðe hit áhte",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 184, 1"
+        },
+        {
+          "old_english": "Bútan þám dǽle þe uncer gehwæþer his bearnum becwæð",
+          "latin": null,
+          "english": null,
+          "citations": "Cht. Th. 486, 4"
+        },
+        {
+          "old_english": "Hé becwæð his ðincg, and ácwealde hine sylfne",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 19, 211"
+        },
+        {
+          "old_english": "Þám se fæder becwæð ger&dash-uncertain;suman unáteallendlice",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1086; P. 219, 14"
+        },
+        {
+          "old_english": "Gif his yldran him ǽhta becwǽdon",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. i. 256, 21"
+        },
+        {
+          "old_english": "Þæt þú becwede þíne ðincg, for ðan ðe ðú sweltan scealt",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. S. 18, 414"
+        },
+        {
+          "old_english": "Him þe ic feoh becweden hæbbe",
+          "latin": null,
+          "english": null,
+          "citations": "Cht. Th. 490, 20"
+        },
+        {
+          "old_english": "Þá menn þe ic míne bócland becweden hæbbe",
+          "latin": null,
+          "english": null,
+          "citations": "Cht. Th. 491, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "yfel-onbecweþende"
+  ],
+  "source_text": [
+    "be-cweþan. Dele II, and add: I. to say:--Þæt fægere becweðe folca ǽghwylc, 'Wese swá, wese swá' dicat omnis populus, 'Fiat, fiat,' Ps. Th. 105, 37. I a. with the idea of remonstrance or reproach; cf. be-sprecan:--Gif hwelc iów bicweðes, 'Hwæt dóað gé?', cueoðas ðætte Drihtne nédþarf is, Mk. R. 11, 3. Cweþað him þæt edwít feóndas þíne, fæste ætwítað; and þæt þínum críste becweþað swíðe quod exprobraverunt inimici tui; quod exprobraverunt commutationem christi tui, Ps. Th. 88, 44. I b. to urge, press:--Inculcare, sepe repetere, et aliquando inculcare est in becweðan, Wrt. Voc. ii. 49, 43. v. yfel-onbecweþende. II. to speak for, pray for:--Ðá cómon þá gebróðra tó ðí þæt hí his sáwle becwǽdon (cf. the same incident in Gr. D. 324, 16: Þá bróðra woldon hine scyldan mid heora gebedum and fore gebiddan (orando protegere)), Hml. Th. i. 534, 10. III. to bequeathe, grant by will (cwide):--Hit becwæð sé ðe hit áhte, Ll. Th. i. 184, 1. Bútan þám dǽle þe uncer gehwæþer his bearnum becwæð, Cht. Th. 486, 4. Hé becwæð his ðincg, and ácwealde hine sylfne, Hml. S. 19, 211. Þám se fæder becwæð ger&dash-uncertain;suman unáteallendlice, Chr. 1086; P. 219, 14. Gif his yldran him ǽhta becwǽdon, Hml. Th. i. 256, 21. Þæt þú becwede þíne ðincg, for ðan ðe ðú sweltan scealt, Hml. S. 18, 414. Him þe ic feoh becweden hæbbe, Cht. Th. 490, 20. Þá menn þe ic míne bócland becweden hæbbe, 491, 8. [O. H. Ger. bi-quethan praedicere.]"
+  ]
+}

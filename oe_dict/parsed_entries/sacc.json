@@ -1,0 +1,28 @@
+{
+  "citation_form": "sacc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "From Latin saccus.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé lǽdde his hálgan béc mid him on fellenum saccum (sæccum, v. l.)",
+          "latin": "sacros codices in pelliceis sacculis portabat",
+          "english": null,
+          "citations": "Gr. D. 34, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "sacc. Add :-- Hé lǽdde his hálgan béc mid him on fellenum saccum (sæccum, v. l.) sacros codices in pelliceis sacculis portabat, Gr. D. 34, 15. [From Latin saccus.]"
+}

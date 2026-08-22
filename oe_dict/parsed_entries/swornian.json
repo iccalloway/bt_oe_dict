@@ -1,0 +1,44 @@
+{
+  "citation_form": "swornian",
+  "variant_forms": [
+    "swarnian"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To coalesce",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Suornodun, suornadun, suarnadun",
+          "latin": "coaluissent",
+          "english": null,
+          "citations": "Txts. 48, 198"
+        },
+        {
+          "old_english": "Swornodon",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 14, 64"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "á-swarnian"
+  ],
+  "source_text": "swornian, swarnian; p. ode To coalesce:--Suornodun, suornadun, suarnadun coaluissent, Txts. 48, 198. Swornodon, Wrt. Voc. ii. 14, 64. v. á-swarnian."
+}

@@ -1,0 +1,66 @@
+{
+  "citation_form": "blód",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Deád blód cruor",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 16, 57"
+        },
+        {
+          "old_english": "Heó sǽde þ-bar; hire blód forlǽten wǽre on earme",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 5, 3; Sch. 563, 2"
+        },
+        {
+          "old_english": "Swíðe unwíslíce gé dydon, þæt gé sceoldon on feówernihtne mónan blód lǽtan",
+          "latin": null,
+          "english": null,
+          "citations": "Sch. 564, 6: Lch. iii. 184, 11"
+        },
+        {
+          "old_english": "Æ-acute;r him mon blód lǽte, þám þe fela blódes hæfþ",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 210, 16"
+        },
+        {
+          "old_english": "Blód wanian",
+          "latin": null,
+          "english": null,
+          "citations": "iii. 184, 16"
+        },
+        {
+          "old_english": "Wer blóda vir sanguinum",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. L. 5, 8: Ps. Spl. 25, 9"
+        },
+        {
+          "old_english": "Handa mid manna blódum befýlede",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. xi. 113, 36"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "mónaþ-blód"
+  ],
+  "source_text": "blód. Add :-- Deád blód cruor, Wrt. Voc. ii. 16, 57. Heó sǽde þ-bar; hire blód forlǽten wǽre on earme, Bd. 5, 3; Sch. 563, 2. Swíðe unwíslíce gé dydon, þæt gé sceoldon on feówernihtne mónan blód lǽtan, Sch. 564, 6: Lch. iii. 184, 11. Æ-acute;r him mon blód lǽte, þám þe fela blódes hæfþ, ii. 210, 16. Blód wanian, iii. 184, 16. Wer blóda vir sanguinum, Ps. L. 5, 8: Ps. Spl. 25, 9. Handa mid manna blódum befýlede, Angl. xi. 113, 36. v. mónaþ-blód."
+}

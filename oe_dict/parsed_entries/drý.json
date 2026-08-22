@@ -1,0 +1,106 @@
+{
+  "citation_form": "drý",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "drýes",
+            "case": "genitive",
+            "number": "singular"
+          },
+          {
+            "ending": "drýe",
+            "case": "dative",
+            "number": "singular"
+          },
+          {
+            "ending": "drým",
+            "case": "dative",
+            "number": "plural"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Ir. drui.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Þá Iudéas þone Hǽlend genámon ... and sǽdon þ-bar; hé drý wǽre",
+          "latin": null,
+          "english": null,
+          "citations": "Nic. 19, 40"
+        },
+        {
+          "old_english": "Nectanebases þæs drýs",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 3, 9; S. 126, 25"
+        },
+        {
+          "old_english": "Hé wearð álýsed frám þæs drýes bendum ... and arn bysmrigende þæs drýes yfeldǽdum",
+          "latin": null,
+          "english": null,
+          "citations": "Hml. Th. ii. 414, 24: 412, 30"
+        },
+        {
+          "old_english": "Ánes drýes folgere",
+          "latin": null,
+          "english": null,
+          "citations": "i. 468, 8"
+        },
+        {
+          "old_english": "Þá deóflu gecyrdon tó ðám drýe ... Cwæð se apostol tó ðám drý",
+          "latin": null,
+          "english": null,
+          "citations": "416, 9-13"
+        },
+        {
+          "old_english": "Drýas",
+          "latin": "marsi",
+          "english": null,
+          "citations": "An. Ox. 4476"
+        },
+        {
+          "old_english": "Drías",
+          "latin": null,
+          "english": null,
+          "citations": "2, 338"
+        },
+        {
+          "old_english": "Dréas",
+          "latin": "arioli",
+          "english": null,
+          "citations": "Kent. Gl. 868"
+        },
+        {
+          "old_english": "Mon sægð þ-bar; drýas tó heora cræftum þysse wyrte (vervain) brúcen",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. i. 170, 20"
+        },
+        {
+          "old_english": "Drýra",
+          "latin": "magorum",
+          "english": null,
+          "citations": "An. Ox. 4019"
+        },
+        {
+          "old_english": "Hí befæston þ-bar; wíf drýum (drým, v. l.)",
+          "latin": "puellam maleficis tradiderunt",
+          "english": null,
+          "citations": "Gr. D. 73, 16"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "drý. Add: gen. drýes, dat. drýe, dat. pl. drým :-- Þá Iudéas þone Hǽlend genámon ... and sǽdon þ-bar; hé drý wǽre, Nic. 19, 40. Nectanebases þæs drýs, Ors. 3, 9; S. 126, 25. Hé wearð álýsed frám þæs drýes bendum ... and arn bysmrigende þæs drýes yfeldǽdum, Hml. Th. ii. 414, 24: 412, 30. Ánes drýes folgere, i. 468, 8. Þá deóflu gecyrdon tó ðám drýe ... Cwæð se apostol tó ðám drý, 416, 9-13. Drýas marsi, An. Ox. 4476. Drías, 2, 338. Dréas arioli, Kent. Gl. 868. Mon sægð þ-bar; drýas tó heora cræftum þysse wyrte (vervain) brúcen, Lch. i. 170, 20. Drýra magorum, An. Ox. 4019. Hí befæston þ-bar; wíf drýum (drým, v. l.) puellam maleficis tradiderunt, Gr. D. 73, 16. [O. Ir. drui.]"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "citation_form": "neoðane",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": "O. Sax. niðana : O. H. Ger. nidana subtus, subtu.",
+      "meaning": "Beneath, below",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hér is fýr micel ufan and neoþone",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 24, 8 ; Gen. 375"
+        },
+        {
+          "old_english": "Ufane and neoþan",
+          "latin": null,
+          "english": null,
+          "citations": "Met. 20, 141"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "neoðane; adv. Beneath, below :-- Hér is fýr micel ufan and neoþone, Cd. Th. 24, 8 ; Gen. 375. Ufane and neoþan, Met. 20, 141. [O. Sax. niðana : O. H. Ger. nidana subtus, subtu.]"
+}

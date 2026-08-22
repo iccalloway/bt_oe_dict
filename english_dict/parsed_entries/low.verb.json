@@ -1,0 +1,23 @@
+{
+  "english_lemma": "low",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "moo.v.01",
+      "definition": "make a low noise, characteristic of bovines",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-hlówan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "reboare"
+          ],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english_lemma": "come",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "come.v.01",
+      "definition": "move toward, travel toward something or somebody or approach something or somebody",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-stígan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "ire, venire, gradi, procedere, scandere",
+            "scando"
+          ],
+          "attestations": [
+            "Exon. 32 b; Th. 103, 21; Cri. 1691",
+            "102 a; Th. 385, 24; Rä. 4, 49",
+            "Andr. Kmbl. 1416; An. 708: Bd. 4, 3; S. 568, 2",
+            "Lk. Bos. 3, 22",
+            "Exon. 84 b; Th. 317, 30; Mód. 73: Ps. Th. 79, 10",
+            "Ælfc. Gr. 28, 6; Som. 32, 30"
+          ],
+          "quotations": [
+            {
+              "old_english": "Egsa astigeþ",
+              "english": "dread shall come",
+              "citations": "102 a; Th. 385, 24; Rä. 4, 49"
+            },
+            {
+              "old_english": "Word-hleóðor astág",
+              "english": "the sound of words came",
+              "citations": "Andr. Kmbl. 1416; An. 708: Bd. 4, 3; S. 568, 2"
+            },
+            {
+              "old_english": "Se Hálega Gást astáh lichamlícre ansýne",
+              "english": "the Holy Spirit came in bodily form",
+              "citations": "Lk. Bos. 3, 22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "synset_id": "issue_forth.v.01",
+      "definition": "come forth",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-teáh",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Exon. 29 b; Th. 91, 19; Cri. 1494",
+            "Beo. Th. 1537; B. 766"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

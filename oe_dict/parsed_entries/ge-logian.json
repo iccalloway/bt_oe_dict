@@ -1,0 +1,106 @@
+{
+  "citation_form": "ge-logian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To place, lodge, dispose, regulate",
+      "latin": "ponere, disponere, reponere, collocare",
+      "quotations": [
+        {
+          "old_english": "God gelogode ðone man",
+          "latin": "Deus posuit hominem",
+          "english": null,
+          "citations": "Gen. 2, 8 : Homl. Th. i. 12, 33"
+        },
+        {
+          "old_english": "Ða geleáfullan folc híg sylfe gelogiaþ and heora líf for Gode",
+          "latin": null,
+          "english": "the faithful folk dispose themselves and their life for God",
+          "citations": "Ælfc. T. Lisle 28, 13"
+        },
+        {
+          "old_english": "Gelogaþ his ágen líf",
+          "latin": null,
+          "english": "regulates his own life",
+          "citations": "Tract. de Spir. Septif : Homl. Th. i. 168, 11"
+        },
+        {
+          "old_english": "Godes ðeów se ðe hád underféhþ sceal beón on ða wíson gelogod ðe God tǽhte",
+          "latin": null,
+          "english": "the servant of God who takes orders must be disposed in the manner that God has taught",
+          "citations": "ii. 48, 31 : i. 286, 13"
+        },
+        {
+          "old_english": "Ðæt mynster he gelogode mid wellybbendum mannum",
+          "latin": null,
+          "english": "that monastery he filled with men of good life",
+          "citations": "506, 15"
+        },
+        {
+          "old_english": "Ðá ðwóh man ða hálgan bán and gelogodon hí up",
+          "latin": null,
+          "english": "then the holy bones were washed and laid up",
+          "citations": "Swt. Rdr. 100, 158"
+        },
+        {
+          "old_english": "Hí gelogodon sce Ælfeáges hálgan líchaman on norþhealfe weofodes",
+          "latin": null,
+          "english": "they placed S. Ælfeg's holy body on the north side of the altar",
+          "citations": "Chr. 1023; Erl. 163, 33"
+        },
+        {
+          "old_english": "He begeat má castelas and ðǽr inne his ríderas gelogode",
+          "latin": null,
+          "english": "he got more castles and lodged his knights therein",
+          "citations": "1090; Erl. 226, 30"
+        },
+        {
+          "old_english": "Geloga híg on ðære sélostan stówe",
+          "latin": null,
+          "english": "in the best of the land make them to dwell",
+          "citations": "Gen. 47, 6"
+        },
+        {
+          "old_english": "Ðás lamb ðe ðú gelogast on sundron",
+          "latin": null,
+          "english": "these lambs which thou hast set by themselves",
+          "citations": "21, 9"
+        },
+        {
+          "old_english": "Ðone wudu gelogode",
+          "latin": null,
+          "english": "laid the wood in order",
+          "citations": "22, 9"
+        },
+        {
+          "old_english": "He wæs gelogod to his folcum",
+          "latin": null,
+          "english": "he was gathered to his people",
+          "citations": "Deut. 32, 50"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-logian; p. ode; pp. od To place, lodge, dispose, regulate; ponere, disponere, reponere, collocare :-- God gelogode ðone man Deus posuit hominem, Gen. 2, 8 : Homl. Th. i. 12, 33. Ða geleáfullan folc híg sylfe gelogiaþ and heora líf for Gode the faithful folk dispose themselves and their life for God, Ælfc. T. Lisle 28, 13. Gelogaþ his ágen líf regulates his own life, Tract. de Spir. Septif : Homl. Th. i. 168, 11. Godes ðeów se ðe hád underféhþ sceal beón on ða wíson gelogod ðe God tǽhte the servant of God who takes orders must be disposed in the manner that God has taught, ii. 48, 31 : i. 286, 13. Ðæt mynster he gelogode mid wellybbendum mannum that monastery he filled with men of good life, 506, 15. Ðá ðwóh man ða hálgan bán and gelogodon hí up then the holy bones were washed and laid up, Swt. Rdr. 100, 158. Hí gelogodon sce Ælfeáges hálgan líchaman on norþhealfe weofodes they placed S. Ælfeg's holy body on the north side of the altar, Chr. 1023; Erl. 163, 33. He begeat má castelas and ðǽr inne his ríderas gelogode he got more castles and lodged his knights therein, 1090; Erl. 226, 30. Geloga híg on ðære sélostan stówe in the best of the land make them to dwell, Gen. 47, 6. Ðás lamb ðe ðú gelogast on sundron these lambs which thou hast set by themselves, 21, 9. Ðone wudu gelogode laid the wood in order, 22, 9. He wæs gelogod to his folcum he was gathered to his people, Deut. 32, 50."
+}

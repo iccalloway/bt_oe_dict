@@ -1,0 +1,55 @@
+{
+  "citation_form": "ge-fearrian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ade",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ad",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To remove to a distance, go away",
+      "latin": "avellere, discedere, abscedere",
+      "quotations": [
+        {
+          "old_english": "He gefearrad wæs from him",
+          "latin": "ipse avulsus est ab eis",
+          "english": null,
+          "citations": "Lk. Skt. Lind. 22, 41"
+        },
+        {
+          "old_english": "Gifearria",
+          "latin": "abscedat",
+          "english": null,
+          "citations": "Rtl. 98, 22"
+        },
+        {
+          "old_english": null,
+          "latin": "discedat",
+          "english": null,
+          "citations": "120, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "feorran",
+    "afyrran"
+  ],
+  "source_text": "ge-fearrian; p. ade; pp. ad To remove to a distance, go away; avellere, discedere, abscedere :-- He gefearrad wæs from him ipse avulsus est ab eis, Lk. Skt. Lind. 22, 41. Gifearria abscedat, Rtl. 98, 22; discedat, 120, 31. v. feorran, afyrran."
+}

@@ -1,0 +1,28 @@
+{
+  "citation_form": "norþ-land",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "land lying to the north",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hí hwemdon mid þám scypon wið þæs norðlandes",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1052 ; P. 180, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "norþ-land. Add: land lying, to the north :-- Hí hwemdon mid þám scypon wið þæs norðlandes, Chr. 1052 ; P. 180, 19."
+}

@@ -1,0 +1,31 @@
+{
+  "english_lemma": "odour",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "olfactory_property.n.01",
+      "definition": "any property detected by the olfactory system",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BRÆ-acute;Þ",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [
+            "bréþ"
+          ],
+          "latin_glosses": [
+            "odor, odoramen",
+            "odoratus est Dominus odorem suavitatis",
+            "odor"
+          ],
+          "attestations": [
+            "Gen. 8, 21",
+            "Ors. 6, 32; Bos. 129, 12",
+            "Ælfc. Gl. 70; Wrt. Voc. 42, 58"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

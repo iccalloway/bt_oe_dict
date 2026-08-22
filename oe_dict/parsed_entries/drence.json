@@ -1,0 +1,36 @@
+{
+  "citation_form": "drence",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Icel. drekka; wk. f. Cf. O. H. Ger. trencha; f.",
+      "meaning": "A drink, potion",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gesing .xii. mæssan ofer ealle þá drencan þe tó þǽre ádle belimpaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 138, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "drence, an; f. (?) A drink, potion:--Gesing .xii. mæssan ofer ealle þá drencan þe tó þǽre ádle belimpaþ, Lch. ii. 138, 21. [Icel. drekka; wk. f. Cf. O. H. Ger. trencha; f.]"
+  ]
+}

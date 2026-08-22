@@ -1,0 +1,46 @@
+{
+  "citation_form": "feórþan-dǽl",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A fourth part, a fourth",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðes feórðling oððe feórðandǽl ðinges hic quadrans",
+          "latin": null,
+          "english": null,
+          "citations": "Ælf. Gr. Z. 61, 6"
+        },
+        {
+          "old_english": "Quadrans ys fýrðling oððe feórðandǽl; ǽlc þǽra þinga þe man mæg tódǽlan on feówer on emne se feórðandǽl byð quadrans gecíged",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 306, 28-30"
+        },
+        {
+          "old_english": "Æ-acute;r þon þú ágefe þone nǽhstu feórþandǽl (novissimum quadrantem)",
+          "latin": null,
+          "english": null,
+          "citations": "Mt. R. 5, 26"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "feórþan-dǽl, es; m. A fourth part, a fourth:--Ðes feórðling oððe feórðandǽl ðinges hic quadrans, Ælf. Gr. Z. 61, 6. Quadrans ys fýrðling oððe feórðandǽl; ǽlc þǽra þinga þe man mæg tódǽlan on feówer on emne se feórðandǽl byð quadrans gecíged, Angl. viii. 306, 28-30. Æ-acute;r þon þú ágefe þone nǽhstu feórþandǽl (novissimum quadrantem), Mt. R. 5, 26."
+}

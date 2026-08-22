@@ -1,0 +1,72 @@
+{
+  "citation_form": "stór",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Encens, stor olibanus, Wrt. Voc. i. 140, 24 (13th cent.) ' Mj bene bi ydi&yogh;t beuore þe ase þet stor.' þet stor huanne hit is ope þe uere smelþ zuete, Ayenb. 211, 17.",
+      "meaning": "Frankincense, storax",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðes stór hoc thus",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9, 33 ; Zup. 59, 14 : Wrt. Voc. i. 81, 25"
+        },
+        {
+          "old_english": "Stór ðe biþ of gewringe stacten",
+          "latin": null,
+          "english": null,
+          "citations": "20, 28"
+        },
+        {
+          "old_english": "Hí him geoffrodon gold and récels and myrran . . . se stór getácnode ðæt hé is sóð God",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 116, 9"
+        },
+        {
+          "old_english": "Áne hand fulle stóres",
+          "latin": null,
+          "english": null,
+          "citations": "Lev. 2, 2"
+        },
+        {
+          "old_english": "Nymeþ stór",
+          "latin": "sumite modicum storacis",
+          "english": null,
+          "citations": "Gen. 43, 11"
+        },
+        {
+          "old_english": "Ða ðe offrodon ðone stór",
+          "latin": "qui offerebant incensum",
+          "english": null,
+          "citations": "Num. 16, 35"
+        },
+        {
+          "old_english": "Brimne stór and hwítne rýcels",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. iii. 14, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "stéran"
+  ],
+  "source_text": "stór, es ; m. Frankincense, storax :--Ðes stór hoc thus, Ælfc. Gr. 9, 33 ; Zup. 59, 14 : Wrt. Voc. i. 81, 25. Stór ðe biþ of gewringe stacten, 20, 28. Hí him geoffrodon gold and récels and myrran . . . se stór getácnode ðæt hé is sóð God, Homl. Th. i. 116, 9. Áne hand fulle stóres, Lev. 2, 2. Nymeþ stór sumite modicum storacis, Gen. 43, 11. Ða ðe offrodon ðone stór qui offerebant incensum, Num. 16, 35. Brimne stór and hwítne rýcels, Lchdm. iii. 14, 21. [Encens, stor olibanus, Wrt. Voc. i. 140, 24 (13th cent.) ' Mj bene bi ydi&yogh;t beuore þe ase þet stor.' þet stor huanne hit is ope þe uere smelþ zuete, Ayenb. 211, 17.] v. stéran."
+}

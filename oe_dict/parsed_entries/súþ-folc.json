@@ -1,0 +1,54 @@
+{
+  "citation_form": "súþ-folc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O. Sax. súðar-liudi.",
+      "meaning": "A southern people, a people living south in relation to some other",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Rómáne and eall súþfolc (ealle súþfolc, 146, 15)",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. ii. 16, 1"
+        },
+        {
+          "old_english": "Humbre streám tósceádeþ súþfolc Angelþeóde and norþfolc",
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 1, 25; S. 486, 17"
+        },
+        {
+          "old_english": "Eorldóm on Norðfolc and Súðfolc (Suffolk)",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 1075; Erl. 213, 5"
+        },
+        {
+          "old_english": "Norðmen wǽron súðfolcum swice",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 120, 17; Gen. 1996"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "súþ-folc, es; n. A southern people, a people living south in relation to some other:--Rómáne and eall súþfolc (ealle súþfolc, 146, 15), Lchdm. ii. 16, 1. Humbre streám tósceádeþ súþfolc Angelþeóde and norþfolc, Bd. 1, 25; S. 486, 17. Eorldóm on Norðfolc and Súðfolc (Suffolk), Chr. 1075; Erl. 213, 5. Norðmen wǽron súðfolcum swice, Cd. Th. 120, 17; Gen. 1996. [Cf. O. Sax. súðar-liudi.]"
+  ]
+}

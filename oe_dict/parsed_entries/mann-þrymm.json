@@ -1,0 +1,36 @@
+{
+  "citation_form": "mann-þrymm",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Array of men, retinue, troop",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Se cásere férde mid ealle his manþrymme (cf. mid ealle his werede, 15)",
+          "latin": null,
+          "english": null,
+          "citations": "Verc. Först. 97, 11"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "here-þrymm"
+  ],
+  "source_text": "mann-þrymm, es; m. Array of men, retinue, troop :-- Se cásere férde mid ealle his manþrymme (cf. mid ealle his werede, 15), Verc. Först. 97, 11. Cf. here-þrymm."
+}

@@ -1,0 +1,36 @@
+{
+  "citation_form": "wealdian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "O. Sax. gi-waldón.",
+      "meaning": "To rule, command",
+      "latin": "imperito",
+      "quotations": [
+        {
+          "old_english": "Ic wealdige vel ofer bebeóde",
+          "latin": "imperito",
+          "english": null,
+          "citations": "Wrt. Voc. i. 54, 52"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wealdan"
+  ],
+  "source_text": "wealdian; p. ode To rule, command:--Ic wealdige vel ofer bebeóde imperito, Wrt. Voc. i. 54, 52. [O. Sax. gi-waldón.] v. wealdan."
+}

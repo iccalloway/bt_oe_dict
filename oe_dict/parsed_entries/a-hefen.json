@@ -1,0 +1,36 @@
+{
+  "citation_form": "a-hefen",
+  "variant_forms": [
+    "a-hafen"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "raised up, exalted",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Lk. Lind. War. 13, 13"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 3, 16; S. 543, 3. col. 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "a-hebban"
+  ],
+  "source_text": "a-hefen = a-hafen raised up, exalted, Lk. Lind. War. 13, 13: Bd. 3, 16; S. 543, 3. col. 2; pp. of a-hebban."
+}

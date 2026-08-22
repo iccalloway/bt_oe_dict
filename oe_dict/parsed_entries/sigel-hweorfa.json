@@ -1,0 +1,83 @@
+{
+  "citation_form": "sigel-hweorfa",
+  "variant_forms": [
+    "Sigelhuerpha",
+    "Sigelhueorua",
+    "Sigelwearfa",
+    "Sigilhweorfa"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A plant-name, a word equivalent in meaning to the Greek heliotrope",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sigelhweorfa heliotropus",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 68, 5, 80 : Lchdm. iii. 302, col. 1"
+        },
+        {
+          "old_english": "Sigelhuerpha eliotropia",
+          "latin": null,
+          "english": null,
+          "citations": "id."
+        },
+        {
+          "old_english": "Sigelhueorua nimphea",
+          "latin": null,
+          "english": null,
+          "citations": "304, col. 1"
+        },
+        {
+          "old_english": "solsequia",
+          "latin": null,
+          "english": null,
+          "citations": "305, col. 1"
+        },
+        {
+          "old_english": "Ðeós wyrt ðe Grécas heliotropus, and Rómáne uertamnum nemnaþ, and eác Angle sigelhweorfa hátaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. i. 152, 21"
+        },
+        {
+          "old_english": "Sigilhweorfa eliotropus",
+          "latin": null,
+          "english": null,
+          "citations": "254, 11"
+        },
+        {
+          "old_english": "Sigelhweorfa",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 94, 25 : iii. 24, 4"
+        },
+        {
+          "old_english": "Nim nioþoweardne sigelhweorfan",
+          "latin": null,
+          "english": null,
+          "citations": "326, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "sigel-hweorfa, an ; m. A plant-name, a word equivalent in meaning to the Greek heliotrope. It is found as the representative of foreign words in the following :--Sigelhweorfa heliotropus, Wrt. Voc. i. 68, 5, 80 : Lchdm. iii. 302, col. 1. Sigelhuerpha eliotropia, id. Sigelhueorua nimphea, 304, col. 1 : solsequia, 305, col. 1. Sigelwearfa. Ðeós wyrt ðe Grécas heliotropus, and Rómáne uertamnum nemnaþ, and eác Angle sigelhweorfa hátaþ, Lchdm. i. 152, 21. Sigilhweorfa eliotropus, 254, 11. In the following no foreign equivalent is given :--Sigelhweorfa, ii. 94, 25 : iii. 24, 4. Nim nioþoweardne sigelhweorfan, 326, 17. See Lchdm. ii. 404, col. 2."
+  ]
+}

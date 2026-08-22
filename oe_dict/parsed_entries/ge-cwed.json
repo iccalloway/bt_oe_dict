@@ -1,0 +1,36 @@
+{
+  "citation_form": "ge-cwed",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A declaration, an appointment",
+      "latin": "indictio",
+      "quotations": [
+        {
+          "old_english": "Gecwed indictio",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 46, 18"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ge-cwed, es; n. A declaration, an appointment :-- Gecwed indictio, Wrt. Voc. ii. 46, 18."
+  ]
+}

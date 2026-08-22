@@ -1,0 +1,71 @@
+{
+  "citation_form": "húhugu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(3)",
+          "heading": "numeral",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Húhugu (hwæthwega, v. l.) swá (neálíce for twelf dagum, v. l.) ante dies fere duodecim",
+              "latin": "ante dies fere duodecim",
+              "english": null,
+              "citations": "Gr. D. 79, 12"
+            },
+            {
+              "old_english": "Nú for seofon wintrum húhugu swá ante septem ferme annos",
+              "latin": "ante septem ferme annos",
+              "english": null,
+              "citations": "305, 21"
+            },
+            {
+              "old_english": "Húhugu (hwæthwega, v. l.) syx hund hída",
+              "latin": null,
+              "english": null,
+              "citations": "Bd. 4, 19; Sch. 451, 23"
+            },
+            {
+              "old_english": "Þeós circe mid þýs portice mihte húhwego fíf hund manna befón",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 207, 14"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "marking degree",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gloriosas saltim húhugu",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 41, 52"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "húhugu (hwæthwega, v. l.) swá (neálíce for twelf dagum, v. l.) ante dies fere duodecim, Gr. D. 79, 12. Nú for seofon wintrum húhugu swá ante septem ferme annos, 305, 21. (3) numeral :-- Húhugu (hwæthwega, v. l.) syx hund hída, Bd. 4, 19; Sch. 451, 23. Þeós circe mid þýs portice mihte húhwego fíf hund manna befón, Bl. H. 207, 14. II. marking degree :-- Gloriosas saltim húhugu, Wrt. Voc. ii. 41, 52."
+}

@@ -1,0 +1,30 @@
+{
+  "citation_form": "fædren-cnósl",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "father's kin",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "L. Alf. pol. 9; Th. i. 68, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "fæderen-cnósl"
+  ],
+  "source_text": "fædren-cnósl father's kin, L. Alf. pol. 9; Th. i. 68, 2. v. fæderen-cnósl."
+}

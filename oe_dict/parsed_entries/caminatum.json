@@ -1,0 +1,34 @@
+{
+  "citation_form": "caminatum",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "v. N. E. D. fire-house.",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "caminatum",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 58, 7"
+        },
+        {
+          "old_english": "Fýrhúses (printed -hýses) hlýwing caumene refugium",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. xiii. 397, 461"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "caminatum, Wrt. Voc. i. 58, 7. Fýrhúses (printed -hýses) hlýwing caumene refugium, Angl. xiii. 397, 461. [v. N. E. D. fire-house.]"
+}

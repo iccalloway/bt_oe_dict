@@ -1,0 +1,89 @@
+{
+  "citation_form": "for-leósan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to lose",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(1)",
+          "heading": "with acc.",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Ne forleósaþ hí þone willan",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 36, 7; F. 184, 27"
+            },
+            {
+              "old_english": "Titus sǽde þæt hé þone dæg forlure þe hé nóht tó góde on ne gedyde",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 81; P. 8, 8"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(2)",
+          "heading": "with dat. (inst.)",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé nǽfre forlýst ðám leánum",
+              "latin": null,
+              "english": null,
+              "citations": "Bt. 36, 7; F. 184, 25"
+            },
+            {
+              "old_english": "Forliést",
+              "latin": null,
+              "english": null,
+              "citations": "37, 2; F. 188, 25"
+            },
+            {
+              "old_english": "Hé dóme forleás",
+              "latin": null,
+              "english": null,
+              "citations": "B. 1470"
+            },
+            {
+              "old_english": "Þæt hé elne forleóse",
+              "latin": null,
+              "english": null,
+              "citations": "Gn. Ex. 188"
+            },
+            {
+              "old_english": "Ic þám leánum forloren hæfde",
+              "latin": null,
+              "english": null,
+              "citations": "B. 2145"
+            },
+            {
+              "old_english": "Sý his spǽce forloren",
+              "latin": null,
+              "english": null,
+              "citations": null
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "for-leósan. Add. I. to lose. (1) with acc. :-- Ne forleósaþ hí þone willan, Bt. 36, 7; F. 184, 27. Titus sǽde þæt hé þone dæg forlure þe hé nóht tó góde on ne gedyde, Chr. 81; P. 8, 8. (2) with dat. (inst.) :-- Hé nǽfre forlýst ðám leánum, Bt. 36, 7; F. 184, 25. Forliést, 37, 2; F. 188, 25. Hé dóme forleás, B. 1470. Þæt hé elne forleóse, Gn. Ex. 188. Ic þám leánum forloren hæfde, B. 2145, Sý his spǽce forloren"
+  ]
+}

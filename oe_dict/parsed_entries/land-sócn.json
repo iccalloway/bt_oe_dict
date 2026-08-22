@@ -1,0 +1,34 @@
+{
+  "citation_form": "land-sócn",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Search for land or country",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Tófaran on landsócne",
+          "latin": null,
+          "english": "to separate in search of land [of the dispersion at the tower of Babel]",
+          "citations": "Cd. 80; Th. 100, 17; Gen. 1665: 81; Th. 102, 12; Gen. 1699"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "land-sócn, e; f. Search for land or country :-- Tófaran on landsócne to separate in search of land [of the dispersion at the tower of Babel], Cd. 80; Th. 100, 17; Gen. 1665: 81; Th. 102, 12; Gen. 1699."
+}

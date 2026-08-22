@@ -1,0 +1,104 @@
+{
+  "citation_form": "á-beódan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "(4)",
+          "heading": "to announce what may be accepted, to offer",
+          "meaning": "to announce what may be accepted, to offer",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Nú ic dé cyst ábeád",
+              "latin": null,
+              "english": "lo! I have offered you a choice",
+              "citations": "Gen. 1919"
+            },
+            {
+              "old_english": "Fela gé mé earda áboden habbaþ",
+              "latin": null,
+              "english": null,
+              "citations": "Gú. 280"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(5)",
+          "heading": "to announce what is to be obeyed, to bid, command",
+          "meaning": "to announce what is to be obeyed, to bid, command",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé up lócade, swá se ár ábeád",
+              "latin": null,
+              "english": null,
+              "citations": "El. 87 : Gen. 1362"
+            },
+            {
+              "old_english": "Ábeád cyning þegnum sínum, ðæt hié . . .",
+              "latin": null,
+              "english": null,
+              "citations": "1869"
+            },
+            {
+              "old_english": "Ðé ábeódan hét hé, ðæt ðú . . .",
+              "latin": null,
+              "english": null,
+              "citations": "Gú. 1348"
+            },
+            {
+              "old_english": "Engel stefne ábeád, hét ðæt treów ceorfan",
+              "latin": null,
+              "english": null,
+              "citations": "Dan. 510"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "(6)",
+          "heading": "to summon, call out",
+          "meaning": "to summon, call out",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé fyrde hét út ábeódan",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1091 ; Erl. 227, 33"
+            },
+            {
+              "old_english": "Ábeódende",
+              "latin": "eliciens (igniferas fulminum coruscationes, Ald. 62)",
+              "english": null,
+              "citations": "Wrt. Voc. ii. 85, 46"
+            },
+            {
+              "old_english": "Bið geban micel and áboden þider eal Adames cnósl",
+              "latin": null,
+              "english": "omnes homines cogentur adesse",
+              "citations": "Dóm. L. 128"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "his comrades, B. 2418. Héht hé Elenan hǽl ábeódan he sent salutation to Elene, El. 1004. (4) to announce what may be accepted, to offer :-- Nú ic dé cyst ábeád lo! I have offered you a choice, Gen. 1919. Fela gé mé earda áboden habbaþ, Gú. 280. (5) to announce what is to be obeyed, to bid, command :-- Hé up lócade, swá se ár ábeád, El. 87 : Gen. 1362. Ábeád cyning þegnum sínum, ðæt hié . . . , 1869. Ðé ábeódan hét hé, ðæt ðú . . . , Gú. 1348. Engel stefne ábeád, hét ðæt treów ceorfan, Dan. 510. (6) to summon, call out :-- Hé fyrde hét út ábeódan, Chr. 1091 ; Erl. 227, 33. Ábeódende eliciens (igniferas fulminum coruscationes, Ald. 62), Wrt. Voc. ii. 85, 46. Bið geban micel and áboden þider eal Adames cnósl omnes homines cogentur adesse, Dóm. L. 128. [He his ærnde abed (bed, 2nd MS.), Lay. 4423. O. H. Ger. ar-biotan exhibere, offerre: Ger. er-bieten.]"
+  ]
+}

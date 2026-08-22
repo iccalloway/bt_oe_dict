@@ -1,0 +1,45 @@
+{
+  "english_lemma": "describe",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "report.v.01",
+      "definition": "to give an account or representation of in words",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-wrítan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "transcribere, describere, conscribere, contexere",
+            "cuncta per ordinem transcribere curavi",
+            "quibus scriptura sancta contexta est"
+          ],
+          "attestations": [
+            "Bd. 5, 23 ; S. 648, 27",
+            "5, 23; S. 648, 11",
+            "Ors.1,1; Bos. 17, 42",
+            "Lev. pref.",
+            "Bd. 5, 23; S. 648, 43",
+            "Cd. 228; Th. 307, 8; Sat. 676: Ps. Th. 138, 14",
+            "Exon. 79 b; Th. 299, 2 ; Crä. 96",
+            "Bd. 5, 23 ; S. 648, 30: 5, 23 ; S. 649, 11"
+          ],
+          "quotations": [
+            {
+              "old_english": "Nú hæbbe we awriten ðære súþ",
+              "english": "now have we described the south",
+              "citations": "Ors.1,1; Bos. 17, 42"
+            },
+            {
+              "old_english": "Leviticus ys genemned Ministerialis on Lýden, dæt ys þénungbóc, for ðam ðara sacerda þénunga sind ðár awritene",
+              "english": "Leviticus is called in Latin Ministerialis, that is servicebook, because the services of the priests are described therein",
+              "citations": "Lev. pref."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

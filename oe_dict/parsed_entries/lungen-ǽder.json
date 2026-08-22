@@ -1,0 +1,36 @@
+{
+  "citation_form": "lungen-ǽder",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A lung-vein",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Lǽt him of lungenǽdre blód.",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. ii. 106, 24"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "lungen-ǽder, e; f. A lung-vein :-- Lǽt him of lungenǽdre blód. Lch. ii. 106, 24."
+  ]
+}

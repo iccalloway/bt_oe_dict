@@ -1,0 +1,40 @@
+{
+  "citation_form": "á-cennicge",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "? cf. for suffix sealticge",
+      "meaning": "A (female) parent",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ácennic and hehstald",
+          "latin": "genetricis et virginis",
+          "english": null,
+          "citations": "Rtl. 69, 9"
+        },
+        {
+          "old_english": null,
+          "latin": "genetricem",
+          "english": null,
+          "citations": "51, 31"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "á-cennicge (? cf. for suffix sealticge), an; f. A (female) parent :-- Ácennic and hehstald genetricis et virginis, Rtl. 69, 9. ERROR genetricem, 51, 31."
+}

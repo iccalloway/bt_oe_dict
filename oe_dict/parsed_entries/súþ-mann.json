@@ -1,0 +1,36 @@
+{
+  "citation_form": "súþ-mann",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Icel. súðr-maðr.",
+      "meaning": "A man living in the south",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Súðmonna sinc (those who carry of the treasure are said sécan súð, 118, 16; Gen. 1966, and are called norðmen, 120, 16; Gen. 1995)",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 121, 28; Gen. 2017: 126, 4; Gen. 2096"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "súþ-mann, es; m. A man living in the south:--Súðmonna sinc (those who carry of the treasure are said sécan súð, 118, 16; Gen. 1966, and are called norðmen, 120, 16; Gen. 1995), Cd. Th. 121, 28; Gen. 2017: 126, 4; Gen. 2096. [Icel. súðr-maðr.]"
+  ]
+}

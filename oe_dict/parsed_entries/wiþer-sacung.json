@@ -1,0 +1,68 @@
+{
+  "citation_form": "wiþer-sacung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "blasphemy",
+      "latin": "blasphemia",
+      "quotations": [
+        {
+          "old_english": "Wiþersacung blasphemia",
+          "latin": null,
+          "english": null,
+          "citations": "Scint. 102, 16"
+        },
+        {
+          "old_english": "'Wylt ðú hys wyðersacunge gehýran?' Ðá cwæþ Pílatus: 'Gif seó sprǽc wyþersacung ys ðe hé spycþ, nymaþ hyne and lǽdaþ hyne tó eówre gesomnunge,'",
+          "latin": null,
+          "english": null,
+          "citations": "Nicod. 10; Thw. 5, 31"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "apostasy",
+      "latin": "apostasiae",
+      "quotations": [
+        {
+          "old_english": "Wiðersacunge apostasiae",
+          "latin": null,
+          "english": null,
+          "citations": "Hpt. Gl. 477, 69: 515, 69"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "wiþer-sacung, e; f. I. blasphemy :-- Wiþersacung blasphemia, Scint. 102, 16. 'Wylt ðú hys wyðersacunge gehýran?' Ðá cwæþ Pílatus: 'Gif seó sprǽc wyþersacung ys ðe hé spycþ, nymaþ hyne and lǽdaþ hyne tó eówre gesomnunge,' Nicod. 10; Thw. 5, 31. II. apostasy :-- Wiðersacunge apostasiae, Hpt. Gl. 477, 69: 515, 69."
+  ]
+}

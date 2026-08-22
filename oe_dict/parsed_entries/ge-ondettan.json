@@ -1,0 +1,48 @@
+{
+  "citation_form": "ge-ondettan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To confess",
+      "latin": "confitēri",
+      "quotations": [
+        {
+          "old_english": "Ðe geondettaþ",
+          "latin": null,
+          "english": "that confess",
+          "citations": "Blickl. Homl. 57, 27"
+        },
+        {
+          "old_english": "Gif he hit geondette",
+          "latin": null,
+          "english": "if he confess it",
+          "citations": "L. In. 71; Th. i. 148, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-andettan"
+  ],
+  "source_text": "ge-ondettan; p. te; pp. ed To confess; conf&i-short;t&e-long;ri :-- Ðe geondettaþ that confess, Blickl. Homl. 57, 27. Gif he hit geondette if he confess it, L. In. 71; Th. i. 148, 3. v. ge-andettan."
+}

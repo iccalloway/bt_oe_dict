@@ -1,0 +1,63 @@
+{
+  "citation_form": "ge-þíhan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-þáh",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-þág",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-þǽh",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. ge-þeón.",
+      "meaning": "To thrive, prosper, grow",
+      "latin": "vigere, proficere, crescere",
+      "quotations": [
+        {
+          "old_english": "Æ-acute;lc ðæra ðe Gode geþíhþ",
+          "latin": null,
+          "english": "every one that thrives to God",
+          "citations": "Homl. Th. ii. 454, 29"
+        },
+        {
+          "old_english": "Eádig biþ se ðe in his éðle geþíhþ",
+          "latin": null,
+          "english": "happy is he who thrives in his country",
+          "citations": "Exon. 89 a; Th. 335, 21; Gn. Ex. 37"
+        },
+        {
+          "old_english": "Alexandreas manna cynnes mǽst geþáh",
+          "latin": null,
+          "english": "Alexandreas prospered most of the race of men",
+          "citations": "Exon. 85 a; Th. 319, 23; Wid. 16: 40 b; Th. 134, 16; Gú. 508: Cd. 149; Th. 186, 24; Exod. 143"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-þeón",
+    "þíhan"
+  ],
+  "source_text": [
+    "ge-þíhan; p. -þáh, -þág, -þǽh To thrive, prosper, grow; vigere, proficere, crescere :-- Æ-acute;lc ðæra ðe Gode geþíhþ every one that thrives to God, Homl. Th. ii. 454, 29. Eádig biþ se ðe in his éðle geþíhþ happy is he who thrives in his country, Exon. 89 a; Th. 335, 21; Gn. Ex. 37. Alexandreas manna cynnes mǽst geþáh Alexandreas prospered most of the race of men, Exon. 85 a; Th. 319, 23; Wid. 16: 40 b; Th. 134, 16; Gú. 508: Cd. 149; Th. 186, 24; Exod. 143. [Cf. ge-þeón.] DER. þíhan."
+  ]
+}

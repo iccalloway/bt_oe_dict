@@ -1,0 +1,206 @@
+{
+  "citation_form": "mǽrþ",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "greatness, honour, glory, fame",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gesprang mérþu his in all lond Galileæ",
+          "latin": "processit rumor ejus in omnem regionem Galilaeae",
+          "english": null,
+          "citations": "Mk. Skt. Lind. 1, 28"
+        },
+        {
+          "old_english": "Lof wíde sprang, miht and mǽrþo, ofer middangeard, þeodnes þegna.",
+          "latin": null,
+          "english": null,
+          "citations": "Apstls. Kmbl. 13; Ap. 7"
+        },
+        {
+          "old_english": "Ðǽr wæs Beówulfes mǽrþo mǽned",
+          "latin": null,
+          "english": "there was celebrated Beowulf's glory",
+          "citations": "Beo. Th. 1718; B. 857: 1322; B. 659"
+        },
+        {
+          "old_english": "Mǽrþo fremman",
+          "latin": null,
+          "english": "to achieve glory",
+          "citations": "4274; B. 2134"
+        },
+        {
+          "old_english": "Ðæt hié him to mǽrþe burh geworhte",
+          "latin": null,
+          "english": "that they should build a city in their own honour",
+          "citations": "Cd. 80; Th. 100, 12; Gen. 1663"
+        },
+        {
+          "old_english": "Ðú ongunne ætýwan ðíne mǽrþe (magnitudinem).",
+          "latin": null,
+          "english": null,
+          "citations": "Deut. 3, 24: Ps. Lamb. 150, 2"
+        },
+        {
+          "old_english": "Sillaþ mǽrþe (magnificentiam) úrum Gode,",
+          "latin": null,
+          "english": null,
+          "citations": "Deut. 32, 3"
+        },
+        {
+          "old_english": "Dryhtne ðe hyre weorþmynde geaf mǽrþe",
+          "latin": null,
+          "english": "to the Lord that gave her honour and glory",
+          "citations": "Judth. 12; Thw. 26, 25; Jud. 344"
+        },
+        {
+          "old_english": "Geceósan swá helle hiénþu swá heofones mǽrþu,",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 16b; Th. 37, 11; Cri. 591"
+        },
+        {
+          "old_english": "Me þincþ ðæt hit hæbbe geboht sume swíðe leáslíce mǽrþe,",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 24, 3; Fox 82, 24"
+        },
+        {
+          "old_english": "Ic ongite ðæt . . ða mǽstan mǽrþa ne sint on ðysse woruldgylpe",
+          "latin": "video . . nec celebritatem gloria posse contingere",
+          "english": null,
+          "citations": "33, 1; Fox 120, 4"
+        },
+        {
+          "old_english": "Mǽrþa gesǽligost",
+          "latin": null,
+          "english": "most blessed of glories",
+          "citations": "Salm. Kmbl. 136; Sal. 67"
+        },
+        {
+          "old_english": "Mǽrþa ðíne hig tellaþ",
+          "latin": "magnitudinem tuam narrabunt",
+          "english": null,
+          "citations": "Ps. Lamb. 144, 6"
+        },
+        {
+          "old_english": "Eálá mín drihten . . mǽrþum gefrǽge,",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. Met. Fox 20, 4; Met. 20, 2"
+        },
+        {
+          "old_english": "Hine God trymede mǽrþum and mihtum",
+          "latin": null,
+          "english": "him God confirmed with glory and with might",
+          "citations": "Elen. Kmbl. 29; El. 15"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": "[Goth. méritha fame, report: O. Sax. máriða: O. H. Ger. márida fama, opinio, rumor, praeconium, claritudo.]",
+      "meaning": "a great, honourable, glorious action, a wonderful thing, mighty work",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé hét ða hýde tó Róme bringan and hié ðǽr tó mǽrþe áþenian for ðon heó wæs hundtwelftiges fóta lang",
+          "latin": "corium (serpentis) Romam devectum (quod fuisse centum viginti pedum spatio ferunt) cunctis miraculo fuit",
+          "english": null,
+          "citations": "Ors. 4, 6; Swt. 174, 16"
+        },
+        {
+          "old_english": "Sceoldon hiera senatus ða menn beforan him drífan gebundene ðe ðǽr gefongene wǽron, ðæt heora mǽrþa sceoldon ðý þrymlícran beón,",
+          "latin": null,
+          "english": null,
+          "citations": "2, 4; Swt. 70, 30"
+        },
+        {
+          "old_english": "Ðǽr syndon ða micclan mǽrþa ðæt syndon ða geweorc ðe Alexander hét gewyrcean",
+          "latin": "ibi sunt illa magna insignia que Alexander operari jusserat",
+          "english": null,
+          "citations": "Nar. 33, 20"
+        },
+        {
+          "old_english": "Mǽrþa georne",
+          "latin": null,
+          "english": "eager to do great things",
+          "citations": "Cd. 80; Th. 101, 5; Gen. 1677"
+        },
+        {
+          "old_english": "Hæbbe ic mǽrþa fela ongunnen,",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 821; B. 408: 5284; B. 2645: Exon. 82 b; Th. 310, 34; Seef. 84"
+        },
+        {
+          "old_english": "Ðú hit worhtes eall . . ðeáh ðé nǽnegu nédþearf wǽre ealra ðara mǽrþa",
+          "latin": null,
+          "english": "thou didst make it all . . though thou didst not need all those mighty works",
+          "citations": "Bt. Met. Fox 20, 51; Met. 20, 26"
+        },
+        {
+          "old_english": "Mǽrþa fruma God,",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 975; Erl. 126, 15; Edg. 41"
+        },
+        {
+          "old_english": "Standaþ and geseóþ Drihtnes mǽrþa (magnalia).",
+          "latin": null,
+          "english": null,
+          "citations": "Ex. 14, 13: Hy. Surt. 96, 36"
+        },
+        {
+          "old_english": "Márþa,",
+          "latin": null,
+          "english": null,
+          "citations": "Ps. Spl. 105, 21"
+        },
+        {
+          "old_english": "Ic wylle fǽhþe sécan, mǽrþum (gloriously, nobly) fremman,",
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 5021; B. 2514"
+        },
+        {
+          "old_english": "Hǽfdon neowne gefeán mǽrþum (wondrously, miraculously) geméted,",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 1738; El. 871"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ellen-mǽrþu"
+  ],
+  "source_text": "mǽrþu, mǽrþo; indecl.: mǽrþ, e; f. I. greatness, honour, glory, fame :-- Gesprang mérþu his in all lond Galileæ processit rumor ejus in omnem regionem Galilaeae, Mk. Skt. Lind. 1, 28. Lof wíde sprang, miht and mǽrþo, ofer middangeard, þeodnes þegna. Apstls. Kmbl. 13; Ap. 7. Ðǽr wæs Beówulfes mǽrþo mǽned there was celebrated Beowulf's glory. Beo. Th. 1718; B. 857: 1322; B. 659. Mǽrþo fremman to achieve glory, 4274; B. 2134. Ðæt hié him to mǽrþe burh geworhte that they should build a city in their own honour, Cd. 80; Th. 100, 12; Gen. 1663. Ðú ongunne ætýwan ðíne mǽrþe (magnitudinem). Deut. 3, 24: Ps. Lamb. 150, 2. Sillaþ mǽrþe (magnificentiam) úrum Gode, Deut. 32, 3. Dryhtne ðe hyre weorþmynde geaf mǽrþe to the Lord that gave her honour and glory, Judth. 12; Thw. 26, 25; Jud. 344. Geceósan swá helle hiénþu swá heofones mǽrþu, Exon. 16b; Th. 37, 11; Cri. 591. Me þincþ ðæt hit hæbbe geboht sume swíðe leáslíce mǽrþe, Bt. 24, 3; Fox 82, 24. Ic ongite ðæt . . ða mǽstan mǽrþa ne sint on ðysse woruldgylpe video . . nec celebritatem gloria posse contingere, 33, 1; Fox 120, 4. Mǽrþa gesǽligost most blessed of glories, Salm. Kmbl. 136; Sal. 67. Mǽrþa ðíne hig tellaþ magnitudinem tuam narrabunt, Ps. Lamb. 144, 6. Eálá mín drihten . . mǽrþum gefrǽge, Bt. Met. Fox 20, 4; Met. 20, 2. Hine God trymede mǽrþum and mihtum him God confirmed with glory and with might, Elen. Kmbl. 29; El. 15. II. a great, honourable, glorious action, a wonderful thing, mighty work :-- Hé hét ða hýde tó Róme bringan and hié ðǽr tó mǽrþe áþenian for ðon heó wæs hundtwelftiges fóta lang corium (serpentis) Romam devectum (quod fuisse centum viginti pedum spatio ferunt) cunctis miraculo fuit, Ors. 4, 6; Swt. 174, 16. Sceoldon hiera senatus ða menn beforan him drífan gebundene ðe ðǽr gefongene wǽron, ðæt heora mǽrþa sceoldon ðý þrymlícran beón, 2, 4; Swt. 70, 30. Ðǽr syndon ða micclan mǽrþa ðæt syndon ða geweorc ðe Alexander hét gewyrcean ibi sunt illa magna insignia que Alexander operari jusserat, Nar. 33, 20. Mǽrþa georne eager to do great things, Cd. 80; Th. 101, 5; Gen. 1677. Hæbbe ic mǽrþa fela ongunnen, Beo. Th. 821; B. 408: 5284; B. 2645: Exon. 82 b; Th. 310, 34; Seef. 84. Ðú hit worhtes eall . . ðeáh ðé nǽnegu nédþearf wǽre ealra ðara mǽrþa thou didst make it all . . though thou didst not need all those mighty works. Bt. Met. Fox 20, 51; Met. 20, 26. Mǽrþa fruma God, Chr. 975; Erl. 126, 15; Edg. 41. Standaþ and geseóþ Drihtnes mǽrþa (magnalia). Ex. 14, 13: Hy. Surt. 96, 36. Márþa, Ps. Spl. 105, 21. Ic wylle fǽhþe sécan, mǽrþum (gloriously, nobly) fremman, Beo. Th. 5021; B. 2514. Hǽfdon neowne gefeán mǽrþum (wondrously, miraculously) geméted, Elen. Kmbl. 1738; El. 871. [Goth. méritha fame, report: O. Sax. máriða: O. H. Ger. márida fama, opinio, rumor, praeconium, claritudo.] v. ellen-mǽrþu."
+}

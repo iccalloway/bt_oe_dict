@@ -1,0 +1,52 @@
+{
+  "citation_form": "forþ-gefaran",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-gefór",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "-gefóron",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "-gefaren",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To go forth, go by, pass",
+      "latin": "transíre",
+      "quotations": [
+        {
+          "old_english": "Nymne seó clǽnsunge tíd forþgefare",
+          "latin": "nisi purgátiónis tempus transíerit",
+          "english": null,
+          "citations": "Bd. 1, 27; S. 493, 39"
+        },
+        {
+          "old_english": "Wulfríc forþgefaren wæs",
+          "latin": null,
+          "english": "Wulfric was departed [dead]",
+          "citations": "Chr. 1061; Th. 329, 37: 560; Erl. 17, 16: Nar. 40, 9"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "forþ-gefaran; p. -gefór, pl. -gefóron; pp. -gefaren To go forth, go by, pass; trans&i-long;re :-- Nymne seó clǽnsunge tíd forþgefare n&i-short;si purg&a-long;ti&o-long;nis tempus transi&e-short;rit, Bd. 1, 27; S. 493, 39. Wulfríc forþgefaren wæs Wulfric was departed [dead], Chr. 1061; Th. 329, 37: 560; Erl. 17, 16: Nar. 40, 9."
+}

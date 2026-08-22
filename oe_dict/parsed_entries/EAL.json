@@ -1,0 +1,166 @@
+{
+  "citation_form": "EAL",
+  "variant_forms": [
+    "eall"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": "I.",
+      "supplemental": "gen. m. n. ealles; f. ealre, eallre; dat. m. n. eallum; f. ealre, eallre; acc. m. ealne, eallne. f ealle, n. eal; inst. ealle; pl. nom. acc. ealle, ealla; gen. ealra, eallra; dat. eallum; sometimes used indecl",
+      "meaning": "ALL",
+      "latin": "tōtus, omnis, cunctus, unĭversus",
+      "quotations": [
+        {
+          "old_english": "Eal ða earfeðu all the pains",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 25 b; Th. 74, 5; Cri. 1202: 118 a; Th. 452, 25; Hy. 4, 7: Andr. Kmbl. 1889; An. 947"
+        },
+        {
+          "old_english": "Eal here the whole host",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. 114; Th. 150, 12; Gen. 2490: Salm. Kmbl. 645; Sal. 322"
+        },
+        {
+          "old_english": "Eal ic I all",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 115 a; Th. 443, 13; Kl. 29"
+        },
+        {
+          "old_english": "Ealles ðæs gafoles of all the tribute",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 16 a; Th. 35, 16; Cri. 559"
+        },
+        {
+          "old_english": "Ealre worlde of all the world",
+          "latin": null,
+          "english": null,
+          "citations": "Hy. 7, 57: 11, 20"
+        },
+        {
+          "old_english": "Ealles ðæs of all that",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 119 a; Th. 456, 19; Hy. 4, 69"
+        },
+        {
+          "old_english": "Ealne ðisne ymbhwyrft all this orb",
+          "latin": null,
+          "english": null,
+          "citations": "110 b; Th. 423, 1; Rä. 41, 14"
+        },
+        {
+          "old_english": "Ealne ðone egesan all the terror",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. 202; Th. 250, 3; Dan. 541"
+        },
+        {
+          "old_english": "Geond ealne middangeard",
+          "latin": "tōto orbe",
+          "english": null,
+          "citations": "Bd. 2, 4; S. 505, 26"
+        },
+        {
+          "old_english": "Ealne weg always",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. 38, 4; Fox 204, 10, 11"
+        },
+        {
+          "old_english": "Ealle ðá gesceaft all the creation",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. Met. Fox 20, 37; Met. 20, 19"
+        },
+        {
+          "old_english": "Ealle ǽ",
+          "latin": "unĭversam legem",
+          "english": null,
+          "citations": "Deut. 4, 8"
+        },
+        {
+          "old_english": "Ðíne ealle gebann",
+          "latin": "omnia mandāta tua",
+          "english": null,
+          "citations": "Ps. Th. 118, 86"
+        },
+        {
+          "old_english": "Ealle gesceafte all creatures",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 2997; An. 1501"
+        },
+        {
+          "old_english": "Ealle ða þing",
+          "latin": "omnia",
+          "english": null,
+          "citations": "Gen. 1, 31: Deut. 4, 3"
+        },
+        {
+          "old_english": "Ealle þing",
+          "latin": "cuncta",
+          "english": null,
+          "citations": "Bd. 1, 26; S. 487, 34: Mk. Bos. 9, 23"
+        },
+        {
+          "old_english": "Ealle ða gelǽredestan men",
+          "latin": "plūres vĭri doctissĭmi",
+          "english": null,
+          "citations": "Bd. 2, 2; S. 502, 38"
+        },
+        {
+          "old_english": "Ealle his bigengan",
+          "latin": "omnes cultōres ejus",
+          "english": null,
+          "citations": "Deut. 4, 3"
+        },
+        {
+          "old_english": "Ealla gesceafta all creatures",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. Met. Fox 13, 14; Met. 13, 7: 20, 105; Met. 20, 53: Bt. 39, 13; Fox 234, 24"
+        },
+        {
+          "old_english": "Ealle mægne with all power",
+          "latin": null,
+          "english": null,
+          "citations": "Bt. Met. Fox 26, 128; Met. 26, 64"
+        },
+        {
+          "old_english": "Ealle gemete",
+          "latin": "omni mŏdo",
+          "english": null,
+          "citations": "Bd. 1, 27; S. 496, 39"
+        },
+        {
+          "old_english": "Ealra ðara gifena for all the gifts",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 41 b; Th. 138, 18; Gū. 578"
+        },
+        {
+          "old_english": "Earmost ealra wihta poorest of all creatures",
+          "latin": null,
+          "english": null,
+          "citations": "110 a; Th. 421, 7; Rä. 40, 14"
+        },
+        {
+          "old_english": "On eallum biþ ðærn líchoman it is in",
+          "latin": null,
+          "english": null,
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "EAL, eall; gen. m. n. ealles; f. ealre, eallre; dat. m. n. eallum; f. ealre, eallre; acc. m. ealne, eallne. f ealle, n. eal; inst. ealle; pl. nom. acc. ealle, ealla; gen. ealra, eallra; dat. eallum; sometimes used indecl; adj. I. ALL; t&o-long;tus, omnis, cunctus, un&i-short;versus :-- Eal ða earfeðu all the pains, Exon. 25 b; Th. 74, 5; Cri. 1202: 118 a; Th. 452, 25; Hy. 4, 7: Andr. Kmbl. 1889; An. 947. Eal here the whole host, Cd. 114; Th. 150, 12; Gen. 2490: Salm. Kmbl. 645; Sal. 322. Eal ic I all, Exon. 115 a; Th. 443, 13; Kl. 29. Ealles ðæs gafoles of all the tribute, Exon. 16 a; Th. 35, 16; Cri. 559. Ealre worlde of all the world. Hy. 7, 57: 11, 20. Ealles ðæs of all that. Exon. 119 a; Th. 456, 19; Hy. 4, 69. Ealne ðisne ymbhwyrft all this orb, 110 b; Th. 423, 1; Rä. 41, 14. Ealne ðone egesan all the terror, Cd. 202 ; Th. 250, 3; Dan. 541. Geond ealne middangeard t&o-long;to orbe, Bd. 2, 4; S. 505, 26. Ealne weg always. Bt. 38, 4; Fox 204, 10, 11. Ealle ðá gesceaft all the creation, Bt. Met. Fox 20, 37; Met. 20, 19. Ealle ǽ; un&i-short;versam legem, Deut. 4, 8. Ðíne ealle gebann omnia mand&a-long;ta tua, Ps. Th. 118, 86. Ealle gesceafte all creatures, Andr. Kmbl. 2997; An. 1501. Ealle ða þing omnia, Gen. 1, 31: Deut. 4, 3. Ealle þing cuncta. Bd. 1, 26; S. 487, 34: Mk. Bos. 9, 23. Ealle ða gelǽredestan men pl&u-long;res v&i-long;ri doctiss&i-short;mi, Bd. 2, 2; S. 502, 38. Ealle his bigengan omnes cult&o-long;res ejus, Deut. 4, 3. Ealla gesceafta all creatures. Bt. Met. Fox 13, 14; Met. 13, 7: 20, 105; Met. 20, 53: Bt. 39, 13; Fox 234, 24. Ealle mægne with all power, Bt. Met. Fox 26, 128 ; Met. 26, 64. Ealle gemete omni m&o-short;do, Bd. 1, 27; S. 496, 39. Ealra ðara gifena for all the gifts, Exon. 41 b; Th. 138, 18; G&u-long;. 578. Earmost ealra wihta poorest of all creatures, 110 a; Th. 421, 7; Rä. 40, 14. On eallum biþ ðærn líchoman it is in"
+}

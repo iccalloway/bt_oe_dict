@@ -1,0 +1,48 @@
+{
+  "citation_form": "gold-smiþ",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A goldsmith, worker in gold",
+      "latin": "aurifex",
+      "quotations": [
+        {
+          "old_english": "Tubalcain wæs égðer ge goldsmiþ ge ísensmiþ",
+          "latin": null,
+          "english": "Tubalcain was a worker both in gold and in iron",
+          "citations": "Gen. 4, 22"
+        },
+        {
+          "old_english": "Goldsmiþ aurifex",
+          "latin": null,
+          "english": null,
+          "citations": "Coll. Monast. Th. 29, 35: Homl. Th. i. 64, 8"
+        },
+        {
+          "old_english": "Ðe Eádréd cyng gebócode Ælfsige his goldsmipe",
+          "latin": null,
+          "english": "which king Edred gave by charter to his goldsmith Ælfsig",
+          "citations": "Cod. Dipl. Kmbl. iii. 431, 24: vi. 211, 7: Bt. Met. Fox 10, 67; Met. 10, 34"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "gold-smiþ, es; m. A goldsmith, worker in gold; aurifex :-- Tubalcain wæs égðer ge goldsmiþ ge ísensmiþ Tubalcain was a worker both in gold and in iron, Gen. 4, 22. Goldsmiþ aurifex, Coll. Monast. Th. 29, 35: Homl. Th. i. 64, 8. Ðe Eádréd cyng gebócode Ælfsige his goldsmipe which king Edred gave by charter to his goldsmith Ælfsig, Cod. Dipl. Kmbl. iii. 431, 24: vi. 211, 7: Bt. Met. Fox 10, 67; Met. 10, 34."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "citation_form": "Aquilegia",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Aquileia = GREEK",
+      "meaning": "Aquileia in Gallia Transpadana, north of the Adriatic",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Maximus abád æt Aquilegia ðære byrig",
+          "latin": null,
+          "english": "Maximus encamped at the town Aquileia",
+          "citations": "Ors. 6, 36; Bos. 131, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "Aquilegia; indecl. [Aquileia = GREEK] Aquileia in Gallia Transpadana, north of the Adriatic :-- Maximus abád æt Aquilegia ðære byrig Maximus encamped at the town Aquileia, Ors. 6, 36; Bos. 131, 21."
+  ]
+}

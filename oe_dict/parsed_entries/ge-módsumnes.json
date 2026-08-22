@@ -1,0 +1,36 @@
+{
+  "citation_form": "ge-módsumnes",
+  "variant_forms": [
+    "-ness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O. H. Ger. ki-mótsam commodus.",
+      "meaning": "Agreement, concord",
+      "latin": "concordia",
+      "quotations": [
+        {
+          "old_english": "He cýððe ðæt he nolde habban náne gemódsumnesse wið ða yfelan",
+          "latin": null,
+          "english": "he proclaimed that he would have no concord with the wicked",
+          "citations": "Past. 46, 5; Swt. 353, 4; Hat. MS. 67 a, 21"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-módsumnes, -ness, e; f. Agreement, concord; concordia :-- He cýððe ðæt he nolde habban náne gemódsumnesse wið ða yfelan he proclaimed that he would have no concord with the wicked, Past. 46, 5; Swt. 353, 4; Hat. MS. 67 a, 21. [Cf. O. H. Ger. ki-mótsam commodus.]"
+}

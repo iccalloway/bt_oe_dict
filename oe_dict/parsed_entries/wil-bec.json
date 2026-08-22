@@ -1,0 +1,30 @@
+{
+  "citation_form": "wil-bec",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Icel. víl misery, wretchedness; víl-stigr a path of misery.",
+      "meaning": "a stream of misery (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wuniendo wær wílbec biscær",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 353, 42; Reim. 26"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "wil-bec a stream of misery (?) :-- Wuniendo wær w&i-long;lbec biscær, Exon. Th. 353, 42; Reim. 26. [Cf. Icel. v&i-long;l misery, wretchedness; víl-stigr a path of misery.]"
+  ]
+}

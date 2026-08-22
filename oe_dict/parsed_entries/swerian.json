@@ -1,0 +1,375 @@
+{
+  "citation_form": "swerian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "swór",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "swerede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "swóron",
+            "person": null,
+            "number": "plural",
+            "tense": "preterite"
+          },
+          {
+            "form": "sworen",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Goth. swaran: O. Sax. swerian: O. Frs. sweria, swera, swara: O. H. Ger. swerien, sweren: Icel. sverja.",
+      "meaning": "To swear, make oath",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": null,
+          "meaning": "absolute",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Se ðe sweraþ (swereþ, Ps. Th. Surt.) néhstan his",
+              "latin": "qui jurat proximo suo",
+              "english": null,
+              "citations": "Ps. Spl. 14, 6"
+            },
+            {
+              "old_english": "Ðæt land ðe ic fore swór heora fæderum",
+              "latin": "terram pro qua juravi patribus eorum",
+              "english": null,
+              "citations": "Num. 14, 23"
+            },
+            {
+              "old_english": "Ðæt land ðe ðú hira fæderum fore swóre",
+              "latin": null,
+              "english": null,
+              "citations": "11, 12"
+            },
+            {
+              "old_english": "Hí wið mé sweórun",
+              "latin": "adversum me jurabant",
+              "english": null,
+              "citations": "Ps. Surt. 101, 9"
+            },
+            {
+              "old_english": "Ic secge eów, ðæt gé eallunga ne swerion",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. Kmbl. 5, 34"
+            },
+            {
+              "old_english": "Hí mé hraþe æfter swerigean ongunnon",
+              "latin": null,
+              "english": null,
+              "citations": "Ps. Th. 101, 6"
+            },
+            {
+              "old_english": "Hé mót swerian for syxtig hída",
+              "latin": null,
+              "english": null,
+              "citations": "L. In. 19; Th. i. 114, 11"
+            }
+          ],
+          "sub_senses": [
+            {
+              "label": "I a.",
+              "heading": null,
+              "meaning": "to swear by or on",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Swá hwylc swá swereþ on temple . . . swá hwá swá swereþ on ðæs temples golde",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Mt. Kmbl. 23, 16, 18, 20, 21"
+                },
+                {
+                  "old_english": "Swá swá ðú swóre on sóðfæstnysse ðíne",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ps. Spl. 88, 48"
+                },
+                {
+                  "old_english": "Ic swerige ðurh God",
+                  "latin": "juro per Deum",
+                  "english": null,
+                  "citations": "Ælfc. Gr. 38; Zup. 227, 4"
+                },
+                {
+                  "old_english": "Ne swerie gé þurh útencymena goda naman",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Ex. 23, 13: Mt. Kmbl. 5, 34, 35"
+                },
+                {
+                  "old_english": "Ne swerigen gé nǽfre under hǽðene godas",
+                  "latin": null,
+                  "english": null,
+                  "citations": "L. Alf. 48; Th. i. 54, 23"
+                }
+              ],
+              "sub_senses": []
+            },
+            {
+              "label": "I b.",
+              "heading": null,
+              "meaning": "to swear to anything",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðæt hí hit gegaderian and eft ágifan swá hí durran tó swerian",
+                  "latin": null,
+                  "english": null,
+                  "citations": "L. N. P. L. 57; Th. ii. 300, 2"
+                }
+              ],
+              "sub_senses": []
+            }
+          ]
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "with an object",
+          "latin": null,
+          "quotations": [],
+          "sub_senses": [
+            {
+              "label": "(1)",
+              "heading": null,
+              "meaning": "a noun (pronoun)",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðá swóron hí swíðe, ðæt hit swá wǽre. Ðá cwæð hé tó him: 'Ac tó hwon sweriaþ git mán?'",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Guthl. 14; Gdwin. 64, 6"
+                },
+                {
+                  "old_english": "Ic ne swór fela áþa on unriht",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Beo. Th. 5470; B. 2738"
+                },
+                {
+                  "old_english": "Hé mé áðas swór",
+                  "latin": null,
+                  "english": null,
+                  "citations": "949; B. 472"
+                },
+                {
+                  "old_english": "Hé him ðone áð swór",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 24, 9"
+                },
+                {
+                  "old_english": "Ðone swergendan áð ðone hé swór",
+                  "latin": "jusjurandum quod juravit",
+                  "english": null,
+                  "citations": "Ps. Surt. ii. p. 199, 20"
+                },
+                {
+                  "old_english": "Wyrgdan, áð sweredan (áðsweredan?)",
+                  "latin": "devotabant",
+                  "english": null,
+                  "citations": "Wrt. Voc. ii. 26, 48"
+                },
+                {
+                  "old_english": "Se ðe mánáð swerige",
+                  "latin": null,
+                  "english": null,
+                  "citations": "L. Ath. i. 25; Th. i. 212, 18"
+                },
+                {
+                  "old_english": "Ðæs deádan mǽgas swerian unceáses áð",
+                  "latin": null,
+                  "english": null,
+                  "citations": "L. In. 35; Th. i. 124, 7"
+                }
+              ],
+              "sub_senses": [
+                {
+                  "label": "(1 a)",
+                  "heading": null,
+                  "meaning": "to swear an oath by something",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Ða ðe áðas sweriaþ on hine",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Ps. Th. 62, 9"
+                    },
+                    {
+                      "old_english": "Ic ǽne swór áð on hálgum",
+                      "latin": null,
+                      "english": null,
+                      "citations": "88, 31"
+                    },
+                    {
+                      "old_english": "Gange ǽlc man ðæs tó gewitnesse ðe hé durre on ðam háligdóme swerian",
+                      "latin": null,
+                      "english": null,
+                      "citations": "L. Eth. iii. 2; Th. i. 292, 14"
+                    },
+                    {
+                      "old_english": "Ic swór mǽne áðas mínra hláforda lífe",
+                      "latin": null,
+                      "english": null,
+                      "citations": "L. de Cf. 9; Th. ii. 264, 11"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "(2)",
+              "heading": null,
+              "meaning": "where the object is a clause that contains a statement of that which is confirmed by oath",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Ðá ætsóc hé and swerede ðæt hé nǽfre ðone man ne cúðe",
+                  "latin": "tunc coepit detestari et jurare quia non novisset hominem",
+                  "english": null,
+                  "citations": "Mt. Kmbl. 26, 74"
+                },
+                {
+                  "old_english": "Hig swóron him betweónan, ðæt hig sibbe heóldon",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Gen. 21, 31"
+                },
+                {
+                  "old_english": "Ðá swóran hié swíðe, ðæt hié sóð sægdon",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Nar. 25, 27"
+                },
+                {
+                  "old_english": "Swerige hé, ðæt hé him nán fácn on wiste",
+                  "latin": null,
+                  "english": null,
+                  "citations": "L. In. 56; Th. i. 138, 12: L. Ath. v. 12, 2; Th. i. 242, 4"
+                },
+                {
+                  "old_english": "Begite hé ðara .v. .i. ðæt him mid swerige, ðæt . . .",
+                  "latin": null,
+                  "english": null,
+                  "citations": "i. 9; Th. i. 204, 11"
+                },
+                {
+                  "old_english": "Swerian (cf. gif hí ðone áð syllan ne durren, 394. 3) hí, ðæt him nǽfre áð ne burste",
+                  "latin": null,
+                  "english": null,
+                  "citations": "L. C. S. 30; Th. i. 392, 27"
+                }
+              ],
+              "sub_senses": [
+                {
+                  "label": "(2 a)",
+                  "heading": null,
+                  "meaning": "to swear by, on . . . that . . .",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Swerian hí on ðam háligdóme, ðæt hig nellan nǽnne sacleásan man forsecgean",
+                      "latin": null,
+                      "english": null,
+                      "citations": "L. Eth. iii. 3; Th. i. 294, 4"
+                    },
+                    {
+                      "old_english": "Ic swerige þurh mé sylfne . . . ic ðé bletsige",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Gen. 22, 16"
+                    },
+                    {
+                      "old_english": "Sweriaþ þurh Drihten, ðæt gé dón wið mé mildheortnisse",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Jos. 2, 12"
+                    },
+                    {
+                      "old_english": "Ðá ásweartode eall se king and swór under God ælmihtine and under ealle hálgan ðártó, ðæt hit næs ná his rǽd",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Chart. Th. 340, 1"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            },
+            {
+              "label": "(3)",
+              "heading": null,
+              "meaning": "where noun and clause both occur",
+              "latin": null,
+              "quotations": [
+                {
+                  "old_english": "Swerige hé ðone áð, ðæt hé sý unscyldig",
+                  "latin": null,
+                  "english": null,
+                  "citations": "L. Ath. i. 73; Th. i. 210, 31"
+                },
+                {
+                  "old_english": "Ðæt Drihten swóre áð swíðe, ðæt God wolde sendan hungor",
+                  "latin": null,
+                  "english": null,
+                  "citations": "Wulfst. 209, 26"
+                }
+              ],
+              "sub_senses": [
+                {
+                  "label": "(3 a)",
+                  "heading": null,
+                  "meaning": "with adjuration",
+                  "latin": null,
+                  "quotations": [
+                    {
+                      "old_english": "Áð swereþ engla þeóden þurh his sylfes líf, ðæt ðínes cynnes rím ne cunnon yldo",
+                      "latin": null,
+                      "english": null,
+                      "citations": "Cd. Th. 205, 5; Exod. 431"
+                    }
+                  ],
+                  "sub_senses": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "á-swerian",
+    "æt-swerian",
+    "for-swerian",
+    "ge-swerian",
+    "óþ-swerian",
+    "swerigend-líc"
+  ],
+  "source_text": "swerian; p. swór (but a weak swerede occurs; cf. Icel. svarði as well as sór), pl. swóron; pp. sworen To swear, make oath. I. absolute:--Se ðe sweraþ (swereþ, Ps. Th. Surt.) néhstan his qui jurat proximo suo, Ps. Spl. 14, 6. Ðæt land ðe ic fore swór heora fæderum terram pro qua juravi patribus eorum, Num. 14, 23. Ðæt land ðe ðú hira fæderum fore swóre, 11, 12. Hí wið mé sweórun adversum me jurabant, Ps. Surt. 101, 9. Ic secge eów, ðæt gé eallunga ne swerion, Mt. Kmbl. 5, 34. Hí mé hraþe æfter swerigean ongunnon, Ps. Th. 101, 6. Hé mót swerian for syxtig hída, L. In. 19; Th. i. 114, 11. I a. to swear by or on:--Swá hwylc swá swereþ on temple . . . swá hwá swá swereþ on ðæs temples golde, Mt. Kmbl. 23, 16, 18, 20, 21. Swá swá ðú swóre on sóðfæstnysse ðíne, Ps. Spl. 88, 48. Ic swerige ðurh God juro per Deum, Ælfc. Gr. 38; Zup. 227, 4. Ne swerie gé þurh útencymena goda naman, Ex. 23, 13: Mt. Kmbl. 5, 34, 35. Ne swerigen gé nǽfre under hǽðene godas, L. Alf. 48; Th. i. 54, 23. I b. to swear to anything:--Ðæt hí hit gegaderian and eft ágifan swá hí durran tó swerian, L. N. P. L. 57; Th. ii. 300, 2. II. with an object, (1) a noun (pronoun):--Ðá swóron hí swíðe, ðæt hit swá wǽre. Ðá cwæð hé tó him: 'Ac tó hwon sweriaþ git mán?' Guthl. 14; Gdwin. 64, 6. Ic ne swór fela áþa on unriht, Beo. Th. 5470; B. 2738. Hé mé áðas swór, 949; B. 472. Hé him ðone áð swór, Gen. 24, 9. Ðone swergendan áð ðone hé swór jusjurandum quod juravit, Ps. Surt. ii. p. 199, 20. Wyrgdan, áð sweredan (áðsweredan?) devotabant, Wrt. Voc. ii. 26, 48. Se ðe mánáð swerige, L. Ath. i. 25; Th. i. 212, 18. Ðæs deádan mǽgas swerian unceáses áð, L. In. 35; Th. i. 124, 7. (1 a) to swear an oath by something:--Ða ðe áðas sweriaþ on hine, Ps. Th. 62, 9. Ic ǽne swór áð on hálgum, 88, 31. Gange ǽlc man ðæs tó gewitnesse ðe hé durre on ðam háligdóme swerian, L. Eth. iii. 2; Th. i. 292, 14. Ic swór mǽne áðas mínra hláforda lífe, L. de Cf. 9; Th. ii. 264, 11. (2) where the object is a clause that contains a statement of that which is confirmed by oath:--Ðá ætsóc hé and swerede ðæt hé nǽfre ðone man ne cúðe tunc coepit detestari et jurare quia non novisset hominem, Mt. Kmbl. 26, 74. Hig swóron him betweónan, ðæt hig sibbe heóldon, Gen. 21, 31. Ðá swóran hié swíðe, ðæt hié sóð sægdon, Nar. 25, 27. Swerige hé, ðæt hé him nán fácn on wiste, L. In. 56; Th. i. 138, 12: L. Ath. v. 12, 2; Th. i. 242, 4. Begite hé ðara .v. .i. ðæt him mid swerige, ðæt . . ., i. 9; Th. i. 204, 11. Swerian (cf. gif hí ðone áð syllan ne durren, 394. 3) hí, ðæt him nǽfre áð ne burste, L. C. S. 30; Th. i. 392, 27. (2 a) to swear by, on . . . that . . .:--Swerian hí on ðam háligdóme, ðæt hig nellan nǽnne sacleásan man forsecgean, L. Eth. iii. 3; Th. i. 294, 4. Ic swerige þurh mé sylfne . . . ic ðé bletsige, Gen. 22, 16. Sweriaþ þurh Drihten, ðæt gé dón wið mé mildheortnisse, Jos. 2, 12. Ðá ásweartode eall se king and swór under God ælmihtine and under ealle hálgan ðártó, ðæt hit næs ná his rǽd, Chart. Th. 340, 1. (3) where noun and clause both occur:--Swerige hé ðone áð, ðæt hé sý unscyldig, L. Ath. i. 73; Th. i. 210, 31. Ðæt Drihten swóre áð swíðe, ðæt God wolde sendan hungor, Wulfst. 209, 26. (3 a) with adjuration:--Áð swereþ engla þeóden þurh his sylfes líf, ðæt ðínes cynnes rím ne cunnon yldo, Cd. Th. 205, 5; Exod. 431. [Goth. swaran: O. Sax. swerian: O. Frs. sweria, swera, swara: O. H. Ger. swerien, sweren: Icel. sverja.] v. á-, æt-, for-, ge-, óþ-swerian; swerigend-líc."
+}

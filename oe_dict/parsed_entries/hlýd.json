@@ -1,0 +1,38 @@
+{
+  "citation_form": "hlýd",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "In Ps. Spl. T. 9, 7 perhaps hlydne arises from confusion between hlynne (v. hlyn) and hlýde. [O. H. Ger. hlútí sonas, sonitus, clangor.]",
+      "meaning": "Rumour, noise made in discussing an event",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Mardocheus wearð þurh þá micclan hlýde cúð þám cyninge",
+          "latin": null,
+          "english": "the matter made such a great noise that Mordecai became known to the king",
+          "citations": "Hml. A. 95, 120"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "hlyn"
+  ],
+  "source_text": [
+    "hl&y-long;d, e; f. Rumour, noise made in discussing an event :-- Mardocheus wear&d-bar; þurh þ&a-long; micclan hl&y-long;de c&u-long;&d-bar; þ&a-long;m cyninge the matter made such a great noise that Mordecai became known to the king, Hml. A. 95, 120. [In Ps. Spl. T. 9, 7 perhaps hlydne arises from confusion between hlynne (v. hlyn) and hl&y-long;de.] [O. H. Ger. hl&u-long;t&i-long; sonas, sonitus, clangor.]"
+  ]
+}

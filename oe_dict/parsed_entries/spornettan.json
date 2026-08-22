@@ -1,0 +1,34 @@
+{
+  "citation_form": "spornettan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To strike with the feet, kick",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ne spornette ðú",
+          "latin": "non calcitres",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 60, 61: 80, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "spornettan; p. te To strike with the feet, kick :-- Ne spornette ðú non calcitres, Wrt. Voc. ii. 60, 61: 80, 10."
+}

@@ -1,0 +1,54 @@
+{
+  "citation_form": "a-weardian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "ode",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "ede",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          },
+          {
+            "form": "od",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          },
+          {
+            "form": "ed",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To ward off defend, protect",
+      "latin": "defendere, protegere",
+      "quotations": [
+        {
+          "old_english": "Hí hí sylf aweardedon",
+          "latin": null,
+          "english": "they defended themselves",
+          "citations": "Ors. 5, 3; Bar. 182, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "weardian"
+  ],
+  "source_text": "a-weardian; p. ode, ede; pp. od, ed; v. trans. To ward off defend, protect; defendere, protegere :-- Hí hí sylf aweardedon they defended themselves, Ors. 5, 3; Bar. 182, 19. DER. weardian."
+}

@@ -1,0 +1,39 @@
+{
+  "english_lemma": "rod",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "rod.n.01",
+      "definition": "a long thin implement made of metal or wood",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "BESMA",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [
+            "besema"
+          ],
+          "latin_glosses": [
+            "scopæ, virga",
+            "scopis mundatam",
+            "invenit eam [domum] scopis mundatam"
+          ],
+          "attestations": [
+            "Mt. Bos. 12, 44",
+            "Wyc.",
+            "Lk. Bos. 11, 25",
+            "Wyc.",
+            "Ors. 2, 3; Bos. 42, 3"
+          ],
+          "quotations": [
+            {
+              "old_english": "He [Brutus] hý [his fíf suna] hét gebindan, and mid besman swingan",
+              "english": "he [Brutus] gave orders to bind them [his five sons], and scourge them with rods [virgis cecidit, Hay.]",
+              "citations": "Ors. 2, 3; Bos. 42, 3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

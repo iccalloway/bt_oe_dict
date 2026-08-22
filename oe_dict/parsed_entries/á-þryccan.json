@@ -1,0 +1,42 @@
+{
+  "citation_form": "á-þryccan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "-þryht",
+            "person": null,
+            "number": "singular",
+            "tense": "past participle"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "To press, oppress",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Wé biðon áðryht",
+          "latin": "premimur",
+          "english": null,
+          "citations": "Rtl. 15, 30"
+        },
+        {
+          "old_english": "þ-bar;te ué sié áðryht",
+          "latin": "opprimamur",
+          "english": null,
+          "citations": "82, 27"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "á-þryccan; pp. -þryht To press, oppress:--Wé biðon áðryht premimur, Rtl. 15, 30. þ-bar;te ué sié áðryht opprimamur, 82, 27."
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "citation_form": "rýman",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "de",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to make roomy, extend, spread, enlarge, amplify",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðú rýmdest",
+          "latin": "dilatasti",
+          "english": null,
+          "citations": "Ps. Lamb. 4, 2"
+        },
+        {
+          "old_english": "Hé éðelþrym rýmde and rǽrde",
+          "latin": null,
+          "english": null,
+          "citations": "Cd. Th. 98, 24; Gen. 1635"
+        },
+        {
+          "old_english": "Sóð metod rýmde, wíde wǽðde",
+          "latin": null,
+          "english": "spread and drove the waters widely",
+          "citations": "208, 7; Exod. 479"
+        },
+        {
+          "old_english": "Ðæt se gítsere his land mid unryhte rýme",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 44, 8; Swt. 329, 21"
+        },
+        {
+          "old_english": "Hú feor wolde gé rýman eówer land",
+          "latin": "quousque vos extenditis?",
+          "english": null,
+          "citations": "Swt. 331, 1"
+        },
+        {
+          "old_english": "Ic eft reorde under roderum rýman wille",
+          "latin": null,
+          "english": "I will multiply food again under heaven (after the deluge)",
+          "citations": "Cd. Th. 81, 13; Gen. 1344"
+        },
+        {
+          "old_english": "Hira mearce tó rýmanne",
+          "latin": "ad dilatandum terminum suum",
+          "english": null,
+          "citations": "Past. 48, 2; Swt. 367, 15"
+        },
+        {
+          "old_english": "Heora hús tó rýmende",
+          "latin": null,
+          "english": null,
+          "citations": "Chart. Th. 436, 18"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to make clear by removing obstructions, to clear a way (lit. and metaph.)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hé sáwlum rýmeþ lífwegas",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 148, 4; Gú. 739 : 436, 6; Rä. 54, 10"
+        },
+        {
+          "old_english": "Ðonne rýmeþ hé ðam deádan tó ðam áþe ðæt hine móton his mǽgas unsyngian",
+          "latin": null,
+          "english": "by such conduct he clears the way for an oath on behalf of the dead man, so that his (the dead man's) kinsmen may exculpate him",
+          "citations": "L. In. 21; Th. i. 116, 7"
+        },
+        {
+          "old_english": "Gif getrýwe gewitnes him tó ágenunge rýmþ",
+          "latin": null,
+          "english": "make the way to possession clear for him",
+          "citations": "L. Eth. ii. 9; Th. i. 290, 20"
+        },
+        {
+          "old_english": "Ðæt syndan Antecristes þrǽlas ðe his weg rýmaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 55, 9"
+        },
+        {
+          "old_english": "Ða ðe ingang rýmaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Salm. Kmbl. 442; Sal. 221"
+        },
+        {
+          "old_english": "Se engel áwylte ðæt hlid; ná ðæt hé Criste útganges rýmde",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 222, 9"
+        },
+        {
+          "old_english": "Se engel rýmde him weg þurh ðæt fýr",
+          "latin": null,
+          "english": null,
+          "citations": "ii. 344, 13"
+        },
+        {
+          "old_english": "Ic wille rýman mínne bertún and míne beornu geeácnian",
+          "latin": null,
+          "english": "(I will pull down my barns and build greater, Lk. 12, 18)",
+          "citations": "104, 1 : Wulfst. 286, 19"
+        },
+        {
+          "old_english": "Seó sealf wile ǽrest ða dolh rýman, and ðæt deáde flǽsc of etan",
+          "latin": null,
+          "english": null,
+          "citations": "Lchdm. ii. 332, 24"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": "[Laym. rumen to clear (a way), to yield, give place : R. Glouc. rume to clear (a way) : Piers P. roume to keep clear of : O. Sax. rúmian to clear : O. Frs. réma : O. H. Ger. rúmman cedere, abire, laxare : Icel. rýma to make room, clear, to quit, leave.]",
+      "meaning": "to make room by removing one's self, yield, give place",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic fare áweg oððe ic rýme (rume, MS. W.: hryme, hnime, other MSS.)",
+          "latin": "caedo",
+          "english": null,
+          "citations": "Ælfc. Gr. 28, 4; Zup. 171, 9"
+        },
+        {
+          "old_english": "Se óðer rýmþ him setl",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 248, 17"
+        },
+        {
+          "old_english": "Rúmaþ, steppaþ",
+          "latin": "cedunt",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 19, 19 : 87, 64"
+        },
+        {
+          "old_english": "Rýmde",
+          "latin": "cessit",
+          "english": null,
+          "citations": "81, 75"
+        },
+        {
+          "old_english": "Á man rýmde (retreated) fram ðære sǽ, and hí férdon ǽfre forþ æfter",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 999; Erl. 135, 35"
+        },
+        {
+          "old_english": "Hi rímdon heora feóndum",
+          "latin": null,
+          "english": "they left the field clear for their foes",
+          "citations": "1015; Erl. 152, 16"
+        },
+        {
+          "old_english": "Rým ðysum men setl",
+          "latin": "da huic locum",
+          "english": null,
+          "citations": "Lk. Skt. 14, 9"
+        },
+        {
+          "old_english": "Rýmaþ him (cease to oppose him) ðæt hé mé leng ne swence",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. i. 534, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ge-rýman"
+  ],
+  "source_text": "rýman; p. de. I. to make roomy, extend, spread, enlarge, amplify :-- Ðú rýmdest dilatasti, Ps. Lamb. 4, 2. Hé éðelþrym rýmde and rǽrde, Cd. Th. 98, 24; Gen. 1635. Sóð metod rýmde, wíde wǽðde spread and drove the waters widely, 208, 7; Exod. 479. Ðæt se gítsere his land mid unryhte rýme, Past. 44, 8; Swt. 329, 21. Hú feor wolde gé rýman eówer land quousque vos extenditis? Swt. 331, 1. Ic eft reorde under roderum rýman wille I will multiply food again under heaven (after the deluge), Cd. Th. 81, 13; Gen. 1344. Hira mearce tó rýmanne ad dilatandum terminum suum, Past. 48, 2; Swt. 367, 15. Heora hús tó rýmende, Chart. Th. 436, 18. II. to make clear by removing obstructions, to clear a way (lit. and metaph.) :-- Hé sáwlum rýmeþ lífwegas, Exon. Th. 148, 4; Gú. 739 : 436, 6; Rä. 54, 10. Ðonne rýmeþ hé ðam deádan tó ðam áþe ðæt hine móton his mǽgas unsyngian by such conduct he clears the way for an oath on behalf of the dead man, so that his (the dead man's) kinsmen may exculpate him, L. In. 21; Th. i. 116, 7. Gif getrýwe gewitnes him tó ágenunge rýmþ make the way to possession clear for him, L. Eth. ii. 9; Th. i. 290, 20. Ðæt syndan Antecristes þrǽlas ðe his weg rýmaþ, Wulfst. 55, 9. Ða ðe ingang rýmaþ, Salm. Kmbl. 442; Sal. 221. Se engel áwylte ðæt hlid; ná ðæt hé Criste útganges rýmde, Homl. Th. i. 222, 9. Se engel rýmde him weg þurh ðæt fýr, ii. 344, 13. Ic wille rýman mínne bertún and míne beornu geeácnian (I will pull down my barns and build greater, Lk. 12, 18), 104, 1 : Wulfst. 286, 19. Seó sealf wile ǽrest ða dolh rýman, and ðæt deáde flǽsc of etan, Lchdm. ii. 332, 24. III. to make room by removing one's self, yield, give place :-- Ic fare áweg oððe ic rýme (rume, MS. W.: hryme, hnime, other MSS.) caedo (cf. Wot no mon þe time wanne he sal henne rimen, O. E. Misc. 113, 170), Ælfc. Gr. 28, 4; Zup. 171, 9. Se óðer rýmþ him setl, Homl. Th. i. 248, 17. Rúmaþ, steppaþ cedunt, Wrt. Voc. ii. 19, 19 : 87, 64. Rýmde cessit, 81, 75. Á man rýmde (retreated) fram ðære sǽ, and hí férdon ǽfre forþ æfter, Chr. 999; Erl. 135, 35. Hi rímdon heora feóndum they left the field clear for their foes, 1015; Erl. 152, 16. Rým ðysum men setl da huic locum, Lk. Skt. 14, 9. Rýmaþ him (cease to oppose him) ðæt hé mé leng ne swence, Homl. Th. i. 534, 17. [Laym. rumen to clear (a way), to yield, give place : R. Glouc. rume to clear (a way) : Piers P. roume to keep clear of : O. Sax. rúmian to clear : O. Frs. réma : O. H. Ger. rúmman cedere, abire, laxare : Icel. rýma to make room, clear, to quit, leave.] v. ge-rýman."
+}

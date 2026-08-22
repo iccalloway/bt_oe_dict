@@ -1,0 +1,23 @@
+{
+  "english_lemma": "ruler",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "ruler.n.01",
+      "definition": "a person who rules or commands",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "All-walda",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [
+            "Cd. 15; Th. 19, 15; Gen. 292"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

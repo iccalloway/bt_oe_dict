@@ -1,0 +1,197 @@
+{
+  "citation_form": "þeówet",
+  "variant_forms": [
+    "-ot",
+    "-ut",
+    "þeówt"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Swa summ þu þeowwtesst tin eorþlike laferrd swa shall þin sune himm þeowwtenn, butt iff he wurrþe lesedd ut off hiss þeowwdomess bandess, Orm. 43-46.",
+      "meaning": "Service; in an unfavourable sense, servitude, bondage, slavery",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Is óðer ðeówt neádunge búton lufe, óðer is sylfwilles mid lufe, se gedafenaþ Godes ðeówum",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 524, 5"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "I.",
+          "heading": "of voluntary service",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Githro sǽde ðæt Moyses on dyslícum gesuincum wǽre mid ðæs folces eorðlícan ðeówote",
+              "latin": "quod terrenis populorum negotiis stulto labore deserviat",
+              "english": null,
+              "citations": "Past. 18; Swt. 131, 14"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": "of forced service",
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Æ-acute;lc ðeówt biþ geendod on ðisum andweardan lífe, búton ðæra ánra ðe aynuum ðeówiaþ; hí habbaþ écne ðeówt",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 326, 30"
+            },
+            {
+              "old_english": "Sí þreora án for his feore, wergild, éce þeówet, hengenwítnung",
+              "latin": null,
+              "english": null,
+              "citations": "L. Eth. vii. 16; Th. i. 332, 18"
+            },
+            {
+              "old_english": "Of þeówetes húse",
+              "latin": "de domo servitutis",
+              "english": null,
+              "citations": "Deut. 6, 12"
+            },
+            {
+              "old_english": "Þeówettes",
+              "latin": null,
+              "english": null,
+              "citations": "13, 10"
+            },
+            {
+              "old_english": "Se synfulla ðeówaþ ðam wyrstan ðeówte",
+              "latin": null,
+              "english": "the sinner is a slave to the worst slavery",
+              "citations": "Homl. Th. ii. 228, 10"
+            },
+            {
+              "old_english": "Of þeówete út álǽdan",
+              "latin": "de servitute eruere",
+              "english": null,
+              "citations": "Ex. 6, 6"
+            },
+            {
+              "old_english": "Þeówette",
+              "latin": null,
+              "english": null,
+              "citations": "Deut. 5, 6"
+            },
+            {
+              "old_english": "Of þeówte gelǽdan",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. T. Grn. 5, 19"
+            },
+            {
+              "old_english": "Of þeówte álísan",
+              "latin": null,
+              "english": null,
+              "citations": "2, 11"
+            },
+            {
+              "old_english": "On þeówote gebringan",
+              "latin": null,
+              "english": "to enslave",
+              "citations": "Ors. 3, 9; Swt. 128, 29"
+            },
+            {
+              "old_english": "Ðeówte",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. ii. 190, 90"
+            },
+            {
+              "old_english": "Tó ðeówte gelǽdan",
+              "latin": null,
+              "english": null,
+              "citations": "66, 34"
+            },
+            {
+              "old_english": "Hé wolde ðæt folc habban ongeán tó his lande tó his láðum þeówte",
+              "latin": null,
+              "english": null,
+              "citations": "Ælfc. T. Grn. 5, 26"
+            },
+            {
+              "old_english": "Bige ús tó ðæs cynges þeówette",
+              "latin": "eme nos in servitutem regiam",
+              "english": null,
+              "citations": "Gen. 47, 19"
+            },
+            {
+              "old_english": "Tó þeówte bebycggan",
+              "latin": null,
+              "english": "to sell into slavery",
+              "citations": "L. Alf. 12; Th. i. 46, 12 MS. H."
+            },
+            {
+              "old_english": "On þeówete standan",
+              "latin": null,
+              "english": "to remain in bondage",
+              "citations": "L. Ath. v. 12, 2; Th. i. 242, 5"
+            },
+            {
+              "old_english": "Ðære wylne sunu wunaþ eal his líf on ðeówte",
+              "latin": null,
+              "english": null,
+              "citations": "Homl. Th. i. 110, 29"
+            },
+            {
+              "old_english": "Drihtenes áre oððe deófles þeówet",
+              "latin": null,
+              "english": null,
+              "citations": "Hy. 7, 98"
+            },
+            {
+              "old_english": "Tódǽlan freót and þeówet",
+              "latin": null,
+              "english": "to distinguish between freedom and slavery, i.e. between the free and the bond",
+              "citations": "L. C. S. 69; Th. i. 412, 10"
+            },
+            {
+              "old_english": "On þeówot gangan",
+              "latin": null,
+              "english": null,
+              "citations": "L. In. 7; Th. i. 106, 17"
+            },
+            {
+              "old_english": "On þeówot sellan",
+              "latin": null,
+              "english": null,
+              "citations": "Ors. 3, 7; Swt. 112, 30"
+            },
+            {
+              "old_english": "Þeówet",
+              "latin": null,
+              "english": null,
+              "citations": "L. Ecg. C. 27; Th. ii. 152, 17"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "þeówet(-ot, -ut), þeówt, [t]es; m. Service; in an unfavourable sense, servitude, bondage, slavery :-- Is óðer ðeówt neádunge búton lufe, óðer is sylfwilles mid lufe, se gedafenaþ Godes ðeówum, Homl. Th. ii. 524, 5. I. of voluntary service :-- Githro sǽde ðæt Moyses on dyslícum gesuincum wǽre mid ðæs folces eorðlícan ðeówote quod terrenis populorum negotiis stulto labore deserviat, Past. 18; Swt. 131, 14. II. of forced service :-- Æ-acute;lc ðeówt biþ geendod on ðisum andweardan lífe, búton ðæra ánra ðe aynuum ðeówiaþ; hí habbaþ écne ðeówt, Homl. Th. ii. 326, 30. Sí þreora án for his feore, wergild, éce þeówet, hengenwítnung, L. Eth. vii. 16; Th. i. 332, 18. Of þeówetes húse de domo servitutis, Deut. 6, 12. Þeówettes, 13, 10. Se synfulla ðeówaþ ðam wyrstan ðeówte the sinner is a slave to the worst slavery, Homl. Th. ii. 228, 10. Of þeówete út álǽdan de servitute eruere, Ex. 6, 6. Þeówette, Deut. 5, 6. Of þeówte gelǽdan, Ælfc. T. Grn. 5, 19. Of þeówte álísan, 2, 11. On þeówote gebringan to enslave, Ors. 3, 9; Swt. 128, 29. Ðeówte, Homl. Th. ii. 190, 90. Tó ðeówte gelǽdan, 66, 34. Hé wolde ðæt folc habban ongeán tó his lande tó his láðum þeówte, Ælfc. T. Grn. 5, 26. Bige ús tó ðæs cynges þeówette eme nos in servitutem regiam, Gen. 47, 19. Tó þeówte bebycggan to sell into slavery, L. Alf. 12; Th. i. 46, 12 MS. H. On þeówete standan to remain in bondage. L. Ath. v. 12, 2; Th. i. 242, 5. Ðære wylne sunu wunaþ eal his líf on ðeówte, Homl. Th. i. 110, 29. Drihtenes áre oððe deófles þeówet, Hy. 7, 98. Tódǽlan freót and þeówet to distinguish between freedom and slavery, i.e. between the free and the bond, L. C. S. 69; Th. i. 412, 10. On þeówot gangan, L. In. 7; Th. i. 106, 17. On þeówot sellan, Ors. 3, 7; Swt. 112, 30. Þeówet, L. Ecg. C. 27; Th. ii. 152, 17. [Cf. Swa summ þu þeowwtesst tin eorþlike laferrd swa shall þin sune himm þeowwtenn, butt iff he wurrþe lesedd ut off hiss þeowwdomess bandess, Orm. 43-46.]"
+  ]
+}

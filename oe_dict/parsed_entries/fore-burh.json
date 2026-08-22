@@ -1,0 +1,30 @@
+{
+  "citation_form": "fore-burh",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Cf. O. L. Ger. fora-burgi; n.",
+      "meaning": "a principal town (?)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Foreburga praedia",
+          "latin": "lis satis cruenta inter duo populosa praedia gerebatur, Ald. 52, 16",
+          "english": null,
+          "citations": "An. Ox. 3790"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "fore-burh. Add: a principal town (?):--Foreburga praedia (lis satis cruenta inter duo populosa praedia gerebatur, Ald. 52, 16), An. Ox. 3790. [Cf. O. L. Ger. fora-burgi; n.]"
+  ]
+}

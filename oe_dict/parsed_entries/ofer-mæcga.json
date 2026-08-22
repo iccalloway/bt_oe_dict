@@ -1,0 +1,36 @@
+{
+  "citation_form": "ofer-mæcga",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Icel. ofr-menni a mighty champion.",
+      "meaning": "A man superior to others, an illustrious person",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ofermæcga spræc dýre Dryhtnes þegn",
+          "latin": null,
+          "english": "the angel sent to save Guthlac",
+          "citations": "Exon. Th. 143, 21; Gu. 664"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "ofer-mæcga, an; m. A man superior to others, an illustrious person :-- Ofermæcga spræc dýre Dryhtnes þegn (the angel sent to save Guthlac), Exon. Th. 143, 21; Gu. 664. [Cf. Icel. ofr-menni a mighty champion.]"
+  ]
+}

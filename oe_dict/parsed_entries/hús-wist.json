@@ -1,0 +1,34 @@
+{
+  "citation_form": "hús-wist",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A house, household",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic ingange on ðínum húswiste &l-bar; into ðínum húse",
+          "latin": "introibo in domum tuam",
+          "english": null,
+          "citations": "Ps. Lamb. 5, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "hús-wist, e; f. A house, household :-- Ic ingange on ðínum húswiste &l-bar; into ðínum húse introibo in domum tuam, Ps. Lamb. 5, 8."
+}

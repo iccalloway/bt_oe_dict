@@ -1,0 +1,156 @@
+{
+  "citation_form": "gerád",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "condition, order of things, mode",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic ne can hwilcere ændebyrdnesse and on hwylcre (hwylc, v.l. /. ) gerád ILLEGIBLE beón mæg, ILLEGIBLE eall middaneard sý gesewen fram ánum mæn",
+          "latin": "non conjicere scio quonam ordine fieri potest, ut mundus omnis ab homine uno videatur",
+          "english": null,
+          "citations": "Gr. D. 172, 29"
+        },
+        {
+          "old_english": "Ic wolde ILLEGIBLE mé wǽre gecýþed on hwilc gerád ( quo ordine) ILLEGIBLE mihte beón",
+          "latin": null,
+          "english": null,
+          "citations": "149, 25"
+        },
+        {
+          "old_english": "Wé wyllað ámearkian þǽra twelf mónða naman, and gecýðan eall ILLEGIBLE gerád ILLEGIBLE heora gehwylcum folgað",
+          "latin": null,
+          "english": null,
+          "citations": "Angl. viii. 305, 28"
+        },
+        {
+          "old_english": "Stande on þæt ilice gerád on écnesse swá hwæt swá Críste geseald biþ on cyricena ǽhtum.",
+          "latin": null,
+          "english": null,
+          "citations": "Lch. iii. 444, 10"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "IV.",
+      "supplemental": null,
+      "meaning": "condition settled between persons, understanding arrived at by persons, stipulation",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Eádmund lét eal Cumbraland tó Malculme on ILLEGIBLE gerád ILLEGIBLE hé wǽre his midwyrhta",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. 945 ; P. no, 34 : 1091; P. 226, 4"
+        },
+        {
+          "old_english": "Ealle þá men þe hié on ðeówdóme hæfdon hié gefreódon. on þæt gerád þæt hé him áðas swóran ILLEGIBLE . . .",
+          "latin": null,
+          "english": null,
+          "citations": "Ors. 4, 9; S. 190, 31"
+        },
+        {
+          "old_english": "þá Pyhtas heom ábǽdon wíf æt Scottum, on þá gerád (ILLEGIBLE forewyrd, v. l. ) ILLEGIBLE. . .",
+          "latin": null,
+          "english": null,
+          "citations": "Chr. P. 3, 16"
+        },
+        {
+          "old_english": "Hí wurdon sehte on þá gerád ILLEGIBLE hé nǽfre eft Englisce ne Frencisce intó þám lande ne gelógige",
+          "latin": null,
+          "english": null,
+          "citations": "1093 ; P. 228, 28"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "IV a.",
+      "supplemental": null,
+      "meaning": "a condition on which depends the performance of something, upon which a grant or the like is consequent",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic wille eówres geunnan eów on þá gerád (geráde, 196, 32) þe gé mé geunnan mines.",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 198, I"
+        },
+        {
+          "old_english": "ILLEGIBLE hé hine on þá gerád (geráde, v.l. /. ) feormige ILLEGIBLE hé hine tó folcryhte gelǽde, gif hé gylt gewyrce",
+          "latin": null,
+          "english": null,
+          "citations": "204, 7"
+        },
+        {
+          "old_english": "ILLEGIBLE þá ealle beón gearwe . . . tó farenne þider ic wille . . . on þá gerád ILLEGIBLE (geráde þe, v.l. /. ) hý nǽfre eft on eard ne cuman",
+          "latin": null,
+          "english": null,
+          "citations": "220, 8"
+        },
+        {
+          "old_english": "ILLEGIBLE se hláford hine oþþe þá mágas on ILLEGIBLE;ilce gerád út niman þe man þá menn út nimð þe æt ordále fule weorðað",
+          "latin": null,
+          "english": null,
+          "citations": "238, 31"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "V.",
+      "supplemental": null,
+      "meaning": "design, intention, (in) order (that)",
+      "latin": "ea intentione",
+      "quotations": [
+        {
+          "old_english": "On þá gerád",
+          "latin": "ea intentione",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 142, 20: Wülck. Gl. 87, l"
+        },
+        {
+          "old_english": "Marius bæd þæt him mon sealde þone seofoþan consulatum and eác þæt gewin . . . Þá Silla geácsade on hwelc gerád Marius cóm tó Róme",
+          "latin": "Marius . . . adfectavit septimtim consulatum, et belltim suscipere Mithridaticum, quo Sulla cognito",
+          "english": null,
+          "citations": "Ors. 5, ll; S. 236, 8"
+        },
+        {
+          "old_english": "ILLEGIBLE man ágife þá ciric-sceattas and þá sáwlsceattas tó þám stówum þe hit mid riht tó gebyrige. . . on þá gerád ILLEGIBLE (in order that) þá his brúcan æt þám háligan stówum þe heora cirican begán willað.",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. i. 196, 10"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-gerád"
+  ],
+  "source_text": "39. III. condition, order of things, mode :-- Ic ne can hwilcere ændebyrdnesse and on hwylcre (hwylc, v.l. /. ) gerád ILLEGIBLE beón mæg, ILLEGIBLE eall middaneard sý gesewen fram ánum mæn non conjicere scio quonam ordine fieri potest, ut mundus omnis ab homine uno videatur, Gr. D. 172, 29. Ic wolde ILLEGIBLE mé wǽre gecýþed on hwilc gerád ( quo ordine) ILLEGIBLE mihte beón \"ILLEGIBLE. , . . , 149, 25. Wé wyllað ámearkian þǽra twelf mónða naman, and gecýðan eall ILLEGIBLE gerád ILLEGIBLE heora gehwylcum folgað\", Angl. viii. 305, 28. Stande on þæt ilice gerád on écnesse swá hwæt swá Críste geseald biþ on cyricena ǽhtum. Lch. iii. 444, 10. IV. condition settled between persons, understanding arrived at by persons , stipulation :-- Eádmund lét eal Cumbraland tó Malculme on ILLEGIBLE gerád ILLEGIBLE hé wǽre his midwyrhta, Chr. 945 ; P. no, 34 : 1091; P. 226, 4. Ealle þá men þe hié on ðeówdóme hæfdon hié gefreódon. on þæt gerád þæt hé him áðas swóran ILLEGIBLE . . . , Ors. 4, 9; S. 190, 31. þá Pyhtas heom ábǽdon wíf æt Scottum, on þá gerád (ILLEGIBLE forewyrd, v. l. ) ILLEGIBLE. . . , Chr. P. 3, 16. Hí wurdon sehte on þá gerád ILLEGIBLE hé nǽfre eft Englisce ne Frencisce intó þám lande ne gelógige, 1093 ; P. 228, 28. IV a. a condition on which depends the performance of something, upon which a grant or the like is consequent :-- Ic wille eówres geunnan eów on þá gerád (geráde, 196, 32) þe gé mé geunnan mines. Ll. Th. i. 198, I. ILLEGIBLE hé hine on þá gerád (geráde, v.l. /. ) feormige ILLEGIBLE hé hine tó folcryhte gelǽde, gif hé gylt gewyrce, 204, 7. ILLEGIBLE þá ealle beón gearwe . . . tó farenne þider ic wille . . . on þá gerád ILLEGIBLE (geráde þe, v.l. /. ) hý nǽfre eft on eard ne cuman, 220, 8. ILLEGIBLE se hláford hine oþþe þá mágas on ILLEGIBLE;ilce gerád út niman þe man þá menn út nimð þe æt ordále fule weorðað, 238, 31. V. design, intention, (in) order (that) :-- On þá gerád ea intentione, Wrt. Voc. ii. 142, 20: Wülck. Gl. 87, l. Marius bæd þæt him mon sealde þone seofoþan consulatum and eác þæt gewin . . . Þá Silla geácsade on hwelc gerád Marius cóm tó Róme Marius . . . adfectavit septimtim consulatum, et belltim suscipere Mithri-daticum, quo Sulla cognito, Ors. 5, ll; S. 236, 8. ILLEGIBLE man ágife þá ciric-sceattas and þá sáwlsceattas tó þám stówum þe hit mid riht tó gebyrige. . . on þá gerád ILLEGIBLE (in order that) þá his brúcan æt þám háligan stówum þe heora cirican begán willað. Ll. Th. i. 196, 10. v. un-gerád."
+}

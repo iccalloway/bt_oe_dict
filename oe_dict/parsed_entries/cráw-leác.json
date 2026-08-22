@@ -1,0 +1,34 @@
+{
+  "citation_form": "cráw-leác",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Cráwanleác poloten",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 69, 11"
+        },
+        {
+          "old_english": "hermodoctula vel tidolora",
+          "latin": null,
+          "english": null,
+          "citations": "79, 57"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "cráw-leác. Add:--Cráwanleác poloten, Wrt. Voc. i. 69, 11: hermodoctula vel tidolora, 79, 57."
+}

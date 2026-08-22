@@ -1,0 +1,28 @@
+{
+  "citation_form": "mynster-faeder",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "the head of a monastery",
+      "latin": "quidam monasterii pater",
+      "quotations": [
+        {
+          "old_english": "Sum mynsterfæder",
+          "latin": "quidam monasterii pater",
+          "english": null,
+          "citations": "Gr. D. 293, 1"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "mynster-faeder the head of a monastery:-- Sum mynsterfæder quidam monasterii pater, Gr. D. 293, 1."
+}

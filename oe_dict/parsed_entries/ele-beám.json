@@ -1,0 +1,76 @@
+{
+  "citation_form": "ele-beám",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "ele oil, beám a tree",
+      "meaning": "An olive-tree",
+      "latin": "olea, oliva",
+      "quotations": [
+        {
+          "old_english": "Elebeám olea vel oliva",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gl. 32; Som. 61, 111; Wrt. Voc. 27, 40: 47; Som. 65, 18; Wrt. Voc. 33, 17: 80, 25: 285, 70: Ps. Lamb. 51, 10"
+        },
+        {
+          "old_english": "Heó brohte elebeámes twíg",
+          "latin": null,
+          "english": "she brought a twig of olive-tree",
+          "citations": "Cd. 72; Th. 88, 30; Gen. 1473"
+        },
+        {
+          "old_english": "Heó brohte án twíg of ánum elebeáme",
+          "latin": "illa portāvit rāmum olīvæ",
+          "english": null,
+          "citations": "Gen. 8, 11"
+        },
+        {
+          "old_english": "Ealle eówre elebeámas forwurþaþ",
+          "latin": null,
+          "english": "all your olive-trees shall perish",
+          "citations": "Deut. 28, 40: Ps. Th. 127, 4"
+        },
+        {
+          "old_english": "Syndon bearn ðíne swá swá nywlícra elebergena oððe guógaþ elebeáma",
+          "latin": "sunt fīlii tui sīcut novellæ olīvārum",
+          "english": null,
+          "citations": "Ps. Lamb. 127, 3"
+        },
+        {
+          "old_english": "Dó swá on ðínum wínearde and on ðínum elebeámon",
+          "latin": "ita facies in vīnea et in olīvēto tuo",
+          "english": null,
+          "citations": "Ex. 23, 11"
+        },
+        {
+          "old_english": "He eów sylþ elebeámas ðe gé ne plantudon",
+          "latin": "dedit tibi olīvēta quæ non plantasti",
+          "english": null,
+          "citations": "Deut. 6, 11"
+        },
+        {
+          "old_english": "Unwæstmbǽre elebeám",
+          "latin": "oleaster",
+          "english": "an unfruitful or wild olive-tree",
+          "citations": "Ælfc. Gl. 47; Som. 65, 19; Wrt. Voc. 33, 19: Ælfc. Gr. 8; Som. 7, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ele-beám, es; m. [ele oil, beám a tree] An olive-tree; &o-short;lea, &o-short;l&i-long;va:--Elebeám &o-short;lea vel &o-short;l&i-long;va, Ælfc. Gl. 32; Som. 61, 111; Wrt. Voc. 27, 40: 47; Som. 65, 18; Wrt. Voc. 33, 17: 80, 25: 285, 70: Ps. Lamb. 51, 10. Heó brohte elebeámes twíg she brought a twig of olive-tree, Cd. 72; Th. 88, 30; Gen. 1473. Heó brohte án twíg of ánum elebeáme illa port&a-long;vit r&a-long;mum &o-short;l&i-long;væ, Gen. 8, 11. Ealle eówre elebeámas forwurþaþ all your olive-trees shall perish, Deut. 28, 40: Ps. Th. 127, 4. Syndon bearn ðíne swá swá nywlícra elebergena oððe guógaþ elebeáma sunt f&i-long;lii tui s&i-long;cut novellæ &o-short;l&i-long;v&a-long;rum, Ps. Lamb. 127, 3. Dó swá on ðínum wínearde and on ðínum elebeámon &i-short;ta f&a-short;cies in v&i-long;nea et in &o-short;l&i-long;;v&e-long;to tuo, Ex. 23, 11. He eów sylþ elebeámas ðe gé ne plantudon d&e-short;d&e-short;rit tibi &o-short;l&i-long;v&e-long;ta quæ non plantasti, Deut. 6, 11. Unwæstmbǽre elebeám an unfruitful or wild olive-tree; &o-short;leaster, Ælfc. Gl. 47; Som. 65, 19; Wrt. Voc. 33, 19: Ælfc. Gr. 8; Som. 7, 15."
+}

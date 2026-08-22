@@ -1,0 +1,52 @@
+{
+  "citation_form": "un-hwílen",
+  "variant_forms": [
+    "unhwýlen"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Not temporary, eternal",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Him is symbel and dreám éce, unhwýlen",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 352, 13; Sch. 97"
+        },
+        {
+          "old_english": "Unhwílen",
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 2461; El. 1232"
+        },
+        {
+          "old_english": "Ðǽr bið symle gearu freónd unhwílen",
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 2309; An. 1156"
+        },
+        {
+          "old_english": "Ic mé sylfum wát æfter líces hryre leán unhwílen",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. Th. 167, 27; Gú. 1066"
+        },
+        {
+          "old_english": "Hé him éce geceás langsumre líf, leóht unhwílen",
+          "latin": null,
+          "english": null,
+          "citations": "Apstls. Kmbl. 40; Ap. 20"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "un-hwílen; adj. Not temporary, eternal :-- Him is symbel and dreám éce, unhwýlen, Exon. Th. 352, 13; Sch. 97. Unhwílen, Elen. Kmbl. 2461; El. 1232. Ðǽr bið symle gearu freónd unhwílen, Andr. Kmbl. 2309; An. 1156. Ic mé sylfum wát æfter líces hryre leán unhwílen, Exon. Th. 167, 27; Gú. 1066. Hé him éce geceás langsumre líf, leóht unhwílen, Apstls. Kmbl. 40; Ap. 20."
+}

@@ -1,0 +1,33 @@
+{
+  "citation_form": "of-smorian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to choke, strangle, suffocate",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hiene ofsmorode his ealdor&dash-uncertain;mon",
+          "latin": "dolo comitis sui strangulatus",
+          "english": null,
+          "citations": "Ors. 6, 36; Swt. 294, 9"
+        },
+        {
+          "old_english": "Mid ðæm brǽþe ofsmorod",
+          "latin": "suffocatus",
+          "english": null,
+          "citations": "6, 32 ; Swt. 288, 2"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "of-smorian to choke, strangle, suffocate :-- Hiene ofsmorode his ealdor&dash-uncertain;mon dolo comitis sui strangulatus, Ors. 6, 36; Swt. 294, 9. Mid ðæm brǽþe ofsmorod (suffocatus), 6, 32 ; Swt. 288, 2."
+}

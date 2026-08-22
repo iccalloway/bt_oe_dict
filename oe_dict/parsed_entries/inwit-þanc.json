@@ -1,0 +1,66 @@
+{
+  "citation_form": "inwit-þanc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Evil, malicious, deceitful thought or purpose",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Andr. Kmbl. 1339; An. 670"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "1118; An. 559"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Elen. Kmbl. 616; El. 308"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bt. Met. Fox 9, 16; Met. 9, 8"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "27, 46; Met. 27, 23"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Beo. Th. 1502; B. 749"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "inwit-þanc, es; m. Evil, malicious, deceitful thought or purpose, Andr. Kmbl. 1339; An. 670 : 1118; An. 559 : Elen. Kmbl. 616; El. 308 : Bt. Met. Fox 9,16; Met. 9, 8 : 27, 46; Met. 27, 23 : Beo. Th. 1502; B. 749."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "citation_form": "wordliend",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "One who harangues",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Bannendra, maþeliendra, wordliendra contionalorum, i. rhetorum",
+          "latin": null,
+          "english": null,
+          "citations": "An. Ox. 2321"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wordrian"
+  ],
+  "source_text": [
+    "wordliend, es; m. One who harangues :-- Bannendra, maþeliendra, wordliendra contionalorum, i. rhetorum, An. Ox. 2321. v. wordrian."
+  ]
+}

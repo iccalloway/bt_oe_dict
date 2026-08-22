@@ -1,0 +1,33 @@
+{
+  "english_lemma": "crash",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "clang.n.01",
+      "definition": "a loud resonant repeating noise",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "DYNT",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [],
+          "latin_glosses": [
+            "contusio, impressio, sonus"
+          ],
+          "attestations": [
+            "L. Ethb. 58; Th. i. 18, 1",
+            "Salm. Kmbl. 245; Sal. 122",
+            "Bt. 38, 2; Fox 198, 9"
+          ],
+          "quotations": [
+            {
+              "old_english": "Wyrcþ hlúdne dynt",
+              "english": "makes a loud crash",
+              "citations": "Bt. 38, 2; Fox 198, 9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

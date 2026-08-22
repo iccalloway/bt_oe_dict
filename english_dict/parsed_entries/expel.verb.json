@@ -1,0 +1,21 @@
+{
+  "english_lemma": "expel",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "expel.v.01",
+      "definition": "force to leave or move out",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-nýdan",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [],
+          "attestations": [],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

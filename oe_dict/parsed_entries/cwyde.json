@@ -1,0 +1,52 @@
+{
+  "citation_form": "cwyde",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "a sentence",
+      "latin": "sententia",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 2; Som. 2, 38"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a discourse, sermon",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Smeágaþ ðysne cwyde",
+          "latin": null,
+          "english": "consider this sermon",
+          "citations": "Homl. Th. i. 28, 20: ii. 2, 14: 2, 17"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "cwide"
+  ],
+  "source_text": [
+    "cwyde, I. a sentence; sententia, Ælfc. Gr. 2; Som. 2, 38. II. a discourse, sermon :-- Smeágaþ ðysne cwyde consider this sermon, Homl. Th. i. 28, 20: ii. 2, 14: 2, 17. v. cwide."
+  ]
+}

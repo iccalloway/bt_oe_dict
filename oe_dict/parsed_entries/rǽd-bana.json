@@ -1,0 +1,40 @@
+{
+  "citation_form": "rǽd-bana",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "an",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Icel. ráð-bani : see also bana-ráð the planning a person's death; ráða einum bana to plot a person's death. v. Grmm. R. A. 626.",
+      "meaning": "One who contrives a person's death, but is not the actual perpetrator",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Gif man secge ðæt hé wǽre dǽdbana oððe rǽdbana",
+          "latin": null,
+          "english": "if he be said to be the actual perpetrator of homicide, or the deviser of it",
+          "citations": "L. Eth. ix. 23; Th. i. 344, 26"
+        },
+        {
+          "old_english": null,
+          "latin": "Qui ad occidendum aliquem innoxium redbana vel dedbana fuerit",
+          "english": null,
+          "citations": "L. H. I. 85, 3; Th. i. 592, 13"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "rǽd-bana, an; m. One who contrives a person's death, but is not the actual perpetrator :-- Gif man secge ðæt hé wǽre dǽdbana oððe rǽdbana if he be said to be the actual perpetrator of homicide, or the deviser of it, L. Eth. ix. 23; Th. i. 344, 26. Cf. Qui ad occidendum aliquem innoxium redbana vel dedbana fuerit, L. H. I. 85, 3; Th. i. 592, 13. [Icel. ráð-bani : see also bana-ráð the planning a person's death; ráða einum bana to plot a person's death. v. Grmm. R. A. 626.]"
+}

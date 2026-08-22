@@ -1,0 +1,40 @@
+{
+  "citation_form": "un-stenc",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A bad smell, stench",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hý mid nosan ne magon náht geswæccan bútan unstences ormǽtnesse",
+          "latin": "foetor ingenti complet putredine nares",
+          "english": null,
+          "citations": "Dóm. L. 207"
+        },
+        {
+          "old_english": "Niht elles gestincan búton unstenca ormǽtnessa",
+          "latin": null,
+          "english": null,
+          "citations": "Wulfst. 139, 8"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "un-stenc, es; m. A bad smell, stench :-- Hý mid nosan ne magon náht geswæccan bútan unstences ormǽtnesse foetor ingenti complet putredine nares, Dóm. L. 207. Niht elles gestincan búton unstenca ormǽtnessa, Wulfst. 139, 8."
+}

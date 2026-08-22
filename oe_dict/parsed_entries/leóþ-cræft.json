@@ -1,0 +1,60 @@
+{
+  "citation_form": "leóþ-cræft",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The art of poetry, poetry, verse, a poem",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðes leóþcræft hoc poema: ðás leóþcræftas hæc poemata [all the other cases are also given]",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 9; Som. 8, 16-21"
+        },
+        {
+          "old_english": "Hé biþ swá ðeáh on leópcræfte ǽgðer ge lang ge sceort",
+          "latin": null,
+          "english": "it [i of the genitive in certain words] is however in poetry both long and short",
+          "citations": "18; Som. 21, 51"
+        },
+        {
+          "old_english": "Ða gemetu gebyriaþ tó lédenum leóþcræfte",
+          "latin": null,
+          "english": "metres pertain to Latin poetry",
+          "citations": "50; Som. 51, 66"
+        },
+        {
+          "old_english": "Sixfealdum leóþcræfte",
+          "latin": "exametro heroico",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 144, 47"
+        },
+        {
+          "old_english": "Hé ðone leóþcræft geleornode",
+          "latin": "canendi artem didicit",
+          "english": null,
+          "citations": "Bd. 4, 24; S. 596, 40"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "leóþ-cræft, es; m. The art of poetry, poetry, verse, a poem :-- Ðes leóþcræft hoc poema: ðás leóþcræftas hæc poemata [all the other cases are also given], Ælfc. Gr. 9; Som. 8, 16-21. Hé biþ swá ðeáh on leópcræfte ǽgðer ge lang ge sceort it [i of the genitive in certain words] is however in poetry both long and short, 18; Som. 21, 51. Ða gemetu gebyriaþ tó lédenum leóþcræfte metres pertain to Latin poetry, 50; Som. 51, 66. Sixfealdum leóþcræfte exametro heroico, Wrt. Voc. ii. 144, 47. Hé ðone leóþcræft geleornode canendi artem didicit, Bd. 4, 24; S. 596, 40."
+  ]
+}

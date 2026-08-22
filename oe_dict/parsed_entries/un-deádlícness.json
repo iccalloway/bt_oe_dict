@@ -1,0 +1,48 @@
+{
+  "citation_form": "un-deádlícness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Immortality",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Úre ǽhta sind éce on heofenum, ðǽr ðǽr undeádlícnys rícsaþ",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Th. ii. 484, 28"
+        },
+        {
+          "old_english": "Hyht hiora undeádlícnise (immortalitate) full is",
+          "latin": null,
+          "english": null,
+          "citations": "Rtl. 86, 22: Homl. Th. i. 544. 3"
+        },
+        {
+          "old_english": "Hæfde God ðæs mannes sáwle gegódod mid undeádlícnysse ... wé ne forluron ná ða undeádlícnyssæ",
+          "latin": null,
+          "english": null,
+          "citations": "20, 1-4: Bd. 1, 27; S. 493, 4: 3, 21; S. 551, 3"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "un-deáþlícness"
+  ],
+  "source_text": "un-deádlícness, e; f. Immortality :-- Úre ǽhta sind éce on heofenum, ðǽr ðǽr undeádlícnys rícsaþ, Homl. Th. ii. 484, 28. Hyht hiora undeádlícnise (immortalitate) full is, Rtl. 86, 22: Homl. Th. i. 544. 3. Hæfde God ðæs mannes sáwle gegódod mid undeádlícnysse ... wé ne forluron ná ða undeádlícnyssæ, 20, 1-4: Bd. 1, 27; S. 493, 4: 3, 21; S. 551, 3. v. un-deáþlícness."
+}

@@ -1,0 +1,36 @@
+{
+  "citation_form": "geswincfulnys",
+  "variant_forms": [
+    "-nyss"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Sorrow, affliction, tribulation",
+      "latin": "tribulatio",
+      "quotations": [
+        {
+          "old_english": "Of eallum geswincfulnyssum he gehǽlde hine",
+          "latin": "de omnibus tribulationibus ejus salvabit eum",
+          "english": null,
+          "citations": "Ps. Lamb. 33, 7"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "geswincfulnys, -nyss, e; f. Sorrow, affliction, tribulation; tr&i-long;b&u-short;l&a-long;tio :-- Of eallum geswincfulnyssum he gehǽlde hine de omn&i-short;bus tr&i-long;b&u-short;l&a-long;ti&o-long;n&i-short;bus ejus salv&a-long;bit eum, Ps. Lamb. 33, 7."
+}

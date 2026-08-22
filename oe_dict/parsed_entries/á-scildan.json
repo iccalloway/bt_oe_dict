@@ -1,0 +1,27 @@
+{
+  "citation_form": "á-scildan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to protect",
+      "latin": "protegamur",
+      "quotations": [
+        {
+          "old_english": "Ué sié áscildad",
+          "latin": "protegamur",
+          "english": null,
+          "citations": "Rtl. 75, 9: 80, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "á-scildan to protect:--Ué sié áscildad protegamur, Rtl. 75, 9: 80, 19."
+}

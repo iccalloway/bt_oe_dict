@@ -1,0 +1,31 @@
+{
+  "citation_form": "mésan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to feed, eat",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic mésan mæg meahtelícor ealdum þyrse",
+          "latin": null,
+          "english": "I can eat mightier meals than an old giant",
+          "citations": "Exon. 111 a; Th. 425, 26; Rä. 41, 62"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "mós"
+  ],
+  "source_text": [
+    "mésan to feed, eat :-- Ic mésan mæg meahtelícor ealdum þyrse I can eat mightier meals than an old giant, Exon. 111 a; Th. 425, 26; Rä. 41, 62. v. mós."
+  ]
+}

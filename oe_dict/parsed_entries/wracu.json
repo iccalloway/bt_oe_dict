@@ -1,0 +1,30 @@
+{
+  "citation_form": "wracu",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Bt. 20; Fox 72, 6 for wacru? v. wacor",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Sió wiþerweardnes biþ simle untǽlu and wracu (wæru, v. l.) áscirred (-scirped?) mid ðære styringe hire ágenre frecennesse.",
+          "latin": "Adversam fortunam videas sobriam, succintamque, et ipsius adversitatis exercitatione prudentem.",
+          "english": null,
+          "citations": "Bt. 20; Fox 72, 6"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "wacor"
+  ],
+  "source_text": "wracu, Bt. 20; Fox 72, 6 for wacru? v. wacor :-- Sió wiþerweardnes biþ simle untǽlu and wracu (wæru, v. l.) áscirred (-scirped?) mid ðære styringe hire ágenre frecennesse. The Latin is: Adversam fortunam videas sobriam, succintamque, et ipsius adversitatis exercitatione prudentem."
+}

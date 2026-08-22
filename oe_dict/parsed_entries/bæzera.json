@@ -1,0 +1,34 @@
+{
+  "citation_form": "bæzera",
+  "variant_forms": [
+    "bæzere"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "a baptizer",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Mt. Rush. Stv. 11, 11, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "bædzere"
+  ],
+  "source_text": [
+    "bæzera, bæzere a baptizer, Mt. Rush. Stv. 11, 11, 12. v. bædzere."
+  ]
+}

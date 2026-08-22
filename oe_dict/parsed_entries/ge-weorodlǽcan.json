@@ -1,0 +1,27 @@
+{
+  "citation_form": "ge-weorodlǽcan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "to sweeten",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On welerum his byð gewerecilǽhþ feónd",
+          "latin": "in labiis suis indulcatur inimicus",
+          "english": null,
+          "citations": "Scint. 196, 5"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-weorodlǽcan to sweeten :-- On welerum his byð gewerecilǽhþ feónd in labiis suis indulcatur inimicus, Scint. 196, 5."
+}

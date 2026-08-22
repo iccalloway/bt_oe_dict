@@ -1,0 +1,60 @@
+{
+  "citation_form": "wæstling",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "Cf. Goth. wasti clothing.",
+      "meaning": "A coverlet",
+      "latin": "lodix; stragula",
+      "quotations": [
+        {
+          "old_english": "Wæstling lodix",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 59, 34"
+        },
+        {
+          "old_english": "stragula",
+          "latin": null,
+          "english": null,
+          "citations": "25, 46"
+        },
+        {
+          "old_english": "Wæstlingc",
+          "latin": null,
+          "english": null,
+          "citations": "81, 58"
+        },
+        {
+          "old_english": "Bedreáf: genihtsumiaþ hwítel and weslinc (lena) and heáfudrægel",
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. Interl. 93, 3"
+        },
+        {
+          "old_english": "Wæstlinga stragularum",
+          "latin": null,
+          "english": null,
+          "citations": "Hpt. Gl. 430, 66"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "wæstling, es; m. A coverlet:--Wæstling lodix, Wrt. Voc. i. 59, 34: stragula, 25, 46. Wæstlingc, 81, 58. Bedreáf: genihtsumiaþ hwítel and weslinc (lena) and heáfudrægel, R. Ben. Interl. 93, 3. Wæstlinga stragularum, Hpt. Gl. 430, 66. [Cf. Goth. wasti clothing.]"
+  ]
+}

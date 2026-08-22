@@ -1,0 +1,60 @@
+{
+  "citation_form": "hordere",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": "v. Kemble's Saxons in England ii. 106",
+      "meaning": "A treasurer, steward, chamberlain",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hordere cellerarius",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. 83, 6"
+        },
+        {
+          "old_english": "Ðá hét hé his hordere ðæt glæsene fæt syllan ðam biddendan subdiácone. Se hordere cwæþ him tó andsware gif hé ðam biddendum sealde ðæt hé nán þing næfde his gebróðrum tó syllenne",
+          "latin": null,
+          "english": "then he bade his steward give the glass vessel to the requesting subdeacon. The steward said in answer, that if he gave it he should have nothing to give to his brethren",
+          "citations": "Homl. Th. ii. 178, 22: Chr. 1131; Erl. 260, 12"
+        },
+        {
+          "old_english": "Ðis forward was makid wid ordríc hordere",
+          "latin": null,
+          "english": null,
+          "citations": "Chart. Th. 438, 3, 7"
+        },
+        {
+          "old_english": "Cynges hordera oððe úra geréfena swilc",
+          "latin": null,
+          "english": null,
+          "citations": "L. Ath. 1, 3; Th. i. 200, 23, see note"
+        },
+        {
+          "old_english": "Nán man ne hwyrfe nánes yrfes bútan ðæs geréfan gewitnesse ... oððe ðæs horderes",
+          "latin": null,
+          "english": null,
+          "citations": "9; Th. i. 204, 19"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "hordere, es; m. A treasurer, steward, chamberlain [v. Kemble's Saxons in England ii. 106] :-- Hordere cellerarius, Wrt. Voc. 83, 6. Ðá hét hé his hordere ðæt glæsene fæt syllan ðam biddendan subdiácone. Se hordere cwæþ him tó andsware gif hé ðam biddendum sealde ðæt hé nán þing næfde his gebróðrum tó syllenne then he bade his steward give the glass vessel to the requesting subdeacon. The steward said in answer, that if he gave it he should have nothing to give to his brethren, Homl. Th. ii. 178, 22: Chr. 1131; Erl. 260, 12. Ðis forward was makid wid ordríc hordere, Chart. Th. 438, 3, 7. Cynges hordera oððe úra geréfena swilc, L. Ath. 1, 3; Th. i. 200, 23, see note. Nán man ne hwyrfe nánes yrfes bútan ðæs geréfan gewitnesse ... oððe ðæs horderes, 9; Th. i. 204, 19. [Ayenb. hordier treasurer.]"
+  ]
+}

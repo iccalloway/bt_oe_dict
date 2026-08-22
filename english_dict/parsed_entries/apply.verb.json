@@ -1,0 +1,26 @@
+{
+  "english_lemma": "apply",
+  "pos": "verb",
+  "senses": [
+    {
+      "synset_id": "apply.v.10",
+      "definition": "apply oneself to",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "a-þenian",
+          "pos": "verb",
+          "gender": null,
+          "variants": [],
+          "latin_glosses": [
+            "intendere",
+            "ille sollicitus in ea, quæ audiebat, animum intendit"
+          ],
+          "attestations": [
+            "Bd. 4, 3; S. 567, 45"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

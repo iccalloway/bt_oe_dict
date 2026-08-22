@@ -1,0 +1,36 @@
+{
+  "citation_form": "frum-scyld",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Original sin",
+      "latin": "principalis vel capitalis culpa",
+      "quotations": [
+        {
+          "old_english": "Frumscylda gehwæs fæder and módor",
+          "latin": null,
+          "english": "father and mother of every original sin",
+          "citations": "Salm. Kmbl. 891; Sal. 445"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "frum-scyld, e; f. Original sin; princ&i-short;p&a-long;lis vel c&a-short;p&i-short;t&a-long;lis culpa :-- Frumscylda gehwæs fæder and módor father and mother of every original sin, Salm. Kmbl. 891; Sal. 445."
+  ]
+}

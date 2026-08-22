@@ -1,0 +1,57 @@
+{
+  "citation_form": "hyse-beorþor",
+  "variant_forms": [
+    "-berþor",
+    "-borþor"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "n",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "The bearing of male offspring, the offspring itself, a young man",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Hyseberþor puerperium",
+          "latin": "puerperium",
+          "english": null,
+          "citations": "Mone B. 3894"
+        },
+        {
+          "old_english": "Hyseborþor",
+          "latin": null,
+          "english": null,
+          "citations": "4975"
+        },
+        {
+          "old_english": "Hysebeorþ[or]",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. ii. 94, 42"
+        },
+        {
+          "old_english": "Woldon on ðam hysebeorþre [cf. 2253, se geonga] heafolan gescénan",
+          "latin": null,
+          "english": "they would hurt the head of the man",
+          "citations": "Andr. Kmbl. 2285; An. 1144"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "beorþor"
+  ],
+  "source_text": "hyse-beorþor, -berþor, -borþor, es; n. The bearing of male offspring, the offspring itself, a young man :-- Hyseberþor puerperium, Mone B. 3894. Hyseborþor, 4975. Hysebeorþ[or], Wrt. Voc. ii. 94, 42. Woldon on ðam hysebeorþre [cf. 2253, se geonga] heafolan gescénan they would hurt the head of the man, Andr. Kmbl. 2285; An. 1144. v. beorþor."
+}

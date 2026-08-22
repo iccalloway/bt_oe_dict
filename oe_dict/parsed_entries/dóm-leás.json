@@ -1,0 +1,38 @@
+{
+  "citation_form": "dóm-leás",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adjective"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Inglorious, powerless, hapless",
+      "latin": "inglōrius, impotens, infortūnātus",
+      "quotations": [
+        {
+          "old_english": "Æðelingas gefricgean dómleásan dǽd",
+          "latin": null,
+          "english": "nobles shall hear of your inglorious deed",
+          "citations": "Beo. Th. 5772; B. 2890"
+        },
+        {
+          "old_english": "Sceolon nú ǽfre dreógan dómleáse gewinn",
+          "latin": null,
+          "english": "now we shall ever wage powerless war",
+          "citations": "Cd. 218; Th. 279, 3; Sat. 232"
+        },
+        {
+          "old_english": "Ealle swylt fornam, druron dómleáse",
+          "latin": null,
+          "english": "death tore them all away, hapless they fell",
+          "citations": "Andr. Kmbl. 1989; An. 997"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "dóm-leás; adj. Inglorious, powerless, hapless; ingl&o-long;rius, imp&o-short;tens, infort&u-long;n&a-long;tus :-- Æðelingas gefricgean dómleásan dǽd nobles shall hear of your inglorious deed, Beo. Th. 5772; B. 2890. Sceolon nú ǽfre dreógan dómleáse gewinn now we shall ever wage powerless war, Cd. 218; Th. 279, 3; Sat. 232. Ealle swylt fornam, druron dómleáse death tore them all away, hapless they fell, Andr. Kmbl. 1989; An. 997."
+}

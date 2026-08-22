@@ -1,0 +1,30 @@
+{
+  "citation_form": "Ístas",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": "Icel. Eistir.",
+      "meaning": "The Esthonians",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic wæs mid Ístum",
+          "latin": null,
+          "english": null,
+          "citations": "Exon. 86 a ; Th. 323, 31; Víd. 87"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "Éste"
+  ],
+  "source_text": "Ístas; pl. m. The Esthonians :-- Ic wæs mid Ístum, Exon. 86 a ; Th. 323, 31; Víd. 87. [Icel. Eistir.] v. Éste; and see Grmm. Gesch. D. S. 499, sqq."
+}

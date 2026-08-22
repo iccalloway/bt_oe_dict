@@ -1,0 +1,161 @@
+{
+  "citation_form": "fǽringa",
+  "variant_forms": [
+    "fǽrunga",
+    "férunga",
+    "fér-"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": "[O. Sax. fárungo: O. H. Ger. fárunga subito, casu.]",
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "(repente) stód þǽr ætforan þǽre dura sum man",
+          "latin": null,
+          "english": null,
+          "citations": "Gr. D. 62, 9 : Bl. H. 173, 24; 175, 2: B. 1414"
+        },
+        {
+          "old_english": "Fǽringa ymbe þá herehúðe hé hlemmeð tógædre grimme góman",
+          "latin": null,
+          "english": null,
+          "citations": "Wal. 60 : 44"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": null,
+          "meaning": "suddenly, unexpectedly",
+          "latin": "repente",
+          "quotations": [
+            {
+              "old_english": "(repente) stód þǽr ætforan þǽre dura sum man",
+              "latin": null,
+              "english": null,
+              "citations": "Gr. D. 62, 9 : Bl. H. 173, 24; 175, 2: B. 1414"
+            },
+            {
+              "old_english": "Fǽringa ymbe þá herehúðe hé hlemmeð tógædre grimme góman",
+              "latin": null,
+              "english": null,
+              "citations": "Wal. 60 : 44"
+            },
+            {
+              "old_english": "Hé fǽringa feóll tó þǽre eorðan. . . and hé forðférde",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1042; P. 162, 14: Bl. H. 223, 11"
+            },
+            {
+              "old_english": "Swealt Ósgod fǽringa swá swá hé on his reste læg",
+              "latin": null,
+              "english": null,
+              "citations": "Chr. 1054 ; P. 184, 21 : Jul. 477"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "II.",
+          "heading": null,
+          "meaning": "without premeditation",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sume ic lárum geteáh tó geflite . . . þæt hý fǽringa ealde æfþoncan edníwedan",
+              "latin": null,
+              "english": null,
+              "citations": "Jul. 484"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "III.",
+          "heading": null,
+          "meaning": "soon, at once, without delay, early",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hé cwæþ : \" Cuman nú mycele hundas forþ \"; and þá fǽringa cóman hundas forþ",
+              "latin": null,
+              "english": null,
+              "citations": "Bl. H. 181, 20"
+            },
+            {
+              "old_english": "Eft fǽringa (cf. eft sóna)",
+              "latin": null,
+              "english": null,
+              "citations": "129, 9"
+            },
+            {
+              "old_english": "Fǽrunga hig cómon tó him",
+              "latin": "diluculo veniebant ad eum",
+              "english": null,
+              "citations": "Ps L. 77, 34"
+            },
+            {
+              "old_english": "Biscope is forbod þ-bar; hé onfóe níwe cumenum preóst and tó gehǽlgenne férunga",
+              "latin": null,
+              "english": null,
+              "citations": "Mt. L. 10, 14 note"
+            },
+            {
+              "old_english": "Hit fǽringa fýre byrneð",
+              "latin": null,
+              "english": null,
+              "citations": "Ph. 531"
+            }
+          ],
+          "sub_senses": []
+        },
+        {
+          "label": "IV.",
+          "heading": null,
+          "meaning": "by chance",
+          "latin": "forte",
+          "quotations": [
+            {
+              "old_english": "Man slǽtte ǽnne fearr fǽringa (fér-, v. l.) þǽrúte",
+              "latin": null,
+              "english": null,
+              "citations": "Hml. S. 12, 72"
+            },
+            {
+              "old_english": "Gif heora hwylc fǽringa (forte) tóðint",
+              "latin": null,
+              "english": null,
+              "citations": "R. Ben. 46, 16"
+            },
+            {
+              "old_english": "Fǽrunga",
+              "latin": null,
+              "english": null,
+              "citations": "R. Ben. I. UNCERTAIN 16, 13 : 54, 6 : 87, 3"
+            },
+            {
+              "old_english": "Begýmað þæt [ne] fǽrunga beón gehefegude heortan eówre",
+              "latin": "adtendite ne forte grauentur corda uestra",
+              "english": null,
+              "citations": "Scint. 105, 1"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [
+    "fǽran"
+  ],
+  "source_text": [
+    "(repente) stód þǽr ætforan þǽre dura sum man, Gr. D. 62, 9 : Bl. H. 173, 24; 175, 2: B. 1414. Fǽringa ymbe þá herehúðe hé hlemmeð tógædre grimme góman, Wal. 60 : 44. Hé fǽringa feóll tó þǽre eorðan. . . and hé forðférde, Chr. 1042; P. 162, 14: Bl. H. 223, 11. Swealt Ósgod fǽringa swá swá hé on his reste læg, Chr. 1054 ; P. 184, 21 : Jul. 477. II. without premeditation :-- Sume ic lárum geteáh tó geflite . . . þæt hý fǽringa ealde æfþoncan edníwedan, Jul. 484. III. soon, at once, without delay, early :-- Hé cwæþ : \" Cuman nú mycele hundas forþ \"; and þá fǽringa cóman hundas forþ, Bl. H. 181, 20. Eft fǽringa (cf. eft sóna), 129, 9. Fǽrunga hig cómon tó him diluculo veniebant ad eum, Ps L. 77, 34. Biscope is forbod þ-bar; hé onfóe níwe cumenum preóst and tó gehǽlgenne férunga, Mt. L. 10, 14 note. Hit fǽringa fýre byrneð, Ph. 531. IV. by chance; forte :-- Man slǽtte ǽnne fearr fǽringa (fér-, v. l.) þǽrúte, Hml. S. 12, 72. Gif heora hwylc fǽringa (forte) tóðint, R. Ben. 46, 16. Fǽrunga, R. Ben. I. UNCERTAIN 16, 13 : 54, 6 : 87, 3. Begýmað þæt [ne] fǽrunga beón gehefegude heortan eówre adtendite ne forte grauentur corda uestra, Scint. 105, 1. [O. Sax. fárungo: O. H. Ger. fárunga subito, casu.] v. fǽran ; II."
+  ]
+}

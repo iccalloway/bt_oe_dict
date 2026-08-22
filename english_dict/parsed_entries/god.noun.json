@@ -1,0 +1,31 @@
+{
+  "english_lemma": "god",
+  "pos": "noun",
+  "senses": [
+    {
+      "synset_id": "deity.n.01",
+      "definition": "any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force",
+      "oe_equivalents": [
+        {
+          "oe_lemma": "Tíw",
+          "pos": "noun",
+          "gender": "m",
+          "variants": [
+            "Tíg",
+            "Tí"
+          ],
+          "latin_glosses": [],
+          "attestations": [
+            "Txts. 77, 1293",
+            "Wrt. Voc. ii. 55, 56",
+            "58, 40",
+            "Shrn. 114, 9",
+            "R. Ben. 38, 6; R. Ben. Interl. 49, 14: Wulfst. 180, 25",
+            "Lchdm. iii. 146, 23"
+          ],
+          "quotations": []
+        }
+      ]
+    }
+  ]
+}

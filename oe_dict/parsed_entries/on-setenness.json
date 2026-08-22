@@ -1,0 +1,68 @@
+{
+  "citation_form": "on-setenness",
+  "variant_forms": [
+    "on-seteness",
+    "on-setness"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "laying on, imposition",
+      "latin": "manus impositioni",
+      "quotations": [
+        {
+          "old_english": "Fram þâm rihtgeleáffullum bisceope onsetnesse (manus impositioni) and sume gebede beón getrymede",
+          "latin": null,
+          "english": null,
+          "citations": "Ll. Th. ii. 232, 19"
+        },
+        {
+          "old_english": "Þurh biscopa handa onsetenesse",
+          "latin": null,
+          "english": null,
+          "citations": "Shrn. 85, 19 (in Dict.)"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "institution",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": null,
+          "meaning": null,
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": null,
+              "latin": null,
+              "english": null,
+              "citations": "Lk. L. R. II. 50 (from on-setness; I. in Dict.)"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "on-setenness. Substitute: on-seteness, -setness. I. laying on, imposition :-- Fram þâm rihtgeleáffullum bisceope onsetnesse (manus impositioni) and sume gebede beón getrymede, Ll. Th. ii. 232, 19. Þurh biscopa handa onsetenesse. Shrn. 85, 19 (in Dict.) II. institution. Take here Lk. L. R. II. 50 (from on-setness; I. in Dict.)."
+  ]
+}

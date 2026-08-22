@@ -1,0 +1,74 @@
+{
+  "citation_form": "stæf-cræft",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "the art of letters, grammar",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ic Ælfríc wolde ðás lytlan bóc áwendan tó Engliscum gereorde of ðam stæfcræfte, ðe is geháten grammatica ... forðan ðe stæfcræft is seó cǽg ðe ðæra bóca andgit unlícþ",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. pref.; Zup. 2, 13-17"
+        },
+        {
+          "old_english": "Gramma is on Englisc stæf, and grammatica is stæfcræft",
+          "latin": null,
+          "english": null,
+          "citations": "50; Zup. 289, 10"
+        },
+        {
+          "old_english": "Litteratus se ðe can stæfcræft",
+          "latin": null,
+          "english": null,
+          "citations": "43; Zup. 257. 7"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "m",
+        "endings": [
+          {
+            "ending": "es",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": "[Crist sceolde don us mid his mihte þat stefcreft ne mihte, O. E. Homl. i. 235, 35.]",
+      "meaning": "skill in letters (v. stæf, IV), learning, study",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðeodorus mid hálgum gewritum and stæfcræftum hí (the English) georne hét beón lǽrende",
+          "latin": "literarum sanctarum coeperint (Angli) studiis imbui",
+          "english": null,
+          "citations": "Bd. 4, 2; S. 565, 12"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": [
+    "stæf-cræft, es; m. I. the art of letters, grammar :-- Ic Ælfríc wolde ðás lytlan bóc áwendan tó Engliscum gereorde of ðam stæfcræfte, ðe is geháten grammatica ... forðan ðe stæfcræft is seó cǽg ðe ðæra bóca andgit unlícþ, Ælfc. Gr. pref.; Zup. 2, 13-17. Gramma is on Englisc stæf, and grammatica is stæfcræft, 50; Zup. 289, 10. Litteratus se ðe can stæfcræft, 43; Zup. 257. 7. II. skill in letters (v. stæf, IV), learning, study :-- Ðeodorus mid hálgum gewritum and stæfcræftum hí (the English) georne hét beón lǽrende literarum sanctarum coeperint (Angli) studiis imbui, Bd. 4, 2; S. 565, 12. [Crist sceolde don us mid his mihte þat stefcreft ne mihte, O. E. Homl. i. 235, 35.] v. next two words."
+  ]
+}

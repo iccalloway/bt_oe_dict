@@ -1,0 +1,51 @@
+{
+  "citation_form": "filgst",
+  "variant_forms": [
+    "filhst"
+  ],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "filgst",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "filhst",
+            "person": "2",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "he filgþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          },
+          {
+            "form": "filhþ",
+            "person": "3",
+            "number": "singular",
+            "tense": "present"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "stickest to, sticks to; 2nd and 3rd pers. pres. of felgan",
+      "latin": null,
+      "quotations": [],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "felgan"
+  ],
+  "source_text": [
+    "filgst, filhst, he filgþ, filhþ stickest to, sticks to; 2nd and 3rd pers. pres. of felgan."
+  ]
+}

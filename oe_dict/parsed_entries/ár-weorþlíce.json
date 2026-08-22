@@ -1,0 +1,48 @@
+{
+  "citation_form": "ár-weorþlíce",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "adverb"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "Honourably, reverently, solemnly, kindly",
+      "latin": "honorifice, reverenter, solemniter, clementer",
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. 58, Lye"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Bd. 3, 19; S. 547, 8"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "1, 27, resp. 8; S. 495, 17"
+        },
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "Gen. 45, 4"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "ár-weorþe",
+    "-wurþlíce",
+    "-wyrþlíce"
+  ],
+  "source_text": "ár-weorþlíce; adv. Honourably, reverently, solemnly, kindly; honorifice, reverenter, solemniter, clementer, R. Ben. 58, Lye: Bd. 3, 19; S. 547, 8: 1, 27, resp. 8; S. 495, 17: Gen. 45, 4. v. ár-weorþe, -wurþlíce, -wyrþlíce."
+}

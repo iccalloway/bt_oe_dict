@@ -1,0 +1,33 @@
+{
+  "citation_form": "hrǽcung",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "phlegm",
+      "latin": "pituita, i. minuta saliva",
+      "quotations": [
+        {
+          "old_english": "Hóras vel hræcunga (-da, MS.) vel spátlung pituita, i. minuta saliva",
+          "latin": null,
+          "english": null,
+          "citations": "Wrt. Voc. i. 46, 15"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "blód-hrǽcung",
+    "wyrms-hrǽcung"
+  ],
+  "source_text": [
+    "hrǽcung. Add: phlegm:--Hóras vel hræcunga (-da, MS.) vel spátlung pituita, i. minuta saliva, Wrt. Voc. i. 46, 15. v. blód-, wyrms-hrǽcung."
+  ]
+}

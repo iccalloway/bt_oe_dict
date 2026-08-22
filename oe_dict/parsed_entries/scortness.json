@@ -1,0 +1,74 @@
+{
+  "citation_form": "scortness",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "shortness (of time)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðonne byrneþ on scortnisse gramen hys",
+          "latin": "cum exarsent in brevi ira ejus",
+          "english": null,
+          "citations": "Ps. Spl. 2, 13"
+        },
+        {
+          "old_english": "Ða scortnesse ðysse worulde and ða écnesse ðæs tóweardan lífes.",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. As. 168, 117"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "a short account, an epitome (cf. a brief, and v. scortlíce, II)",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Manega synd gyt coniunctiones, ðe wé ne mágon nú secgan on ðissere sceortnysse,",
+          "latin": null,
+          "english": null,
+          "citations": "Ælfc. Gr. 44 ; Zup. 266, 8"
+        },
+        {
+          "old_english": "Wé habbaþ gesǽd on ðisre sceortnysse, hú God geswutelode ða sóðfæstan godspelleras,",
+          "latin": null,
+          "english": null,
+          "citations": "Homl. Skt. i. 15, 219"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "scortlíce"
+  ],
+  "source_text": "scortness, e ; f. I. shortness (of time) :--Ðonne byrneþ on scortnisse gramen hys cum exarsent in brevi ira ejus, Ps. Spl. 2, 13. Ða scortnesse ðysse worulde and ða écnesse ðæs tóweardan lífes. Homl. As. 168, 117. II. a short account, an epitome (cf. a brief, and v. scortlíce, II) :--Manega synd gyt coniunctiones, ðe wé ne mágon nú secgan on ðissere sceortnysse, Ælfc. Gr. 44 ; Zup. 266, 8. Wé habbaþ gesǽd on ðisre sceortnysse, hú God geswutelode ða sóðfæstan godspelleras, Homl. Skt. i. 15, 219."
+}

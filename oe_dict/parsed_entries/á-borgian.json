@@ -1,0 +1,43 @@
+{
+  "citation_form": "á-borgian",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "brýdguma ðæs, and hit áborgian hís frýnd",
+          "latin": null,
+          "english": null,
+          "citations": "2; Th. i. 254, 9. 11."
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": null,
+          "heading": "to borrow",
+          "meaning": "to borrow",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Hit gelamp ðæt hire fæter áborgude .xxx. punda æt Godan",
+              "latin": null,
+              "english": null,
+              "citations": "Ch. Th. 201, 15."
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    }
+  ],
+  "cross_references": [],
+  "source_text": "brýdguma ðæs, and hit áborgian hís frýnd, 2; Th. i. 254, 9. 11. to borrow :-- Hit gelamp ðæt hire fæder áborgude .xxx. punda æt Godan, Ch. Th. 201, 15."
+}

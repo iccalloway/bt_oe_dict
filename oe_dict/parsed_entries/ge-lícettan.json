@@ -1,0 +1,113 @@
+{
+  "citation_form": "ge-lícettan",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "verb",
+        "forms": [
+          {
+            "form": "te",
+            "person": null,
+            "number": "singular",
+            "tense": "preterite"
+          }
+        ]
+      },
+      "sense_label": "I.",
+      "supplemental": null,
+      "meaning": "to imitate",
+      "latin": "simulare",
+      "quotations": [
+        {
+          "old_english": "Gelíccetton",
+          "latin": "simulare (gestit simulare sui perpendicula patris, Ald. 158, 4)",
+          "english": null,
+          "citations": "Wrt. Voc. ii. 91, 66"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "II.",
+      "supplemental": null,
+      "meaning": "to make a thing appear like something better than it is, to give an appearance of goodness to a thing",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðonne hwá on ðá leásunga beféhð, ðonne ne mæg hé of, ac sceal ðonne niéde ðencean hú hé hié gelícettan mæge",
+          "latin": null,
+          "english": null,
+          "citations": "Past. 239, 13"
+        },
+        {
+          "old_english": "Oft ungemetlico forgifnes bið gelícet, ðæt mon wéneð ðæt hit sié mildheortnes, ond oft ungemetlicu irsung bið gelícet, ðæt menn wénað þæt hit sié ryhtwíslic anda",
+          "latin": "saepe inordinata remissio pietas creditur, et effrenata ira spiritalis zeli virtus aestimatur",
+          "english": null,
+          "citations": "Past. 149, 9-11"
+        }
+      ],
+      "sub_senses": [
+        {
+          "label": "II a.",
+          "heading": "to make to appear like to (tó)",
+          "meaning": "to make to appear like to (tó)",
+          "latin": null,
+          "quotations": [
+            {
+              "old_english": "Sceal se reccere witan ðæt ðá unðeáwas beóð oft gelíccette (-lícette, v. l.) tó gódum ðeáwum and tó mægenum ðurh leásunga",
+              "latin": "scire rector debeat, quod plerumque vitia virtutes se esse mentiuntur",
+              "english": null,
+              "citations": "Past. 149, 3"
+            }
+          ],
+          "sub_senses": []
+        }
+      ]
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "III.",
+      "supplemental": null,
+      "meaning": "to act as if doing what is not really done, to pretend",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðá ðe gód diégellíce dóð, and swá ðeáh on sumum weorcum gelíccetað ðæt hí openlíce yfel dón",
+          "latin": "qui bona occulte faciunt, et tamen quibusdam factis publice de se mala opinari permittunt",
+          "english": null,
+          "citations": "Past. 449, 21"
+        }
+      ],
+      "sub_senses": []
+    },
+    {
+      "pos": {
+        "category": "verb",
+        "forms": []
+      },
+      "sense_label": "IV.",
+      "supplemental": null,
+      "meaning": "to obtain by false pretences",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "Ðæt hié gegítsien and gelícetten æt ðǽm ungetýdum folce wísdómes naman",
+          "latin": "ut apud imperitum vulgus scientiae sibi nomen extorqueant",
+          "english": null,
+          "citations": "Past. 365, 22"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "ge-lícettan; p. te. I. to imitate:--Gelíccetton simulare (gestit simulare sui perpendicula patris, Ald. 158, 4), Wrt. Voc. ii. 91, 66. II. to make a thing appear like something better than it is, to give an appearance of goodness to a thing:--Ðonne hwá on ðá leásunga beféhð, ðonne ne mæg hé of, ac sceal ðonne niéde ðencean hú hé hié gelícettan mæge, Past. 239, 13. Oft ungemetlico forgifnes bið gelícet, ðæt mon wéneð ðæt hit sié mildheortnes, ond oft ungemetlicu irsung bið gelícet, ðæt menn wénað þæt hit sié ryhtwíslic anda saepe inordinata remissio pietas creditur, et effrenata ira spiritalis zeli virtus aestimatur, Past. 149, 9-11. II a. to make to appear like to (tó):--Sceal se reccere witan ðæt ðá unðeáwas beóð oft gelíccette (-lícette, v. l.) tó gódum ðeáwum and tó mægenum ðurh leásunga scire rector debeat, quod plerumque vitia virtutes se esse mentiuntur, Past. 149, 3. III. to act as if doing what is not really done, to pretend:--Ðá ðe gód diégellíce dóð, and swá ðeáh on sumum weorcum gelíccetað ðæt hí openlíce yfel dón qui bona occulte faciunt, et tamen quibusdam factis publice de se mala opinari permittunt, Past. 449, 21. IV. to obtain by false pretences:--Ðæt hié gegítsien and gelícetten æt ðǽm ungetýdum folce wísdómes naman ut apud imperitum vulgus scientiae sibi nomen extorqueant, Past. 365, 22."
+}

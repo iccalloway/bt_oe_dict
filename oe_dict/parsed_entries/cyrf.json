@@ -1,0 +1,49 @@
+{
+  "citation_form": "cyrf",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": "f",
+        "endings": [
+          {
+            "ending": "e",
+            "case": "genitive",
+            "number": "singular"
+          }
+        ]
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "A cutting off, an instrument to cut with",
+      "latin": "abscissio, ferrum abscissionis",
+      "quotations": [
+        {
+          "old_english": "Cyrf abscissio",
+          "latin": "abscissio",
+          "english": null,
+          "citations": "R. Ben. 28"
+        },
+        {
+          "old_english": "Be ðisum cyrfe of this cutting",
+          "latin": null,
+          "english": "of this cutting",
+          "citations": "Homl. Th. ii. 406. 33"
+        },
+        {
+          "old_english": "Cyrf ferrum abscissionis",
+          "latin": "ferrum abscissionis",
+          "english": null,
+          "citations": "C. R. Ben. 40"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "æ-cyrf",
+    "of-cyrf"
+  ],
+  "source_text": "cyrf, e; f? A cutting off, an instrument to cut with; abscissio, ferrum abscissionis :-- Cyrf abscissio, R. Ben. 28. Be ðisum cyrfe of this cutting, Homl. Th. ii. 406. 33. Cyrf ferrum abscissionis, C. R. Ben. 40. DER. æ-cyrf, of-."
+}

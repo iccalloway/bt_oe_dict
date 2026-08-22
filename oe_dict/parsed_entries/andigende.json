@@ -1,0 +1,30 @@
+{
+  "citation_form": "andigende",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "participle"
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": "envying",
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": null,
+          "latin": null,
+          "english": null,
+          "citations": "R. Ben. interl. 55"
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [
+    "andian"
+  ],
+  "source_text": [
+    "andigende; part. envying, R. Ben. interl. 55. v. andian."
+  ]
+}

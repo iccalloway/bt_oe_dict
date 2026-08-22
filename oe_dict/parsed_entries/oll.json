@@ -1,0 +1,34 @@
+{
+  "citation_form": "oll",
+  "variant_forms": [],
+  "definitions": [
+    {
+      "pos": {
+        "category": "noun",
+        "gender": null,
+        "endings": []
+      },
+      "sense_label": null,
+      "supplemental": null,
+      "meaning": null,
+      "latin": null,
+      "quotations": [
+        {
+          "old_english": "On ol, ídel",
+          "latin": "nequiquam, frustra",
+          "english": null,
+          "citations": "An. Ox. 2000"
+        },
+        {
+          "old_english": "On oll and on edwít",
+          "latin": null,
+          "english": "(note to the preceding)",
+          "citations": null
+        }
+      ],
+      "sub_senses": []
+    }
+  ],
+  "cross_references": [],
+  "source_text": "oll. Dele the bracket, and add :-- On ol, ídel nequiquam, frustra, An. Ox. 2000. On oll and on edwít ( note to the preceding)."
+}
